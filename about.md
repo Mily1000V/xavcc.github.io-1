@@ -8,7 +8,7 @@ layout: page
 #### Tables des contenus
 
 1. [Ce que je fais](#ce-que-je-fais)
-2. [Petits brains antiparrallèles](#petits-brains-antiparrallèles)
+2. [Petits brins antiparrallèles](#petits-brins-antiparrallèles)
 3. [Skills](#skills)
 4. [Projects](#projects)
 5. [Recherches](#recherches)
@@ -34,16 +34,16 @@ Open source Bioware - Open Knowledge
 ```
 Si la fabrication de prototype, ou l'amélioration d'un robot sous-marin par exemple, sont des faits courants de mes activités, mon quotidien consiste égelement à rechercher, interroger et tester des modèles d'organisation et gourvernance adaptés.
 
-Ces savoir-faire et savoir-être acquis, les capacités de déconstruction, d'adaption, de frugalité, et les expériences vécues collectivement font que réguilèrement j'accompagne dess organisations publiques ou privées dans la résolution de leur problèmes, ainsi qu'à la formation et l'enseignement en école, université ou secteur associatif.
+Ces savoir-faire et savoir-être acquis, les capacités de déconstruction, d'adaption, de frugalité, et les expériences vécues collectivement font que régulièrement j'accompagne des organisations publiques ou privées dans la résolution de leurs problèmes, ainsi qu'à la formation et l'enseignement en école, université ou secteur associatif.
 	
 
-## Petits brains antiparrallèles
+## Petits brins antiparrallèles
 
 Human Collider, Maker, transitioner, commoner et un peu plus encore
 
 > Natural born explorer autour des pratiques collaboratives et des humanités.
 
-Hacktivist, multi entrepreneur et start-up, consultant ou stratégiste parfois mais toujours passeur et formateur. Autodidacte des internets et du numérique.
+Hacktivist, multi entrepreneur, consultant ou stratégiste parfois mais toujours passeur et formateur. Autodidacte des internets et du numérique.
 
 Ex-abnégateur en tenue d’urgence sur 10 ans de vie, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste.
 
@@ -115,6 +115,7 @@ Les projets sur lesquels je m'investis sont valables sur un organigramme de flux
 	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
 	<li><a href="">Collectif inter-école d'élèves ingénieur.e.s des technologies</a>Cours indépendant</li>
 </ul>
+
 
 ## Recherches
 
