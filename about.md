@@ -9,16 +9,37 @@ layout: page
 
 1. [Qui je suis](#qui-je-suis)
 2. [Ce queje fais](#ce-que-je-fais)
-3. [Skills](#skills)
-4. [Projects](#projects)
-5. [Recherches](#recherches)
-6. [Livres Numériques](#livres-numériques)
+3. [Petits brains antiparrallèles](#petits-brains-antiparallèles)
+4. [Skills](#skills)
+5. [Projects](#projects)
+6. [Nos avons avons travaillé ensemble](#nous-avons-travaillé-ensemble)
+7. [Recherches](#recherches)
+8. [Livres Numériques](#livres-numériques)
 
 ## Qui je suis
 
 ## Ce que je fais
 
-## Petits brains antiparrallèles
+<p align="center">
+```
+	Open source Software - Open source Hardware 
+               - BIOMIMICRY -
+  en source Bioware - Open Knowledge
+```
+</p>
+	
+
+## Petits brains antiparallèles
+
+Human Collider, Maker, transitioner, commoner et un peu plus encore
+
+> Natural born explorer autour des pratiques collaboratives et des humanités.
+
+Hacktivist, multi entrepreneur et start-up, consultant ou stratégiste parfois mais toujours passeur et formateur. Autodidacte des internets et du numérique, Open source jardinier & Open knowledge cultivateur.
+
+Ex-abnégateur en tenue d’urgence sur 10 ans de vie, encore au service des populations et de l’environnement mais dans une autre approche toujours humaniste.
+
+Breton amoureux des océans et contemplateur de la biosphère.
 
 {% highlight python %}
 
@@ -36,7 +57,6 @@ def biomimicry(min, max):
 	    print i, " Bios"
 	else
 	    print i, " Biomimicry"
-		
 biomimicry(100, 1000000)
 {% endhighlight %}
 	
@@ -67,6 +87,8 @@ biomimicry(100, 1000000)
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+
+## Nous avons travaillé ensemble
 
 ## Recherches
 
