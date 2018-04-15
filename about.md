@@ -3,6 +3,7 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
+ <figcaption class="caption">"Celle ou celui qui fait est légitime" M. Lallement</figcaption>
 
 #### Tables des contenus
 
