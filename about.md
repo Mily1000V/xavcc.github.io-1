@@ -150,8 +150,8 @@ Breton de la terre et de la mer, c'est un des avantages d'être nomade, j'ai tou
 
 J'ai commencé à travailler adolescent mais c'est à l'âge de 20 ans que je décide de consacrer 10 ans de ma vie au secteur des Urgences chez les Marins pompiers de Marseille. Travaillant, apprenant sans cesse, et formant, à la sécurité des personnes, des biens et de l'environnement, la lutte contre les catastrophes naturelles et industrielles, la gestion de leurs conséquences, la prévention et le prévision des risques en milieu urbain et naturel péri-urbain, j'ai acquis autant de savoir-faire que de savoir-être.
 
-En 2010, j'entre pour la première fois dans un hackerspace alors que je reprends, en parallèle de mon travail, des études en biologie. Jusqu'à ce jour je continue à être un membre contributeur et porteur de projets dans plusieurs communautés de pratiques libre et ouvertes liées aux hackerspaces. 
+En 2010, j'entre pour la première fois dans un hackerspace alors que je reprends, en parrallèle de mon travail, des études en biologie, Master puis Master 2 de recherche en microbiologie. La recherche univeristaire etant cloisonnée, c'est en début de 7ème année que je quitte cet univers pour celui des Tiers-Lieux. Depuis ce jour je continue à être un membre contributeur et porteur de projets dans plusieurs communautés de pratiques libre et ouvertes liées aux hackerspaces et FabLabs. Ceci me permetant de pratiquer et d'appprendre en transdiscipliniratité, voir en antidisciplinarité. 
 
 C'est en évidence la continuité de mon engagement dans la préservation des conditions de vie, de sauvegarde de la biosphère, et des libertés individuelles et collectives, qui s'exprime dans ces activités professionelles et personnelles. 
 
-Ce qui m'a mnené à co-fonder un hacklab de biomimétisme avec de ami.e.s à Rennes en 2014, [le Biome](https://lebiome.github.io).
+Ce qui m'a mené à co-fonder un hacklab de biomimétisme avec de ami.e.s à Rennes en 2014, [le Biome](https://lebiome.github.io). Continuant ainsi une forme possible de Tiers-scientifique et d'entrepreneuriat, au sens profond de résoudre de défis. 
