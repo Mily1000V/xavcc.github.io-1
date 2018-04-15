@@ -10,13 +10,36 @@ layout: page
 1. [Qui je suis](#qui-je-suis)
 2. [Ce queje fais](#ce-que-je-fais)
 3. [Skills](#skills)
-4. [Porjects](#projects)
+4. [Projects](#projects)
 5. [Recherches](#recherches)
 6. [Livres Numériques](#livres-numériques)
 
 ## Qui je suis
 
 ## Ce que je fais
+
+## Petits brains antiparrallèles
+
+{% highlight python %}
+
+def biomimicry(min, max):
+    for i in range(min, max+1):
+	square = i**.5
+	prime = true
+	for j in range(2, int(square)int+1):
+	    if %j == 0:
+		   prime = false
+		   break
+	if prime :
+	    print i, " Floss"
+    elif square == round(square):
+	    print i, " Bios"
+	else
+	    print i, " Biomimicry"
+		
+biomimicry(100, 1000000)
+{% endhighlight %}
+	
 
 ## Skills
 
