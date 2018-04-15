@@ -9,11 +9,11 @@ layout: page
 
 1. [Ce que je fais](#ce-que-je-fais)
 2. [Petits brins antiparrallèles](#petits-brins-antiparrallèles)
-3. [Skills](#skills)
-4. [Projects](#projects)
+3. [Compétences](#compétences)
+4. [Projets](#projets)
 5. [Recherches](#recherches)
 6. [Hackathons](#hackathons-et-indiecamps)
-7. [Nos avons avons travaillé ensemble](#nous-avons-travaillé-ensemble)
+7. [Nos avons avons travaillé ensemble](#nous-avons-travaille-ensemble)
 8. [Livres Numériques](#livres-numériques)
 9. [Qui je suis](#qui-je-suis)
 
@@ -69,13 +69,15 @@ biomimicry(100, 1000000)
 {% endhighlight %}
 	
 
-## Skills
+## Compétences
 
 <ul class="skill-list">
 	<li>Organisation collaborative, gouvernance</li>
 	<li>Innovation libre et ouverte</li>
-	<li>Processus de consensus</li>
+	<li>Pratiques collaboratives, coopération ouverte</li>
+	<li>Processus de consensus, design des instances</li>
 	<li>Biomimétisme, biodesign, biohacking</li>
+	<li>Écologie, écologie des communautés</li>
 	<li>Linux</li>
 	<li>C, C++</li>
 	<li>Arduino</li>
@@ -118,7 +120,7 @@ Ceux dans lesquels je me suis investi comme co-organisateurs :
 
 Je fais partie également des personnes qui ont conçu et réalisés les premiers [IndieCamps](http://movilab.org/index.php?title=IndieCamp), 2016 à Kerbors (22), 2017 Nevez (29) et Kerbors, 2018 Kerbors. Formats Libres de créations
 
-## Nous avons travaillé ensemble
+## Nous avons travaille ensemble
 
 <ul>
 	<li><a href="https://www.transdev-idf.com">TransDdev Tvo</a>, coopération et politique RSE DD du groupe</li>
