@@ -7,27 +7,15 @@ layout: page
 
 #### Tables des contenus
 
-1. [Qui je suis](#qui-je-suis)
-2. [Ce que je fais](#ce-que-je-fais)
-3. [Petits brains antiparrallèles](#petits-brains-antiparallèles)
-4. [Skills](#skills)
-5. [Projects](#projects)
-6. [Nos avons avons travaillé ensemble](#nous-avons-travaillé-ensemble)
-7. [Recherches](#recherches)
-8. [Hackathons](#hackathons)
-9. [Livres Numériques](#livres-numériques)
-
-## Qui je suis
-
-Breton de la terre et de la mer, c'est un des avantages d'être nomade, j'ai toujours parcouru différents univers culturels et de pratiques pour apprendre et pour partager. Depuis la co-création d'une première association à l'âge de 15 ans à ma première entreprise à 30 ans, j'ai toujours gardé à corps et coeur de cutliver l'abnégation, l'éthique et la préservation des écosystèmes et des communautés.
-
-J'ai commencé à travailler adolescent mais c'est à l'âge de 20 ans que je décide de consacrer 10 ans de ma vie au secteur des Urgences chez les Marins pompiers de Marseille. Travaillant, apprenant sans cesse, et formant, à la sécurité des personnes, des biens et de l'environnement, la lutte contre les catastrophes naturelles et industrielles, la gestion de leurs conséquences, la prévention et le prévision des risques en milieu urbain et naturel péri-urbain, j'ai acquis autant de savoir-faire que de savoir-être.
-
-En 2010, j'entre pour la première fois dans un hackerspace alors que je reprends, en parallèle de mon travail, des études en biologie. Jusqu'à ce jour je continue à être un membre contributeur et porteur de projets dans plusieurs communautés de pratiques libre et ouvertes liées aux hackerspaces. 
-
-C'est en évidence la continuité de mon engagement dans la préservation des conditions de vie, de sauvegarde de la biosphère, et des libertés individuelles et collectives, qui s'exprime dans ces activités professionelles et personnelles. 
-
-Ce qui m'a mnené à co-fonder un hacklab de biomimétisme avec de ami.e.s à Rennes en 2014, [le Biome](https://lebiome.github.io).
+1. [Ce que je fais](#ce-que-je-fais)
+2. [Petits brains antiparrallèles](#petits-brains-antiparallèles)
+3. [Skills](#skills)
+4. [Projects](#projects)
+5. [Recherches](#recherches)
+6. [Hackathons](#hackathons)
+7. [Nos avons avons travaillé ensemble](#nous-avons-travaillé-ensemble)
+8. [Livres Numériques](#livres-numériques)
+9. [Qui je suis](#qui-je-suis)
 
 ## Ce que je fais
 
@@ -148,3 +136,16 @@ Ceux dans lesquels je me suis investi comme co-organisateurs :
 	<li><a href="">#LabOSe: Laboratoire open source d’expériences libres et distribuées</a>, 4 mois et demi en tour de france dans les communs. co_auteur (en cours d'édition)</li>
 	<li><a href="https://nicolasloubet.gitbooks.io/fork-the-world">Tiers-Lieux : Fork The World</a> après la Biennale de Design de Saint-Etienne (9 mars - 9 avril 2017) consacrée aux mutations du travail. Contributeur</li>
 </ul>
+
+
+## Qui je suis
+
+Breton de la terre et de la mer, c'est un des avantages d'être nomade, j'ai toujours parcouru différents univers culturels et de pratiques pour apprendre et pour partager. Depuis la co-création d'une première association à l'âge de 15 ans à ma première entreprise à 30 ans, j'ai toujours gardé à corps et coeur de cutliver l'abnégation, l'éthique et la préservation des écosystèmes et des communautés.
+
+J'ai commencé à travailler adolescent mais c'est à l'âge de 20 ans que je décide de consacrer 10 ans de ma vie au secteur des Urgences chez les Marins pompiers de Marseille. Travaillant, apprenant sans cesse, et formant, à la sécurité des personnes, des biens et de l'environnement, la lutte contre les catastrophes naturelles et industrielles, la gestion de leurs conséquences, la prévention et le prévision des risques en milieu urbain et naturel péri-urbain, j'ai acquis autant de savoir-faire que de savoir-être.
+
+En 2010, j'entre pour la première fois dans un hackerspace alors que je reprends, en parallèle de mon travail, des études en biologie. Jusqu'à ce jour je continue à être un membre contributeur et porteur de projets dans plusieurs communautés de pratiques libre et ouvertes liées aux hackerspaces. 
+
+C'est en évidence la continuité de mon engagement dans la préservation des conditions de vie, de sauvegarde de la biosphère, et des libertés individuelles et collectives, qui s'exprime dans ces activités professionelles et personnelles. 
+
+Ce qui m'a mnené à co-fonder un hacklab de biomimétisme avec de ami.e.s à Rennes en 2014, [le Biome](https://lebiome.github.io).
