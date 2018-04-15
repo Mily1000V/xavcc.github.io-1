@@ -12,7 +12,7 @@ layout: page
 3. [Compétences](#compétences)
 4. [Projets](#projets)
 5. [Recherches](#recherches)
-6. [Hackathons](#hackathons-et-indiecamps)
+6. [Hackathons et IndieCamps](#hackathons-et-indiecamps)
 7. [Nos avons avons travaillé ensemble](#nous-avons-travaille-ensemble)
 8. [Livres Numériques](#livres-numériques)
 9. [Qui je suis](#qui-je-suis)
