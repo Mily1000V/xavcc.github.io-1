@@ -116,20 +116,21 @@ Ceux dans lesquels je me suis investi comme co-organisateurs :
 	<li><a href="http://nuitcodecitoyen.org">Nuit Du Code Citoyen</a> avec plusieurs villes francophones, depuis Rennes, 2017, 2018</li>
 </ul>	
 
-Je fais partie également des personnes qui ont conçu et réalisés les premiers [IndieCamps](http://movilab.org/index.php?title=IndieCamp), 2016 à Kerbors (22), 2017 Nevez (29) et kerbors, 2018 kerbos. Formats Libres de créations
+Je fais partie également des personnes qui ont conçu et réalisés les premiers [IndieCamps](http://movilab.org/index.php?title=IndieCamp), 2016 à Kerbors (22), 2017 Nevez (29) et Kerbors, 2018 Kerbors. Formats Libres de créations
 
 ## Nous avons travaillé ensemble
 
 <ul>
 	<li><a href="https://www.transdev-idf.com">TransDdev Tvo</a>, coopération et politique RSE DD du groupe</li>
-	<li><a href="http://www.eesab.fr">École européenne supérieure d'art de Bretagne</a>, prise en stage numérique et prototypage d'étudiant.e.s
+	<li><a href="http://www.eesab.fr">École européenne supérieure d'art de Bretagne</a>, prise en stage numérique et prototypage d'étudiant.e.s</li>
 	<li><a href="https://www.rennes-sb.fr">ESC Rennes</a>, formation de 2 promotions Executive MBA au design</li>
-	<li><a href="">Médiathèque de Pontivy</a>, workshop Biomimétisme, numérique, écologie et robot sous-marin pour sceince océanique
-	<li><a href="">médiathèque de Bretigy sur Orges</a>, intervention biomimétisme pour la semaine de la science</li>
+	<li><a href="">Médiathèque de Pontivy</a>, workshop Biomimétisme, numérique, écologie et robot sous-marin pour science océanique</li>
+	<li><a href="">médiathèque de Bretigny sur Orges</a>, intervention biomimétisme pour la semaine de la science</li>
 	<li><a href="https://www.utc.fr">Sorbonne Université - Université des Technologie de Compiègne</a>workshop de biomimétisme</li>
 	<li><a href="">réseaux des FabLabs de L'Ouest</a>, coopération et collaboration à l'échelle inter-régionale</li>
 	<li><a href="https://www.ecole-eme.fr">École des Métiers de l'Environnement de Rennes</a>, Formation au biomimétisme des ingénieur.e.s diplomé.e.s se spécialisant en éco-conception</li>
 	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
+	<li>Cours collectif d'étudiant.e.s ingénieur.e.s inter-écoles en technologies</li>
 </ul>
 
 ## Livres numériques
