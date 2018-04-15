@@ -14,7 +14,8 @@ layout: page
 5. [Projects](#projects)
 6. [Nos avons avons travaillé ensemble](#nous-avons-travaillé-ensemble)
 7. [Recherches](#recherches)
-8. [Livres Numériques](#livres-numériques)
+8. [Hackathons](#hackathons)
+9. [Livres Numériques](#livres-numériques)
 
 ## Qui je suis
 
@@ -85,7 +86,7 @@ biomimicry(100, 1000000)
 <ul class="skill-list">
 	<li>Organisation collaborative, gouvernance</li>
 	<li>Innovation libre et ouverte</li>
-	<li>Pocessus de consensus</li>
+	<li>Processus de consensus</li>
 	<li>Biomimétisme, biodesign, biohacking</li>
 	<li>Linux</li>
 	<li>C, C++</li>
@@ -95,18 +96,54 @@ biomimicry(100, 1000000)
 	<li>Markdown, ASCIIdoc, Wikicode</li>
 	<li>Documentation</li>
 	<li>Scrum and Kanban</li>
+	<li>Ethereum, solidity</li>
+	<li>Blockchain</li>
 </ul>
 
 ## Projects 
 
+Les pojets sur lesquels je m'investis sont valables sur un organigramme de lfux d'une durée de 6 mois, renouvelés ou non, selon un base méthodologique [Extreme programming](http://www.extremeprogramming.org/index.html)
+
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="">Biononymous, Bioprivacy</a></li>
+	<li><a href="http://daisee.org">DAISEE</a>, Internets of Energy | Energy as a Commons</a></li>
+	<li><a href="https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project">Build Your Device for Infra Terrestrial</a></li>
+	<li><a href="">Ocean, Space & City Interfaces</a>, biomimicry and circular economy</li>
+	<li><a href="">Design des instances et consensus</a>, recherche action</li>
+	<li><a href="">Tiers-Lieux et réponses aux enjeux critiques</a>, recherche et action</li>
 </ul>
 
 ## Nous avons travaillé ensemble
 
+<ul>
+	<li><a href="https://www.transdev-idf.com">TransDdev Tvo</a>, coopération et politique RSE DD du groupe</li>
+	<li><a href="http://www.eesab.fr">École européenne supérieure d'art de Bretagne</a>, prise en stage numérique et prototypage d'étudiant.e.s
+	<li><a href="https://www.rennes-sb.fr">ESC Rennes</a>, formation de 2 promotions Executive MBA au design</li>
+	<li><a href="">Médiathèque de Pontivy</a>, workshop Biomimétisme, numérique, écologie et robot sous-marin pour sceince océanique
+	<li><a href="">médiathèque de Bretigy sur Orges</a>, intervention biomimétisme pour la semaine de la science</li>
+	<li><a href="https://www.utc.fr">Sorbonne Université - Université des Technologie de Compiègne</a>workshop de biomimétisme</li>
+	<li><a href="">réseaux des FabLabs de L'Ouest</a>, coopération et collaboration à l'échelle inter-régionale</li>
+	<li><a href="https://www.ecole-eme.fr">École des Métiers de l'Environnement de Rennes</a>, Formation au biomimétisme des ingénieur.e.s diplomé.e.s se spécialisant en éco-conception</li>
+	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
+	<li><a href"">Collectif inter-école d'élèves ingénieur.e.s des technologies</a>Cours indépendant</li>
+</ul>
 ## Recherches
 
+Les recherches que je mène actuellement :
+
+## Hackathons
+
+Ceux dans lesquels je me suis investi comme co-organisateurs :
+
+<ul>
+	<li><a href="https://oscedays.org">Open Source Circular Economy Days</a> Depuis Rennes avec près de 200 villes dans le monde. 2015,2016,2017,2018</li>
+	<li><a href="http://nuitcodecitoyen.org">Nuit Du Code Citoyen</a> avec plusieurs villes francophones, depuis Rennes, 2017, 2018</li>
+</ul>	
+
 ## Livres numériques
+
+<ul>
+	<li><a href="https://legacy.gitbook.com/book/xavcc/vivre-ensemble-faire-ensemble/details">Vivre ensemble, Faire ensemble</a> Bretagne Fablab tour 2015. Co-auteur (en cours de finition)</li>
+	<li><a href="">#LabOSe: Laboratoire open source d’expériences libres et distribuées</a>, 4 mois et demi en tour de france dans les communs. co_auteur (en cours d'édition)</li>
+	<li><a href="https://nicolasloubet.gitbooks.io/fork-the-world">Tiers-Lieux : Fork The World</a> après la Biennale de Design de Saint-Etienne (9 mars - 9 avril 2017) consacrée aux mutations du travail. Contributeur</li>
+</ul>
