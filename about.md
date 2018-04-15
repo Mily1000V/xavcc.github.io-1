@@ -8,11 +8,11 @@ layout: page
 #### Tables des contenus
 
 1. [Ce que je fais](#ce-que-je-fais)
-2. [Petits brains antiparrallèles](#petits-brains-antiparallèles)
+2. [Petits brains antiparrallèles](#petits-brains-antiparrallèles)
 3. [Skills](#skills)
 4. [Projects](#projects)
 5. [Recherches](#recherches)
-6. [Hackathons](#hackathons)
+6. [Hackathons](#hackathons-et-indiecamps)
 7. [Nos avons avons travaillé ensemble](#nous-avons-travaillé-ensemble)
 8. [Livres Numériques](#livres-numériques)
 9. [Qui je suis](#qui-je-suis)
@@ -37,7 +37,7 @@ Si la fabrication de prototype, ou l'amélioration d'un robot sous-marin par exe
 Ces savoir-faire et savoir-être acquis, les capacités de déconstruction, d'adaption, de frugalité, et les expériences vécues collectivement font que réguilèrement j'accompagne dess organisations publiques ou privées dans la résolution de leur problèmes, ainsi qu'à la formation et l'enseignement en école, université ou secteur associatif.
 	
 
-## Petits brains antiparallèles
+## Petits brains antiparrallèles
 
 Human Collider, Maker, transitioner, commoner et un peu plus encore
 
@@ -90,7 +90,7 @@ biomimicry(100, 1000000)
 
 ## Projects 
 
-Les pojets sur lesquels je m'investis sont valables sur un organigramme de lfux d'une durée de 6 mois, renouvelés ou non, selon un base méthodologique [Extreme programming](http://www.extremeprogramming.org/index.html)
+Les projets sur lesquels je m'investis sont valables sur un organigramme de flux d'une durée de 6 mois, renouvelés ou non, selon un base méthodologique [Extreme programming](http://www.extremeprogramming.org/index.html)
 
 <ul>
 	<li><a href="">Biononymous, Bioprivacy</a></li>
@@ -113,14 +113,14 @@ Les pojets sur lesquels je m'investis sont valables sur un organigramme de lfux 
 	<li><a href="">réseaux des FabLabs de L'Ouest</a>, coopération et collaboration à l'échelle inter-régionale</li>
 	<li><a href="https://www.ecole-eme.fr">École des Métiers de l'Environnement de Rennes</a>, Formation au biomimétisme des ingénieur.e.s diplomé.e.s se spécialisant en éco-conception</li>
 	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
-	<li><a href"">Collectif inter-école d'élèves ingénieur.e.s des technologies</a>Cours indépendant</li>
+	<li><a href="">Collectif inter-école d'élèves ingénieur.e.s des technologies</a>Cours indépendant</li>
 </ul>
 
 ## Recherches
 
 Les recherches que je mène actuellement :
 
-## Hackathons
+## Hackathons et indieCamps
 
 Ceux dans lesquels je me suis investi comme co-organisateurs :
 
@@ -128,6 +128,8 @@ Ceux dans lesquels je me suis investi comme co-organisateurs :
 	<li><a href="https://oscedays.org">Open Source Circular Economy Days</a> Depuis Rennes avec près de 200 villes dans le monde. 2015,2016,2017,2018</li>
 	<li><a href="http://nuitcodecitoyen.org">Nuit Du Code Citoyen</a> avec plusieurs villes francophones, depuis Rennes, 2017, 2018</li>
 </ul>	
+
+Je fais partie également des personnes qui ont conçu et réalisés les premiers [IndieCamps](http://movilab.org/index.php?title=IndieCamp), 2016 à Kerbors (22), 2017 Nevez (29) et kerbors, 2018 kerbos. Formats Libres de créations
 
 ## Livres numériques
 
