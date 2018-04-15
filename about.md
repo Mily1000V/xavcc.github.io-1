@@ -8,7 +8,7 @@ layout: page
 #### Tables des contenus
 
 1. [Qui je suis](#qui-je-suis)
-2. [Ce queje fais](#ce-que-je-fais)
+2. [Ce que je fais](#ce-que-je-fais)
 3. [Petits brains antiparrallèles](#petits-brains-antiparallèles)
 4. [Skills](#skills)
 5. [Projects](#projects)
@@ -20,13 +20,11 @@ layout: page
 
 ## Ce que je fais
 
-<p align="center">
 ```
-	Open source Software - Open source Hardware 
+Open source Software - Open source Hardware 
                - BIOMIMICRY -
-  en source Bioware - Open Knowledge
+Open source Bioware - Open Knowledge
 ```
-</p>
 	
 
 ## Petits brains antiparallèles
