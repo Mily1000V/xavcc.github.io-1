@@ -127,6 +127,7 @@ Les pojets sur lesquels je m'investis sont valables sur un organigramme de lfux 
 	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
 	<li><a href"">Collectif inter-école d'élèves ingénieur.e.s des technologies</a>Cours indépendant</li>
 </ul>
+
 ## Recherches
 
 Les recherches que je mène actuellement :
