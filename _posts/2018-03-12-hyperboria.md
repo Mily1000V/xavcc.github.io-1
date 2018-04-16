@@ -102,7 +102,7 @@ Vous avez des suggestions, des modifications, ou vous voulez réutiliser ce bill
 Il vous a été utile ? Un petit coup de dons sur l'icone jaune en bas à droite sera apprécié ^^
 
 
-## Licence (en plus de la CC BY SA en bas à gauche)
+## Licence (en plus de la CC BY SA en bas de page)
 
 ```
 # DON'T BE A DICK PUBLIC LICENSE
