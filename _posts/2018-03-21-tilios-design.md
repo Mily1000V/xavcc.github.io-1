@@ -37,7 +37,7 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.10 [Le modèle de réapprovisionnement des ressources](#le-modèle-de-réapprovisionnement-des-ressources)
    + 3.11 [Modèle de cuisine inexistante](#modèle-de-cuisine-inexistante)
    + 3.12 [Apathie par un millier de coupures anti modèle](#apathie-par-un-millier-de-coupures-anti-modèle)
-   + 3.13 [Creative Chaos Pattern l'étape de la crainte de l’anti modèle](#creative-chaos-pattern-étape-de-la-crainte-anti modèle)
+   + 3.13 [Creative Chaos Pattern l'étape de la crainte de l’anti modèle](#creative-chaos-pattern-étape-de-la-crainte-anti-modèle)
    + 3.14 [Motif de remplacement de membre](#motif-de-remplacement-de-membre)
    + 3.15 [Principes Pattern](#principes-pattern)
    + 3.16 [Mentor Pattern](#mentor-pattern)
