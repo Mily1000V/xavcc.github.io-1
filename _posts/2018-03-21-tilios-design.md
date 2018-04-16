@@ -24,7 +24,8 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
 
 1. [Origine](#origine)
 2. [Contributions](#contributions)
-3. [Nouveaux modèles de conception d'un hackerspace](#nouveaux-modèles-de-conception-d-'-un-hackerspace)
+3. [Nouveaux modèles de conception pour un hackerspace](#nouveaux-modèles-de-conception-pour-un-hackerspace)
+   + 3.1 [Modèle physique](#modèle-physique)
 
 ## Origine
 
@@ -44,7 +45,7 @@ En anglais, référez vous à [tl;dr:](https://www.noisebridge.net/wiki/Hackersp
 
 En français, filez tout de suite en fin de cet article.
 
-## Nouveaux modèles de conception d'un hackerspace
+## Nouveaux modèles de conception pour un hackerspace
 
 Ce qui suit m'a (aka Mitch Altman) été fourni par plusieurs personnes de plusieurs hackerspaces :
 
