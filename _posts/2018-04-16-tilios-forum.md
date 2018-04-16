@@ -1,7 +1,7 @@
 ---
 title: "Tiers-Lieux Libres et open source et la collaboration pour répondre aux enjeux critiques"
 layout: post
-date: 2016-01-16 21:48
+date: 2018-04-16 21:48
 image: /assets/images/bacterial-heart.jpg
 headerImage: true
 tag:
@@ -26,8 +26,10 @@ status :
              - Au 04-04-2018 : par mail + facebook
        Réponse : 
              - "Nous n'avions pas vu"  - "le format ne nous convient pas"
+       En attente de confirmation par courriel...
        Découverte : 16-04-2018 (par hasard)
              - sur le programme :"Atelier pour mettre en cartographie et documentations les différentes ressources et réponses que connaissent les participants"
+       
 ```             
 
 > Copie ci-après de ce qu'il y sur le [wiki du forum des usages coopératifs 2018](http://forum-usages-cooperatifs.net/index.php/Contrib:Tiers-Lieux_:_L%27open_source_et_la_collaboration_pour_r%C3%A9pondre_aux_enjeux_critiques)
