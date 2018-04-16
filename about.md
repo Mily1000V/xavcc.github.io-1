@@ -99,14 +99,29 @@ Les projets sur lesquels je m'investis sont valables sur un organigramme de flux
 	<li><a href="http://daisee.org">DAISEE</a>, Internets of Energy | Energy as a Commons</a></li>
 	<li><a href="https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project">Build Your Device for Infra Terrestrial</a></li>
 	<li><a href="https://community.oscedays.org/t/ocean-space-city-interfaces/6555">Ocean, Space & City Interfaces</a>, biomimicry and circular economy</li>
-	<li>Design des instances et consensus, recherche action</li>
-	<li>Tiers-Lieux et réponses aux enjeux critiques, recherche et action</li>
-</ul>
-
 
 ## Recherches
 
 Les recherches que je mène actuellement :
+
+<ul>
+	<li>Design des instances et consensus, recherche action</li>
+    <li>Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques</li>
+	   <ul>
+	       <li>Libertés et sécurités informatique</li>
+	       <li>Prévision et prévention des accidents corporels</li>
+	       <li>libertés et égalité au delà des genres et des classes</li>
+	       <li>accessibilité, perméabilité, handicaps</li>
+	       <li>bioéthique et sciences ouvertes</li>
+	       <li>Biononymous et bioprivacy</li>
+	   </ul>
+	<li>Océans, Espace, Villes, les interfaces de résilience</li>
+	   <ul>
+		   <li>Les micro-organismes et la biomremédiation</li>
+		   <li>Les données spatiale pour la prévention et prévision des risques</li>
+		   <li>Les Internets de l'énergie, l'énergie comme un commun</li>
+	   </ul>
+</ul>
 
 
 ## Hackathons et indieCamps
