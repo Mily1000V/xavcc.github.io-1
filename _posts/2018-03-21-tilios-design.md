@@ -24,7 +24,7 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
 
 1. [Origine](#origine)
 2. [Contributions](#contributions)
-3. [Nouveaux modèles de conception d'un hackerspace](nouveaux-modèles-de-conception-d-'-un-hackerspace)
+3. [Nouveaux modèles de conception d'un hackerspace](#nouveaux-modèles-de-conception-d-'-un-hackerspace)
 
 ## Origine
 
