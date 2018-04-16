@@ -26,6 +26,7 @@
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F); but #[FuckOffGoogle](https://wiki.fuckoffgoogle.de/)
 - No JS. :sunglasses:
 - Soon : ~ Tests with [Travis](https://travis-ci.org/)
+- Free font, [libre Calson Text](https://fontlibrary.org/en/font/libre-caslon-text)
 
 ## Setup
 
