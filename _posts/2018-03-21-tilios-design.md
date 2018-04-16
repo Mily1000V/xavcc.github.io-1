@@ -1,15 +1,28 @@
 ---
-layout: post
 title: "Tiers-Lieux : Hackerspace Design Patterns 2.0 en VF"
-date: 2018-03-21
-categories: ["hsociety"]
+layout: post
+date: 2018-03-21 12:48
+image: /assets/images/decide.jpg
+headerImage: true
+tag:
+- hsociety
+- Tiers-Lieux
+- Consensus
+- Gouvernance
+category: blog
+author: XavierCoadic
+description: Tiers-Lieux Libres et Open source, faire des choix ou gouverner ?
 ---
 
 Traduction en français de **Hackerspace Design Patterns** dont la version d'origine en anglais sur le [wiki de Noisebridge](https://www.noisebridge.net/wiki/Hackerspace_Design_Patterns_2.0) est sous  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
 En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand nombre.
 
-![](/images/hackerspace1.jpg "Photo credit:hslphotosync -Lincence CC BY-SA")
+![](/assets/images/hackerspace1.jpg "Photo credit:hslphotosync -Lincence CC BY-SA")
+
+#### Table des contenus
+
+1. [Origine](#origine)
 
 ## Origine
 
@@ -23,7 +36,7 @@ Immédiatement après la conférence, il a animé un atelier/discussion. Toutes 
 
 Le premier talk donné et la [première version de hackerspace design patterns](https://events.ccc.de/congress/2007/Fahrplan/events/2133.en.html) date de 2007, alors qu'il n'y avait que ~40 hackerspaces dans le monde. Voici les [Design Patterns originaux](http://events.ccc.de/congress/2007/Fahrplan/attachments/1003_Building%20a%20a%20Hacker%20Space.pdf) (qui valent la peine d'être lus !)
 
-## Contrutions 
+## Contributions 
 
 En anglais, référez vous à [tl;dr:](https://www.noisebridge.net/wiki/Hackerspace_Design_Patterns_2.0#tl.3Bdr:).
 
