@@ -28,12 +28,14 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.1 [Modèle physique](#modèle-physique)
    + 3.2 [Modèle API](#modèle-api)
    + 3.3 [Le modèle du groupe de discussion](#le-modèle-du-groupe-de-discussion)
-   + 3.4 [Le motif "Cabin Fever"](#le-motif-cabine-fever)
-   + 3.5 [L’Anti-Sponsoring Anti-Pattern](#l'anti-sponsoring-anti-pattern)
-   + 3.6 [Le modèle de partage de l’espace](#le-modèle-de-partage-de-l'espace)
-4. [Contributions (bis)](#contirbution-(bis))
-   + 4.1 [tl;dr](#tl;dr)
-   + 4.2 [Modèles de conception](#modèle-de-conception)
+   + 3.4 [Le motif "Cabin Fever"](#le-motif-cabin-fever)
+   + 3.5 [L’Anti-Sponsoring Anti-Pattern](#anti-sponsoring-anti-pattern)
+   + 3.6 [Le modèle de partage en espace](#le-modèle-de-partage-en-espace)
+   + 3.7 [Les spectateurs vous aiment bien](#les-spectateurs-vous-aiment-bien)
+   + 3.8 [Quel est le 1er Anti-Pattern ?](#quel-est-le-1er-anti-pattern-?)
+4. [Contributions (bis)](#contirbutions-(bis))
+   + 4.1 [tl;dr](#tl-;-dr)
+   + 4.2 [Modèles de conception](#modèles-de-conception)
    + 4.3 [Motifs de conception du hackerspace](#motifs-de-conception-du-hackerspace)
    + 4.4 [Modèles de conception du hackerspace quelque peu mis à jour](#modèles-de-conception-du-hackerspace-quelque-peu-mis-à-jour)
    + 4.5 [Vos observations recherchées](#vos-observations-recherchées)
@@ -94,13 +96,13 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 **Solution** : Le sujet peut être valide, mais il est important d'examiner la racine du désaccord. Les influences extérieures/saisonnières affectent-elles les membres ? Parfois, les gens commencent à se battre pour se défouler. Si la période de l'année ou la météo affecte les membres, assurez-vous que les décisions importantes ne sont pas influencées négativement par des préoccupations saisonnières. S'il est nécessaire de relacher régulièrement de la vapeur / de la pression, établissez une série régulière de projets de groupe/objectifs communs pour donner aux gens quelque chose sur quoi concentrer leur énergie, au lieu de les diriger les uns vers les autres, et fixez la durée du cycle pour compléter le cycle de conflit existant.
 
-### L'Anti-Sponsoring Anti-Pattern
+### Anti-Sponsoring Anti-Pattern
 
 **Problème** : L'indépendance est cool, mais le loyer doit être payé.
 
 **Solution** : Les espaces de hacking dans les grands endroits (comme des dizaines de milliers mêtres carrés d'entrepôts industriels) peuvent bénéficier d'une augmentation occasionnelle de la disponibilité du financement (car ils sont attrayants). Cela ne signifie pas que vous devriez être nourri par quelqu'un d'autre pour toujours pour un un espace ; cependant, la décision occasionnelle "oui, nous prendrons vos dollars non attachés à une virgule et quelques zéros" est une décision qui doit être pondérée. Être côte à côte et dans le coté sombre le plus longtemps quand c'est possible.
 
-### Le modèle de partage de l'espace 
+### Le modèle de partage en espace 
 
 **Problème** : Votre hackerspace pourrait être utilisé grâce à un supplément de revenu. Un groupe dont certains de vos membres font partie a besoin d'un espace pour travailler ou tenir des réunions.
 
@@ -118,7 +120,7 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 **Converse Anti-Modèle** : Vous dirigez la campagne et ne pouvez pas sérigraphier sur vos sacs imprimés, ou vous les faites tous les mois.
 
-### Qui est le 1er Anti-Pattern ?
+### Quel est le 1er Anti-Pattern ?
 
 **Problème** : Le fonctionnement de l'espace dépend de la présence de plusieurs personnes. La question "À qui je donne de l'argent" est accueillie par "Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh". La question "Comment devenir membre ? "Vous parleriez à.... J. Hacker, qui n'est... pas là ce soir".
 
