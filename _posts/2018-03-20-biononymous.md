@@ -1,13 +1,25 @@
 ---
-layout: post
 title: "Petite histoire d'introduction à Biononymous & Bioprivacy"
-date: 2018-03-20
-categories: ["hsociety"]
+layout: post
+date: 2018-03-20 22:10
+tag:
+- Biononymous
+- Bioprivacy
+- Biomimétisme
+- Libertés
+image: /assets/images/dna.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "asylum, lieu inviolable, refuge et du grec asulon qui ne peut être pillé."
+category: project
+author: XavierCoadic
+externalLink: false
 ---
 
 Notre intimité a t-elle disparue dans un univers panoptique ? Ce qui fait de nous des êtres vivants, des contituants d'une biosphère nous est-il volé aujourd'hui ? le vivant est-il devenu un nouvel objet de spoliation des libertés et droits fondamentaux ? Voici quelques sujets que nous aborderons lors des [Rencontres du Parcours Numériques à Nantes le 29 mars 2018](http://www.parcoursnumeriques.net/rencontres-parcours-numeriques-2018-pre-programme).
 
-![](/images/stanza_+BODY-copy.jpg "credit : Stanza http://www.stanza.co.uk/body")
+![](/assets/images/stanza_+BODY-copy.jpg "credit : Stanza http://www.stanza.co.uk/body")
 
 > "le caractère intime, intérieur et profond ;ce qui est intérieur et secret ; caractère étroit et profond (d'un lien) ; l'intimité d'une personne, sa vie intime, privée ; agrément, confort d'un endroit où l'on se sent tout à fait chez soi, isolé du monde extérieur." _L'intimité est selon Paul Robert, Le Grand Robert de la Langue Française, 1994_
 
@@ -25,7 +37,7 @@ Dans le même temps, mais avec une vitesse bien supérieure, les langages de pro
 
 Depuis le début du XXIe siècle, la biométrie est utilisée pour l'« identification des personnes » en fonction de caractéristiques biologiques, telles que les empreintes digitales, les traits du visage, etc. ou de caractéristiques comportementales, telles que la reconnaissance vocale, la signature, la démarche, etc. Et l'incursion du numérique dans notre quotidien est un fournisseur "d'empreintes" en quasi permanence, "les données", ou ces petits rensiegnements très personnels que l'on cède avec plus ou moins de consentement.
 
-![](/images/Enter_FilipeVilasBoas_Cnil_04_670.jpg "credit Filipe Vilas-Boas expostion à la CNIL 2018")
+![](assets/images/Enter_FilipeVilasBoas_Cnil_04_670.jpg "credit Filipe Vilas-Boas expostion à la CNIL 2018")
 
 ## La génèse panoptique actuelle
 
@@ -91,11 +103,11 @@ Avec des biotechnologies qui bousculent les frontières l’intégrité du vivan
 
 Mais que font alors ces auto-déclaré.e.s nouveaux fleuront de l'économie française lorsqu'elle et ils, ce femmes et ce hommes, s'attaquent à notre intimités ? Lorsqu'elles et ils conçoivent les outils de ce braquage ?  Lorsque qu'elles et ils donnent des accès à des tierces parties à nos intimités ? Lorsque que des pole de compétivités vantes leur prouesse industrielles ?
 
-![](/images/smartmoov1.png)
-![](/images/transdev.jpg)
-![](/images/inout.jpg)
+![](assets/images/smartmoov1.png)
+![](assets/images/transdev.jpg)
+![](assets/images/inout.jpg)
 
-> « La dictature parfaite aurait les apparences de la démocratie. Une prison sans murs dont les prisonniers ne songeraient pas à s’évader. Un système où, grâce à la consommation et au divertissement, les esclaves auraient l’amour de leur servitude. » Aldous Huxley
+> « _La dictature parfaite aurait les apparences de la démocratie. Une prison sans murs dont les prisonniers ne songeraient pas à s’évader. Un système où, grâce à la consommation et au divertissement, les esclaves auraient l’amour de leur servitude._ » Aldous Huxley
 
 Vous porteriez vous un tatouage pour confier votre intimité à une entreprise privée qui laisse entrer d'autres entreprises privées dans ses sytèmes et données ? ([12](https://no-google.frama.wiki/ville:dependance_g00gle))
 
@@ -123,7 +135,7 @@ Depuis le début des années 1990, de nombreux instruments légaux ([16](http://
 
 Depuis les années 1980 débat sur les statuts juridiques, l’autre grand organisme international de propriété intellectuelle, l’Office Européen des Brevets (OEB) reste jusqu’à aujourd’hui indifférent à la reconnaissance des droits des Peuples autochtones. Pourtant tous les États signataires de la Convention sur le brevet européen ont adopté la Déclaration des Nations unies sur les droits des Peuples autochtones (DNUDPA) de 2007. Ce qui n'empêche pas la biopiraterie de la Quinine de Cayenne ([15](https://theconversation.com/debat-la-biopiraterie-ou-le-vol-des-savoirs-ancestraux-92780))
 
-> "Ce que l'on repproche aux hackers, c'est de fournir aux premiers venus les secrets d'habitude réservés à une élite
+> "_Ce que l'on repproche aux hackers, c'est de fournir aux premiers venus les secrets d'habitude réservés à une élite_"
 
 Par exemple ujourd’hui il existe des kit-outil de génie génétique open source à 100€ et moins pour faire des manipulation CRISPr ([19](https://fr.wikipedia.org/wiki/G%C3%A9nie_g%C3%A9n%C3%A9tique)) (je fais court et simple ici). C'est aussi un moyen de faire l'apprentissage du processus scientifique et intellectuel pour un grand nombre pour limiter voir éviter les dérives eugénistes des prophètes de la société panoptique ([20](https://twitter.com/dr_l_alexandre/status/959351168408399872)).
 
@@ -142,13 +154,17 @@ Le Biohacking, le biodesign, le biomimétisme sont un processus d’apprentissag
 
 Ce sont les traits d'une culture avec une philosophie pronfonde qui propose une société totalement autre que celle qui dévore le monde aujourd'hui en s'appuyant sur une surveillance généralisée sur les viols des conditions humaines fondamentales. C'est une reherche radicale qui se réinvente en permanence que Bioprivacy et Biononymous vous propose de faire ensemble. 
 
-> « La recherche radicale poursuit aussi deux objectifs : d’une part fournir les critères qui permettent de déterminer quand un outil atteint un seuil de nocivité ; de l’autre inventer des outils qui optimisent l’équilibre de la vie, et donc maximisent la liberté de chacun. ». _Ivan Illich, la convivialité page 116_
+> « _La recherche radicale poursuit aussi deux objectifs : d’une part fournir les critères qui permettent de déterminer quand un outil atteint un seuil de nocivité ; de l’autre inventer des outils qui optimisent l’équilibre de la vie, et donc maximisent la liberté de chacun._ ». Ivan Illich, la convivialité page 116
 
 Si nous appliquons cette recherche radicale à "Tara Oceans studies plankton at planetary scale"([21](http://science.sciencemag.org/content/348/6237)), l'une des plus grandes et analyse intégrative sur terre, intégrant le séquençage de l'ADN et la bioinformatique, l'imagerie microscopique et l'analyse des réseaux sur les palnctons, alors nous réouvririons des libertés et droits fondamentaux à l'un des plus petits organismes vivants de notre planête, et des plus essentiels à notre présence et à notre survie. Nous permettant d'interroger les questions profondes sans fausse délicatesse.
 
-> "Notre survie dépend bien plus de l’implication symbiotique élevée des organismes que de l’adaptation aux conditions par conditionnement. Plus la symbiose dans un écosystème est importante, plus une espèce à des chances de perdurer. " _Eric kacenti, directeur scientifique de Tara expédition_
+> "_Notre survie dépend bien plus de l’implication symbiotique élevée des organismes que de l’adaptation aux conditions par conditionnement. Plus la symbiose dans un écosystème est importante, plus une espèce à des chances de perdurer._ " Eric kacenti, directeur scientifique de Tara expédition
 
 Partager, Passer, Offrir… ceci est un principe simple de survie de l’espèce, de notre espèce humaine.
+
+Le biologiste John Sulston est mort. En 2002 il racontait dans nos colonnes comment l’intégralité de la séquence du génome humain a pu rester dans le domaine public.
+
+> "<span class="evidence">Le génome humain sauvé de la spéculation</span> - _En décernant, le 10 décembre, le prix Nobel de médecine 2002 à Sydney Brenner, H. Robert Horvitz et John Sulston pour leurs découvertes sur la régulation génétique du développement des organes et de la mort programmée des cellules, l’Académie Nobel de Stockholm récompense aussi trois des principaux acteurs de la formidable entreprise scientifique qui aboutira, courant 2003, à la mise dans le domaine public de l’intégralité de la séquence du génome humain. Une issue qui n’allait pas de soi, face aux appétits suscités par les brevets génétiques._" source [Monde diplomatique](https://www.monde-diplomatique.fr/2002/12/SULSTON/9777)
 
 
 ## Notes et références
