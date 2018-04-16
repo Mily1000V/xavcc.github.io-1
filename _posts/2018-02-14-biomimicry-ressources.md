@@ -9,7 +9,7 @@ tag:
 - Open source
 - bioinspiration 
 category: blog
-author: XavierCaodic
+author: XavierCoadic
 description: Markdown summary with different options
 ---
 
