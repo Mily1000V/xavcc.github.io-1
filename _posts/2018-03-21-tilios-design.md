@@ -26,8 +26,8 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
 2. [Contributions](#contributions)
 3. [Nouveaux modèles de conception pour un hackerspace](#nouveaux-modèles-de-conception-pour-un-hackerspace)
    + 3.1 [Modèle physique](#modèle-physique)
-   + 3.2 [Modèle API](#modèle-API)
-   + 3.3 [Le modèle du groupe de discussion](#modèle-du-groupe-de-discussion)
+   + 3.2 [Modèle API](#modèle-api)
+   + 3.3 [Le modèle du groupe de discussion](#le-modèle-du-groupe-de-discussion)
    + 3.4 [Le motif "Cabin Fever"](#le-motif-"-cabine-fever-")
 
 ## Origine
