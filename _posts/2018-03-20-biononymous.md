@@ -79,7 +79,7 @@ Mais, il y a toujours un mais, si l'on regarde dans le rétroviseur, Simon Chign
 
 Dans la note originale de l’INSEE on peut y lire qu’il s’agit avant de tout de faciliter la circulation des informations entre les administrations. Ab initio, le projet SAFARI comporte deux dimensions: la généralisation du répertoire d’identification des personnes physiques et le transfert de ce répertoire sur des bandes magnétiques.
 
- > Retrouver un individu prenait alors environ 10 heures, contre quelques minutes après le passage sur des bandes magnétiques.
+ > _"Retrouver un individu prenait alors environ 10 heures, contre quelques minutes après le passage sur des bandes magnétiques._"
 
 L’INSEE entrevoit rapidement le potentiel d’un tel système: si tous les Français disposaient d’un identifiant unique et obligatoire on pourrait utiliser ce numéro comme une clé pour interconnecter l’ensemble des fichiers des administrations: fichiers d’état-civil, des impôts, du cadastre, de la santé, etc. La « mise en fiche » de la population est un sujet d’autant plus sensible que la dernière opération de ce genre date de l’Occupation.
 
