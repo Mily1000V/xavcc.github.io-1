@@ -8,6 +8,7 @@ tag:
 - hsociety
 - Tiers-Lieux
 - Gouvernance
+- Sciences
 category: blog
 author: XavierCoadic
 description: Markdown summary with different options
