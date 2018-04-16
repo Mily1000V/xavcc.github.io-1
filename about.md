@@ -107,7 +107,7 @@ Les recherches que je mène actuellement :
 <ul>
 	<li>Design des instances et consensus, recherche action</li>
     <li>Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques</li>
-	   <ul>
+	   <ul class="inside">
 	       <li>Libertés et sécurités informatique</li>
 	       <li>Prévision et prévention des accidents corporels</li>
 	       <li>libertés et égalité au delà des genres et des classes</li>
@@ -116,7 +116,7 @@ Les recherches que je mène actuellement :
 	       <li>Biononymous et bioprivacy</li>
 	   </ul>
 	<li>Océans, Espace, Villes, les interfaces de résilience</li>
-	   <ul>
+	   <ul class="inside">
 		   <li>Les micro-organismes et la biomremédiation</li>
 		   <li>Les données spatiale pour la prévention et prévision des risques</li>
 		   <li>Les Internets de l'énergie, l'énergie comme un commun</li>
