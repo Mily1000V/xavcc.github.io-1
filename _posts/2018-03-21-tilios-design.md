@@ -23,6 +23,8 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
 #### Table des contenus
 
 1. [Origine](#origine)
+2. [Contributions](#contributions)
+3. [Nouveaux modèles de conception d'un hackerspace](nouveaux-modèles-de-conception-d-'-un-hackerspace)
 
 ## Origine
 
@@ -48,7 +50,8 @@ Ce qui suit m'a (aka Mitch Altman) été fourni par plusieurs personnes de plusi
 
 N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/wiki/Hackerspace_Design_Patterns_2.0)
 
-### Modèle physique ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Modèle physique 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Le groupe fait beaucoup de règles, mais elles sont souvent ignorées.
 
