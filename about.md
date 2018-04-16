@@ -95,12 +95,12 @@ biomimicry(100, 1000000)
 Les projets sur lesquels je m'investis sont valables sur un organigramme de flux d'une durée de 6 mois, renouvelés ou non, selon un base méthodologique [Extreme programming](http://www.extremeprogramming.org/index.html)
 
 <ul>
-	<li><a href="">Biononymous, Bioprivacy</a></li>
+	<li><a href="https://xavcc.github.io/biononymous">Biononymous, Bioprivacy</a></li>
 	<li><a href="http://daisee.org">DAISEE</a>, Internets of Energy | Energy as a Commons</a></li>
 	<li><a href="https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project">Build Your Device for Infra Terrestrial</a></li>
-	<li><a href="">Ocean, Space & City Interfaces</a>, biomimicry and circular economy</li>
-	<li><a href="">Design des instances et consensus</a>, recherche action</li>
-	<li><a href="">Tiers-Lieux et réponses aux enjeux critiques</a>, recherche et action</li>
+	<li><a href="https://community.oscedays.org/t/ocean-space-city-interfaces/6555">Ocean, Space & City Interfaces</a>, biomimicry and circular economy</li>
+	<li>Design des instances et consensus, recherche action</li>
+	<li>Tiers-Lieux et réponses aux enjeux critiques, recherche et action</li>
 </ul>
 
 
@@ -126,10 +126,11 @@ Je fais partie également des personnes qui ont conçu et réalisés les premier
 	<li><a href="https://www.transdev-idf.com">TransDdev Tvo</a>, coopération et politique RSE DD du groupe</li>
 	<li><a href="http://www.eesab.fr">École européenne supérieure d'art de Bretagne</a>, prise en stage numérique et prototypage d'étudiant.e.s</li>
 	<li><a href="https://www.rennes-sb.fr">ESC Rennes</a>, formation de 2 promotions Executive MBA au design</li>
-	<li><a href="">Médiathèque de Pontivy</a>, workshop Biomimétisme, numérique, écologie et robot sous-marin pour science océanique</li>
-	<li><a href="">médiathèque de Bretigny sur Orges</a>, intervention biomimétisme pour la semaine de la science</li>
+	<li><a href="http://www.espace-kenere.fr/">Médiathèque de Pontivy</a>, workshop Biomimétisme, numérique, écologie et robot sous-marin pour science océanique</li>
+	<li><a href="https://mediatheque.morbihan.fr">Réseau des médiathéques du Morbihan</a>, Faire tiers-lieux, sciences et hacking en médiathèque</li>
+	<li>médiathèque de Bretigny sur Orges, intervention biomimétisme pour la semaine de la science</li>
 	<li><a href="https://www.utc.fr">Sorbonne Université - Université des Technologie de Compiègne</a>workshop de biomimétisme</li>
-	<li><a href="">réseaux des FabLabs de L'Ouest</a>, coopération et collaboration à l'échelle inter-régionale</li>
+	<li>Réseaux des FabLabs de L'Ouest, coopération et collaboration à l'échelle inter-régionale</li>
 	<li><a href="https://www.ecole-eme.fr">École des Métiers de l'Environnement de Rennes</a>, Formation au biomimétisme des ingénieur.e.s diplomé.e.s se spécialisant en éco-conception</li>
 	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
 	<li>Cours collectif d'étudiant.e.s ingénieur.e.s inter-écoles en technologies</li>
