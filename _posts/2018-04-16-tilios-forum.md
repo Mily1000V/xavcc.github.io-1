@@ -71,7 +71,7 @@ Voir les travaux sur lesquels j’œuvre avec de nombreuses collaborations (list
 + [Gouvernance, coopération et changement climatique](https://xavcc.github.io/climate)
 + [Biomimétisme libre et open source](http://movilab.org/index.php?title=BILIOS:_Biomim%C3%A9tisme_Libre_et_Open_Source._Camp_2017)
 + [Tiers-Lieux et monnaie Libre](http://movilab.org/index.php?title=Tiers-lieux_et_monnaie_libre)
-+ [IndieCamp]http://movilab.org/index.php?title=IndieCamp
++ [IndieCamp](http://movilab.org/index.php?title=IndieCamp)
 + [Questions sur la gestion des risques dans les Tiers-Lieux](http://movilab.org/index.php?title=Questions_sur_la_gestion_des_risques_dans_les_tiers_lieux>)
 + [Fracture, communautés, accéssibilité, lieux, territoire, paysage, pour les publics](https://strategie.societenumerique.gouv.fr/topic/79/fracture-communaut%C3%A9s-acc%C3%A9ssibilit%C3%A9-lieux-territoire-paysage-pour-les-publics)
 
