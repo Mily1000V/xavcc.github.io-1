@@ -37,7 +37,7 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.10 [Le modèle de réapprovisionnement des ressources](#le-modèle-de-réapprovisionnement-des-ressources)
    + 3.11 [Modèle de cuisine inexistante](#modèle-de-cuisine-inexistante)
    + 3.12 [Apathie par un millier de coupures anti modèle](#apathie-par-un-millier-de-coupures-anti-modèle)
-   + 3.13 [Creative Chaos Pattern : l’étape de la crainte de l’anti modèle](#creative-chaos-pattern-:-étape-de-la-crainte-anti modèle)
+   + 3.13 [Creative Chaos Pattern l'étape de la crainte de l’anti modèle](#creative-chaos-pattern-étape-de-la-crainte-anti modèle)
    + 3.14 [Motif de remplacement de membre](#motif-de-remplacement-de-membre)
    + 3.15 [Principes Pattern](#principes-pattern)
    + 3.16 [Mentor Pattern](#mentor-pattern)
@@ -49,7 +49,7 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.22 [Dossier Pattern](#dossier-pattern)
    + 3.23 [Motif Anti-spectateur-indiscret](#motif-anti-spectateur-indiscret)
    + 3.23 [Reboot or Refresh Pattern](#reboot-or-refresh-pattern)
-4. [Contributions {bis}](#contributions-{bis})
+4. [Contributions {bis}](#contributions-bis)
    + 4.1 [TLDR](#tldr)
    + 4.2 [Modèles de conception](#modèles-de-conception)
    + 4.3 [Motifs de conception du hackerspace](#motifs-de-conception-du-hackerspace)
@@ -165,7 +165,7 @@ N'ayez pas de cuisine dans votre espace. Rien ne transforme plus un groupe d'ind
 ### Apathie par un millier de coupures anti modèle 
 Rien ne tue les espaces communautaires comme l'apathie quand de mauvaises choses arrivent. Méfiez-vous des personnes qui apportent de mauvaises choses dans l'espace et traitez-les rapidement. Lorsqu'un grand nombre de ces personnes envahissent un espace, elles tuent l'énergie créatrice des autres en les submergeant de drame. Cela amène à son tour les gens à ignorer les mauvais comportements, à donner une permission implicite et à inviter d'autres personnes à adopter le même mauvais comportement. La communauté est difficile, et vous devriez vous occuper de ces questions au fur et à mesure qu'elles se présentent, et ne pas les laisser se rassembler.
 
-### Creative Chaos Pattern : étape de la crainte anti modèle
+### Creative Chaos Pattern étape de la crainte anti modèle
 
 **Problème** : Lorsqu'un groupe grandit et se fait remarquer dans les médias et dans la communauté locale environnante, les projets solo, de groupe et publics ainsi que les événements publics sont perçus différemment. Cela peut conduire à des attentes supposées plus élevées qui surpassent la qualité, la vitesse et/ou la complexité de la production, et peut être lié à d'autres modèles de conception du hackerspace. Ceci peut être affecté par une courbe sinusoïdale de pattern, par exemple. Cela peut affecter n'importe lequel des éléments suivants : les nouveaux invités qui peuvent se sentir intimidés avant même d'arriver ou comme un diamétral qui s'attendent à voir les robots les accueillir avec des bonbons imprimés en 3d, les nouveaux ainsi que les invités de longue date et les membres qui tentent de décourager les projets dont la qualité est perçue comme étant inférieure, les membres et les invités récurrents qui commencent à se sentir poussés à produire une meilleure qualité ou à participer avec plus d'efforts, le grand public, les leaders de la communauté qui ne font pas partie du Hackerspace, les médias locaux et mondiaux, les partenaires et les commanditaires.
 
