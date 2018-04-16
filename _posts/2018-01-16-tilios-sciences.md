@@ -3,7 +3,7 @@ title: "Tiers-Lieux et artificialité : La faute à pas de sciences ?"
 layout: post
 date: 2018-01-16 22:48
 image: /assets/images/markdown.jpg
-headerImage: true
+headerImage: false
 tag:
 - hsociety
 - Tiers-Lieux
@@ -12,13 +12,6 @@ tag:
 category: blog
 author: XavierCoadic
 description: Markdown summary with different options
----
-
----
-layout: post
-title: "Tiers-Lieux et artificialité : La faute à pas de sciences ?"
-date: 2018-01-16
-categories: ["hsociety"]
 ---
 
 Parcourant la réflexion sur "[La toxicité des Tiers-Lieux](http://movilab.org/index.php?title=R%C3%A9flexions_sur_la_toxicit%C3%A9_et_les_Tiers_Lieux)", par Yoann Duriaux, et le travail d'Arnaud Idelon, "[Tiers-Lieu : enquête sur un objet encore bien flou](http://www.makery.info/2017/10/10/tiers-lieu-enquete-sur-un-objet-encore-bien-flou-12/), j'ai voulu approfondir l'existence ou la non-existence de risques inhérents à "l'explosion" de l'usage de l'appelation "Tiers-Lieu" et à la tendance à la généralisation du paradigme d'un [processus singulier](http://movilab.org/index.php?title=Le_code_source_d%27un_Tiers_Lieux).
