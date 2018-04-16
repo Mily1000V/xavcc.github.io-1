@@ -96,7 +96,7 @@ Les projets sur lesquels je m'investis sont valables sur un organigramme de flux
 
 <ul>
 	<li><a href="https://xavcc.github.io/biononymous">Biononymous, Bioprivacy</a></li>
-	<li><a href="http://daisee.org">DAISEE</a>, Internets of Energy | Energy as a Commons</a></li>
+	<li><a href="http://daisee.org">DAISEE</a>, Internets of Energy | Energy as a Commons</li>
 	<li><a href="https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project">Build Your Device for Infra Terrestrial</a></li>
 	<li><a href="https://community.oscedays.org/t/ocean-space-city-interfaces/6555">Ocean, Space & City Interfaces</a>, biomimicry and circular economy</li>
 </ul>
