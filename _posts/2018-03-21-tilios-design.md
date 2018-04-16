@@ -33,8 +33,24 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.6 [Le modèle de partage en espace](#le-modèle-de-partage-en-espace)
    + 3.7 [Les spectateurs vous aiment bien](#les-spectateurs-vous-aiment-bien)
    + 3.8 [Le 1er Anti-Pattern ?](#le-1er-anti-pattern)
-4. [Contributions (bis)](#contributions-(bis))
-   + 4.1 [tl;dr](#tl ; dr)
+   + 3.9 [Feuille de calcul des engagements de financement](##feuille-de-calcul-des-engagements-de-financement)
+   + 3.10 [Le modèle de réapprovisionnement des ressources](#le-modèle-de-réapprovisionnement-des-ressources)
+   + 3.11 [Modèle de cuisine inexistante](#modèle-de-cuisine-inexistante)
+   + 3.12 [Apathie par un millier de coupures anti modèle](#apathie-un-millier-de-coupures-anti-modèle)
+   + 3.13 [Creative Chaos Pattern : l’étape de la crainte de l’anti modèle](#creative-chaos-pattern-:-étape-de-la-crainte-anti modèle)
+   + 3.14 [Motif de remplacement de membre](#motif-de-remplacement-de-membre)
+   + 3.15 [Principes Pattern](#principes-pattern)
+   + 3.16 [Mentor Pattern](#mentor-pattern)
+   + 3.17 [Modèle de concièrge](#modèle-de-concièrge)
+   + 3.18 [Tendances en matière de sensibilisation ](#tendances-en-matière-de-sensibilisation)
+   + 3.19 [Motif Pot-Lock](#motif-pot-lock)
+   + 3.20 [Schéma de signalisation](#schéma-de-signalisation)
+   + 3.21 [Motif anti-popularité ](#motif-anti-popularité)
+   + 3.22 [Dossier Pattern](#dossier pattern)
+   + 3.23 [Motif Anti-spectateur-indiscret](#motif-anti-spectateur-indiscret)
+   + 3.23 [Reboot/Refresh Pattern](#reboot/refresh-pattern)
+4. [Contributions {bis}](#contributions-{bis})
+   + 4.1 [TLDR](#tldr)
    + 4.2 [Modèles de conception](#modèles-de-conception)
    + 4.3 [Motifs de conception du hackerspace](#motifs-de-conception-du-hackerspace)
    + 4.4 [Modèles de conception du hackerspace quelque peu mis à jour](#modèles-de-conception-du-hackerspace-quelque-peu-mis-à-jour)
@@ -134,7 +150,8 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 ### Feuille de calcul des engagements de financement 
 Il y a une grande pièce d'équipement que plusieurs personnes veulent, mais que votre espace ne peut pas se permettre. Créez une feuille de calcul et demandez aux membres d'inscrire les promesses de dons. Lorsque le montant total mis en gage dépasse le coût de l'article, faites appel aux gages et achetez l'article. Il est important que les donateurs comprennent qu'ils ne seront pas remboursés - ils paient pour apporter de l'équipement utile dans l'espace. N'engagez que ce que cela vaut pour vous.
 
-### Le modèle de réapprovisionnement des ressources (Extension du modèle Club-Mate.)
+### Le modèle de réapprovisionnement des ressources 
+<span class="evidence">(Extension du modèle Club-Mate)</span>
 
 **Problème** : Une ressource particulière (soude/bière/H2O2/C3H7OH) est constamment en disponibilité limitée et personne ne sait qui devrait l'acheter.
 
@@ -148,7 +165,7 @@ N'ayez pas de cuisine dans votre espace. Rien ne transforme plus un groupe d'ind
 ### Apathie par un millier de coupures anti modèle 
 Rien ne tue les espaces communautaires comme l'apathie quand de mauvaises choses arrivent. Méfiez-vous des personnes qui apportent de mauvaises choses dans l'espace et traitez-les rapidement. Lorsqu'un grand nombre de ces personnes envahissent un espace, elles tuent l'énergie créatrice des autres en les submergeant de drame. Cela amène à son tour les gens à ignorer les mauvais comportements, à donner une permission implicite et à inviter d'autres personnes à adopter le même mauvais comportement. La communauté est difficile, et vous devriez vous occuper de ces questions au fur et à mesure qu'elles se présentent, et ne pas les laisser se rassembler.
 
-### Creative Chaos Pattern : l'étape de la crainte de l'anti modèle
+### Creative Chaos Pattern : étape de la crainte anti modèle
 
 **Problème** : Lorsqu'un groupe grandit et se fait remarquer dans les médias et dans la communauté locale environnante, les projets solo, de groupe et publics ainsi que les événements publics sont perçus différemment. Cela peut conduire à des attentes supposées plus élevées qui surpassent la qualité, la vitesse et/ou la complexité de la production, et peut être lié à d'autres modèles de conception du hackerspace. Ceci peut être affecté par une courbe sinusoïdale de pattern, par exemple. Cela peut affecter n'importe lequel des éléments suivants : les nouveaux invités qui peuvent se sentir intimidés avant même d'arriver ou comme un diamétral qui s'attendent à voir les robots les accueillir avec des bonbons imprimés en 3d, les nouveaux ainsi que les invités de longue date et les membres qui tentent de décourager les projets dont la qualité est perçue comme étant inférieure, les membres et les invités récurrents qui commencent à se sentir poussés à produire une meilleure qualité ou à participer avec plus d'efforts, le grand public, les leaders de la communauté qui ne font pas partie du Hackerspace, les médias locaux et mondiaux, les partenaires et les commanditaires.
 
@@ -161,68 +178,77 @@ L'épuisement d'un noyau de bénévoles n'est jamais une bonne idée, et il est 
 
 Rappelez à un membre frustré qu'il peut encourir ce **Pattern Anti Pattern** ou aider le, et demandez-leur de trouver des façons constructives d'aider ce membre avec leur projet au lieu de le réprimander, ou demandez-leur simplement de s'éloigner et de laisser le membre et leur projet tranquilles.
 
-### Motif de remplacement 
+### Motif de remplacement de membre
 ([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Les rôles des bénévoles exigent le développement de nouvelles compétences et l'apprentissage à partir des succès et des échecs des anciens bénévoles.
 
 **Solution** : Les bénévoles devraient commencer à former leurs remplaçants dès qu'ils assument un rôle. Le fait d'avoir plus de membres possédant les compétences nécessaires facilitera la recherche d'un remplaçant le moment venu. De plus, plus il y a de membres qui comprennent un rôle bénévole particulier, plus il sera facile pour le bénévole dans ce rôle de communiquer avec les membres.
 
-### Principes Pattern ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Principes Pattern 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Les membres d'un grand groupe ont des valeurs différentes, ce qui rend difficile la prise de décisions.
 
 **Solution** : Dès le début, créez une liste de " principes communs " ou de " points d'unité " qui décrivent les idéaux qui étaient importants pour les premiers membres. Ces idéaux devraient être expliqués à tous les nouveaux membres. Les débats devraient s'inscrire dans ces principes communs. Les principes peuvent être révisés, ajoutés ou supprimés, mais seulement s'il y a consensus.
 
-### Mentor Pattern ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Mentor Pattern 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : L'intégration des nouveaux membres est difficile. Les nouveaux membres peuvent avoir de la difficulté à trouver les ressources dont ils ont besoin et à apprendre leurs responsabilités en tant que membres.
 
 **Solution** : Chaque nouveau membre se voit attribuer un membre expérimenté comme mentor. Lorsque le membre a une question, il peut s'adresser au mentor pour trouver la réponse. Si le membre ne respecte pas les principes du groupe, le mentor peut lui parler.
 
-### Modèle de concièrge ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Modèle de concièrge 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Il y a beaucoup de décisions d'utilisation de l'espace à prendre, mais la plupart ne sont pas pertinentes pour une personne en particulier.
 
 **Solution**: Désigner un concierge pour chaque zone de l'espace (atelier d'usinage, salle d'artisanat, etc.) Les coordonnées du concierge sont affichées publiquement dans cette zone. Si un membre a une question ou un problème dans cette zone, il peut contacter le concierge pour le résoudre. Le gardien a le dernier mot sur les décisions d'utilisation de l'espace.
 
-### Tendances en matière de sensibilisation ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Tendances en matière de sensibilisation 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Votre espace est presque entièrement comosé de jeunes, de classe moyenne, les hommes blancs et n'importe qui d'autre se sent moins à l'aise d'utiliser l'espace.
 
 **Solution** : Augmenter activement la visibilité de votre groupe dans les communautés avec des pourcentages plus élevés de femmes et de minorités sous-représentées. Placez plus de dépliants, faites de la publicité sur les listes d'envoi et informez ces groupes à l'avance des cours et des ateliers avant de les annoncer aux membres actuels et à leurs amis.
 
-### Motif Pot-Lock ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Motif Pot-Lock 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : L'entretien et le nettoyage sont ennuyeux et personne ne veut le faire.
 
 **Solution** : Tenez une combinaison de pot-luck et de lock-in. Tout le monde travaille à l'entretien et au nettoyage et prend une pause pour partager des repas préparés à la maison. Personne ne part tant que ce temps n'est pas écoulé.
 
-### Schéma de signalisation ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Schéma de signalisation 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Les membres ne font pas ce qu'ils devraient faire.
 
 **Solution** : Placez des panneaux expliquant la procédure correcte aussi près que possible du problème, par exemple un pochoir "Nettoyer avent de partir" sur des surfaces planes.
 
-### Motif anti-popularité ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Motif anti-popularité 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Les plaintes pour inconduite se transforment en concours de popularité.
 
 **Solution** : Lorsque vous discutez des plaintes pour inconduite, jugez les actes plutôt que la moralité. Sachez clairement quelles actions spécifiques étaient inappropriées et pourquoi. Ceci a l'avantage de renforcer les normes comportementales pour les autres membres.
 
-### Dossier Pattern ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Dossier Pattern 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Le conseil a reçu une plainte au sujet d'un membre, mais le membre dit qu'il n'a pas compris les règles. Les membres du conseil d'administration sont nouveaux et n'ont aucun moyen de savoir si le membre a déjà été un problème auparavant.
 
 **Solution** : Conserver les dossiers de toutes les plaintes des membres dans un système confidentiel et consultable. Même si quelqu'un ne veut pas déposer une plainte officielle, laisser une note peut aider à établir s'il y a un modèle de comportement répréhensible et aider les futurs conseils d'administration à assurer le suivi.
 
-### Motif Anti-spectateur-indiscret ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Motif Anti-spectateur-indiscret 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Tout le monde a une opinion sur la façon dont une tâche devrait être accomplie, mais personne ne se présente pour le faire.
 
 **Solution** : Faites en sorte que les membres doivent faire des efforts avant d'avoir leur mot à dire. Avoir des discussions dans les réunions de comité en dehors des réunions générales et exiger des devoirs (par exemple, des courriels dans les propositions au préalable). Si quelqu'un ne se présente pas régulièrement, ou ne fait pas de travail constructif, arrêtez de l'inviter aux réunions.
 
-### Reboot/Refresh Pattern :
+### Reboot/Refresh Pattern 
 
 **Problème** :
 Quand l'espace est tout neuf, tout le monde met son énergie dans l'espace crée quelque chose de nouveau, et outs sont excités à son sujet, et se lient à cet espace. Après quelques années, les gens vont et viennent, et ce sentiment et cette énergie de nouveauté a disparu - et les personnes qui sont nouvelles dans l'espace ont le sentiment que l'espace a existé bien avant eux, et qu'il continuera tout seul. De plus, la culture de l'espace change avec le temps. Certains mauvais comportements pourraient commencer à se faufiler. Et certaines personnes qui consacrent beaucoup de temps et d'énergie à l'espace ont tendance à s'épuiser.
@@ -231,11 +257,13 @@ Quand l'espace est tout neuf, tout le monde met son énergie dans l'espace crée
 
 Avoir un mini-Reboot annuellement pour régénérer cette année après année.
 
-**Une alternative à un Reboot** : c'est d'avoir un Grand Projet qui obtient la majorité (ou, idéalement, la totalité) des gens de l'espace qui sont impatients d'apporter leur aide à la réalité.
+<span class="evidence">**Une alternative à un Reboot** : c'est d'avoir un Grand Projet qui obtient la majorité (ou, idéalement, la totalité) des gens de l'espace qui sont impatients d'apporter leur aide à la réalité.</span>
 
 ## Contributions (bis)
 
-### tl;dr 
+### TLDR
+
+> <span class="evidence">tld;dr : « too long; didn’t read »</span>
 
 Avez-vous observé un Pattern (ce qui fonctionne bien et ce qui ne fonctionne pas si bien) dans votre hackerspace que vous pensez que les autres peuvent en bénéficier ? Si oui, s'il vous plaît, partagez-le avec moi (aka Mitch), afin que je (aka Mitch) puisse continuer à le partager avec d'autres personnes lors de mes futures discussions.
 
