@@ -32,9 +32,9 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.5 [L’Anti-Sponsoring Anti-Pattern](#anti-sponsoring-anti-pattern)
    + 3.6 [Le modèle de partage en espace](#le-modèle-de-partage-en-espace)
    + 3.7 [Les spectateurs vous aiment bien](#les-spectateurs-vous-aiment-bien)
-   + 3.8 [Quel est le 1er Anti-Pattern ?](#quel-est-le-1er-anti-pattern)
+   + 3.8 [Le 1er Anti-Pattern ?](#le-1er-anti-pattern)
 4. [Contributions (bis)](#contributions-(bis))
-   + 4.1 [tl;dr](#tl-;-dr)
+   + 4.1 [tl;dr](#tl ; dr)
    + 4.2 [Modèles de conception](#modèles-de-conception)
    + 4.3 [Motifs de conception du hackerspace](#motifs-de-conception-du-hackerspace)
    + 4.4 [Modèles de conception du hackerspace quelque peu mis à jour](#modèles-de-conception-du-hackerspace-quelque-peu-mis-à-jour)
@@ -111,7 +111,8 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 **Converse Anti-Modèle** : Maintenant, il y a des choses qui se trouvent au milieu de votre boutique et qui ne sont pas vraiment la responsabilité d'aucun de vos membres.
 
 **Solution** : Disposer d'un mécanisme solide pour faire face à la marchandise. 
-**PS** : [La politique de Tidyspace ](https://wiki.pumpingstationone.org/Tidy_Space_Policy)est bonne pour enlever la ferraille d'une manière équitable. 
+
+> **PS** : [La politique de Tidyspace ](https://wiki.pumpingstationone.org/Tidy_Space_Policy)est bonne pour enlever la ferraille d'une manière équitable. 
 
 ### Les spectateurs vous aiment bien
 
@@ -120,7 +121,9 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 **Converse Anti-Modèle** : Vous dirigez la campagne et ne pouvez pas sérigraphier sur vos sacs imprimés, ou vous les faites tous les mois.
 
-### Quel est le 1er Anti-Pattern ?
+### Le 1er Anti-Pattern 
+
+> Quel est le 1er Anti-Pattern ?
 
 **Problème** : Le fonctionnement de l'espace dépend de la présence de plusieurs personnes. La question "À qui je donne de l'argent" est accueillie par "Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh". La question "Comment devenir membre ? "Vous parleriez à.... J. Hacker, qui n'est... pas là ce soir".
 
