@@ -33,10 +33,10 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.6 [Le modèle de partage en espace](#le-modèle-de-partage-en-espace)
    + 3.7 [Les spectateurs vous aiment bien](#les-spectateurs-vous-aiment-bien)
    + 3.8 [Le 1er Anti-Pattern ?](#le-1er-anti-pattern)
-   + 3.9 [Feuille de calcul des engagements de financement](##feuille-de-calcul-des-engagements-de-financement)
+   + 3.9 [Feuille de calcul des engagements de financement](#feuille-de-calcul-des-engagements-de-financement)
    + 3.10 [Le modèle de réapprovisionnement des ressources](#le-modèle-de-réapprovisionnement-des-ressources)
    + 3.11 [Modèle de cuisine inexistante](#modèle-de-cuisine-inexistante)
-   + 3.12 [Apathie par un millier de coupures anti modèle](#apathie-un-millier-de-coupures-anti-modèle)
+   + 3.12 [Apathie par un millier de coupures anti modèle](#apathie-par-un-millier-de-coupures-anti-modèle)
    + 3.13 [Creative Chaos Pattern : l’étape de la crainte de l’anti modèle](#creative-chaos-pattern-:-étape-de-la-crainte-anti modèle)
    + 3.14 [Motif de remplacement de membre](#motif-de-remplacement-de-membre)
    + 3.15 [Principes Pattern](#principes-pattern)
@@ -46,9 +46,9 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.19 [Motif Pot-Lock](#motif-pot-lock)
    + 3.20 [Schéma de signalisation](#schéma-de-signalisation)
    + 3.21 [Motif anti-popularité ](#motif-anti-popularité)
-   + 3.22 [Dossier Pattern](#dossier pattern)
+   + 3.22 [Dossier Pattern](#dossier-pattern)
    + 3.23 [Motif Anti-spectateur-indiscret](#motif-anti-spectateur-indiscret)
-   + 3.23 [Reboot/Refresh Pattern](#reboot/refresh-pattern)
+   + 3.23 [Reboot or Refresh Pattern](#reboot-or-refresh-pattern)
 4. [Contributions {bis}](#contributions-{bis})
    + 4.1 [TLDR](#tldr)
    + 4.2 [Modèles de conception](#modèles-de-conception)
@@ -248,7 +248,7 @@ Rappelez à un membre frustré qu'il peut encourir ce **Pattern Anti Pattern** o
 
 **Solution** : Faites en sorte que les membres doivent faire des efforts avant d'avoir leur mot à dire. Avoir des discussions dans les réunions de comité en dehors des réunions générales et exiger des devoirs (par exemple, des courriels dans les propositions au préalable). Si quelqu'un ne se présente pas régulièrement, ou ne fait pas de travail constructif, arrêtez de l'inviter aux réunions.
 
-### Reboot/Refresh Pattern 
+### Reboot or Refresh Pattern 
 
 **Problème** :
 Quand l'espace est tout neuf, tout le monde met son énergie dans l'espace crée quelque chose de nouveau, et outs sont excités à son sujet, et se lient à cet espace. Après quelques années, les gens vont et viennent, et ce sentiment et cette énergie de nouveauté a disparu - et les personnes qui sont nouvelles dans l'espace ont le sentiment que l'espace a existé bien avant eux, et qu'il continuera tout seul. De plus, la culture de l'espace change avec le temps. Certains mauvais comportements pourraient commencer à se faufiler. Et certaines personnes qui consacrent beaucoup de temps et d'énergie à l'espace ont tendance à s'épuiser.
@@ -259,7 +259,7 @@ Avoir un mini-Reboot annuellement pour régénérer cette année après année.
 
 <span class="evidence">**Une alternative à un Reboot** : c'est d'avoir un Grand Projet qui obtient la majorité (ou, idéalement, la totalité) des gens de l'espace qui sont impatients d'apporter leur aide à la réalité.</span>
 
-## Contributions (bis)
+## Contributions bis
 
 ### TLDR
 
