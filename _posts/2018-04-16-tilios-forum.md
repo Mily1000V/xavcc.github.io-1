@@ -55,7 +55,7 @@ Voici un premier texte de travail publié en janvier 2018 : [Tiers-lieux et arti
   * bioéthique et sciences
   * [Biononymous et bioprivacy](https://xavcc.github.io/biononymous)
 
-3. faire face à l'urgence écologique et de la gouvernance
+<span class="evidence">Faire face à l'urgence écologique et de la gouvernance</span>
 
 #### documentations des travaux
 
@@ -92,5 +92,6 @@ Je suggère d'établir une liste en fin de phase deux avec les participants et e
 Simplement des rencontres et des collaborations avec de la production de communs dans le libre et l'open source, avec documentation évidemment.
 
 Et peut-être l'amorçage d'actions plus efficientes et adaptables dans différents lieux, communautés, structures, organisations, un peu partout ailleurs et même au delà des cercles d'intié.e.s habituel.le.s
+
 
 > **NB**, la découverte par hasard se nomme "Mise en commun et coopération face aux enjeux critiques" et est disponible [ici](http://forum-usages-cooperatifs.net/index.php/Mise_en_commun_et_coop%C3%A9ration_face_aux_enjeux_critiques). Il est décrit comme "Atelier pour mettre en cartographie et documentations les différentes ressources et réponses que connaissent les participants"
