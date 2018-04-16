@@ -26,6 +26,9 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
 2. [Contributions](#contributions)
 3. [Nouveaux modèles de conception pour un hackerspace](#nouveaux-modèles-de-conception-pour-un-hackerspace)
    + 3.1 [Modèle physique](#modèle-physique)
+   + 3.2 [Modèle API](#modèle-API)
+   + 3.3 [Le modèle du groupe de discussion](#modèle-du-groupe-de-discussion)
+   + 3.4 [Le motif “Cabin Fever”](#le-motif-cabine-fever)
 
 ## Origine
 
@@ -58,13 +61,14 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 **Solution** : Au lieu de créer des règles, faites en sorte qu'il soit physiquement impossible de faire la mauvaise chose, par exemple, au lieu de dire "éteignez les lumières quand vous avez terminé", mettez les lumières sur une minuterie automatique.
 
-### Modèle API ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Modèle API 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Les hackers n'aiment pas les règles inutiles, et les règles sont souvent inapplicables. Consultez le lien sur les [répercussions de la surcharge de l'élaboration de règles](http://theconversation.com/too-much-information-how-a-data-deluge-leaves-us-struggling-to-make-up-our-minds-44674).
 
 **Solution** : Au lieu de règles, créez des procédures pour résoudre les problèmes. Par exemple, créez un "ticket de parking" que les membres peuvent placer sur des projets abandonnés à leur manière, et un moyen standard pour informer le groupe du ticket. Permettre à quiconque de se départir / défaire d'un projet abandonné un certain temps après l'émission d'une contravention ou (contrepartie) de stationnement.
 
-### Le modèle du groupe de discussion.
+### Le modèle du groupe de discussion
 
 **Problème** : Une modification des règles a conduit à un tollé de la part d'un ensemble de membres. Le problème s'articule fondamentalement autour d'un sujet particulier (p. ex. inclusivité, féminisme, etc.).
 
@@ -75,7 +79,7 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 **NB** : Allez à l'extérieur, dans un endroit agréable, comme un restaurant local. Autour de la nourriture.
 
-### Le motif "Cabin Fever".
+### Le motif "Cabin Fever"
 
 **Problème** : Un désaccord de contentieux éclate entre un grand nombre de membres. Le sujet varie, mais la controverse se produit sur une base semi-régulière. Par exemple, fin janvier/début février. Ou tous les 4 mois.
 
