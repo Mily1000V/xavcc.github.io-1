@@ -13,7 +13,7 @@ author: XavierCoadic
 description: Pour des internets libres et décentralisés, Réseau avec des noeuds pair à pair non anomynes IPV6 et sécurité E2E
 ---
 
-Pour des internets libres et décentralisés : http://www.fc00.org
+Pour des internets libres et décentralisés : <http://www.fc00.org>
 
 ## Installation cjdns pour Ubuntu - Hyperboria
 
