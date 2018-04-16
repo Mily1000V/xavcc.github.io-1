@@ -29,8 +29,8 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.2 [Modèle API](#modèle-api)
    + 3.3 [Le modèle du groupe de discussion](#le-modèle-du-groupe-de-discussion)
    + 3.4 [Le motif "Cabin Fever"](#le-motif-cabine-fever)
-   + 3.5 [L’Anti-Sponsoring Anti-Pattern](#l'-anti-sponsoring-anti-pattern)
-   + 3.6 [Le modèle de partage de l’espace](#le-modèle-de-partage-de-l-espace)
+   + 3.5 [L’Anti-Sponsoring Anti-Pattern](#l-'-anti-sponsoring-anti-pattern)
+   + 3.6 [Le modèle de partage de l’espace](#le-modèle-de-partage-de-l-'-espace)
 
 ## Origine
 
