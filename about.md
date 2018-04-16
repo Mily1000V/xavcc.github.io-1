@@ -50,21 +50,21 @@ Ex-abnégateur en tenue d’urgence sur 10 ans de vie, encore au service des pop
 Breton amoureux des océans et contemplateur de la biosphère.
 
 {% highlight python %}
-
 def biomimicry(min, max):
     for i in range(min, max+1):
-	square = i**.5
-	prime = true
-	for j in range(2, int(square)int+1):
-	    if %j == 0:
-		   prime = false
-		   break
-	if prime :
-	    print i, " Floss"
-    elif square == round(square):
-	    print i, " Bios"
-	else
-	    print i, " Biomimicry"
+        square = i**.5
+        prime = True
+        for j in range(2, int(square)+1):
+            if i%j == 0:
+                prime = False
+                break
+        if prime:
+            print i, "  Bios"
+        elif square == round(square):
+            print i, "  Floss"
+        else:
+            print i, "  Biomimicry"
+
 biomimicry(100, 1000000)
 {% endhighlight %}
 	
