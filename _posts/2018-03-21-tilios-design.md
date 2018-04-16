@@ -16,7 +16,7 @@ description: Tiers-Lieux Libres et Open source, faire des choix ou gouverner ?
 
 Traduction en français de **Hackerspace Design Patterns** dont la version d'origine en anglais sur le [wiki de Noisebridge](https://www.noisebridge.net/wiki/Hackerspace_Design_Patterns_2.0) est sous  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
-En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand nombre.
+En espérant que cette recette de Tiers-Lieux puisse être utile au plus grand nombre.
 
 ![](/assets/images/hackerspace1.jpg "Photo credit:hslphotosync -Lincence CC BY-SA")
 
