@@ -1,15 +1,23 @@
 ---
-layout: post
 title: "Biomimétisme : quelques ressources pour travailler"
-date: 2018-02-14
-categories: ["biomimicry"]
+layout: post
+date: 2018-02-14 22:48
+image: /assets/images/biomimicry-architecture.jpg
+headerImage: true
+tag:
+- Biomimétisme
+- Open source
+- bioinspiration 
+category: blog
+author: XavierCaodic
+description: Markdown summary with different options
 ---
 
 Le biomimétisme, s'inspirer du vivant et de la nature pour résoudre des défis sociétaux, est un ensemble de disciplines et de pratiques qui a pour dessein d'imiter les matériaux, les formes, les mécanismes et les systèmes éprouvés par les conditions, les exigences et les contraintes de l'évolution du vivant. Ces velléités d'innovations sont liées aux notions de transfert de processus biologique et / ou physique et / ou chimique dans les nouvelles fabrications humaines.
 
 D'après [Otto Herbet Arnold Schmitt](https://fr.wikipedia.org/wiki/Otto_Schmitt) il s'agit de décrire un mode d'exploration du Vivant en tant que source de solutions efficientes et moins coûteuses à de nombreux problèmes. La descritpion est une tâche exigente qui demande de la rigueure.
 
-![/images/biomimicy.jpg](/images/biomimicy.jpg)
+![](/assets/images/biomimicy.jpg)
 
 La biomimétisme est un processus d'apprentissage, basé et implanté au sein de l'expérimentation et du prototypage, interrogeant l'éthique, promettant une écologie (science de l'environnement) et des moyens plus soutenables (respect de l'environnement). Le travail de conception, le travail de biologie, le travail du code, le travail de l'architecture, et les autres disciplines, ne sont que des effets de bord de ce processus d'apprentissage. Nous devons apprendre à apprendre et apprendre à partager les connaissances, les pratiques et les documentations pour exercer le biomimétisme. Le Biomimétisme sans prototypage, sans expérimentation, sans connaissance libre, n'existe pas. 
 Pour ces conditions, nous avons besoin d'un système libre et open source.
@@ -41,7 +49,7 @@ Je vous invite à consulter l'article de Guillaume Rouan sur [les licences et l'
 
 Sylvain Deville est chercheur au "[Ceramic Synthesis and Functionalization Laboratory](http://lsfc.cnrs-mrs.fr/Presentation,85?lang=en)", directeur  CNRS en physique appliquée, travaillant sur l'étude de certains matériaux pour s'en inspirer et concevoir de nouveaux matériaux aux propriétés remarquable comme la nacre présente dans les coquillages entre autres. cEs travaux sur le "Freezing" pourront vous être d'une grande utilité si vous vous interressez à l'innovation bioinspirée.
 
-![/images/Screenshot-2018-2-14 Sylvain Deville.png](/images/Screenshot-2018-2-14 Sylvain Deville.png "capture d'écran du site internet de données publiques de Sylvain Deville")
+![](/assets/images/Screenshot-2018-2-14 Sylvain Deville.png "capture d'écran du site internet de données publiques de Sylvain Deville")
 
 Il revendique de participer à une [science ouverte](https://figshare.com/authors/Sylvain_Deville/736723) et partagent des images contenant des données de ces travaux sur les biomatériaux sous licence CC BY 4.0 via son [site internet dédié](https://figshare.com/authors/Sylvain_Deville/736723), avec également un [taux de publications ouvertes](https://profiles.impactstory.org/u/0000-0002-3363-3184) de 77 % ,  et des [accès ORCID ou Google scholar](https://sylvaindeville.net/publications) à ses publications. 
 
