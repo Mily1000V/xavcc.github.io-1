@@ -10,7 +10,7 @@ tag:
 - bioinspiration 
 category: blog
 author: XavierCoadic
-description: Markdown summary with different options
+description: Pour ces conditions, nous avons besoin d'un système libre et open source
 ---
 
 Le biomimétisme, s'inspirer du vivant et de la nature pour résoudre des défis sociétaux, est un ensemble de disciplines et de pratiques qui a pour dessein d'imiter les matériaux, les formes, les mécanismes et les systèmes éprouvés par les conditions, les exigences et les contraintes de l'évolution du vivant. Ces velléités d'innovations sont liées aux notions de transfert de processus biologique et / ou physique et / ou chimique dans les nouvelles fabrications humaines.
