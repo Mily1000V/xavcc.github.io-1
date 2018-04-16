@@ -28,7 +28,9 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.1 [Modèle physique](#modèle-physique)
    + 3.2 [Modèle API](#modèle-api)
    + 3.3 [Le modèle du groupe de discussion](#le-modèle-du-groupe-de-discussion)
-   + 3.4 [Le motif "Cabin Fever"](#le-motif-"-cabine-fever-")
+   + 3.4 [Le motif "Cabin Fever"](#le-motif-cabine-fever)
+   + 3.5 [L’Anti-Sponsoring Anti-Pattern](#l'-anti-sponsoring-anti-pattern)
+   + 3.6 [Le modèle de partage de l’espace](#le-modèle-de-partage-de-l-espace)
 
 ## Origine
 
@@ -79,7 +81,7 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 **NB** : Allez à l'extérieur, dans un endroit agréable, comme un restaurant local. Autour de la nourriture.
 
-### Le motif "Cabin Fever"
+### Le motif Cabin Fever
 
 **Problème** : Un désaccord de contentieux éclate entre un grand nombre de membres. Le sujet varie, mais la controverse se produit sur une base semi-régulière. Par exemple, fin janvier/début février. Ou tous les 4 mois.
 
@@ -111,7 +113,7 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 ### Qui est le 1er Anti-Pattern ?
 
-**Problème** : Le fonctionnement de l'espace dépend de la présence de plusieurs personnes. La question "À qui je donne de l'argent" est accueillie par "Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh. La question "Comment devenir membre ? "Vous parleriez à.... J. Hacker, qui n'est... pas là ce soir".
+**Problème** : Le fonctionnement de l'espace dépend de la présence de plusieurs personnes. La question "À qui je donne de l'argent" est accueillie par "Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh". La question "Comment devenir membre ? "Vous parleriez à.... J. Hacker, qui n'est... pas là ce soir".
 
 **Solution** : Si une seule personne est nécessaire pour une seule tâche, il devrait y avoir plusieurs plusieurs personnes. Si cette tâche est commune, ou implique la gestion de l'espace, une de ces personnes devrait *être là* lorsque la porte est ouverte ou disponible* plus souvent qu'habituellement.
 
