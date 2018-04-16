@@ -28,7 +28,7 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.1 [Modèle physique](#modèle-physique)
    + 3.2 [Modèle API](#modèle-API)
    + 3.3 [Le modèle du groupe de discussion](#modèle-du-groupe-de-discussion)
-   + 3.4 [Le motif “Cabin Fever”](#le-motif-cabine-fever)
+   + 3.4 [Le motif "Cabin Fever"](#le-motif-"-cabine-fever-")
 
 ## Origine
 
@@ -85,7 +85,7 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 **Solution** : Le sujet peut être valide, mais il est important d'examiner la racine du désaccord. Les influences extérieures/saisonnières affectent-elles les membres ? Parfois, les gens commencent à se battre pour se défouler. Si la période de l'année ou la météo affecte les membres, assurez-vous que les décisions importantes ne sont pas influencées négativement par des préoccupations saisonnières. S'il est nécessaire de relacher régulièrement de la vapeur / de la pression, établissez une série régulière de projets de groupe/objectifs communs pour donner aux gens quelque chose sur quoi concentrer leur énergie, au lieu de les diriger les uns vers les autres, et fixez la durée du cycle pour compléter le cycle de conflit existant.
 
-### L'Anti-Sponsoring Anti-Pattern.
+### L'Anti-Sponsoring Anti-Pattern
 
 **Problème** : L'indépendance est cool, mais le loyer doit être payé.
 
@@ -117,24 +117,24 @@ N'hésitez pas à ajouter vos nouveaux motifs [ici](https://www.noisebridge.net/
 
 > Une personne qui prend l'argent devrait être là tous les soirs. A l'heure d'ouverture. Si vous êtes un espace 24/7, il devrait y avoir un moyen *de contacter cette personne *facilement* -- et il/elle devrait être **CONNU**.
 
-### Feuille de calcul des engagements de financement :
+### Feuille de calcul des engagements de financement 
 Il y a une grande pièce d'équipement que plusieurs personnes veulent, mais que votre espace ne peut pas se permettre. Créez une feuille de calcul et demandez aux membres d'inscrire les promesses de dons. Lorsque le montant total mis en gage dépasse le coût de l'article, faites appel aux gages et achetez l'article. Il est important que les donateurs comprennent qu'ils ne seront pas remboursés - ils paient pour apporter de l'équipement utile dans l'espace. N'engagez que ce que cela vaut pour vous.
 
-### Le modèle de réapprovisionnement des ressources. (Extension du modèle Club-Mate.)
+### Le modèle de réapprovisionnement des ressources (Extension du modèle Club-Mate.)
 
 **Problème** : Une ressource particulière (soude/bière/H2O2/C3H7OH) est constamment en disponibilité limitée et personne ne sait qui devrait l'acheter.
 
 **Solution** : La personne qui est le plus capable (l'offre) et qui utilise le plus (la demande) assure le réapprovisionnement pendant les phases d'utilisation intensive. Un membre de l'espace qui est qualifié pour gérer les fonds devrait prendre les fonds alloués et réapprovisionner les fournitures.
 
-(**implémentation commune** : le réfrigérateur de Quelab soda est souvent réapprovisionné par des personnes qui veulent un soda particulier, qui est généralement en vente à côté d'autres sodas. Les fonds recueillis grâce à l'utilisation de la soude, de la bière, etc. servent à acheter plus de soude, de bière, de peroxyde d'hydrogène, d'alcool isopropylique, ....etc. respectivement.)
+> **implémentation commune** : le réfrigérateur de Quelab soda est souvent réapprovisionné par des personnes qui veulent un soda particulier, qui est généralement en vente à côté d'autres sodas. Les fonds recueillis grâce à l'utilisation de la soude, de la bière, etc. servent à acheter plus de soude, de bière, de peroxyde d'hydrogène, d'alcool isopropylique, ....etc. respectivement.)
 
-### Modèle de cuisine inexistant :
+### Modèle de cuisine inexistante
 N'ayez pas de cuisine dans votre espace. Rien ne transforme plus un groupe d'individus divers en cliques concurrentes comme l'utilisation de votre hackerspace comme quartier d'habitation partagé. Ayez un réfrigérateur qui est nettoyé une fois par semaine, qu'il/elle en ait besoin ou non, que vous pensez que les aliments devraient être jetés ou non (il/elle devrait l'être).
 
-### Apathie par un millier de coupures anti modèle :
+### Apathie par un millier de coupures anti modèle 
 Rien ne tue les espaces communautaires comme l'apathie quand de mauvaises choses arrivent. Méfiez-vous des personnes qui apportent de mauvaises choses dans l'espace et traitez-les rapidement. Lorsqu'un grand nombre de ces personnes envahissent un espace, elles tuent l'énergie créatrice des autres en les submergeant de drame. Cela amène à son tour les gens à ignorer les mauvais comportements, à donner une permission implicite et à inviter d'autres personnes à adopter le même mauvais comportement. La communauté est difficile, et vous devriez vous occuper de ces questions au fur et à mesure qu'elles se présentent, et ne pas les laisser se rassembler.
 
-### Creative Chaos Pattern : l'étape de la crainte de l'anti modèle:
+### Creative Chaos Pattern : l'étape de la crainte de l'anti modèle
 
 **Problème** : Lorsqu'un groupe grandit et se fait remarquer dans les médias et dans la communauté locale environnante, les projets solo, de groupe et publics ainsi que les événements publics sont perçus différemment. Cela peut conduire à des attentes supposées plus élevées qui surpassent la qualité, la vitesse et/ou la complexité de la production, et peut être lié à d'autres modèles de conception du hackerspace. Ceci peut être affecté par une courbe sinusoïdale de pattern, par exemple. Cela peut affecter n'importe lequel des éléments suivants : les nouveaux invités qui peuvent se sentir intimidés avant même d'arriver ou comme un diamétral qui s'attendent à voir les robots les accueillir avec des bonbons imprimés en 3d, les nouveaux ainsi que les invités de longue date et les membres qui tentent de décourager les projets dont la qualité est perçue comme étant inférieure, les membres et les invités récurrents qui commencent à se sentir poussés à produire une meilleure qualité ou à participer avec plus d'efforts, le grand public, les leaders de la communauté qui ne font pas partie du Hackerspace, les médias locaux et mondiaux, les partenaires et les commanditaires.
 
@@ -147,7 +147,8 @@ L'épuisement d'un noyau de bénévoles n'est jamais une bonne idée, et il est 
 
 Rappelez à un membre frustré qu'il peut encourir ce **Pattern Anti Pattern** ou aider le, et demandez-leur de trouver des façons constructives d'aider ce membre avec leur projet au lieu de le réprimander, ou demandez-leur simplement de s'éloigner et de laisser le membre et leur projet tranquilles.
 
-### Motif de remplacement ([source](https://elplatt.com/new-hackerspace-design-patterns))
+### Motif de remplacement 
+([source](https://elplatt.com/new-hackerspace-design-patterns))
 
 **Problème** : Les rôles des bénévoles exigent le développement de nouvelles compétences et l'apprentissage à partir des succès et des échecs des anciens bénévoles.
 
