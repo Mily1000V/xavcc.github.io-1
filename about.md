@@ -104,19 +104,6 @@ Les projets sur lesquels je m'investis sont valables sur un organigramme de flux
 
 Les recherches que je mène actuellement :
 
-1. Design des instances et consensus, recherche action
-2. Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques
-   + Libertés et sécurités informatique
-   + Prévision et prévention des accidents corporels
-   + Libertés et égalité au delà des genres et des classes
-   + Accessibilité, perméabilité, handicaps
-   + Bioéthique et sciences ouvertes
-   + Biononymous et bioprivacy
-3. Océans, Espace, Villes, les interfaces de résilience
-   + Les micro-organismes et la biomremédiation
-   + Les données spatiale pour la prévention et prévision des risques
-   + Les Internets de l'énergie, l'énergie comme un commun
-
 ## Hackathons et indieCamps
 
 Ceux dans lesquels je me suis investi comme co-organisateurs :
