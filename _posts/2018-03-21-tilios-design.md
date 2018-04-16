@@ -29,9 +29,16 @@ En espérant que cette recette de Tiers-Liuex puisse être utile au plus grand n
    + 3.2 [Modèle API](#modèle-api)
    + 3.3 [Le modèle du groupe de discussion](#le-modèle-du-groupe-de-discussion)
    + 3.4 [Le motif "Cabin Fever"](#le-motif-cabine-fever)
-   + 3.5 [L’Anti-Sponsoring Anti-Pattern](#l-'-anti-sponsoring-anti-pattern)
-   + 3.6 [Le modèle de partage de l’espace](#le-modèle-de-partage-de-l-'-espace)
-
+   + 3.5 [L’Anti-Sponsoring Anti-Pattern](#l'anti-sponsoring-anti-pattern)
+   + 3.6 [Le modèle de partage de l’espace](#le-modèle-de-partage-de-l'espace)
+4. [Contributions (bis)](#contirbution-(bis))
+   + 4.1 [tl;dr](#tl;dr)
+   + 4.2 [Modèles de conception](#modèle-de-conception)
+   + 4.3 [Motifs de conception du hackerspace](#motifs-de-conception-du-hackerspace)
+   + 4.4 [Modèles de conception du hackerspace quelque peu mis à jour](#modèles-de-conception-du-hackerspace-quelque-peu-mis-à-jour)
+   + 4.5 [Vos observations recherchées](#vos-observations-recherchées)
+   + 4.6 [Atelier après la conférence au CCCamp 2015](#atelier-après-la-conférence-au-cccamp-2015)
+   
 ## Origine
 
 Mitch Altman avait proposé un intervention au [CCCamp 2015](https://events.ccc.de/camp/2015/wiki/Main_Page): une présentation actualisée de **the Hackerspace Design Patterns**. 
@@ -221,9 +228,9 @@ Avoir un mini-Reboot annuellement pour régénérer cette année après année.
 
 **Une alternative à un Reboot** : c'est d'avoir un Grand Projet qui obtient la majorité (ou, idéalement, la totalité) des gens de l'espace qui sont impatients d'apporter leur aide à la réalité.
 
-## Contibutions (bis)
+## Contributions (bis)
 
-### tl;dr :
+### tl;dr 
 
 Avez-vous observé un Pattern (ce qui fonctionne bien et ce qui ne fonctionne pas si bien) dans votre hackerspace que vous pensez que les autres peuvent en bénéficier ? Si oui, s'il vous plaît, partagez-le avec moi (aka Mitch), afin que je (aka Mitch) puisse continuer à le partager avec d'autres personnes lors de mes futures discussions.
 
