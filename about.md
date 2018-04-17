@@ -101,19 +101,26 @@ Les projets sur lesquels je m'investis sont valables sur un organigramme de flux
 	<li><a href="https://community.oscedays.org/t/ocean-space-city-interfaces/6555">Ocean, Space & City Interfaces</a>, biomimicry and circular economy</li>
 </ul>
 
+### Contibutions
+
++ [core contributeur](http://movilab.org/index.php?title=Utilisateur:XavCC) sur [Movilab.org](http://movilab.org) qui constitue le capital informationnel commun des Tiers Lieux
++ [core contributeur](https://github.com/multibao/site/blob/master/README.md) sur Le carnet de bord des organisations novatrices : [Multibao.org](v)
++ Membre [Digital Athanor](http://www.digital-athanor.com/team/xavier-coadic)
++ Contributeur au fonctionnement de [l'Hôtel Pasteur](http://www.hotelpasteur.fr) à Rennes
+
 ## Recherches
 
 Les recherches que je mène actuellement :
 
-1. Design des instances et consensus, recherche action
-2. Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques
+1. Design des instances et consensus, **recherche action**
+2. Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques, **recherche documentation**
    + Libertés et sécurités informatique
    + Prévision et prévention des accidents corporels
    + Libertés et égalité au delà des genres et des classes
    + Accessibilité, perméabilité, handicaps
    + Bioéthique et sciences ouvertes
    + Biononymous et bioprivacy
-3. Océans, Espace, Villes, les interfaces de résilience
+3. Océans, Espace, Villes, les interfaces de résilience, **recherche expérimentation**
    + Les micro-organismes et la biomremédiation
    + Les données spatiale pour la prévention et prévision des risques
    + Les Internets de l'énergie, l'énergie comme un commun
@@ -130,17 +137,18 @@ Ceux dans lesquels je me suis investi comme co-organisateurs, formats plaçant l
 
 Je fais partie également des personnes qui ont conçu et réalisés les premiers [IndieCamps](http://movilab.org/index.php?title=IndieCamp), 2016 à Kerbors (22), 2017 Nevez (29) et Kerbors, 2018 Kerbors. Formats Libres de créations, de protoypages, d'expériences et de vécus, écologiques et démocratiques. 
 
-## Nous avons travaille ensemble
+## Nous avons travaillé ensemble
 
 <ul>
 	<li><a href="https://www.transdev-idf.com">TransDdev Tvo</a>, coopération et politique RSE DD du groupe</li>
 	<li><a href="http://www.eesab.fr">École européenne supérieure d'art de Bretagne</a>, prise en stage numérique et prototypage d'étudiant.e.s</li>
+	<li><a href="https://www.icam.fr/">ICAM</a>, l’Institut Catholique d’Arts et Métiers ; formation d'un groupe d'élèves ingénieur.e.s au prototypage dans un fablab</li>
 	<li><a href="https://www.rennes-sb.fr">ESC Rennes</a>, formation de 2 promotions Executive MBA au design</li>
 	<li><a href="http://www.espace-kenere.fr/">Médiathèque de Pontivy</a>, workshop Biomimétisme, numérique, écologie et robot sous-marin pour science océanique</li>
 	<li><a href="https://mediatheque.morbihan.fr">Réseau des médiathéques du Morbihan</a>, Faire tiers-lieux, sciences et hacking en médiathèque</li>
-	<li>médiathèque de Bretigny sur Orges, intervention biomimétisme pour la semaine de la science</li>
-	<li><a href="https://www.utc.fr">Sorbonne Université - Université des Technologie de Compiègne</a>workshop de biomimétisme</li>
-	<li>Réseaux des FabLabs de L'Ouest, coopération et collaboration à l'échelle inter-régionale</li>
+	<li>Médiathèque de Bretigny sur Orges, intervention biomimétisme pour la semaine de la science</li>
+	<li><a href="https://www.utc.fr">Sorbonne Université - Université des Technologie de Compiègne</a>, workshop de biomimétisme</li>
+	<li>Réseaux des FabLabs de L'Ouest, msie en place de coopération et collaboration à l'échelle inter-régionale</li>
 	<li><a href="https://www.ecole-eme.fr">École des Métiers de l'Environnement de Rennes</a>, Formation au biomimétisme des ingénieur.e.s diplomé.e.s se spécialisant en éco-conception</li>
 	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
 	<li><a href="https://xavcc.github.io/rennes-design">Cours collectif indépendant</a> aux étudiant.e.s ingénieur.e.s inter-écoles en technologies</li>
