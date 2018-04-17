@@ -75,6 +75,7 @@ L'artifice comme monde en soi : [Monade](https://fr.wikipedia.org/wiki/Monade) (
 Notre insulation est devenue une hyperinsulation, le monde s'est rapproché, ses paroies externes (utérus de Sloterdjik) la sphère a épaissi leur paroi et individualisé l'espace de construction de soi. 
 
 > Blogito ergo sum
+
 > Monade // Nomade 
 
 > éprouvette = tour panoptique
