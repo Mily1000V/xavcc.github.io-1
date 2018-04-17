@@ -143,7 +143,7 @@ Je fais partie également des personnes qui ont conçu et réalisés les premier
 	<li>Réseaux des FabLabs de L'Ouest, coopération et collaboration à l'échelle inter-régionale</li>
 	<li><a href="https://www.ecole-eme.fr">École des Métiers de l'Environnement de Rennes</a>, Formation au biomimétisme des ingénieur.e.s diplomé.e.s se spécialisant en éco-conception</li>
 	<li><a href="http://keureskemm.fr/laboratoire-artistique-populaire">Laboratoire Artistique Populaire</a>Workshop de formation au biomimétisme</li>
-	<li>Cours collectif d'étudiant.e.s ingénieur.e.s inter-écoles en technologies</li>
+	<li><a href="https://xavcc.github.io/rennes-design">Cours collectif indépendant</a> aux étudiant.e.s ingénieur.e.s inter-écoles en technologies</li>
 </ul>
 
 ## Livres numériques
