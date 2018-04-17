@@ -1,8 +1,16 @@
 ---
+title: "Ré)éveiller la curiosité des élèves du "numérique" et travailler l'éthique"
 layout: post
-title: (Ré)éveiller la curiosité des élèves du "numérique" et travailler l'éthique
-date: 2018-01-08
-categories: ["science"]
+date: 2018-01-08 22:48
+image: 
+headerImage: false
+tag:
+- hsociety
+- Sciences
+- Rennes
+category: blog
+author: XavierCoadic
+description: pourquoi et comment concevoir un espace-temps permettant à des élèves d'apprendre à apprendre en s'émancipant de carcans intellectuels ?
 ---
  
 Apprendre à apprendre, déconstruire les [schèmes](https://fr.wikipedia.org/wiki/Sch%C3%A8me_(philosophie)) et craqueler les codes de l'école. 
