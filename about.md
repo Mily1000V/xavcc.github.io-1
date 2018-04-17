@@ -121,14 +121,14 @@ Les recherches que je mène actuellement :
 
 ## Hackathons et indieCamps
 
-Ceux dans lesquels je me suis investi comme co-organisateurs :
+Ceux dans lesquels je me suis investi comme co-organisateurs, formats plaçant l'éthique et la non-exploitation des humains en pré-requis :
 
 <ul>
 	<li><a href="https://oscedays.org">Open Source Circular Economy Days</a> Depuis Rennes avec près de 200 villes dans le monde. 2015,2016,2017,2018</li>
 	<li><a href="http://nuitcodecitoyen.org">Nuit Du Code Citoyen</a> avec plusieurs villes francophones, depuis Rennes, 2017, 2018</li>
 </ul>	
 
-Je fais partie également des personnes qui ont conçu et réalisés les premiers [IndieCamps](http://movilab.org/index.php?title=IndieCamp), 2016 à Kerbors (22), 2017 Nevez (29) et Kerbors, 2018 Kerbors. Formats Libres de créations
+Je fais partie également des personnes qui ont conçu et réalisés les premiers [IndieCamps](http://movilab.org/index.php?title=IndieCamp), 2016 à Kerbors (22), 2017 Nevez (29) et Kerbors, 2018 Kerbors. Formats Libres de créations, de protoypages, d'expériences et de vécus, écologiques et démocratiques. 
 
 ## Nous avons travaille ensemble
 
