@@ -1,8 +1,17 @@
 ---
+title: "Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu"
 layout: post
-title: Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu
-date: 2017-08-29
-categories: ["science"]
+date: 2017-08-29 12:48
+image: 
+headerImage: false
+tag:
+- hsociety
+- Bretagne
+- numérique
+- Peer 2 Peer
+category: blog
+author: XavierCoadic
+description: Ou comment s'initier au numérique et aux enjeux connexes sans se prendre au sérieux tout en étant apprenant et contributeur ?
 ---
 
 Ou comment s'initier au numérique et aux enjeux connexes sans se prendre au sérieux tout en étant apprenant et contributeur ?
@@ -19,12 +28,14 @@ Ces deux notions seront rapidement développées ci-après.
 
 Je tiens à remercier particulièrement et chaleureusement [Stéphane Langlois](https://twitter.com/langlois_s) qui a permis et facilité beaucoup de ces séances, ainsi que [Maxime Lahtuilière](http://maxlath.eu/) pour l'année dernière, enfin toutes et tous les participant.e.s à ces ateliers.
 
-Il sera, dans la suite de cet article, question de pourquoi et comment organiser ces espaces-temps de collaborations et d'apprenance. Les détails techniques ayant été documentés en direct lors des séances par les participants eux-mêmes, dont je fais partie, vous pouvez cliquer sur les diiférents proposés liens pour avoir accès à ces détails techniques et aux documentations des codes. L'objetcif est double :
+Il sera, dans la suite de cet article, question de pourquoi et comment organiser ces espaces-temps de collaborations et d'apprenance. Les détails techniques ayant été documentés en direct lors des séances par les participants eux-mêmes, dont je fais partie, vous pouvez cliquer sur les diiférents proposés liens pour avoir accès à ces détails techniques et aux documentations des codes. 
 
-+ Vous pouvez vous servir de ces ressource pour vous entrainer au code
-+ Vous pouvez utilisez ces méthodes pour reprdouire et/ou adapter ce type de séances.
+**L'objetcif est double** :
 
-Différents atéliers, sous différents formats pour s'acculturer à la programmation informatique, codes, séucirtés et enjeux, se sont déroulés lors d'IndieCamps entre 2016 et 2017, comme à [Névez](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez), ruralité de fait en Finistère, par exemple :
++ <span calss="evidence">Vous pouvez vous servir de ces ressource pour vous entrainer au code</span>
++ <span class="evidence">Vous pouvez utilisez ces méthodes pour reproduire et/ou adapter ce type de séances.</span>
+
+Différents atéliers, sous différents formats pour s'acculturer à la programmation informatique, codes, hytgiène, sécurités et enjeux numériques, se sont déroulés lors d'IndieCamps entre 2016 et 2017, comme à [Névez](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez), ruralité de fait en Finistère, par exemple :
 
 * [S'initer à JavaScript avec un jeu collaboratif](http://www.multibao.org/#nomades/camps/blob/master/indie_camp_kerbors_2016/apprentissage_techno_web.md)
 * [Erlang - Un langage concurrentiel pour le monde réel](http://www.multibao.org/#nomades/camps/blob/master/indie_camp_kerbors_2016/erlang.md)
@@ -37,14 +48,16 @@ et bien d'autres...
 
 C'est le point fort de cette démarche : **Agilité & Frugalité**.
 
-**Vous avez besoin** :
+> "_Un Tiers-Lieu(X) c'est ce que vous en faites ! Pas seulement 4 murs et 1 toit_"
+
+### Vous avez besoin  
 
 + L'envie de transmettre et d'apprendre quelque soit votre niveau avec un zeste de curiosité ;-)
 + 1 ordinateur minimun pour une séance en Mob programming
 + 1 ordinateur par binôme en Pair programming
 + 3 personnes minimun dont 1 qui facilite. 8 à 10 personnes au plus pour un personne aguérrie à la facilitation afin de conserver une qualité de séance et un confort de rapport humain.
 
-**Niveau requis**
+#### Niveau requis
 
 Pour les séances listées ci-avant les niveaux étaient mélangés allant de la découverte pure et simple au niveau développeur confirmé. La diversité fait la richesse et chacun apprend de l'autre. 
 
@@ -55,12 +68,17 @@ Pour les séances listées ci-avant les niveaux étaient mélangés allant de la
 + 1 pico projecteur, prejetez n'importe où (murs, rideaux, draps de lit, volet fermé...)!, câbles et connectiques c'est bien aussi
 + Prises de courant 220 volt si vos appareils ne sont pas chargés
 
-**Un spot où se poser** : 
+#### Un spot où se poser
 
 Bars - café, tiny house, grange, appartement, gare de village... Inventez ! Pour une groupe d'écoliers, du collège jusqu'au bac +5 c'est assez important d'exprimer leurs apprenances dans des espaces inconnus ou atypiques. 
 
 + Lorsque vous faites répéter un geste ou une méthode au mieux vous perfectionnez un acquis.
 + Lorsque vous faites une exploration de zones jusqu'alors inconnues, esapce physique ou intellectuel, vous apprenez et faites l'acquisition de nouvelles compétences.
+
+![](/assets/images/kerbors-sun.jpeg)
+<figcaption class="caption">Nous c'est sur ce spot que nous l'avons fais à Kerbors</figcaption>
+
+<div class="breaker"></div>
 
 Donc que vous soyez en itinérance, comme pour un [WalkingDev](http://walkingdev.fr/), dans un [camp](http://movilab.org/index.php?title=IndieCamp) aux participants hétéroclites ou dans un gîte en pleine montagne, retenez qu'il ne sagit en aucun cas d'imposer un court par un "Aujourd'hui on fait du code !". Cela serait un imposition de savoir descendant.
 
@@ -80,10 +98,10 @@ Sans connexion internet, un terminal ouvert et un éditeur de code (sublime text
 
 ## L'atelier 
 
-> Ceux qui seront là feront l’atelier
-> Il n'y a pas vraiment d'organisateurs en chef
-> Chaque participant peut porter une responsabilité collective si cela lui convient 
-> Chauqe participant honore la loi des deux pieds, si vous n’êtes ni en train d’apprendre, ni de contribuer, passez à autre chose !
++ Clles et Ceux qui seront là feront l’atelier
++ Il n'y a pas vraiment d'organisateurs en chef
++ Chaque participant.e peut porter une responsabilité collective si cela lui convient 
++ Chaque participant.e honore la loi des deux pieds : si vous n’êtes ni en train d’apprendre, ni de contribuer, passez à autre chose !
 
 Les formats courts sont les meilleurs ? En tout cas, apprenants comme facilitateur sont là pour se faire plaisir et non pas pour s'épuiser. À vous de doser votre atelier en fonction de votre objectif de transmission mais privilégiez un objet d'apprentissage qui tient entre 45 minutes et 2 heures grand max. Que cet objet soit de comprendre le fonctionnement de JavaScript, ou l'uilsiation de 'const', soit découvrir un nouveau langage et ses implications, soit de s'améliorer dans les pratiques collaboratives dédiées à la programmation, Ou encore l'acculturation à la sécurité informatique, essayez de fixer des objectifs cohérents avec le temps d'attention et la sollicitation d'apprenance collective. C'est peut-être la tâche la plus ardue finalement ?
 
@@ -137,11 +155,15 @@ Cependant, si vous avez internet et que vous utilisez github (ça marche aussi p
 
 > **Pourquoi faire ? Et quels gains ?**
 
-> Ouvrir une pull request avec une page de code ou de text quasi vie revient à ouvrir un fil de discussions et de contributions pour favoriser :
+> Ouvrir une pull request avec une page de code ou de text quasi vide revient à ouvrir un fil de discussions et de contributions pour favoriser :
 
 > Écriture collaborative
+
 > Archivage des contributions techniques directement liées avec les discussions ainsi qu’avec les dates
-> Offre une documentation plus compléte en terme de contexte qu’un github/wiki intégrée dans le backlog (to do, en cours, fait) > > Avec des users stories = suivi facilité de l’évolution des taĉhes avec collaborations et bonne base de documentation
+
+> Offre une documentation plus compléte en terme de contexte qu’un github/wiki intégrée dans le backlog (to do, en cours, fait) >
+
+> Avec des users stories = suivi facilité de l’évolution des taĉhes avec collaborations et bonne base de documentation
 
 **Tips**:
 
@@ -149,7 +171,8 @@ Utiliser ce principe avec [travis](https://travis-ci.org/), outil d’aide à l�
 
 ![](http://movilab.org/images/thumb/7/7a/SummerCamp2016Kerbors.jpeg/800px-SummerCamp2016Kerbors.jpeg)
 
---- 
+<div class="breaker"></div>
+
 Des suggestions, corrections, améliorations à proposer ? Ouvrez une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues), titrez votre idée puis décrivez là avec détails.
 
 Des envies de se rencontrer : _xcoadic[at]protonmail[dot]com_
