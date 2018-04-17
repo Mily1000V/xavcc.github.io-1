@@ -15,7 +15,8 @@ description: G00gle dévore le monde. Accepterons-nous de lui offrir nos vies pr
 
 G00gle dévore le monde. Accepterons-nous de lui offrir nos vies privées et professionnelles ?
 
-![](https://framapic.org/UOK2Uq1uksEg/dqpLJCU2NBu7 "Eye-Monster from Ultraman by DocChewbacca CC BY SA")
+![](/assets/images/g00gle.jpeg)
+<figcaption class="caption">Eye-Monster from Ultraman by DocChewbacca CC BY SA</figcaption>
 
 Il y a bientôt un an j'écrivais "[Rennes s'horizontalise ?](https://xavcc.github.io/hsociety/2017/02/18/horizontal_rennes.html)" pour râler un peu mais surtout entrevoir des horizons de libertés individuelles et collectives, de citoyenneté, d'entrepreneuriat, d'associatif, qui transforment la cité avec collaboration et éthique.
 
@@ -28,7 +29,7 @@ Peut être qu'une entreprise capitalisée à hauteur de 793,268 milliards de $ (
 
 G00gle promet de former au numérique ? Oui mais il semble que cela soit beaucoup plus d'apprendre à se servir uniquement des outils G00gle. Si Mc Donald formait nos enfants à consommer du Mc Donald dans les cantines scolaires, les laisserions-nous faire ?
 
-G00gle, c'est avant tout un modèle d'entreprise basé sur la [surveillance de masse](https://wiki.fuckoffgoogle.de/index.php?title=GoogleAndMassSurveillance), le non-respect de la vie privée. Et si Tristan Nitot déclare : « [Nous sommes surveillés par nos ordinateurs](https://reporterre.net/Tristan-Nitot-Nous-sommes-surveilles-par-nos-ordinateurs) », alors le coté action citoyenne de G00gle ne paraît pas très approprié dans une métropole de la république des droits de l'Homme et du citoyen. Et l'espionnage industriel, ainsi que le contrôle des flux numériques et monopole des outils par G00gle va-t-il plaire aux entreprises bretonnes ? Stéphane Bortzmeyer nous donne à consulter une solide [liste de ressources](http://www.bortzmeyer.org/search?pattern=google) sur l'étendue des dégâts. La fiche de lecture "[Google-moi](http://www.bortzmeyer.org/google-moi.html)" est excellente pour mieux comprendre les enjeux.
+<span class="evidence">G00gle, c'est avant tout un modèle d'entreprise basé sur la [surveillance de masse](https://wiki.fuckoffgoogle.de/index.php?title=GoogleAndMassSurveillance), le non-respect de la vie privée</span>. Et si Tristan Nitot déclare : « [Nous sommes surveillés par nos ordinateurs](https://reporterre.net/Tristan-Nitot-Nous-sommes-surveilles-par-nos-ordinateurs) », alors le coté action citoyenne de G00gle ne paraît pas très approprié dans une métropole de la république des droits de l'Homme et du citoyen. Et l'espionnage industriel, ainsi que le contrôle des flux numériques et monopole des outils par G00gle va-t-il plaire aux entreprises bretonnes ? Stéphane Bortzmeyer nous donne à consulter une solide [liste de ressources](http://www.bortzmeyer.org/search?pattern=google) sur l'étendue des dégâts. La fiche de lecture "[Google-moi](http://www.bortzmeyer.org/google-moi.html)" est excellente pour mieux comprendre les enjeux.
 
 Pour être honnête, les entreprises et associations qui font depuis 20 ans ce que G00gle promet à Rennes sont légions. Fin 2017, Le québécois [Savoir-faire Linux s’implante à Rennes](https://www.ouest-france.fr/bretagne/rennes-35000/numerique-le-quebecois-savoir-faire-linux-s-implante-rennes-5409212), les associations [Gulliver](http://www.gulliver.eu.org/), Groupe des Utilisateurs de Logiciels et œuvres Libres d'Ille-et-Vilaine et des Environs de Rennes, Crypto Pary Rennes, Breizh Entropy, [Actux](http://actux.eu.org/) avec tous les jeudis du Libre, ne sont que quelques exemples parmi de nombreuses organisations locales qui font (bien mieux ?) ce que G00gle promet. Des organisations qui auraient plus besoin d'une revalorisation de leurs actions par le pouvoir politique que d'une proposition d'être collaboratices de G00gle.
 
@@ -46,7 +47,7 @@ En vertu de l’article L.2212-1 du Code général des collectivités territoria
 Liste que je vous invite à compléter :
 
 1. Par vous même, construisez votre propre avis sur le sujet en utilisant plusieurs sources sérieuses d'informations,
-2. Passez à d'autres outils que G00gle, en suivant ces conseils "[Hygiène numérique](https://xavcc.github.io/hsociety/2018/01/08/hygiene-numerique.html)" par exemple ou en cherchant vos propres solutions,
+2. Passez à d'autres outils que G00gle, en suivant ces conseils "[Hygiène numérique](https://xavcc.github.io/tags/#hygi%C3%A8ne-num%C3%A9rique)" par exemple ou en cherchant vos propres solutions,
 3. Allez à la rencontre des organisations qui oeuvrent pour les libertés et le numérique pour tous dans votre ville,
 4. Partagez, réutilisez, earchivez, modifiez où vous voudrez cet article qui est sous licence libre, donc avec seulement deux obligations : citer l'auteur source et utiliser vous aussi une licence libre.
 
@@ -69,8 +70,6 @@ Je ne tiens pas à faire de l'argent avec cette proposition de wiki mais je n'ai
 2. Soit vous me permetter de le faire, sans que je me retouve à poil fiancièrement, via une collecte en ligne transparente.
 
 Donc `6€ × 12 mois = 72€ / ans` à atteindre avant que j'agisse ou `8€ × 12mois = 96€ / an`sur liberapay :
-
-<noscript><a href="https://liberapay.com/Xav.CC/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 > ### Quels moyens de paiement sont acceptés ?
 > Notre système gère actuellement la plupart des cartes bancaires (CB, Visa, et MasterCard), ainsi que les virements bancaires (en euros) et les prélèvements bancaires (SEPA uniquement). D'autres options seront ajoutées dans le futur.
