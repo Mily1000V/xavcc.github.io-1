@@ -98,8 +98,8 @@ Sans connexion internet, un terminal ouvert et un éditeur de code (sublime text
 
 ## L'atelier 
 
-+ Clles et Ceux qui seront là feront l’atelier
-+ Il n'y a pas vraiment d'organisateurs en chef
++ Celles et Ceux qui seront là feront l’atelier
++ Il n'y a pas vraiment d'organisatrices.eurs en chef
 + Chaque participant.e peut porter une responsabilité collective si cela lui convient 
 + Chaque participant.e honore la loi des deux pieds : si vous n’êtes ni en train d’apprendre, ni de contribuer, passez à autre chose !
 
