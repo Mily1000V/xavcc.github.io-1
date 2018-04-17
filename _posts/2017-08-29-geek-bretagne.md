@@ -2,8 +2,8 @@
 title: "Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu"
 layout: post
 date: 2017-08-29 12:48
-image: 
-headerImage: false
+image: /assets/iamges/geek-kerbors.jpeg
+headerImage: true
 tag:
 - hsociety
 - Bretagne
@@ -22,7 +22,7 @@ Pour cela vous aurez besoin de parcourir 2 notions et méthodes de travail/appre
 
 Ces deux notions seront rapidement développées ci-après.
 
-![](https://framapic.org/gXqTneoB8FIA/WszX1d9HzqIm)
+![](/assets/iamges/geek-kerbors.jpeg)
 
 ## Avant propros
 
