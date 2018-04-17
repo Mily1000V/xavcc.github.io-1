@@ -1,11 +1,20 @@
 ---
+title: "Être ou ne pas être... Artificiel à Rennes avec Alain Damasio"
 layout: post
-title: Être ou ne pas être... Artificiel à Rennes avec Alain Damasio
-date: 2017-11-23
-categories: ["hsociety"]
+date: 2017-11-23 22:48
+image: /assets/images/zone-dehors.jpeg
+headerImage: false
+tag:
+- hsociety
+- Rennes
+- Libertés
+category: blog
+author: XavierCoadic
+description: Jardiner,cultiver, passer et recommencer…
 ---
 
-18/10/17 conférence d'1h30 faite aux Champs Libres à Rennes. Voici mes notes prises en direct in situ ainsi que les liens vers le podcast et la vidéo intégrale en fin d'article. Des questions, des corrections à faire, des envies de discussion ou de rencontre ? Ouvre une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues) Frugalement titrée et bien explicitée ensuite. 
+
+18/10/17 conférence d'1h30 faite aux Champs Libres à Rennes. Voici mes notes prises en direct in situ ainsi que les liens vers le podcast et la vidéo intégrale en fin d'article. Des questions, des corrections à faire, des envies de discussion ou de rencontre ? Ouvre une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues), frugalement titrée et bien explicitée ensuite. 
 
 ![](https://i.imgur.com/aQtBeO1.png)
 
