@@ -1,5 +1,5 @@
 ---
-title: "Ré)éveiller la curiosité des élèves du "numérique" et travailler l'éthique"
+title: "(Ré)éveiller la curiosité des élèves du numérique et travailler l'éthique"
 layout: post
 date: 2018-01-08 22:48
 image: 
