@@ -76,7 +76,7 @@ Bars - café, tiny house, grange, appartement, gare de village... Inventez ! Pou
 + Lorsque vous faites une exploration de zones jusqu'alors inconnues, esapce physique ou intellectuel, vous apprenez et faites l'acquisition de nouvelles compétences.
 
 ![](/assets/images/kerbors-sun.jpeg)
-<figcaption class="caption">Nous c'est sur ce spot que nous l'avons fais à Kerbors</figcaption>
+<figcaption class="caption">Nous c'est sur ce spot que nous l'avons fait à Kerbors</figcaption>
 
 <div class="breaker"></div>
 
