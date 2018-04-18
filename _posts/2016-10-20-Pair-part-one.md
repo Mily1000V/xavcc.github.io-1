@@ -1,9 +1,17 @@
 ---
+title: "L’exigence du pair sur les chemins des Communs — part 1"
 layout: post
-title: L’exigence du pair sur les chemins des Communs — part 1
+date: 2016-10-20 12:48
+image: /assets/images/root-1.jpg
+headerImage: true
+tag:
+- hsociety
+- Peer 2 Peer
+- Communs
+- Nantes
+category: blog
+author: XavierCoadic
 description: De l’exigence à pratiquer sur soi pour être en capacité de pair, il nous tient la responsabilité de déconstruire notre imaginaire, et donc de nos rapports aux phénomènes, pour jardiner une culture commune mieux adaptée aux enjeux actuels.
-date: 2016-10-20
-categories: ["hsociety"]
 ---
 
 Aux travers de marches ici et là, dans les limbes d’un nomadisme à temps plein et par le croisement de collaborations dans des univers congruents, j’expérimente et je m’interroge sur les dispositifs de gestion collective de biens matériels ou immatériels.
@@ -19,7 +27,7 @@ Je me pose alors deux questions
 
 Mais avant toute prose je tiens à préciser le medium utilisé pour ces choses:
 
-> Le texte écrit souffre de 3 maux congénitaux : d’abord, il est figé et “à qui lui adresse la parole, c’est une chose unique qu’il se contente de signifier,la même une fois pour toutes”; ensuite une fois publié le texte mène sa propre existence et s’adresse de la même façon à tous, quelle que soit leur compétence ; enfin, laissé à lui-même, il est incapable, en l’absence de son auteur, de se défendre et de répondre à ses adversaires. -Socrate cité par Platon (Phèdre)-
+> "_Le texte écrit souffre de 3 maux congénitaux : d’abord, il est figé et “à qui lui adresse la parole, c’est une chose unique qu’il se contente de signifier,la même une fois pour toutes”; ensuite une fois publié le texte mène sa propre existence et s’adresse de la même façon à tous, quelle que soit leur compétence ; enfin, laissé à lui-même, il est incapable, en l’absence de son auteur, de se défendre et de répondre à ses adversaires._" -Socrate cité par Platon (Phèdre)-
 
 ![](https://framapic.org/n5eX1t067AVh/uLWVL2g0vl4R "Photo credit: darkday. / CC BY")
 
@@ -38,7 +46,6 @@ Dans ce large cyclotron les incertitudes et les interpellations ne sont pas rare
 
 Après une nouvelle salve de 40 jours nomades un peu mouvementés entre Rennes, Nantes, Paris, Auray, Tregunc (en Finistère) ou encore Rostrenen (en centre Bretagne), voici des phénomènes ordinaires du quotidien au milieu des échanges humains dont je tiens à partager à chaud les interrogations qui me hantent.
 
-
 ## Volonté et capacité d’être Pair
 
 L’ [élégie](https://fr.wikipedia.org/wiki/%C3%89l%C3%A9gie) d’un monde qui se refuse à partir produit tant de bruit qu’il en devient parfois insupportable à écouter. Expression d’une souffrance vécue et d’un deuil arrivant tout autour d’un autre monde naissant, que de brou-ha et de complaintes qui viennent ajouter pollutions sonores sur l’amas des autres faits de mazoutage. 
@@ -47,19 +54,19 @@ Surtout que ce bruit sourd ambiant contraint la mise en capacité individuelle e
 Il est effectivement difficile de se concentrer à l’œuvre d’un tango sur les bords d’un chantier de démolition.
 Et peut être que finalement, entre les acteurs, volontaires ou involontaires, d’un monde capitaliste à bout de souffle et les acteurs de nouveaux paradigmes, il y a des besoins communs.
 
-> «La production entre pairs est toujours une collaboration autour d’un objectif commun.» Michel Bauwens
+> «_La production entre pairs est toujours une collaboration autour d’un objectif commun_.» Michel Bauwens
 
 Un nouveau modèle de production fondé sur des relations égalitaires émerge, c’est le modèle pair à pair. 
 Une économie collaborative grandit là où Internet et ses réseaux favorisent la création collective en débordant les organisations traditionnelles. Cela contribue ainsi à l’enrichissement collectif. 
 Les brevets avaient créé des barrières autour des connaissances humaines, le pair à pair est une nouvelle structure sociale qui inverse le paradigme.
 
-> La production entre pairs reflète un glissement de la **motivation extrinsèque vers la motivation intrinsèque** celle-ci ne devant pas être confondue avec l’altruisme car, dans la production entre pair, **la recherche de l’intérêt personnel coïncide avec l’intérêt commun**. En contribuant, par exemple, à Wikipédia vous contribuez à un bien commun quelle que soit votre motivation. ([Théorie du pair à pair en bref par Solange St-Pierre](https://wiki.p2pfoundation.net/La_th%C3%A9orie_du_pair_%C3%A0_pair_en_bref))
+> "_La production entre pairs reflète un glissement de la **motivation extrinsèque vers la motivation intrinsèque** celle-ci ne devant pas être confondue avec l’altruisme car, dans la production entre pair, **la recherche de l’intérêt personnel coïncide avec l’intérêt commun**. En contribuant, par exemple, à Wikipédia vous contribuez à un bien commun quelle que soit votre motivation._" [Théorie du pair à pair en bref par Solange St-Pierre](https://wiki.p2pfoundation.net/La_th%C3%A9orie_du_pair_%C3%A0_pair_en_bref)
 
 Il y existe des difficultés, à être soi même dans de bonnes conditions d’expression de volonté d’être pair, pour passer à l’action d’une collaboration sur un objectif commun. 
 Des frictions dans les rouages, provenant du soi et de l’environnement bruyant, ralentissent ou grippent le processus et peuvent le faire échouer, temporairement du moins avant nouvelle tentative.
 Pour tendre vers une exigence confortable, une membrane de confiance doit être tissée comme un fragile et perméable derme dans le système. Pierre-Alexandre Klein me parlait de la vulnérabilité qu’il doit être possible d’exprimer pour une personne afin d’engager ces processus pair à pair. Je trouve cette considération très importante dans les mécanismes de collaboration. Cela rejoint le fait que le droit à l'erreur est inaliénable dans ces processus de collaboration pair à pair ansi que c'est dans la confrontant à sa propre zone d'ignorance que l'on apprend réellement. 
 
-> J'ai la responsabilité de dire que je ne sais pas, autrui à la responsabilité de l'accepter
+> _J'ai la responsabilité de dire que je ne sais pas, autrui à la responsabilité de l'accepter_
 
 ## La sollicitation des affinités depuis le soi pour atteindre le nous
 
@@ -76,7 +83,7 @@ Par exemple, les principes que nous partagions en valeur commune de [Resource-ba
 En bref, les rapports étaient ouverts, visibles, transversaux et horizontaux, transparents pour tous, sauf objection exprimée clairement, alors que, dans les organisations traditionnelles, tout est secret, citadelle ou silo et hiérarchie pyramidale, sauf exception. Nous avions, lors de ces jours nantais, un “nous” limpide qui ne subordonnait pas le “je”. 
 Cela offre une symphonie douce et harmonieuse, une sérénité démultipliant les champs des possibles de l’ordinaire et de l’innovation.
 
-> « Je reste conscient du fait qu’il est fort possible que, formulant cette hypothèse, nous restions encore prisonnier d’une image […] tout bien pesé, je ne doute pas qu’il s’agisse encore d’une image, mais d’une image telle et si essentielle qu’elle nous englobe et nous contient. » Jung, Dialectique du moi et de l’inconscient 1916/1934
+> « _Je reste conscient du fait qu’il est fort possible que, formulant cette hypothèse, nous restions encore prisonnier d’une image […] tout bien pesé, je ne doute pas qu’il s’agisse encore d’une image, mais d’une image telle et si essentielle qu’elle nous englobe et nous contient._ » Jung, Dialectique du moi et de l’inconscient 1916/1934
 
 ![](https://framapic.org/zbCMnftG7WEz/4CYGmaqrABQN "Pascal Breuzé avec https://github.com/VincentGarreau/particles.js")
 
@@ -113,10 +120,11 @@ C’est dans le fossé de besoin de références qui se font ressentir les plus 
 ![](https://framapic.org/BKt79ouS7eK3/d4jLANFYT2TU "Technology adoption life cycle")
 
 Pas obligatoirement vers le haut, par exemple comment (et aussi pourquoi) je pourrais devenir un potentiel égal face à [Jean-Louis Fréchin](https://fr.wikipedia.org/wiki/Jean-Louis_Fr%C3%A9chin) pour travailler en pair à pair ? 
-Mais aussi par l’horizontal par le comment (et toujours pourquoi) je mets à équipotentialité d’un apprenant dans les modèles open source pour lui transmettre mes savoir-faire.
+Mais aussi par l’horizontal par le comment (et toujours apr le pourquoi) je mets à _équipotentialité_ d’un.e apprenant.e dans les modèles open source pour lui transmettre mes savoir-faire.
+
 Ceci est renforcé par l’apparition de nouvelles manières d’apprendre et de partager des savoirs, d’enseigner, de lire, d’écrire, jusqu’à la transformation profonde de notre “écologie cognitive”
 
-Quelques part dans ces itérations, [la connaissance liquide](https://medium.com/@XavierCoadic/la-connaissance-liquide-et-les-passeurs-de-savoirs-a73b16dfa6fd) se construit en pair à pair.
+Quelques part dans ces itérations, [la connaissance liquide](https://xavcc.github.io/passeurs/) se construit en pair à pair.
 
 ![](https://framapic.org/Xh1KA33h80bT/z4p5uXPEPAfo "Pair à Pair: Théorie, applications et enjeux. Michel Bauwens")
 
@@ -127,7 +135,7 @@ Nous oublions trop souvent de cultiver notre curiosité sur les phénomènes don
 
 De l’exigence à pratiquer sur soi pour être en capacité de pair, il nous tient la responsabilité de déconstruire notre imaginaire, et donc de nos rapports aux phénomènes, pour jardiner une culture commune mieux adaptée aux enjeux actuels. Il s’en exprimera un langage utile et non dévoyé qui facilitera des pratiques et des dispositifs de gestion collective de biens matériels ou immatériels. Ce que [J M Harribey](https://fr.wikipedia.org/wiki/Jean-Marie_Harribey) appelle une [construction sociale](https://fr.wikipedia.org/wiki/Construction_sociale) et que [David Bollier](https://fr.wikipedia.org/wiki/David_Bollier) renforce par « _que les communs ne sont pas juste une ressource. C’est une ressource plus une communauté, plus ses protocoles sociaux et ses valeurs pour gérer les ressources partagées. Les communs sont un paradigme socio-économique. C’est un système social pour la coproduction et la co-gouvernance_”
 
-## Contineur le chemin
+## Continuer le chemin
 
 Pendant ces 40 jours de rentrée, je ne me suis pas arrêté là dans les itinérances physiques et les collaborations entre différentes tribus.
 Cultures makers, écologistes, bibliothèques, Do It Yoursel Biology, développeurs et les internets… 
@@ -139,7 +147,7 @@ Cela sera dans le prochain “**L’exigence du pair sur les chemins des Communs
 En attendant de vous écrire puis de répartir sur le route en novembre, je retourne à la récolte de latex par la racine des pissenlits dans les champs perdus. Pour maîtriser des phénomènes qui m’entourent, chercher à comprendre d’autres systèmes complexes que ceux des humains, afin de produire du caoutchouc de manière souhaitable et durable. 
 Mais au finale la [simplexité](https://fr.wikipedia.org/wiki/Simplexit%C3%A9) de l’ingéniosité de la nature est comparable à celle des humains.
 
-> “J’aime à apprendre, vois-tu. Cela étant, la campagne et les arbres ne consentent pas à rien m’apprendre, mais bien les hommes de la ville” Socrate cité par Platon (Phèdre)
+> “_J’aime à apprendre, vois-tu. Cela étant, la campagne et les arbres ne consentent pas à rien m’apprendre, mais bien les hommes de la ville_” Socrate cité par Platon (Phèdre)
 
 ![](https://framapic.org/J9mszS3BTpkU/eiiqo2r4NrU4)
 
