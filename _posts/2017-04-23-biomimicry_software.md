@@ -2,7 +2,7 @@
 title: "Biomimétisme et logiciel: une possibilité à saisir"
 layout: post
 date: 2016-01-16 12:48
-image: /assets/images/eco-chnage.jpeg
+image: https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu
 headerImage: true
 tag:
 - Biomimétisme
@@ -65,7 +65,7 @@ _Ce qui est suit est une traduction depuis le site web [variable.io](http://vari
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <figcaption class="caption">image from variable.io/ucc-organism/_</figcaption>
     </div>
 
     <div class="toright">
@@ -73,15 +73,11 @@ _Ce qui est suit est une traduction depuis le site web [variable.io](http://vari
     </div>
 </div>
 
-UCC Organism porpose des animations aguidées par les données qui représentent une école en tant qu'organisme vivant. Par @variable.io
-
-Architecture vivante, tous les étages d'un 3 bâtiments, dans le Camp Nordsjælland, ont été cartographiés par du dessin architectural. Chaque espace a une cellule qui se développe lorsque les élèves sont à l'intérieur pendant la classe et se rétrécit lorsque vide. Les cellules du corridor répondent au mouvement des agents étudiant à travers le bâtiment. De plus, nous avons des organismes externes représentant des forces externes comme le financement du gouvernement ...
-
 Il se compose de plus de 30 écrans éparpillés dans toutes les parties du campus qui montrent une visualisation en temps réel de l'infrastructure institutionnelle de l'Ordre. Sur ces écrans, les flux invisibles d'économie, de connaissance et de puissance sont rendus visibles dans un langage visuel apparenté à des jeux informatiques ou à des visualisations scientifiques. Les membres individuels du personnel et les étudiants apparaissent comme des avatars.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1qYcq_mRyA8" frameborder="0" allowfullscreen></iframe>
 
-#### 3 parties principales de la visualisation: l'architecture, les agents et l'énergie.
+## 3 parties principales de la visualisation: l'architecture, les agents et l'énergie.
 
 **Logiciel**
 
@@ -109,20 +105,35 @@ L'exemple technique de [Pensolve](http://pensolve.com/) sur le spreadsheets conc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oF4OvY1b4Rw" frameborder="0" allowfullscreen></iframe>
 
-> Face à la tâche consistant à présenter une table de calcul complète des calculs d'ingénierie à l'utilisateur d'une manière intuitive et efficace pour Pensolve, je savais que la biomimétrie me fournirait la solution.
+<span calss="evidence">Face à la tâche consistant à présenter une table de calcul complète des calculs d'ingénierie à l'utilisateur d'une manière intuitive et efficace pour Pensolve, je savais que la biomimétrie me fournirait la solution.</sapn>
 
-> **Problème de conception** 
->Présentez les calculs à partir d'un spreadsheet (5 à 500 + calculs individuels) d'une manière qui a permis à l'utilisateur de comprendre rapidement la façon dont la feuille de calcul fonctionne et de pouvoir trouver des erreurs.
-> - Solution 1: flux naturel
+**Problème de conception** 
+
+Présentez les calculs à partir d'un spreadsheet (5 à 500 + calculs individuels) d'une manière qui a permis à l'utilisateur de comprendre rapidement la façon dont la feuille de calcul fonctionne et de pouvoir trouver des erreurs.
+> - <span class="evidence">Solution 1: flux naturel</span>
 > similaire à la façon dont une rivière tressée coule
-> - Solution 2: lignes superposées
-> Notre solution était d'utiliser des règles basées sur la physique pour distribuer nos noeuds. Nous avons donné à tous nos nœuds une charge magnétique pour qu'ils se repoussent et fournissent de l'espace. En leur donnant une attraction gravitationnelle vers le centre pour s'assurer qu'ils ne se sont pas étalés trop.
+> - <span class="evidence">Solution 2: lignes superposées</span>
+
+> "_Notre solution était d'utiliser des règles basées sur la physique pour distribuer nos noeuds. Nous avons donné à tous nos nœuds une charge magnétique pour qu'ils se repoussent et fournissent de l'espace. En leur donnant une attraction gravitationnelle vers le centre pour s'assurer qu'ils ne se sont pas étalés trop._
 
 _Pour en savoir plus lire le [billet blog Pensolve](http://pensolve.com/blog/2016/11/06/Biomimicry-inspired-engineering-software/) et la démo interactive de leur [solution logiciel](https://productionpensolve.blob.core.windows.net/common/flowmap.html?json=aFLOWMAP123.json&json2=bFLOWMAP444.json)_
 
 Vous trouverez de nombreuses ressources techniques, scientifiques, numériques et autres dans la [bibliothèque github](https://lebiome.github.io/#LeBiome/library) du Biome Hack Lab.
 
 **Les fourmis**
+
+<div class="side-by-side">
+    <div class="toleft">
+        <p>Les algorithmes de colonies de fourmis sont inspirés du comportement des fourmis. 
+            Initialement proposé par Marco Dorigo dans les années 1990, pour la recherche de chemins optimaux dans un graphe, le premier algorithme s’inspire du comportement des fourmis recherchant un chemin entre leur colonie et une source de nourriture. 
+            L’idée originale s'est depuis diversifiée pour résoudre une classe plus large de problèmes et plusieurs algorithmes ont vu le jour, s’inspirant de divers aspects du comportement des fourmis. En anglais, le terme consacré à la principale classe d’algorithme est « Ant Colony Optimisation » (ACO), souvent réservé à un type particulier d'algorithme. Il existe cependant plusieurs familles de méthodes s'inspirant du comportement des fourmis.</p>
+    </div>
+
+    <div class="toright">
+        <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aco_branches.svg/500px-Aco_branches.svg.png" alt="Alt Text">
+        <figcaption class="caption">Johann Dréo CC BY-SA 3.0, wikimedia</figcaption>
+    </div>
+</div>
 
 Les algorithmes de colonies de fourmis sont inspirés du comportement des fourmis.
 
