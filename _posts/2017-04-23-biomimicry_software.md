@@ -1,17 +1,25 @@
 ---
-layout: post
 title: "Biomimétisme et logiciel: une possibilité à saisir"
-date: 2017-04-23
-categories: ["science","biomimicry"]
+layout: post
+date: 2016-01-16 12:48
+image: /assets/images/eco-chnage.jpeg
+headerImage: true
+tag:
+- Biomimétisme
+- Sciences
+- Paris
+category: blog
+author: XavierCoadic
+description: Utiliser du biomimétisme dans l'ingénierie logicielle ? 
 ---
 
 «En adoptant les modèles de la nature, nous pourrions espérer travailler plus soutenablement et produire des produits plus durables.» Est-ce que cela pourrait être un moyen de changer le paradigme après lequel nous courrons ? Le développement de produits logiciels soutenables...
 
-### Utiliser du biomimétisme dans l'ingénierie logicielle ? 
+## Utiliser du biomimétisme dans l'ingénierie logicielle ? 
 
 Dans le développement de logiciels la métaphore du système a été adoptée comme une pratique de base par la communauté agile. Cent Beck, auteur de [Extreme Programming Explained]( https://fr.m.wikipedia.org/wiki/Extreme_programming) définit une métaphore du système comme suit : «une histoire que tout le monde - les clients, les programmeurs et les gestionnaires - peut expliquer comment le système fonctionne.» Un peu comme tout le monde peut tenter d'expliquer commen la nature fonctionne, avec son interprétation propre et une matrice d'analyse commune. Le travail de recherhce de Samuel Mann et Lesley Smith décrit les métaphores du système et examine ensuite les travaux dans ce domaine : [Biomimicry as a super system metaphor for software ingineering](https://www.researchgate.net/publication/228669301_Biomimicry_as_a_super_systems_metaphor_for_software_engineering)
 
-> Nous devons changer la façon dont nous comprenons les choses et nous développons des solutions. «La nature a inventé le logiciel des milliards d'années avant que nous ne le fassions» -[Gregory Chaitin](https://fr.wikipedia.org/wiki/Gregory_Chaitin)-.
+> _Nous devons changer la façon dont nous comprenons les choses et nous développons des solutions. «La nature a inventé le logiciel des milliards d'années avant que nous ne le fassions»_ -[Gregory Chaitin](https://fr.wikipedia.org/wiki/Gregory_Chaitin)-.
 
 Pour moi, il s'agit du bioware (Hardware + Software + Vivant). Un système fonctionnant sans déchets depuis plus de 3,8 milliards d'années, un programme qui optimise les flux de matériaux, d'informations et d'énergies. Biomimétisme, bio inspiration, bio design sont des blocs d'un nouveau changement qui peut nous aider.
 
@@ -52,7 +60,18 @@ see more :
 
 _Ce qui est suit est une traduction depuis le site web [variable.io](http://variable.io/ucc-organism/). Allez sur leur site web pour ptofiter de très beaux visuels d'illustration des propos_
 
-![](https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu)_image from http://variable.io/ucc-organism/_
+![](https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu) image from variable.io/ucc-organism/_
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>UCC Organism porpose des animations aguidées par les données qui représentent une école en tant qu'organisme vivant. Par @variable.io. Architecture vivante, tous les étages d'un 3 bâtiments, dans le Camp Nordsjælland, ont été cartographiés par du dessin architectural. Chaque espace a une cellule qui se développe lorsque les élèves sont à l'intérieur pendant la classe et se rétrécit lorsque vide. Les cellules du corridor répondent au mouvement des agents étudiant à travers le bâtiment. De plus, nous avons des organismes externes représentant des forces externes comme le financement du gouvernement...</p>
+    </div>
+</div>
 
 UCC Organism porpose des animations aguidées par les données qui représentent une école en tant qu'organisme vivant. Par @variable.io
 
