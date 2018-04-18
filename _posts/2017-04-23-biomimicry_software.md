@@ -60,8 +60,6 @@ see more :
 
 _Ce qui est suit est une traduction depuis le site web [variable.io](http://variable.io/ucc-organism/). Allez sur leur site web pour ptofiter de très beaux visuels d'illustration des propos_
 
-![](https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu) image from variable.io/ucc-organism/_
-
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu" alt="Alt Text">
@@ -125,8 +123,7 @@ Vous trouverez de nombreuses ressources techniques, scientifiques, numériques e
 <div class="side-by-side">
     <div class="toleft">
         <p>Les algorithmes de colonies de fourmis sont inspirés du comportement des fourmis. 
-            Initialement proposé par Marco Dorigo dans les années 1990, pour la recherche de chemins optimaux dans un graphe, le premier algorithme s’inspire du comportement des fourmis recherchant un chemin entre leur colonie et une source de nourriture. 
-            L’idée originale s'est depuis diversifiée pour résoudre une classe plus large de problèmes et plusieurs algorithmes ont vu le jour, s’inspirant de divers aspects du comportement des fourmis. En anglais, le terme consacré à la principale classe d’algorithme est « Ant Colony Optimisation » (ACO), souvent réservé à un type particulier d'algorithme. Il existe cependant plusieurs familles de méthodes s'inspirant du comportement des fourmis.</p>
+            Initialement proposé par Marco Dorigo dans les années 1990, pour la recherche de chemins optimaux dans un graphe, le premier algorithme s’inspire du comportement des fourmis recherchant un chemin entre leur colonie et une source de nourriture.</p>
     </div>
 
     <div class="toright">
@@ -135,13 +132,9 @@ Vous trouverez de nombreuses ressources techniques, scientifiques, numériques e
     </div>
 </div>
 
-Les algorithmes de colonies de fourmis sont inspirés du comportement des fourmis.
+L’idée originale s'est depuis diversifiée pour résoudre une classe plus large de problèmes et plusieurs algorithmes ont vu le jour, s’inspirant de divers aspects du comportement des fourmis. En anglais, le terme consacré à la principale classe d’algorithme est « Ant Colony Optimisation » (ACO), souvent réservé à un type particulier d'algorithme. Il existe cependant plusieurs familles de méthodes s'inspirant du comportement des fourmis
 
-Initialement proposé par [Marco Dorigo](https://fr.wikipedia.org/wiki/Marco_Dorigo) dans les années 1990, pour la recherche de chemins optimaux dans un graphe, le premier algorithme s’inspire du comportement des fourmis recherchant un chemin entre leur colonie et une source de nourriture. L’idée originale s'est depuis diversifiée pour résoudre une classe plus large de problèmes et plusieurs algorithmes ont vu le jour, s’inspirant de divers aspects du comportement des fourmis.
-
-En anglais, le terme consacré à la principale classe d’algorithme est « Ant Colony Optimisation » (ACO), souvent réservé à un type particulier d'algorithme. Il existe cependant plusieurs familles de méthodes s'inspirant du comportement des fourmis.
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Aco_branches.svg/500px-Aco_branches.svg.png)_Johann Dréo CC BY-SA 3.0, wikimedia_
+Les algorithmes de colonies de fourmis, ACO, sont inspirés du comportement des fourmis.
 
 1) la première fourmi trouve la source de nourriture (F), via un chemin quelconque (a), puis revient au nid (N) en laissant derrière elle une piste de phéromone (b). 
 
@@ -175,11 +168,11 @@ Programming language similarity](http://letstalkdata.com/2014/05/programming-lan
 
 Utiliser du biomimétisme dans l'ingénierie logicielle ? Le chemin ressemble à cela mais il est encore long et plein de richesses.
 
-> " While  biomimicry  and  bio-inspiration has been 
+> " _While  biomimicry  and  bio-inspiration has been 
 successful in  specific  areas  of  computing, we are yet 
 to see a successful application at a paradigm level.  
 Instead, we have observed repeated use of terms such 
 as ecosystem without any benefit the metaphor might 
 have otherwise  afforded. This  approach  entirely 
 ignores  ecological  science; it  does not even vaguely 
-approach sustainability." Samuel Mann
+approach sustainability._" Samuel Mann
