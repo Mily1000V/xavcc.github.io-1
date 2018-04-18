@@ -1,8 +1,17 @@
 ---
+title: "Bios Camp 2017, l'appel"
 layout: post
-title:  "Bios Camp 2017, l'appel"
-date:   2016-12-14 
-categories: ["biomimicry"]
+date: 2016-12-14  12:48
+image: https://farm4.staticflickr.com/3916/14770790253_7e0d5f6a12_z.jpg
+headerImage: true
+tag:
+- Biomimétisme
+- Bretagne
+- Rennes
+- Open Source
+category: blog
+author: XavierCoadic
+description: Appel pour le 1er forum de Biomimétisme Libre et Open Source, Bilios
 ---
 
 Il y a t-il une raison particulière au biomimétisme d'être une tour d'ivoire ? 
@@ -65,13 +74,13 @@ En France et en Europe, à vous de jouer
 
 Comme les relations de confiances naissent, semble t-il, quelque part entre l'éxigence envers soi-même et le partage volontaire de ressources, comme la bienveillance ne doit pas être une excuse pour fabriquer sournoisement le consentement, voici quelques réalisations dèjà co-produites pour ma part :
 
-* [Réseau des labs de biomimétisme](https://hackpad.com/Rseau-des-labs-de-biomimtisme-ypKLOzQw6Lu) (ouvert, décentralisé) amorcé à l'occasion d'une rencontre à La Paillasse Paris le 05/02.
+* [Réseau des labs de biomimétisme](https://paper.dropbox.com/doc/Reseau-des-labs-de-biomimetisme-JP7XfXvbeob2HIP8Iv4if) (ouvert, décentralisé) amorcé à l'occasion d'une rencontre à La Paillasse Paris le 05/02.
  
 * [Openn Source Circular Economy Days 2015 Rennes + 30 cities](https://oscedays.org/rennes-2015/)
  
-* [Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives](https://hackpad.com/BretagneLabTour-Tour-de-Bretagne-des-lieux-dinnovation-ouverte-et-des-communauts-collaboratives-CJCut6qvqG0)
+* [Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives](https://legacy.gitbook.com/book/xavcc/vivre-ensemble-faire-ensemble/details)
  
-* [OSCE days Rennes 2016 with 70 cities](https://hackpad.com/OSCE-days-Rennes-2016-YcmnYcsPgPe)
+* [OSCE days Rennes 2016 with 70 cities](https://community.oscedays.org/t/edition-2016-in-rennes/5040)
  
 * [Summer Camp 2016 Kerbors - Movilab.org]( http://movilab.org/index.php?title=Summer_Camp_2016_Kerbors)
  
