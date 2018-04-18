@@ -1,22 +1,32 @@
 ---
+title: "Rendre visible les innovations et les émergences"
 layout: post
-title:  "Rendre visible les innovations et les émergences"
-date:   2016-12-20 
-categories: ["hsociety"]
+date: 2016-12-20  12:48
+image: /assets/images/labose-couv-medium.jpg
+headerImage: true
+tag:
+- hsociety
+- Bretagne
+- Rennes
+category: blog
+author: XavierCoadic
+description: Documentation collaborative ouverte de l'atelier "Modes d'organisations et inégalités"
 ---
+
 
 Qu'est ce qui déclenche l'entreprise ? Où germe le fait d'entreprendre, prendre la résolution de faire quelque chose, une action, un ouvrage, et commencer à le mettre à exécution ?
 
 Parfois entre les lignes d'un texte et la frustration d'un problème non-résolu pour soi-même, le tout dans un contexte favorissant l'action. Pour ma part, le fait de se lancer dans des démarches itinérantes de participation aux innovations émergentes tout en tentant de les comprendre et de les écrires, cela est lié à mon histoire d'amour avec Marseille et les lignes d'[Henry DE LUMLEY](https://fr.wikipedia.org/wiki/Henry_de_Lumley) dans "Le Beau, l'art et l'homme. Emergence du sens de la beauté"
 
-> Tout d'abord la beauté du contenu. C'est tout simplement la beauté du visible : "la beauté du monde est tout ce qui appârait dans ses éléments singuliers, comme les étoiles dans le ciel, les oiseaux dans l'air, les poissons dans l'eau, les Hommes sur Terre", écrivait Guillaume de Conches au XIIe siècle.
-Par une nuit très pure, en montagne, dans le désert ou en mer, on voit environ 3000 étoiles à l'oeil nu, ainsi que la ceinture lumineuse de la Voie lactée.
+> _Tout d'abord la beauté du contenu. C'est tout simplement la beauté du visible : "la beauté du monde est tout ce qui appârait dans ses éléments singuliers, comme les étoiles dans le ciel, les oiseaux dans l'air, les poissons dans l'eau, les Hommes sur Terre", écrivait Guillaume de Conches au XIIe siècle. Par une nuit très pure, en montagne, dans le désert ou en mer, on voit environ 3000 étoiles à l'oeil nu, ainsi que la ceinture lumineuse de la Voie lactée._
 
-> On a déjà l'impression d'un fourmillement extraodinaire, presque un sentiment d'infini.
+> _On a déjà l'impression d'un fourmillement extraodinaire, presque un sentiment d'infini.
 Cette beauté du visible a historiquement joué un rôle fondamental parce qu'elle a engendré l'étonnement philosophique.
-Pourquoi le ciel est-il beau et pourquoi est-il organisé comme cela ? La comtemplation du visible induit donc le questionnement sur ce qu'il y a au-delà du visible.
-Je me souviens très bien de mon adolescence, lorsque je contemplais la nuit étoilée de Ma Provence natale, ce qui agitait mes deux composantes de raison et d'émotions n'était pas les points brillants des étoiles, c'était le velour noir qu'il avait entre elles ; je me demandais "ce soir là, qu'est ce que c'est ? C'est l'espace, qui n'est certainement pas le vide. A t-il une chair, une texture, une forme ?"
-Déjà la vraie beauté me semblait au-delà du visible. Notons qu'aujourd'hui, l'éclairage généralisé nous masque le ciel nocturne et il y a de plus en plus de jeunes qui n'ont jamais vu la Voie lactée parce qu'ils ne sont jamais sortis d'une ville ; c'est une perte de ce contact dramatique avec ce que j'appelle "le sentiment cosmique".
+Pourquoi le ciel est-il beau et pourquoi est-il organisé comme cela ? La comtemplation du visible induit donc le questionnement sur ce qu'il y a au-delà du visible._
+
+> _Je me souviens très bien de mon adolescence, lorsque je contemplais la nuit étoilée de Ma Provence natale, ce qui agitait mes deux composantes de raison et d'émotions n'était pas les points brillants des étoiles, c'était le velour noir qu'il avait entre elles ; je me demandais "ce soir là, qu'est ce que c'est ? C'est l'espace, qui n'est certainement pas le vide. A t-il une chair, une texture, une forme ?"_
+
+> _Déjà la vraie beauté me semblait au-delà du visible. Notons qu'aujourd'hui, l'éclairage généralisé nous masque le ciel nocturne et il y a de plus en plus de jeunes qui n'ont jamais vu la Voie lactée parce qu'ils ne sont jamais sortis d'une ville ; c'est une perte de ce contact dramatique avec ce que j'appelle "le sentiment cosmique"._
 
 Tout y était et résonnait comme le sidéral écho d'un univers à explorer, celui de l'innovation par celles et ceux qui font.
 Les élements singuliers, les initiatives naissantes et éparses dans les technologies ou dans les pratiques collaboratives, étaient mes étoiles. Un fourmillement extraodinaire, presque un sentiment d'infini qui me questionnait et me poussa à l'initiative.
@@ -26,7 +36,7 @@ Comprendre au-delà du visible et se défaire de l'éblouissement artificiel du 
 
 Engager un voyage qui ne se satisferait pas uniquement du déplacement physique était mon évidence. Une certitude de prendre la résolution de faire quelque chose, une action, un ouvrage, et commencer à le mettre à exécution.
 
-> "Le véritable voyage, ce n'est pas de parcourir le désert ou de franchir de grandes distances sous-marines, c'est de parvenir en un point exceptionnel où la saveur de l'instant baigne tous les contours de la vie intérieure."
+> "_Le véritable voyage, ce n'est pas de parcourir le désert ou de franchir de grandes distances sous-marines, c'est de parvenir en un point exceptionnel où la saveur de l'instant baigne tous les contours de la vie intérieure."_
 Antoine de St Exupery
 
 Il fallait alors se plonger dans les émergences à la recherche de l'observation des points exceptionnels. Marcher dans les canaux qui relient ces points. Le vivre et le comprendre sur des projets qui n'étaient pas le miens pour les transmettre à qui voudra bien s'en intéresser.
@@ -39,9 +49,9 @@ D'abord en Bretagne, le région où je suis revenu m'installer en 2013 pour y la
 
 Aisni ce sont deux projets menés à bon port :
 
-* [Bretagne Lab Tour](https://hackpad.com/BretagneLabTour-Tour-de-Bretagne-des-lieux-dinnovation-ouverte-et-des-communauts-collaboratives-CJCut6qvqG0)en ocobre 2015, dans des lieux d'innovation ouverte et des communautés collaboratives dont les notes sous licence creative commons
+* [Bretagne Lab Tour](https://legacy.gitbook.com/book/xavcc/vivre-ensemble-faire-ensemble/details)en ocobre 2015, dans des lieux d'innovation ouverte et des communautés collaboratives dont les notes sous licence creative commons
 
-* [LabOSE](https://hackpad.com/LabOSe-Laboratoire-open-source-dexpriences-libres-et-distribues-SA2B7bDZcbV), une iniative personnelle devenue une oeuvre collective, sur plus de 120 jours au printemps 2016. Les notes sont également sous lience creative commons.
+* [LabOSE](https://paper.dropbox.com/doc/LabOSe-Laboratoire-open-source-dexperiences-libres-et-distribuees-KwBdA6CpH17tiqPcCgmfW), une iniative personnelle devenue une oeuvre collective, sur plus de 120 jours au printemps 2016. Les notes sont également sous lience creative commons.
 
 Les deux projets étaient en "auto-financement". 
 
@@ -84,7 +94,7 @@ Ces livres contiennent les récits pour nommer et les traces pour comprendre des
 
 ## Un travail de mise à disponibilité intelligible des émergences
 
-> « Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté. » [Sohan Kalim](http://sohankalim.fr/)
+> « _Ce que l'on ne peut nommer on ne peut le comprendre. Le langage est aussi le lieu de la conquête de la liberté._ » [Sohan Kalim](http://sohankalim.fr/)
 
 A qui veut bien se donner la peine, de porter une attention digne de l'effort fourni par les personnes qui peuplent les pages de ces deux ouvrages, s'ouvre des champs d'étude et de questionnement sur ce qui fait ou ne fait pas un projet innovant, sur ce qui fait une initiative qui sert la résilience ou une tribu apportant de l'intelligence à un territoire.
 
@@ -94,7 +104,7 @@ Il y a au travers de ces futures pages autant à comprendre des contextes et des
 
 Ces deux livres numériques ne seront pas tutoriels du "comment faire" ou des "guides de l'innovation". Ils ne seront ni un faux manuel scolaire de l'entreprenariat ni une publicité pour une forme d'engagement aliénant sur des projets inspirants qui changeraient le monde. Ils seront deux objets dont vous aurez la liberté des usages et des confrontations.
 
-> « Plus les individus portent attention à la publicité, plus ils nient la crise et ses fondements structurels. Par là même, ils retardent et arrivent à éviter la dure rencontre avec les réalités quotidiennes. » Bernard Brochant, dans sa préface au livre de B. Catheat, Publicité et Société, 1987. 
+> « _Plus les individus portent attention à la publicité, plus ils nient la crise et ses fondements structurels. Par là même, ils retardent et arrivent à éviter la dure rencontre avec les réalités quotidiennes._ » Bernard Brochant, dans sa préface au livre de B. Catheat, Publicité et Société, 1987. 
 (voir également [Violences de l’idéologie publicitaire](http://www.monde-diplomatique.fr/1995/08/BRUNE/6552) par François Brune  dans le monde diplomatique 1995.
 
 Pour conserver la profonde essence humaine commune à ces démarches, deux moments de rencontres seront organisés pour échanger lors de la publication de ces livres. 
