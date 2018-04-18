@@ -1,19 +1,25 @@
 ---
-layout: post
 title: "Couper un arbre à la craie… Deep insight"
-date: 2016-05-02
-categories: ["hsociety"]
+layout: post
+date: 2016-05-02 22:48
+image: https://cdn-images-1.medium.com/max/800/1*_SZ71Itxim8f7SvHrOoEDg.jpeg
+headerImage: true
+tag:
+- hsociety
+- Économie
+- Paris
+category: blog
+author: XavierCoadic
+description: Il y a des singularités de la vie qui vous bousculent les neurones et vous chatouillent les philosophies. Là, au cœur de ces instants…
 ---
 
 Il y a des singularités de la vie qui vous bousculent les neurones et vous chatouillent les philosophies. Là, au cœur de ces instants…
-
-<img src="https://cdn-images-1.medium.com/max/800/1*_SZ71Itxim8f7SvHrOoEDg.jpeg" alt="Port de l’Arsenal, Paris, par Alexandre Vialle — This file is licensed under the Creative Commons Attribution 2.0 Generic license." class="graf-image" />
 
 Il y a des singularités de la vie qui vous bousculent les neurones et vous chatouillent les philosophies. Là, au cœur de ces instants non ordinaires, s’insuffle et s’infuse la connaissance. Le popotin posé dans le carré d’une péniche parisienne, je me suis trouvé verni de personnes capables de se collisionner pour donner naissance à ces singularités.
 
 Alchimie des parcours de vie de chacun, énergie des frottements de tous, trainées de poussières d’étoiles de nos expériences, accélération dans un espace temps suspendu… Et Boom ! Big Bang ! Tu imagines couper un arbre avec une craie.
 
-Sylvain Pujolle est un extra terrestre qui voyage entre Concarneau et la glace des pôles allant jusqu’à se risquer à des plongées sous l’épaisse blanche barrière. Cet homme, qui a vécu de longues expéditions <a href="http://www.underthepole.com/" class="markup--anchor markup--p-anchor">Under The Pole</a>, me fascine. Il est possible de construire de toutes pièces avec lui un ROV polaire sous-marin (*remotely operated vehicle* ou « véhicule téléguidé »), de programmer le logiciel de la machine tout en réparant les moteurs du bateau sur lequel navigue les aventuriers. Ce plongeur mécanicien “bricodeur” a souvent le mot juste du taiseux et les visions éclairées par ces profondes observations de la vie qu’ont dans le regard les explorateurs de l’extrême.   
+Sylvain Pujolle est un extra-terrestre qui voyage entre Concarneau et la glace des pôles allant jusqu’à se risquer à des plongées sous l’épaisse blanche barrière. Cet homme, qui a vécu de longues expéditions <a href="http://www.underthepole.com/" class="markup--anchor markup--p-anchor">Under The Pole</a>, me fascine. Il est possible de construire de toutes pièces avec lui un ROV polaire sous-marin (*remotely operated vehicle* ou « véhicule téléguidé »), de programmer le logiciel de la machine tout en réparant les moteurs du bateau sur lequel navigue les aventuriers. Ce plongeur mécanicien “bricodeur” a souvent le mot juste du taiseux et les visions éclairées par ces profondes observations de la vie qu’ont dans le regard les explorateurs de l’extrême.   
 
 Accoudés à la table improvisée bar du carré de la péniche parisienne, nous rions des anecdotes de ce monde en compagnie d’une partie de l’équipe de <a href="http://nomadedesmers.org/" class="markup--anchor markup--p-anchor">Nomade des mers</a>
 et du <a href="http://lowtechlab.org/" class="markup--anchor markup--p-anchor">lowtech lab</a>. Flottants sur l’eau, amarrés à quai, c’est encore une congruence d’environnement qui nous rapproche, l’eau, élément de vie ultime, d’un fleuve qui rejoint la mer.
