@@ -29,6 +29,7 @@ status :
        En attente de confirmation par courriel...
        Découverte : 16-04-2018 (par hasard)
              - sur le programme :"Atelier pour mettre en cartographie et documentations les différentes ressources et réponses que connaissent les participants"
+       Inscrit au programme : 19-04-2018 http://forum-usages-cooperatifs.net/index.php/Accueil      
        
 ```             
 
