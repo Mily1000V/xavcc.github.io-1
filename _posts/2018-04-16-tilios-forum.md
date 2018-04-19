@@ -34,7 +34,7 @@ status :
        
 ```             
 
-> Copie ci-après de ce qu'il y sur le [wiki du forum des usages coopératifs 2018](http://forum-usages-cooperatifs.net/index.php/Contrib:Tiers-Lieux_:_L%27open_source_et_la_collaboration_pour_r%C3%A9pondre_aux_enjeux_critiques)
+> Copie ci-après de ce qui avait été déposé en décembre 2017 sur le [wiki du forum des usages coopératifs 2018](http://forum-usages-cooperatifs.net/index.php/Contrib:Tiers-Lieux_:_L%27open_source_et_la_collaboration_pour_r%C3%A9pondre_aux_enjeux_critiques)
 
 # Quel sera votre apport dans le cadre de cette intervention (ou de ces interventions) ou sur quel(s) sujet(s) interviendrez-vous ?
 
