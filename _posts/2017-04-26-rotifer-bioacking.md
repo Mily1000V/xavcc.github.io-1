@@ -1,5 +1,5 @@
 ---
-title: ": Biohacking et ferme à Rotifères"
+title: "Biohacking et ferme à Rotifères"
 layout: post
 date: 2017-04-26 12:48
 image: https://framapic.org/vD7qkpyW2GXa/oyP0vV3kjnIu
