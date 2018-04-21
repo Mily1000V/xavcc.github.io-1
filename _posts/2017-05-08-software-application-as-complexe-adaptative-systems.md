@@ -29,7 +29,7 @@ Les systèmes d'adaptation complexes sont composés de nombreux agents indépend
 
 Peut-être le système adaptatif complexe le plus remarquable auquel nous pouvons nous intéresser est le processus évolutif dans la biosphère sur terre. Les premières formes de vie organique sont nées et reproduites, sont mortes et ont transmis leur matériel génétique avec des modifications aléatoires. Les organismes modifiés qui étaient plus efficaces pour faire usage de leur environnement, et à se  reproduire, étaient ceux qui se propageaient et dépassaient leurs prédécesseurs. De cela résulte des organismes dans le monde entier qui se sont bien adaptés à leur environnement. La biosphère partant de l'occupation d'un très petit pourcentage de la terre pour aller vers la transformer complètement, de la composition de l'atmosphère à la composition des océans. Et maintenant, avec l'émergence d'organismes sensibles, la biosphère a développé la capacité de changer massivement la surface terrestre et de se propager à d'autres planètes.
 ![](https://cdn-images-1.medium.com/max/800/1*tjTK5ZS8wmbx4PSAC5X9Dg.png)
-<span class="evid ence">L'évolution de la résistance aux antibiotiques en temps réel dans une boîte de Petri</span>
+<span class="evidence">L'évolution de la résistance aux antibiotiques en temps réel dans une boîte de Petri</span>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GHI45garS3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -47,7 +47,7 @@ Quels autres types de systèmes peuvent être créés qui ont des propriétés s
 
 Ce modèle représente un nouveau type d'application. Ces applications ne sont pas statiques et "possédées" par leurs créateurs, mais appartiennent à toute la communauté. En un sens, elles ne sont pas des applications, mais des systèmes d'application, avec de nombreuses opérations différentes utilisant le même protocole. Nous avons déjà vu une forme précoce de cela avec les nombreuses applications de messagerie comme Gmail et Outlook qui utilisent toutes le même protocole de messagerie SMTP. Mais cela atteint un niveau entièrement nouveau lorsque les applications peuvent vivre par elles-mêmes à l'état sauvage. Cela exige qu'elles soient sans serveur et puissent être fournies par quiconque, être open source et être partargée par modification (Forked), pour partager une ressource commune connue sous le nom de _Token_ de protocole.
 ![](https://cdn-images-1.medium.com/max/800/1*a0bCOtsqoyTSr5h4SLzv1g.png)
-<span class="evid ence"> L'évolution du langage informatique Python et ses nombreuses fourchettes au fil du temps: http://www.michaelogawa.com/research/storylines/_</span>
+<span class="evidence"> L'évolution du langage informatique Python et ses nombreuses fourchettes au fil du temps: http://www.michaelogawa.com/research/storylines/_</span>
 
 <div class="breaker"></div>
 
