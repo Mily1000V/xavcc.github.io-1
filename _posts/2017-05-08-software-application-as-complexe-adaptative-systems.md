@@ -47,7 +47,7 @@ Quels autres types de systèmes peuvent être créés qui ont des propriétés s
 
 Ce modèle représente un nouveau type d'application. Ces applications ne sont pas statiques et "possédées" par leurs créateurs, mais appartiennent à toute la communauté. En un sens, elles ne sont pas des applications, mais des systèmes d'application, avec de nombreuses opérations différentes utilisant le même protocole. Nous avons déjà vu une forme précoce de cela avec les nombreuses applications de messagerie comme Gmail et Outlook qui utilisent toutes le même protocole de messagerie SMTP. Mais cela atteint un niveau entièrement nouveau lorsque les applications peuvent vivre par elles-mêmes à l'état sauvage. Cela exige qu'elles soient sans serveur et puissent être fournies par quiconque, être open source et être partargée par modification (Forked), pour partager une ressource commune connue sous le nom de _Token_ de protocole.
 ![](https://cdn-images-1.medium.com/max/800/1*a0bCOtsqoyTSr5h4SLzv1g.png)
-<figcaption class="caption">L'évolution du langage informatique Python et ses nombreuses fourchettes au fil du temps: http://www.michaelogawa.com/research/storylines/_</figcpation>
+<figcaption class="caption">L'évolution du langage informatique Python et ses nombreuses fourchettes au fil du temps: http://www.michaelogawa.com/research/storylines/_</figcaption>
 
 <div class="breaker"></div>
 
