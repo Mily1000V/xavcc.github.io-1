@@ -10,7 +10,7 @@ tag:
 - Rennes
 category: blog
 author: XavierCoadic
-description: Documentation collaborative ouverte de l'atelier "Modes d'organisations et inégalités"
+description: Qu'est ce qui déclenche l'entreprise ? Où germe le fait d'entreprendre, prendre la résolution de faire quelque chose, une action, un ouvrage, et commencer à le mettre à exécution ?
 ---
 
 
