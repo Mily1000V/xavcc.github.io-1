@@ -127,7 +127,7 @@ En littérature :
 ## 7. Remerciements
 
 + Émilie Picton pour l'aide à la correction des notes en syntaxe markdown
-+ Alain Damasio pour nous avoir gentiment écouté post conférence sur les [Tiers-lieux](http://movilab.org/index.php?title=Accueil) et une société open source avec mon ami [Arthur Masson](http://arthurmasson.xyz/), voir la correspondance [épistolaire numérique](http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier/)
++ Alain Damasio pour nous avoir gentiment écouté post conférence sur les [Tiers-lieux](http://movilab.org/index.php?title=Accueil) et une société open source avec mon ami [Arthur Masson](http://arthurmasson.xyz/), voir la correspondance [épistolaire numérique](http://arthurmasson.xyz/societe-ouverte-lettres-a-xavier/)
 + Aux personnes qui soutiennent mes travaux libres et open source sur liberapay (voir icone ci-dessous)
 
 
