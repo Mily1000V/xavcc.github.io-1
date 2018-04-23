@@ -10,10 +10,10 @@ tag:
 - Rennes
 category: blog
 author: XavierCoadic
-description: Cours du 10.05.2017 aux ingénieur.e.s diplomé.e.s en un cursus supplémentaire de Mastère en éco-conception.
+description: Cours du 10.05.2017 aux ingénieur.e.s diplomé.e.s suivant un cursus supplémentaire de Mastère en éco-conception.
 ---
 
-Cours du 10.05.2017 aux ingénieur.e.s diplomé.e.s en un cursus supplémentaire de Mastère en éco-conception.
+Cours du 10.05.2017 aux ingénieur.e.s diplomé.e.s suivant un cursus supplémentaire de Mastère en éco-conception.
 ![](/assets/images/EME.jpeg)
 
 Ces notes sont issues d'une écriture collaborative entre 2 enseignants et les groupes d'apprenant.e.s réalisées en live pendant le cours au format workshop. 
