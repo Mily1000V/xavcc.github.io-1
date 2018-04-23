@@ -1,12 +1,20 @@
 ---
-layout: post
 title: "Journée biomimétisme Ecole des Métiers de l'Environnement Rennes"
-date: 2017-05-10
-categories: ["biomimicry"]
+layout: post
+date: 2017-05-10 12:48
+image: /assets/images/EME.jpeg
+headerImage: false
+tag:
+- Biomimétisme
+- Sciences
+- Rennes
+category: blog
+author: XavierCoadic
+description: Cours du 10.05.2017 aux ingénieur.e.s diplomé.e.s en un cursus supplémentaire de Mastère en éco-conception.
 ---
 
 Cours du 10.05.2017 aux ingénieur.e.s diplomé.e.s en un cursus supplémentaire de Mastère en éco-conception.
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494410631779_file.jpeg)
+![](/assets/images/EME.jpeg)
 
 Ces notes sont issues d'une écriture collaborative entre 2 enseignants et les groupes d'apprenant.e.s réalisées en live pendant le cours au format workshop. 
 
@@ -76,6 +84,7 @@ Groupe d'environ 12 personnes
 - les bactéries sont à l'origine de tout élément vivant - nous sommes vivants au même titre que n'importe quelle autre espèce 
 - le soleil est la source d’énergie principale qui permet la vie grâce à l'intervention (entre autre) des Chloroplastes et cyanobactéries qui rejettent l'oxygène comme déchet
 - les deux grandes boucles planétaires qui régissent l'écosystème terre : 
+
 ```
  la photosynthèse = absorbe du CO2 et rejette de l'O2
  la respiration = absorbe de l'O2 et rejette du CO2
@@ -93,8 +102,6 @@ Si l'histoire de la terre était ramenée à une année alors le calendrier s'or
 + 20/12 : apparition des premières plantes à fleurs
 + 31/12 à 23h54 : apparition de l'homo sapiens
 + 31/12 à 23h59' 59" : révolution industrielle... soit 1 seconde comparable aux 5 extinctions massives répertoriées et qui aurait été déclenchée par 1 seule espèce ?
-
- 
  
 ### c- Les origines (quoi? où? comment?)
 **Le biomimétisme c'est quoi?**
@@ -107,13 +114,13 @@ Il y a eu une désynchronisation de ces flux avec la centralisation des processu
 ## d- Les pionnier.e.s :
 Au début du XXe siècle, les principes d’hybridation des univers culturels et des pratiques par l’exemple d’[Otto Herbert Schmitt](https://fr.wikipedia.org/wiki/Otto_Schmitt) l’on conduit à nommer et clarifier le terme biomimétisme pour décrire un “mode d’exploration du Vivant en tant que source de solutions efficientes et moins coûteuses à de nombreux problèmes.” 
 
-Puis la question « profonde » de ce que la nature est en définitive fût traitée par [Freya Mathews](http://www.freyamathews.net/about-me) [](http://www.freyamathews.net/about-me)dans une approche plus holistique[.](http://www.freyamathews.net/about-me)
+Puis la question « profonde » de ce que la nature est en définitive fût traitée par [Freya Mathews](http://www.freyamathews.net/about-me) dans une approche plus holistique
 
 A ce titre, l’[écopsychologie](http://eco-psychologie.com/definitions-de-l-ecopsychologie/), ayant émergé dans les années 90 aux Etats-Unis et encore peu connue en France, tend à remettre le lien primal entre l’humain et la nature au centre du champ de réflexion, en vue de trouver le chemin vers la reconnexion de l’individu avec son environnement naturel. L’objectif étant de remédier à nos addictions et excès induits par nos sociétés modernes (excès de consommation / de technologie…) et de pouvoir ré-actionner les leviers inconscients qui nous permettront de renouer avec le sauvage et d’agir pour la protection de notre “Terre Mère“. L’écopsychologie s’inspire en partie de la “ Théorie Gaïa ” : [selon la théorie GAÏA (1974) la vie crée et entretient les conditions propices à la vie](https://fr.wikipedia.org/wiki/Th%C3%A9ories_Ga%C3%AFa).
  
 Plus récemment, à partir de 1998, le biomimétisme en tant que discipline scientifique est démocratisé par [Janine Benyus](https://fr.wikipedia.org/wiki/Janine_Benyus) qui en définit les trois principes de base : 
 
-> "comment s'inspirer des organismes vivants pour être durable (grâce aux principes du vivant) et accélérer la créativité pour agir plus rapidement dans les transitions à faire-le biomimétisme ou le chemin de la survie" _selon Janine Benyus_
+> "_Comment s'inspirer des organismes vivants pour être durable (grâce aux principes du vivant) et accélérer la créativité pour agir plus rapidement dans les transitions à faire-le biomimétisme ou le chemin de la survie"_ selon Janine Benyus
 
 
 - **La nature comme modèle** est le principe poétique de biomimétisme, car il nous raconte comment les choses doivent être idéalement "mises au monde" 
@@ -204,7 +211,7 @@ Le taux de retour énergétique ou TRE ou EROI energy return on investment - mes
 + "**biomimétisme" ou bio-inspiration** qui utilise les mécanismes de fonctionnement du vivant et qui les met en oeuvre avec des technologies diverses (pas nécessairement biologiques)
 + "**bio-assistance" / bio-remédiation** où l'on mets à contribution / à son service les organismes vivants pour produire ce dont on a besoin (enzymes...)
 
-> Cela introduit la réflexion sur les biomatériaux / ou matériaux bio-sourcés et à la dimension éthique
+> _Cela introduit la réflexion sur les biomatériaux / ou matériaux bio-sourcés et à la dimension éthique_
 
 ### h- les pièges à éviter
 
@@ -236,9 +243,11 @@ Les premiers requins sont apparus il y a un peu plus de 400 millions d’années
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQNnoEYen_4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](https://trello-attachments.s3.amazonaws.com/54ec543dc465b6475381b27b/58c7d6d2792d9d1a81fe0519/70df5e98f262149dd91705ddab0fc8a5/denticule-combi_speedo_LZR_racer_.jpg)
+![](/assets/images/denticule-combi_speedo_LZR_racer_.jpg)
 
-- **Poisson-coffre** pour un véhicule Mercedes (forme= espace et peu énergivore): [Mercedes Benz Bionic](https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic)
+<figcaption class="caption">Poisson-coffre pour un véhicule Mercedes (forme= espace et peu énergivore)</figcaption>
+
+> [Mercedes Benz Bionic](https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic)
 
 les concepteurs de chez Mercedes se sont inspirés du poisson coffre, ce poisson qui vit dans les coraux des eaux tropicales, est un excellent modèle pour l’élaboration d’un véhicule à la structure légère et à l’aérodynamisme stupéfiant.
 Le poisson coffre peut nager très vite (six fois la longueur de son corps chaque seconde) sa rapidité n’est pas uniquement due à sa force. Mais c’est paradoxalement sa forme cubique qui améliore ses qualités aérodynamiques.
@@ -246,16 +255,16 @@ Les ingénieurs ont construit une maquette de poisson coffre et l’ont testée 
 D’après Mercedes, la carrosserie de ce poisson roulant a fait l’objet des plus grands soins afin d’obtenir le meilleur coefficient aérodynamique. Avec un Cx record de 0.19 ce qui en fait la voiture la plus aérodynamique de sa catégorie, ce prototype long de 4,24 m et capable de transporter quatre passagers et leurs bagages. la consommation moyenne de ce prototype s’élève à 4,3 l/100 km, et peut descendre jusqu’à 2,8 l à 90 km/h. Soit une baisse de 20 % de la consommation et de 80 % des émissions d’oxyde d’azote (NOx) par rapport à une berline compacte équivalente.
 Toujours selon le principe de biomimétisme, sa carrosserie, telle une peau, se compose de multiples panneaux hexagonaux soutenus par une sorte de colonne vertébrale métallique qui assure une rigidité et une résistance aux chocs élevés. Cela a permis également d’abaisser le poids du véhicule.
 
-![](https://trello-attachments.s3.amazonaws.com/54ec543dc465b6475381b27b/58c7d6d2792d9d1a81fe0519/a3a20f438268467861c426e83b78a015/poisson_coffre-bionic.jpg)
+![](/assets/images/poisson_coffre-bionic.jpg)
 
-- **Scarabé de Namibie (Onymacris unguicularis)** pour récupération d'eau de brouillard
+<figcaption class="caption">carabé de Namibie (Onymacris unguicularis)** pour récupération d'eau de brouillard</figcaption>
 
 Le scarabée du désert de Namibie n’a pas accès à l’eau douce pour boire. Comment réussit-il donc à s’hydrater ? Très simple, il parvient à **boire l’eau du brouillard**, en se servant des petites bosses qu’il a sur le dos et de ses élytres : la carapace de ce scarabée possède en effet des bosses hydrophiles, qui attirent donc l’eau, alternées avec des creux hydrophobes.Lorsque le brouillard se lève sur le désert, le scarabée se positionne dans la direction du vent. Le brouillard forme une vapeur d’eau qui va se concentrer sur les bosses, formant des gouttelettes. Elles se mettent peu à peu à glisser, via les creux, jusqu’à la bouche du coléoptère !
 À l’issue de cette observation, les deux zoologues anglais, Andrew Parker et Chris Laurence, ont donc eu l’idée de réaliser des **filets capteurs de rosée** reproduisant cette technique afin d’en équiper les bâtiments. Ou au nord du Chili par exemple, à El Tofo, l'installation d'une centaine de filets de ce type a permis de récolter chaque jour 15.000 litres d'eau pour les habitants de haute altitude. (photos ok)
 
-![](https://trello-attachments.s3.amazonaws.com/54ec543dc465b6475381b27b/58c7d6d2792d9d1a81fe0519/e56cea4372efbde4c49b31d91cd68859/scarab%C3%A9e_de_namibie-filet_a_brume.jpg)
+![](/assets/images/scarabée_de_namibie-filet_a_brume.jpg)
 
-- **Anguille** pour une hydrolienne EEL
+<figcpation class="caption">Anguille pour une hydrolienne EEL</figcaption>
 
 La membrane EEL Energy optimise le transfert d’énergie par couplage fluide/structure. Cela induit une ondulation de la membrane.
 La membrane ondule sous la pression du fluide en mouvement. On transforme ces déformations périodiques de la structure en électricité via un système électromécanique.
