@@ -261,7 +261,7 @@ Isolant électrique sans doute au vu de ses similarités avec le bois.
 
 Les écailles produites par les glandes cirières antérieures ont une taille d'environ 3,3 mm; celles produites par les glandes cirières les plus postérieures mesurent environ 1,2 mm. Leur épaisseur est d'environ 0,10 mm. Chaque écaille pèse 0,8 mg. Il faudra 1250 écailles de cire pour obtenir 1 gramme de cire. [SOURCE](http://www.catoire-fantasque.be/animaux/abeille/cire/#production)
 
-| **omposition typique de la cire**                                  | Pourcentage |
+| **Composition typique de la cire**                                  | Pourcentage |
 | ------------------------------------------------------------------ | ----------- |
 | [**hydrocarbures**](https://fr.wikipedia.org/wiki/Hydrocarbure)    | 14 %        |
 | [**monoesters**](https://fr.wikipedia.org/wiki/Ester)              | 35 %        |
@@ -275,12 +275,14 @@ Les écailles produites par les glandes cirières antérieures ont une taille d'
 | [**alcool**](https://fr.wikipedia.org/wiki/Alcool_%28chimie%29)    | 1 %         |
 | **non identifié**                                                  | 6 %         |
 
-| Propriétés physiques                                                  |                                                                                                                                                                                                                             |
+<div class="breaker"></div>
+
+| **Propriétés physiques**                                                  |                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [T° fusion](https://fr.wikipedia.org/wiki/Point_de_fusion)            | 62 à 65 °C [2](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-fao-2)                                                                                                                                              |
-| [Solubilité](https://fr.wikipedia.org/wiki/Solubilit%C3%A9)           | Insoluble dans l'eau, peu soluble dans l'alcool froid, soluble dans l'alcool chaud, le chloroforme, le benzène, l'éther, le disulfure de carbone[3](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-Merck_Index-3) |
-| [Masse volumique](https://fr.wikipedia.org/wiki/Masse_volumique)      | 0,95-0,960 g·cm-3 [3](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-Merck_Index-3)                                                                                                                               |
-| [Point d’éclair](https://fr.wikipedia.org/wiki/Point_d%27%C3%A9clair) | > 254 °C[4](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-uakron-4)                                                                                                                                              |
+| [T° fusion](https://fr.wikipedia.org/wiki/Point_de_fusion)            | 62 à 65 °C ([2](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-fao-2))                                                                                                                                              |
+| [Solubilité](https://fr.wikipedia.org/wiki/Solubilit%C3%A9)           | Insoluble dans l'eau, peu soluble dans l'alcool froid, soluble dans l'alcool chaud, le chloroforme, le benzène, l'éther, le disulfure de carbone([3](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-Merck_Index-3)) |
+| [Masse volumique](https://fr.wikipedia.org/wiki/Masse_volumique)      | 0,95-0,960 g·cm-3 ([3](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-Merck_Index-3))                                                                                                                               |
+| [Point d’éclair](https://fr.wikipedia.org/wiki/Point_d%27%C3%A9clair) | > 254 °C ([4](https://fr.wikipedia.org/wiki/Cire_d%27abeille#cite_note-uakron-4))                                                                                                                                              |
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1495287249527_file.jpeg)
 
