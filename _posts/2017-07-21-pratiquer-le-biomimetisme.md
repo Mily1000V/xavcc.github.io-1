@@ -18,7 +18,7 @@ Alors que je pratique le biomimetisme et l'écologie, j'ai très envie de vous r
 Car pour l'instant il semblerait que cela soit très flou pour beaucoup autour de moi et même pour des personnes plus éloignées.
 Mais en fait tout cela peut se résumer un exemple explicite que je vous laisse découvrir en fin de page. 
 
-Cet article, à l'inventaire non exhaustif, n'a pas vocation à flatter mon égo, il est destiné, au travers d'un parcours humain, à expliciter la cohérence entre plusieurs actions menées collectivement. Je dois ses possibilités d'agir à de nombreuses personnes et amis que je remercie très profondément et sincèrement au passage. 
+Cet article, à l'inventaire non exhaustif, n'a pas vocation à flatter mon égo, il est destiné, au travers d'un parcours humain, à expliciter la cohérence entre plusieurs actions menées collectivement. Je dois ces possibilités d'agir à de nombreuses personnes et ami.e.s que je remercie très profondément et sincèrement au passage. 
 
 ![](https://framapic.org/FLdWMk2ZP4N1/De0BcOIYjoZc "Windell Oskay
 A Lego fish on a Lego bicycle License CC BY")
