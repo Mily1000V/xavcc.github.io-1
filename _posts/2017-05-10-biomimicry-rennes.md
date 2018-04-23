@@ -260,6 +260,7 @@ Toujours selon le principe de biomimétisme, sa carrosserie, telle une peau, se 
 
 > [Mercedes Benz Bionic](https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic)
 
+- **Scarabée**
 
 Le scarabée du désert de Namibie n’a pas accès à l’eau douce pour boire. Comment réussit-il donc à s’hydrater ? Très simple, il parvient à **boire l’eau du brouillard**, en se servant des petites bosses qu’il a sur le dos et de ses élytres : la carapace de ce scarabée possède en effet des bosses hydrophiles, qui attirent donc l’eau, alternées avec des creux hydrophobes.Lorsque le brouillard se lève sur le désert, le scarabée se positionne dans la direction du vent. Le brouillard forme une vapeur d’eau qui va se concentrer sur les bosses, formant des gouttelettes. Elles se mettent peu à peu à glisser, via les creux, jusqu’à la bouche du coléoptère !
 À l’issue de cette observation, les deux zoologues anglais, Andrew Parker et Chris Laurence, ont donc eu l’idée de réaliser des **filets capteurs de rosée** reproduisant cette technique afin d’en équiper les bâtiments. Ou au nord du Chili par exemple, à El Tofo, l'installation d'une centaine de filets de ce type a permis de récolter chaque jour 15.000 litres d'eau pour les habitants de haute altitude. (photos ok)
