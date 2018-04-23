@@ -1,18 +1,26 @@
 ---
+title: "Workshop Biomimétisme à l'Université des Technologies de Compiègne"
 layout: post
-title : "Biomimicry Land : Documentation collective d'un Workshop à L'Université des Technologies de Compiègne"
-date: 2017-05-17
-categories: ["biomimicry"]
+date: 2017-05-17 12:48
+image: /assts/images/banniere-utc.jpeg
+headerImage: false
+tag:
+- Biomimétisme
+- Sciences
+category: blog
+author: XavierCoadic
+description: Biomimicry Land : Documentation collective d'un Workshop à L'Université des Technologies de Compiègne
 ---
 
- Toute cette journée fut documentée par et avec les participant.e.s (photo, texte, vidéo, tuto ect.)
-![Bannière de l’événement facebook](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1494066253779_file.jpeg)
+
+Toute cette journée fut documentée par et avec les participant.e.s (photo, texte, vidéo, tuto ect.)
+![](/assets/images/banniere-utc.jpeg)
 
 18 mai 2017 - Université de Technologie de Compiègne - 12h30 18h30
 
 *Venez hacker le vivant*
 
-Exemple précédent, 10 mai 2017 aux ingénieurs à Rennes École des métiers de l'environnement : [Journée biomimétisme EME Rennes](https://xavcc.github.io/biomimicry/2017/05/10/biomimicry.html)
+Exemple précédent, 10 mai 2017 aux ingénieurs à Rennes École des métiers de l'environnement : [Journée biomimétisme EME Rennes](https://xavcc.github.io/biomimicry-rennes/)
 
 
 ## Matos 
@@ -25,12 +33,10 @@ Chacun emmène :
 
 
 ## Programme de la journée
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1495287017083_file.jpeg)
-
-![](/static/img/pixel.gif)
+![](/assets/images/accueil-utc.jpeg)
 
 
-## Les **règles** 
+## Les règles
 
 **Autogestion**
 
@@ -111,16 +117,18 @@ voir : https://lebiome.github.io/
 
 A voir : 
 
-- les [travaux de Henry Dic](http://facdephilo.univ-lyon3.fr/m-dicks-henry-619829.kjsp?RH=1358766609891)[k](http://facdephilo.univ-lyon3.fr/m-dicks-henry-619829.kjsp?RH=1358766609891)[s](http://facdephilo.univ-lyon3.fr/m-dicks-henry-619829.kjsp?RH=1358766609891)  
+- les [travaux de Henry Dicks](http://facdephilo.univ-lyon3.fr/m-dicks-henry-619829.kjsp?RH=1358766609891)
 - et [rencontres à Lyon sur le biomimétisme](https://storify.com/ryu5t/biomimetisme-5-l-agora-de-la-clairiere)
 
 **Déambulation dans la nature pour inspiration**
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495566090164_IMG_4071.JPG)
-![Larve de coccinelle](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495566089609_IMG_4072.JPG)
-![La pomme de pain, super source d'inspiration biomimétique](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495566089182_IMG_4074.JPG)
+![](/assets/images/utc1.JPG)
+![Larve de coccinelle](utc2.JPG)
+<figcaption class="caption">Larve de coccinelle</figcaption>
+![](/assets/images/utc3.JPG)
+<figcaption class="caption">La pomme de pain, super source d'inspiration biomimétique</figcaption>
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_5C557CE8511408F73E489A615C9416369FCDDD921D165B53080EC54130F969DD_1495566090529_IMG_4073.JPG)
+![](/assets/images/ut.JPG)
 
 
 **Retour au fablab** 
@@ -162,7 +170,7 @@ Formation de 3 groupes travail autonomes sur les sujets SCOBY / Cire d’abeille
 
 
 ## Groupe Scoby :
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1495287074591_file.jpeg)
+![](/assets/images/utc-scoby.jpeg)
 
 
 Equipe formée de : Alexis, Herehau, Camille, Aurore
@@ -191,7 +199,7 @@ Test sur le scooby sec :
 | scoby sec neuf brûlé                                 | Il se sépare en différents feuillets. Il résiste très bien car il cloque comme la peau.                                                       |
 | scoby sec neuf brûlé dans liquide de culture         | N’est pas en très bon état …                                                                                                                  |
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_3785959309B088B7EF277DA3AD76476674A5255E4DAE83DE1516227CD87CD171_1495287125311_file.jpeg)
+![](/assets/images/utc-inside.jpeg)
 
 
 
