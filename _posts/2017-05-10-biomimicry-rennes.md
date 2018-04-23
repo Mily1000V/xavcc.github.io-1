@@ -245,9 +245,9 @@ Les premiers requins sont apparus il y a un peu plus de 400 millions d’années
 
 ![](/assets/images/denticule-combi_speedo_LZR_racer_.jpg)
 
-<figcaption class="caption">Poisson-coffre pour un véhicule Mercedes (forme= espace et peu énergivore)</figcaption>
+<figcaption class="caption">exemple d'utilisation d'innovation bioinspirée par la peau de requin</figcaption>
 
-> [Mercedes Benz Bionic](https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic)
+- **Le Poissons coffre**
 
 les concepteurs de chez Mercedes se sont inspirés du poisson coffre, ce poisson qui vit dans les coraux des eaux tropicales, est un excellent modèle pour l’élaboration d’un véhicule à la structure légère et à l’aérodynamisme stupéfiant.
 Le poisson coffre peut nager très vite (six fois la longueur de son corps chaque seconde) sa rapidité n’est pas uniquement due à sa force. Mais c’est paradoxalement sa forme cubique qui améliore ses qualités aérodynamiques.
@@ -256,15 +256,18 @@ D’après Mercedes, la carrosserie de ce poisson roulant a fait l’objet des p
 Toujours selon le principe de biomimétisme, sa carrosserie, telle une peau, se compose de multiples panneaux hexagonaux soutenus par une sorte de colonne vertébrale métallique qui assure une rigidité et une résistance aux chocs élevés. Cela a permis également d’abaisser le poids du véhicule.
 
 ![](/assets/images/poisson_coffre-bionic.jpg)
+<figcaption class="caption">Poisson-coffre pour un véhicule Mercedes (forme= espace et peu énergivore)</figcaption>
 
-<figcaption class="caption">carabé de Namibie (Onymacris unguicularis)** pour récupération d'eau de brouillard</figcaption>
+> [Mercedes Benz Bionic](https://fr.wikipedia.org/wiki/Mercedes-Benz_Bionic)
+
 
 Le scarabée du désert de Namibie n’a pas accès à l’eau douce pour boire. Comment réussit-il donc à s’hydrater ? Très simple, il parvient à **boire l’eau du brouillard**, en se servant des petites bosses qu’il a sur le dos et de ses élytres : la carapace de ce scarabée possède en effet des bosses hydrophiles, qui attirent donc l’eau, alternées avec des creux hydrophobes.Lorsque le brouillard se lève sur le désert, le scarabée se positionne dans la direction du vent. Le brouillard forme une vapeur d’eau qui va se concentrer sur les bosses, formant des gouttelettes. Elles se mettent peu à peu à glisser, via les creux, jusqu’à la bouche du coléoptère !
 À l’issue de cette observation, les deux zoologues anglais, Andrew Parker et Chris Laurence, ont donc eu l’idée de réaliser des **filets capteurs de rosée** reproduisant cette technique afin d’en équiper les bâtiments. Ou au nord du Chili par exemple, à El Tofo, l'installation d'une centaine de filets de ce type a permis de récolter chaque jour 15.000 litres d'eau pour les habitants de haute altitude. (photos ok)
 
 ![](/assets/images/scarabée_de_namibie-filet_a_brume.jpg)
+<figcaption class="caption">scarabé de Namibie (Onymacris unguicularis) pour récupération d'eau de brouillard</figcaption>
 
-<figcpation class="caption">Anguille pour une hydrolienne EEL</figcaption>
+- **L'anguille**
 
 La membrane EEL Energy optimise le transfert d’énergie par couplage fluide/structure. Cela induit une ondulation de la membrane.
 La membrane ondule sous la pression du fluide en mouvement. On transforme ces déformations périodiques de la structure en électricité via un système électromécanique.
@@ -274,7 +277,7 @@ Une boucle de pilotage permet d’optimiser la captation d’energie en fonction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_8DHy1FwMj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![](/assets/images/hydrolienne-anguille.jpg)
-
+<figcaption class="caption">Anguille pour une hydrolienne EEL</figcaption>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rJAItbruQYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -289,7 +292,9 @@ En s’inspirant de la colle utilisée par les vers de sable, une colle a usage 
 
 et la [production de verre à basse température.](http://www2.cnrs.fr/presse/communique/1694.htm) 
 
-![](https://trello-attachments.s3.amazonaws.com/54ec543dc465b6475381b27b/58c7d6d2792d9d1a81fe0519/fd93fcd03ea555370ed43ad89123c434/diatomee-passage_vittorio_milano.jpg)
+![](/assets/images/diatomee-passage_vittorio_milano.jpg)
+
+<figcaption class="caption">Passage Vittorio - Milan</figcaption>
 
 - **l’effet LOTUS** “super-hydrophobe”
 
@@ -299,7 +304,7 @@ et la [production de verre à basse température.](http://www2.cnrs.fr/presse/co
 
 ![](/assets/images/effet_lotus.jpg)
 
-<figcaption class="caption">URBANISME : architecture bio-inspirée de Luc SCHUITEN</figcaption>
+<figcaption class="caption">effet Lotus</figcaption>
 
 
 ## 2-SPRINT "brise glace" QUEL EST MON RAPPORT AU VIVANT? (15")
@@ -573,12 +578,10 @@ voir : [https://oscedays.org/rennes-2015/](https://oscedays.org/rennes-2015/) no
 
 ![](/assets/images/nside-4-EME.jpeg)
 
-
 Lien vers travail groupe : SCOBY [](https://paper.dropbox.com/doc/SCOBY-kQKstu8nFC2Fs7b2LVkQT)
 
 ![](/assets/images/inside-5-EME.jpeg)
 
-![](/static/img/pixel.gif)
 
 ### THEME 5 : mobilité 
 
@@ -597,12 +600,13 @@ L’ensemble de vos recherches et démarches seront documentés sur un [pad coll
 
 NB: remise en question permanente de l’optimisation du trajet idéal grâce au retour d’information du point de collecte vers chaque camion. (info non centralisée?)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494422860948_file.jpeg)
+![](/assets/images/groupe-EME.jpeg)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494487514372_file.jpeg)
+![](/assets/images/groupe-2-EME.jpeg)
  
+# Licence du document
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1497972833425_cc_by_sa.png)
+![](/assets/images/licence-EME.png)
 
  
-Cours de biomimetisme EME Rennes de Le Biome HackLab et élèves ingénieurs EME est mis à disposition selon les termes de la [licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa
+Cours de biomimetisme EME Rennes de Le Biome HackLab et élèves ingénieurs EME est mis à disposition selon les termes de la [licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa)
