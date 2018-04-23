@@ -1,8 +1,17 @@
 ---
+title: "Pratiques du biomimétisme ? Faire des petits bouts de trucs..."
 layout: post
-tilte: Pratiques du biomimétisme ? Faire des petits bouts de trucs...
-date: 2017-07-21
-categories: ["hsociety"]
+date: 2017-07-21 12:48
+image: /assets/images/konk-kern.jpeg
+headerImage: false
+tag:
+- Biomimétisme
+- Sciences
+- Rennes
+- hsociety
+category: blog
+author: XavierCoadic
+description: Biomimicry Land, documentation collective d'un Workshop à L'Université des Technologies de Compiègne
 ---
 
 Alors que je pratique le biomimetisme et l'écologie, j'ai très envie de vous raconter pourquoi je m'intéresse au hacking de protocole de communication, au robot sous marin, aux données topographiques de la NASA, aux bactéries, aux biomatériaux et enfin à l'éthique et la gouvernance.
@@ -27,7 +36,7 @@ Tout cela était mû par des aspirations simples :
 * Avoir une action citoyenne décentralisée, [le Manifeste](https://lebiome.github.io/#LeBiome/manifesto/blob/master/manifeste.md)
 * Apporter des solutions concrètes à une société de l'après pétrole et éviter de reproduire les erreurs passées sur les ressources naturelles dans cette nouvelle émergence.
 
-> Nous faisons nôtre, l'engagement de ne pas laisser ce levier de changement dans les mains d'une poignée d'individus ou de structures élitistes. 
+> «_Nous faisons nôtre, l'engagement de ne pas laisser ce levier de changement dans les mains d'une poignée d'individus ou de structures élitistes._» 
 
 Ainsi, je me suis retrouvé très vite débordé par l'ampleur de l'impulsion avec une communauté active de plusieurs centaines de membres en France et à l'étranger et de nouveaux projets à pousser le plus loin possible. Par exemple, frappé par le manque de collaborations entre les laboratoires de fabrication numérique bretons j'ai co-construit un "[Bretagne Lab Tour](https://paper.dropbox.com/doc/BretagneLabTour-Tour-de-Bretagne-des-lieux-dinnovation-ouverte-et-des-communautes-collaboratives-Orguk90PFC3YDkt3McqdD)" en 2015 pour rendre visible les canaux de coopérations et les opportunités existantes. Ceci était dans le but de fournir à chaque personne qui le désir les chémins, les méthodes et les points de collaboration sans réinventer le roue, tendre vers l'autonomie des usagers. Cela a également mené à la réalisation d'[interviews sonores](https://soundcloud.com/xavier-coadic) et une exploration de ce qui ressemble à [la confiance entre individus](https://paper.dropbox.com/doc/BretagneLabTour-Les-rencontres-sur-les-routes-de-la-confiance-judTy0bh4KUPAdV2CzGfh), j'y revindrais plus tard sur le sujet liè à la Blockchain. 
 
@@ -55,7 +64,7 @@ Bref, un sacré tas de petits bouts de trucs...
 
 Je ne prendrais pas ici une progression chronologique pour vous présenter les réalisations en cours, il sera plus aisé de les présenter par lien de cohérence entre projets. 
 
-#### Gouvernance, éthique, design et tiers-lieux
+### Gouvernance, éthique, design et tiers-lieux
 
 Je vous ai parlé peu avant d'un tour dans les FabLabs Bretons en 2015, depuis je continue à m'investir dans les chemins de collaborations qui pourraient leurs être utiles, comme à [Auray en 2016](https://annuel.framapad.org/p/fablab-ouest) et à [Rennes en 2017](https://semestriel.framapad.org/p/fabrique2017-fablabs-ouest).
 Si ce travail me pousse à interroger les systèmes de gouverance et l'éthique, il est aussi à mettre en relation avec une rencontre avec Dr Antoine Burret à Lyon en début d'année 2017 pour sa soutenance de thése ["ÉTUDE DE LA CONFIGURATION EN TIERS-LIEU - La repolitisation par le service"](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service). En plus des liens d'amitié noués, nous avons quelques modestes collaborations sur les "[Etapes vers une conception politique du tiers-lieu](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu)", notamment [ICI](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours).
@@ -63,7 +72,7 @@ Cela provient d'une réflexion et de travaux amorcés avec le Biome HackLab sur 
 
 Car FabLab, tiers-lieux, start-ups etc. Cela fait peut être de jolies appellations qui portent beaucoup de promesses de changment mais...
 
-> “La folie, c’est se comporter de la même manière et s’attendre à un résultat différent” Albert Einstein
+> “_La folie, c’est se comporter de la même manière et s’attendre à un résultat différent_” Albert Einstein
 
 J'ai donc autant besoin de participer à la co-conception de nouveaux outils pour pratiquer un biomimétisme libre et open source que j'en ai de pratiquer mes arts et techniques dans de bonnes conditions. Nous créons alors ensemble les bases d'une autonomie avec une matrice de fonctionnement différente.
 
@@ -73,19 +82,19 @@ j'au aussi fait des petis bouts de trucs sur :
 
 Cela étant en cours de dissémination, je profite parfois des opportunités de rencontre pour co-organiser des [IndieCamps](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez) ou des [hackathons](https://lebiome.github.io/#LeBiome/Hackathons), sprints de prototypage et/ou amélioration de projets. Ces espaces me permettent de travailler sur la sève de pissenlit, les colonnes bactériennes, le clônage de mycélium, les [energies marines renouvelables bioinspirées](https://lebiome.github.io/#LeBiome/Proto_et_Projets) par exemple.
 
-#### Energies
+####Energies
 
 C'est un sujet central qui porte beaucoup de cristallisations sociétales. Il ne peut y avoir de travail de transition de paradigme, de résilience et d'autonmie, sans réflexions et expérimentations profondes sur les énergies, leur sociologie et leurs infrastructures.
 
 Ainsi, en plus du prototype sur les herbiers marins producteur d'énergie et de zone de remédiation écologique, j'ai engagé une collaboration sur [daisee.org, Internets of Energy Energy as a Commons](http://daisee.org), notamment sur la [visualisation des données énergétique](https://hackmd.io/s/B1dkKe00g#) dans un cadre topographique avec des bases de données provenant de la NASA, mais également sur sur la blockchain locale avec Ethereum.  
 
-Losque je fais des conférences sur le Biomimétisme, je parle souvent de la capacité du vivant, depuis prés des 4 milliards d'années, à optimiser les fux comme "secret" de sa capacité d'adaptation et d'innovation. 
+Lorsque je fais des conférences sur le Biomimétisme, je parle souvent de la capacité du vivant, depuis prés des 4 milliards d'années, à optimiser les fux comme "secret" de sa capacité d'adaptation et d'innovation. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JQ68y_725Dw" frameborder="0" allowfullscreen></iframe>
 
 Ce sont là mes petits bouts de trucs dans les énergies...
 
-#### Informatiques, robotiques
+### Informatiques, robotiques
 
 Alors effectivement, l'histoire daisee / blockchain / energie, ça fait un peu geek, un geek étant une personnne pasionnée sans obligation d'être dans l'informatique, mais c'est aussi l'opportunité de se pencher sur les libertés, et donc l'autonomie, liées aux internets. Il y donc du code, et c'est n'est ni gros mot ni un acte de magie, c'est un effort à fournir et à répéter pour faire fonctionner ces machines et ces systèmes. Il y a encore peu de temps je ne savais par faire mieux que Ctrl+Alt+Suppr sur un ordinateur. Il m'a fallu "[Déconstruire, re-imaginer, repenser, reconstruire et recommencer](https://medium.com/pomme-de-pin/casser-les-restrictions-de-trajectoires-professionnelles-d32ab3f024cc)". Puis, j'ai pu ainsi entrer en collaboration avec de nombreuses personnes et organisations pour par exemple faire : 
 
@@ -99,16 +108,16 @@ La confiance,elle, s'exprime dans les projets que nous réalisons aux 4 coins de
 
 Et si petit robot sous-marin bioinspiré, alimenté par des sytèmes éco-conçu en énergie renouvelable, communiquait également ces images et données sous-marines avec les sytèmes ou bases de données satelitaires... Et bien on aurait une formidable opportunité de mieux connaître les océans, travailler sérieusement sur leur préservation et dépollution, agir avec des données suffisantes contre le réchaufement climatique. Des petits bouts de trucs liés ensemble, si vous me permettez l'expression.
 
-![](https://hackpad-attachments.s3.amazonaws.com/explore.hackpad.com_p4Y4dhu0uVt_p.445644_1460901383067_PANO_20160416_173751%5B1%5D.jpg "Test OpenROv acec élèves ingénieurs Concarneau 2016")
+![](/assets/images/konk-kern.jpeg "Test OpenROv acec élèves ingénieurs Concarneau 2016")
 
 Ok, c'est un peu long à faire avancer mais c'est en bonne voie. Par contre cela pause la question de la liberté individuelle et de nos données lorsque l'on utilise des machines et des logiciels (perso, j'évite au maximun les trucs pas open source). Du coup, je participe aussi à des exercices et des ateliers de sensibilisation sur les libertés, sécurité et la vie privée : [Indie Camp Initiation à la sécurité informatique](https://hackmd.io/s/r1Mfb9FVW#)
 
 Au passage, quitte à apprendre et tenter de programmer, autant tenter de faire des ça en s'inspirant du vivant :
 
-* [Applications logicielles en tant que systèmes adaptatifs complexes](https://xavcc.github.io/science/2017/05/08/software-application-as-complexe-adaptative-systems.html)
-* [Biomimétisme et logiciel: une possibilité à saisir](https://xavcc.github.io/science/biomimicry/2017/04/23/biomimicry_software.html)
+* [Applications logicielles en tant que systèmes adaptatifs complexes](https://xavcc.github.io/software-application-as-complexe-adaptative-systems/)
+* [Biomimétisme et logiciel: une possibilité à saisir](https://xavcc.github.io/biomimicry_software/)
 
-#### Biomatériaux et Biofabrics
+### Biomatériaux et Biofabrics
 
 La sève de pissenlit, je travaille sur sa récolte et transformation depuis 4 ans maintenant, ajoutons lui du souffre et chauffons un peu pour obtenir du caoutchouc que l'on pourra travailler (je simplifie volotairement). Car les produits pétrosourcés il est grand temps de s'en passer mais je n'ai pas vu beaucoup d'hévéa du Brésil en France. Ce processus de fabrication amène ce que l'on appel un biomatériau.
 
@@ -132,7 +141,7 @@ Boucler la boucle, ne rien perdre, pérenniser, interroger, se confronter aux zo
 
 Avec toutes ces expérimentations, ces expériences et prototypages, il y a une somme importante de connaissance produite, de savoirs et savoir-faire acquis. Il est de notre responsabilité, et de la mienne évidemment, de les entretenir et les jardiner par la documentation et par la transmission en présentiel. 
 
-Ainsi, à la demande de chercheurs, responsables programmes ou de pédagogie, je me retrouve à faire cours à des ingénieurs diplomés qui se spécialisent dans l'éco-conception, comme à [l'école des métiers de l'environnement de Rennes](https://paper.dropbox.com/doc/Journee-biomimetisme-EME-Rennes-paSBBhomUB3CeQ6FtCtuk). Ou encore faire des workshops aux élèves inégnieurs double diplômes de [L'Université de Technologie de Compiègne sur le biomimétisme](https://paper.dropbox.com/doc/Biomimicry-Land-xwRaCimvvzywCXA9HMLiD) ou donner des cours d'initiation au Design aux Executive MBA de Rennes, des ateliers et conférence en médiathèque à Paris ou Quiberon, des interventions à l'école des beaux arts de Brest, dans les INSA... Le Groupe TransDev TVO pour un consulting, Le Biomiciry Education Summit d'Austin...
+Ainsi, à la demande de chercheurs, responsables programmes ou de pédagogie, je me retrouve à faire cours à des ingénieurs diplomés qui se spécialisent dans l'éco-conception, comme à [l'école des métiers de l'environnement de Rennes](https://xavcc.github.io/biomimicry-rennes/). Ou encore faire des workshops aux élèves inégnieurs double diplômes de [L'Université de Technologie de Compiègne sur le biomimétisme](https://xavcc.github.io/biomimicry-utc/) ou donner des cours d'initiation au Design aux Executive MBA de Rennes, des ateliers et conférence en médiathèque à Paris ou Quiberon, des interventions à l'école des beaux arts de Brest, dans les INSA... Le Groupe TransDev TVO pour un consulting, Le Biomiciry Education Summit d'Austin...
 
 Cette liste pourrait être longue ! J'essaie à chaque occasion d'y embarquer une nouvelle personne provenant des laboratoires citoyens open source, en qualité de pair passeur de savoir, pour lui montrer qu'elle peut, elle aussi, le faire et lui permettre d'acquérir de l'expérience pour devenir autonome et faire cours à son tour. 
 
@@ -140,7 +149,7 @@ Quoiqu'il en soit, on se retouve sur les premiers points abordés en début des 
 
 Dans cette aventure très riche et humainement merveilleuse, s'il n'y a qu'une seule chose que vous pouvez retenir :
 
-> **Faire des petis bouts de trucs et les assembler ensemble**
+> **<span class="evidence">Faire des petis bouts de trucs et les assembler ensemble</span>**
 
 est peut être un des secrets de l'intelligence de la main, de la sagesse du coeur, de la force du cerveau. Pour peu que vous le fassiez avec humilité et déconstruction quotidienne, vous y trouverez peut être un équilibre et un bonheur personnel qui se propagera sur d'autres.
  
