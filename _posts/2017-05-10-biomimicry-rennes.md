@@ -85,10 +85,10 @@ Groupe d'environ 12 personnes
 - le soleil est la source d’énergie principale qui permet la vie grâce à l'intervention (entre autre) des Chloroplastes et cyanobactéries qui rejettent l'oxygène comme déchet
 - les deux grandes boucles planétaires qui régissent l'écosystème terre : 
 
-```
- la photosynthèse = absorbe du CO2 et rejette de l'O2
- la respiration = absorbe de l'O2 et rejette du CO2
-```
+
+ > <span class="evidence">la photosynthèse = absorbe du CO2 et rejette de l'O2</span>
+ > <span class="evidence">la respiration = absorbe de l'O2 et rejette du CO2</span>
+
  
 ### b- Le temps du déploiement du vivant :
 
@@ -273,12 +273,12 @@ Une boucle de pilotage permet d’optimiser la captation d’energie en fonction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_8DHy1FwMj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](https://trello-attachments.s3.amazonaws.com/54ec543dc465b6475381b27b/58c7d6d2792d9d1a81fe0519/bdd8e9f0cb9c3e8347e0db5279b330ad/hydrolienne-anguille.jpg)
+![](/assets/images/hydrolienne-anguille.jpg)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rJAItbruQYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- **Ver marin/coquillage/escargot** pour créer une colle (_EXEMPLE PAS ASSEZ PARLANT VISUELLEMENT..._)
+- **Ver marin/coquillage/escargot** pour créer une colle
 
 En s’inspirant de la colle utilisée par les vers de sable, une colle a usage bio-médical à été développée avec des propriétés d'adhésion dans un milieu liquide (visqueux et hydrophobe) 
 
@@ -297,9 +297,9 @@ et la [production de verre à basse température.](http://www2.cnrs.fr/presse/co
 
 
 
-![](https://trello-attachments.s3.amazonaws.com/54ec543dc465b6475381b27b/58c7d6d2792d9d1a81fe0519/7fac7518e3b924d95c9e40e253822b28/effet_lotus.jpg)
+![](/assets/images/effet_lotus.jpg)
 
-- **URBANISME**/ architecture bio-inspirée** de Luc SCHUITEN en discussion
+<figcaption class="caption">URBANISME : architecture bio-inspirée de Luc SCHUITEN</figcaption>
 
 
 ## 2-SPRINT "brise glace" QUEL EST MON RAPPORT AU VIVANT? (15")
@@ -318,7 +318,8 @@ Possibilité d’organiser un petit "intermède" sur ce que nous évoquent :
 
 + Ref : Roland Barthes [“Le langage est une peau : je frotte mon langage contre l’autre”]([http://evene.lefigaro.fr/celebre/biographie/roland-barthes-597.php) // Mythologies 
 
-![Sortie dans le jardin de l'école pour un warm-up et découverte des potentiels de la biodiversité locale](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494410655544_file.jpeg)
+![](/assets/images/sortie-EME.jpeg)
+<figcaption class="caption">Sortie dans le jardin de l'école pour un warm-up et découverte des potentiels de la biodiversité locale</figcaption>
 
 
 **objectifs** : 
@@ -332,8 +333,9 @@ Possibilité d’organiser un petit "intermède" sur ce que nous évoquent :
 
 **(5-6 personnes) (15" maxi)**
 
-organisation de chaque groupe avec : 
-1 animateur 1 gardien du temps | 1 rapporteur pour la documentation | 1 maquetteur | 1 pitcheur pour la restitution
+organisation de chaque groupe avec :  
+
+1 animateur, 1 gardien du temps, 1 rapporteur pour la documentation, 1 maquetteur, 1 pitcheur pour la restitution
 
 **objectifs :**
 - manip' courtes / obligation de moyens (pas de résultat) pour "learning by doing"
@@ -418,7 +420,7 @@ Problématique de départ:
  
  _À partir de l’observation et de la manipulation de Mimosa Pudica_
  
-> "Vendez moi de la lumière pas une ampoule" ( penser = économie de fonctionnalité?)
+> "_Vendez moi de la lumière pas une ampoule_" ( penser = économie de fonctionnalité)
 
 Il s'agit d'observer, d'annoter, de comprendre et fouiller seul web sur le fonctionnement de la Mimosa Pudica puis en déduire une inspiration d'ingénierie pour économie d'énergie dans les besoins humains.
 
@@ -440,7 +442,7 @@ Problématique de départ :
 
 **Comment se soigner de façon durable ?**
 A partir de la collecte d'informations sur le ver marin arénicole et sur les spécificités de la peau de requin sur le net, 
-[H](http://www.hemarina.com/index.php?rub=ver_de_sang)[emarina](http://www.hemarina.com/index.php?rub=ver_de_sang) - l'arénicole 
+[Hemarina](http://www.hemarina.com/index.php?rub=ver_de_sang) - l'arénicole 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CoukgITfN0c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -521,7 +523,7 @@ Objectif: booster l’esprit d’équipe et la réflexion-action avant le démar
 - et…. tout le monde est là?! 
 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494423973288_file.jpeg)
+![](/assets/images/ambiance-EME.jpeg)
 
 ## Les 3 équipes formées :
 
@@ -531,7 +533,7 @@ Objectif: booster l’esprit d’équipe et la réflexion-action avant le démar
 **A partir de l’observation et de l’extrapolation du modèle du Baobab**
 [Ré-écouter la présentation de Baobuild](https://www.dropbox.com/s/pchzrzmoilzi69j/Baobab.m4a?dl=0)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494422797405_file.jpeg)
+![](/assets/images/inside-EME.jpeg)
 
 
 **LE BRIEF:**
@@ -541,16 +543,14 @@ Dessiner un bâtiment :
 - Ses fondations font 3m mètres de profondeur seulement sur un sol meuble et humide. 
 - Le matériau de construction est gratuit, prélevé sur place de façon invisible sur l'environnement, auto assemblé, auto-réparable en quelques mois, capable de se reproduire tout seul, tolérant et accueillant avec les animaux
 - Le plan du bâtiment doit peser moins d'1 gramme, tenir dans une boite d'allumette. Puis quand tu le jettes au sol, le bâtiment pousse tout seul .…
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494487453664_file.jpeg)
+![](/assets/images/inside-2-EME.jpeg)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_D0DC0B58E92F2BEE8308CF3BAE7C1914F25495BA12FC6127952FD3B8F569B894_1494489351120_20170511_0948231.jpg)
+![](/assets/images/inside-3-EME.jpg)
 
 
 Voir également : _workshop "comment loger 9 milliards d'êtres humains sans abimer la planète_" #3 
 + Workshop biomimicry Rennes 01/04/15 
-+ [#BretagneLabTour] Atelier de design thinking & biomimétisme sur l'habitat : [ICI](
-https://www.dropbox.com/s/crmtp4qsys74916/BIOMIMETISME.docx?dl=0
-)_
++ [#BretagneLabTour] Atelier de design thinking & biomimétisme sur l'habitat : [ICI](https://www.dropbox.com/s/crmtp4qsys74916/BIOMIMETISME.docx?dl=0)_
 
 
 ### THÈME 2 : sortir de l'économie pétrosourcée
@@ -571,12 +571,12 @@ voir : [https://oscedays.org/rennes-2015/](https://oscedays.org/rennes-2015/) no
 + Temps 3- modélisation d’un cycle de vie complet (approvisionnement et culture des matières premières+culture du scoby/ passage de commande en flux tendu lié au temps de culture (responsabilisation de l’acte de consommation)/mise en oeuvre et transformation en petites unités de production locales et frugales/économie circulaire/ distribution par coopérative d’habitants qui crée de l’emploi/ fin de vie en nutriment technique compostable.
 + conceptualisation d’une serre mixte pour la culture du thé et croissance du scoby à T° de 32°C
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494427959269_file.jpeg)
+![](/assets/images/nside-4-EME.jpeg)
 
 
 Lien vers travail groupe : SCOBY [](https://paper.dropbox.com/doc/SCOBY-kQKstu8nFC2Fs7b2LVkQT)
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_914F2956B2B438D490EB26FCDBAFC2EE168665806E8567BBFEDD17C4EDD102CF_1494487630560_file.jpeg)
+![](/assets/images/inside-5-EME.jpeg)
 
 ![](/static/img/pixel.gif)
 
