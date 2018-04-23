@@ -82,7 +82,7 @@ j'au aussi fait des petis bouts de trucs sur :
 
 Cela étant en cours de dissémination, je profite parfois des opportunités de rencontre pour co-organiser des [IndieCamps](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez) ou des [hackathons](https://lebiome.github.io/#LeBiome/Hackathons), sprints de prototypage et/ou amélioration de projets. Ces espaces me permettent de travailler sur la sève de pissenlit, les colonnes bactériennes, le clônage de mycélium, les [energies marines renouvelables bioinspirées](https://lebiome.github.io/#LeBiome/Proto_et_Projets) par exemple.
 
-####Energies
+### Energies
 
 C'est un sujet central qui porte beaucoup de cristallisations sociétales. Il ne peut y avoir de travail de transition de paradigme, de résilience et d'autonmie, sans réflexions et expérimentations profondes sur les énergies, leur sociologie et leurs infrastructures.
 
