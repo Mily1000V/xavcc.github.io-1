@@ -9,7 +9,7 @@ tag:
 - Sciences
 category: blog
 author: XavierCoadic
-description: Biomimicry Land : Documentation collective d'un Workshop à L'Université des Technologies de Compiègne
+description: Biomimicry Land, documentation collective d'un Workshop à L'Université des Technologies de Compiègne
 ---
 
 
