@@ -2,7 +2,7 @@
 title: "Workshop Biomimétisme à l'Université des Technologies de Compiègne"
 layout: post
 date: 2017-05-17 12:48
-image: /assts/images/banniere-utc.jpeg
+image: /assets/images/banniere-utc.jpeg
 headerImage: false
 tag:
 - Biomimétisme
