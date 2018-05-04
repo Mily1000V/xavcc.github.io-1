@@ -101,6 +101,7 @@ Modifier :
 en
 
     Anonymous_enabled=NO
+    
 ![](https://i.imgur.com/PbFC5PC.png)
 
 Toujours en faisant défiler les lignes, enlevez le `#` devant les lignes suivantes :
@@ -166,7 +167,7 @@ Vous avez mainteant accès aux fichiers dans le raspi 3 contenant le noeud ether
 2.Vérifier que le port est bien ouvert avec la commande netstat
 ```    
 root@monlabtop:/home# netstat -atup | grep LISTEN
-tcp        0      0 *:ftp                   *:*                     LISTEN      879/inetd
+tcp    0    0  *:ftp       *:*                     LISTEN      879/inetd
 ```    
 3.Vérifiez que rien n'interdit l'accès au service ftp dans les fichiers `hosts.allow` et `hosts.deny`
     
@@ -198,7 +199,7 @@ Si la configuration est correcte, vous devriez avoir le résultat suivant :
     
 6.  Commentez la ligne anonymous dans le fichier /etc/ftpusers et refaites un essai de connexion.
     
-7.  Faites un test en utilisant un compte système existant, par exemple "lftp localhost -u util" si util est votre compte.
+7.  Faites un test en utilisant un compte système existant, par exemple "lftp localhost -u util" pour vérifier si votre compte est utilisé.
     
 8.  Restaurez l'état initial du fichier /etc/ftpusers.
     
