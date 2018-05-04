@@ -2,7 +2,7 @@
 title: "Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu"
 layout: post
 date: 2017-08-29 12:48
-image: /assets/iamges/geek-kerbors.jpeg
+image: /assets/images/geek-kerbors.jpeg
 headerImage: true
 tag:
 - hsociety
