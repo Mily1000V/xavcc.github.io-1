@@ -165,11 +165,11 @@ Vous avez mainteant accès aux fichiers dans le raspi 3 contenant le noeud ether
 1.Activer le service dans inetd.conf et lancer le service inetd .
     
 2.Vérifier que le port est bien ouvert avec la commande netstat
-    
-    root@monlabtop:/home# netstat -atup | grep LISTEN
-    tcp        0      0 *:ftp                   *:*                     LISTEN      879/inetd
-    
-3.Vérifizr que rien n'interdit l'accès au service ftp dans les fichiers `hosts.allow` et `hosts.deny`
+```    
+root@monlabtop:/home# netstat -atup | grep LISTEN
+tcp        0      0 *:ftp                   *:*                     LISTEN      879/inetd
+```    
+3.Vérifiez que rien n'interdit l'accès au service ftp dans les fichiers `hosts.allow` et `hosts.deny`
     
 4.Commentez le fichier /etc/ftpusers comme ci-dessous :
     
