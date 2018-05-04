@@ -1,9 +1,18 @@
 ---
+title: "Hygiène numérique 1, surfez mieux équipé.e.s"
 layout: post
-title: Hygiène numérique 1, surfez mieux équipé.e.s
-date: 2018-01-08
-categories: ["hsociety"]
+date: 2018-01-08 12:48
+image: https://farm6.staticflickr.com/5092/5478079987_1b389acba5_b.jpg
+headerImage: false
+tag:
+- Hygiène numérique
+- Numérique
+- Open Source
+category: blog
+author: XavierCoadic
+description: Vous n'aurez pas nos vie privée sur l'autel de la cupidité
 ---
+
 
 Vous vous baladeriez nu.e.s les mains menottées dans la rue avec vos informations personnelles et vos codes d'accès tatoués sur le corps ?
 ![](https://farm6.staticflickr.com/5092/5478079987_1b389acba5_b.jpg "Photo by milos milosevic / CC BY")
