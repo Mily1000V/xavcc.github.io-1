@@ -1,15 +1,23 @@
 ---
-layout: post
 title: "Installer un environnement de travail avec Ubuntu : Apache 2 avec les pieds et 15 minutes pour débuter"
-date: 2018-03-12
-categories: ["science"]
+layout: post
+date: 2018-03-12 12:48
+image: /assets/images/indian-western-the-horse-apache-chief.jpg
+headerImage: false
+tag:
+- Ubuntu
+- Numérique
+- Open Source
+category: blog
+author: XavierCoadic
+description: Tutoriel avec les pieds
 ---
 
 En ce lundi de [lendemain d'hackathon](http://movilab.org/index.php?title=Nuit_du_code_citoyen_Rennes_2018), j'ai reçu plusieurs retours de personnes qui lisent des documentations mais restent bloquées à une étape importante : "**mais comment tu fais pour fair apparaître ce que tu fais sur ton ordinateur comme si c'était une page _oueb_** ?"
 
 Il vous faut un environnment de travail, autrement écrit un serveur local installé sur votre ordinateur. Voyons cela rapidement ensemble.
 
-![](/images/indian-western-the-horse-apache-chief.jpg)
+![](/assets/images/indian-western-the-horse-apache-chief.jpg)
 
 >  Il existe différents [logiciels de serveurs web](https://en.wikipedia.org/wiki/Comparison_of_web_server_software) qui sont disponibles ([Apache](https://httpd.apache.org/), [Tomcat](http://tomcat.apache.org/), [nginx](http://nginx.org/)). Apache est libre et gratuit ([Floss](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software)), disponible sur plusieurs plateformes et est simple à installer.
 
@@ -17,7 +25,7 @@ Cet environnement de travail c'est `localhost` (l’hôte local en français), l
 
 ## Installation
 
-Avec firefox ;-) parce que "[Hygiène numérique 1, surfez mieux équipé.e.s](https://xavcc.github.io/hsociety/2018/01/08/hygiene-numerique.html)"
+Avec firefox ;-) parce que "[Hygiène numérique 1, surfez mieux équipé.e.s](https://xavcc.github.io/hygiene-numerique-navifgation/)"
 
 Dans votre terminal :
 
@@ -80,7 +88,7 @@ Si nécessaire, entrez votre mot de passe.
 
 Rechargez la page `localhost` dans votre navigteur. Vous devriez voir l'index du répertoire. Sinon vérifiez vos démarches précédentes. 
 
-![](/images/moz_apache_server.png)
+![](/assets/images/moz_apache_server.png)
 
 Vous en avez fini avec les pieds... Vous pouvez mainteant _jouer_ et continuer à apprendre en faisant des petits bouts de trucs.
 
@@ -141,7 +149,7 @@ _Toujours avec les pieds_
 
 ## Tips 
 
-Vous avez des suggestions, des modifications, ou vous voulez réutiliser ce billet ? Il est sous licence libre (voir l'icone en bas à gauche) et accessible via github.
+Vous avez des suggestions, des modifications, ou vous voulez réutiliser ce billet ? Il est sous licence libre voir et accessible via github.
 
 Il vous a été utile ? Un petit coup de dons sur l'icone jaune en bas à droite sera apprécié ^^
 
