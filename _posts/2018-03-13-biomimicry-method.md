@@ -1,8 +1,16 @@
 ---
-layout: post
 title: "Préparer une formation aux pratiques du biomimétisme"
-date: 2018-03-13
-categories: ["biomimicry"]
+layout: post
+date: 2018-03-13 12:48
+image: /assets/images/mercury_nasa.jpg
+headerImage: true
+tag:
+- hsociety
+- Open Source
+- Biomimimétisme
+category: blog
+author: XavierCoadic
+description: Proposition de démarche prépartoire d'un cours de biomimétisme à destination d'un large public apprenant
 ---
 
 Proposition de démarche prépartoire d'un cours de biomimétisme à destination d'un large public apprenant. Itérant entre sensibilité et prototypage rapide, ce template de déroulé de formation repose sur les pré-requis de connaissance pour les organisatrices et organisateurs de :
@@ -17,7 +25,7 @@ Le biomimétisme, s’inspirer du vivant et de la nature pour résoudre des déf
 
 D’après Otto Herbet Arnold Schmitt il s’agit de décrire un mode d’exploration du Vivant en tant que source de solutions efficientes et moins coûteuses à de nombreux problèmes. La descritpion est une tâche exigente qui demande de la rigueur.
 
-![](/images/tomate.jpeg "xavier Coadic CC BY SA")
+![](/asets/images/tomate.jpeg "xavier Coadic CC BY SA")
 
 ## Ressources de recherche
 
@@ -59,14 +67,14 @@ C'est une sorte d'expérimentation collaborative : une collaboration entre l'hum
 
 Vous pourvez le faire sans animal, en vous laissant guidant pour votre ouîe ou votre odorat si vous êtes équipés d'un GPS.
 
-![](/images/dog.jpg "Photo credit: visualpanic CC BY ")
+![](/assets/images/dog.jpg "Photo credit: visualpanic CC BY ")
 
 Suivez l'animal et "voyez" ce qu'il "voit". Laissez vous guider à par votre compagnon animal ou par vos porpres sens.
 Après cette courte expérience, téléchargez les données.
 
 L'image satellite représentant la route que vous avez empruntée peut être considérée comme un type de dessin décrivant les points d'intérêt du point de vue de l'animal. 
 
-![](/images/rennes_centre.png "Rennes centre avec openstreet map et data viz Xavier Coadic CC BY SA")
+![](/assets/images/rennes_centre.png "Rennes centre avec openstreet map et data viz Xavier Coadic CC BY SA")
 
 ## 2. Vue standard
 
@@ -75,12 +83,12 @@ Définissez une condition de visualisation optique standard pour une trace docum
 Utilisation d'un boîtier de caméra photo numérique ou analogique avec réglage et traitement identique pour chaque prise de vue.
 
 Comparaison test du parc du Thabor à Rennes disponible sur wikipedia
-![](/images/thabor.png)
+![](/assets/images/thabor.png)
 
 ## 3. Sensiblité et senbilisé.e.s
 
 Parr les capacités sensorielles et coginitives, le groupe apprenant expérimente goût, odorat, ouïe, vue et toucher, dans un démarche empirique. Avec notes et croquis.
-![](/images/fab-nomad.png)
+![](/assets/images/fab-nomad.png)
 
 ## 4. Contexte associé
 
@@ -91,7 +99,7 @@ Relocalisez les résultats dans un contexte plus large : la communauté écologi
 Y a-t-il une "histoire" à raconter ? Qu'est-ce qui pourrait bien informer une ou un néophyte sur son contexte ?
 
 Sur la biodiversité qui y a occurence ? Sur son passé ? Sur son actualité ? ( [Ressources wikipédia](https://fr.wikipedia.org/wiki/Parc_du_Thabor#Biodiversit%C3%A9))
-![](/images/noun_244901_cc.png)
+![](/assets/images/noun_244901_cc.png)
 
 ## 5. Cartographie audio
 
@@ -106,7 +114,7 @@ Sur la biodiversité qui y a occurence ? Sur son passé ? Sur son actualité ? (
 
 Encourager la communauté apprenante à transposer les données des plantes sur une carte libre et open data ; réfèrencer les arbustes de fleurs, arbres, mousses et mauvaises herbes de la friche dans leurs jardins, balcons et maisons.  
 
-Cette acte peut être considérée comme un moyen symbolique de sauvegarder un élément de l'environnement en question, en donnant aux plantes la possibilité de perpétuer l'héritage des espaces dans un contexte différent. C'est aussi un action d'habiter de l'esapce et le temps et devenant un contributeur, une contributrice d'un commun.
+Cet acte peut être considérée comme un moyen symbolique de sauvegarder un élément de l'environnement en question, en donnant aux plantes la possibilité de perpétuer l'héritage des espaces dans un contexte différent. C'est aussi un action d'habiter de l'esapce et le temps et devenant un contributeur, une contributrice d'un commun.
 
 C'est un processus de négociation entre réappropriation de l'espace-temps,et sa biodiversité (et données associées), et la pression des activités humaines qui menacent d'épuisement ou de recouvrement cet espace-temps.
 
@@ -115,13 +123,13 @@ Cela permet également de transposer des ressources dans un dommaine numérique 
 Équation des éléments :
 
 `Habitation + négociation / mise en œuvre + transplantation = conservation`
-![](/images/noun_103908_cc.png)
+![](/assets/images/noun_103908_cc.png)
 
 ## 7. Déconstruction des mythes
 
 En creusant par exemple le [constructivisme social](https://fr.wikipedia.org/wiki/Constructivisme_social), ou en faisant exprimer les sens communs contenus dans le groupe apprenant pour déconstruire les biais d'approche et d'interprétation de la nature.
 
-![](/images/mythwheel.jpg)
+![](/assets/images/mythwheel.jpg)
 
 Si le biomimétism consiste à imiter, ou s'inspirer, des matières, formes et systèmes, produit par le vivant, alors ce procesus du vivant qui repose sur des processus physique, chimique et biologique qui peuvent être objectivés.
 
@@ -145,7 +153,7 @@ Concevoir une histoire des flux d'informations, de matières et d'énergie qui i
 
 5. Partager vos données avec les licences appropriées pour faire ciruler vos ressources et permettre de les améliorer.
 
-![](/images/noun_1469609_cc.png)
+![](/assets/images/noun_1469609_cc.png)
 
 ## 9. Complément textuel
 
@@ -190,7 +198,7 @@ Profitez en pour évaluer ensuite :
 
 Pour exemple : [celui réalisé l'Université des technologies de Compiègnes](https://xavcc.github.io/biomimicry/2017/05/17/biomimicry.html)
 
-![](/images/labo.jpeg)
+![](/assets/images/labo.jpeg)
 
 ## Prochaines dates
 
