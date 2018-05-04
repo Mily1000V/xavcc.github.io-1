@@ -1,14 +1,40 @@
-# Test Pi 3, Ethereum & serveur ftp
+---
+title: "Blockchain et énergie : Test Pi 3, Ethereum & serveur ftp"
+layout: post
+date: 2018-03-10 12:48
+image: /assets/images/mercury_nasa.jpg
+headerImage: true
+tag:
+- hsociety
+- Peer 2 Peer
+- Communs
+- Rennes
+category: blog
+author: XavierCoadic
+description: Internets of Energy | Energy as a Commons
+---
 
 Pour <DAISEE.org> : https://github.com/DAISEE lors du hackathon « [Nuit du Code Cutoyen 2018](http://movilab.org/index.php?title=Nuit_du_code_citoyen_Rennes_2018) » à Rennes au hackerspace [Breizh Entropy](http://breizh-entropy.org/) 
 
-## Objectifs 
+### Objectifs 
 1. Installer un noeud ethereum sur raspi 3 : https://github.com/DAISEE/Prototypes/wiki/2.-Ethereum
 2. Installer un Serveur FTP sur le même raspi 3
 3. tester : 
- 3.1 Stabilité
- 3.2 Sécurité
- 3.3 Usages
+  + 3.1 Stabilité
+  + 3.2 Sécurité
+  + 3.3 Usages
+  
+#### Table de contenus
+
+1. [Introduction](#introduction)
+2. [Raspi 3](#raspi-3)
+3. [Documentation supplémentaires](#documentation-supplémentaire)
+4  [Nécessaires](#nécessaires)
+5. [Installer le serveur FTP](#installer-le-serveur-ftp)
+6. [Installer le client](#installer-le-client)
+7. [Connexion au Raspi 3](#connexion-au-raspi-3)
+8. [Tests](#tests)
+3. [Licence du document](#licence)
 
 ## Introduction 
 
@@ -36,11 +62,7 @@ _j'ai simplement demandeé sur le réseau social [Mastodon](https://fr.wikipedia
 ![](https://i.imgur.com/ldlLwHu.gif)
 ![](https://i.imgur.com/Wm5QIq5.png)
 
-
-
-
-
-## Besoins
+## Nécessaires
 
 + Un raspberry 3
 + un **serveur FTP** et un **client FTP**.
@@ -93,19 +115,18 @@ Puis faites `[ctrl]` + `[x]` puis `[o]` puis `[Entrée]`
 
 Le server est prêt
 
-:::warning
+
 ### DefaultRoot
 
 Le répertoire auquel auront accès les personnes qui se connecteront en FTP.
 
-:::warning
-Par défaut, quelqu'un qui se connecte en FTP au serveur peut accéder à tous les dossiers du serveur ! 
-::: success
-Bien qu'il ne puisse pas les modifier pour la plupart, ce n'est certainement pas quelque chose que vous avez envie d'autoriser. Il est donc recommandé d'activer l'option DefaultRoot
-:::
+<span class="evidence">Par défaut, quelqu'un qui se connecte en FTP au serveur peut accéder à tous les dossiers du serveur ! 
+
+**Bien qu'il ne puisse pas les modifier pour la plupart, ce n'est certainement pas quelque chose que vous avez envie d'autoriser. Il est donc recommandé d'activer l'option DefaultRoot**
+
 
 Pour activer DefaultRoot, supprimez le `#` en début de ligne. 
-La valeur `~` de la commande signifie que l'utilisateur sera limité à son dossier personnel (`/home/me` par exemple). Il ne pourra pas aller "fouiner" dans d'autres dossiers.
+La valeur `~` de la commande signifie que l'utilisateur sera limité à son dossier personnel (`/home/me` par exemple). Il ne pourra pas aller "fouiner" dans d'autres dossiers.</span>
 
 ## Installer le client 
 
@@ -132,12 +153,12 @@ Vous avez mainteant accès aux fichiers dans le raspi 3 contenant le noeud ether
 
 ## Tests 
 
-1. https://ftptest.net
+1. <https://ftptest.net>
 2. `$ telnet mon.ip.ftp`
 3. Les connexions sont assez faciles à suivre par IP: `grep ftp /etc/services`
 4. Utilisez netstat pour voir les connexions ouvertes. Par exemple, pour un FTP simple : `$ netstat -tan | grep \\:21`
 5. Ou, si vous voulez que l'on confirme quel programme utilise le port [TCP] 21 : `sudo netstat -tanp | grep \\:21`
-6. Si vous utilisez ftp, vous pouvez voir qui est connecté en temps réel et quel type d'opération est en train de faire (dowload, upload) avec la commande suivante: `$ pure-ftpwho  ` (_voir https://www.pureftpd.org/project/pure-ftpd)
+6. Si vous utilisez ftp, vous pouvez voir qui est connecté en temps réel et quel type d'opération est en train de faire (dowload, upload) avec la commande suivante: `$ pure-ftpwho  ` (_voir <https://www.pureftpd.org/project/pure-ftpd>)
 
 ### Test accès ftp et sécurisation du service
 
@@ -148,16 +169,16 @@ Vous avez mainteant accès aux fichiers dans le raspi 3 contenant le noeud ether
     root@monlabtop:/home# netstat -atup | grep LISTEN
     tcp        0      0 *:ftp                   *:*                     LISTEN      879/inetd
     
-3.Vérifier que rien n'interdit l'accès au service ftp dans les fichiers hosts.allow et hosts.deny
+3.Vérifizr que rien n'interdit l'accès au service ftp dans les fichiers `hosts.allow` et `hosts.deny`
     
-4.Commenter le fichier /etc/ftpusers comme ci-dessous :
+4.Commentez le fichier /etc/ftpusers comme ci-dessous :
     
     \# /etc/ftpusers: list of users disallowed ftp access. See ftpusers(5).
     root
     #ftp
     #anonymous
     
-5.Tester et vérifier le bon fonctionnement de l'accès ftp anonyme en utilisant le compte "ftp" ou "anonymous" avec la commande :
+5.Testez et vérifiez le bon fonctionnement de l'accès ftp anonyme en utilisant le compte "ftp" ou "anonymous" avec la commande :
     
     lftp localhost -u anonymous
 ou 
@@ -184,7 +205,7 @@ Si la configuration est correcte, vous devriez avoir le résultat suivant :
     
 9.  Interdisez l'accès ftp avec TCP-Wrapper. Testez avec l'accès anonyme et en utilisant un compte authentifié.
 
-NLDR : Les tests de sécurité et d'usages auront lieu lors des prochaines soirées apéro DAISEE, Internet Of Energy, Energy as a Commons, à Rennes. Pensez à nous suivre pour être tenu⋅e⋅s informé⋅e⋅s
+> <span class="evidence">**NLDR** : Les tests de sécurité et d'usages auront lieu lors des prochaines soirées apéro DAISEE, Internet Of Energy, Energy as a Commons, à Rennes. Pensez à nous suivre pour être tenu⋅e⋅s informé⋅e⋅s</span>
 
 ## Licence
 
