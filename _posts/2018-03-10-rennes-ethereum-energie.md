@@ -11,15 +11,16 @@ tag:
 - Rennes
 category: blog
 author: XavierCoadic
-description: Internets of Energy | Energy as a Commons
+description: Internets of Energy  Energy as a Commons
 ---
 
 Pour DAISEE.org : <https://github.com/DAISEE> lors du hackathon « [Nuit du Code Cutoyen 2018](http://movilab.org/index.php?title=Nuit_du_code_citoyen_Rennes_2018) » à Rennes au hackerspace [Breizh Entropy](http://breizh-entropy.org/) 
 
 ### Objectifs 
-1. Installer un noeud ethereum sur raspi 3 : <https://github.com/DAISEE/Prototypes/wiki/2.-Ethereum>
+1. Installer un nœud ethereum sur raspi 3 : <https://github.com/DAISEE/Prototypes/wiki/2.-Ethereum>
 2. Installer un Serveur FTP sur le même raspi 3
-3. tester : 
+3. Envoyer certaines données du nœud sur le serveur FTP
+4. tester : 
   + 3.1 Stabilité
   + 3.2 Sécurité
   + 3.3 Usages
