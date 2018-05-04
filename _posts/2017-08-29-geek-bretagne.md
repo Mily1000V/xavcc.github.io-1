@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - hsociety
 - Bretagne
-- numérique
+- Numérique
 - Peer 2 Peer
 category: blog
 author: XavierCoadic
