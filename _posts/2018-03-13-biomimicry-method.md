@@ -2,8 +2,8 @@
 title: "Préparer une formation aux pratiques du biomimétisme"
 layout: post
 date: 2018-03-13 12:48
-image: /assets/images/mercury_nasa.jpg
-headerImage: true
+image: /assets/images/tomate.jpeg
+headerImage: false
 tag:
 - hsociety
 - Open Source
@@ -19,13 +19,37 @@ Proposition de démarche prépartoire d'un cours de biomimétisme à destination
   + [Desig patterns](https://wiki.hackerspaces.org/Design_Patterns) pour aller plus loin
 + [Un envirronement didactique](https://didapro.me/category/environnement-didactique/page/5/)
 
+#### Table des contenus
+1. [Introduction](#introduction)
+   + Ressources de recherhce
+   + Objectifs
+   + Catégories
+   + Habitation et habiter l'espace-temps
+   + État d'esprit
+   + Lignes temporelles et contextuelles
+   + Responsabilités
+2. [Rover Explorateur et Espace](#rover-explorateur-et-espace)
+3. [Vue standard](#vue-standard)
+4. [Sensiblité et senbilisées](#sensibilité-et-sensibilisée)
+5. [Contexte associé](#contexte-associé)
+6. [Cartographie Audio](#cartographie-audio)
+7. [Répartir entre la communauté apprenante](#répartir-entre-la-communauté-apprenante)
+8. [Déconstruction des Mythes](#déconstructiondes-mythes)
+9. [Fil narratif des flux](#fil-narratif-des-flux)
+10. [Complément textuel](#complément-textuel)
+11. [Outils de prototypage](#outils-de-prototypage)
+12. [Retrospective à mi parcours](#rétrospective-à-mi-parcours)
+13. [Phase de prototypage](#phase-de-prototypage)
+14. [Prochaines-dates](#prochaines-dates)
+15. [Tips](#tips)
+
 ## Introduction
 
 Le biomimétisme, s’inspirer du vivant et de la nature pour résoudre des défis sociétaux, est un ensemble de disciplines et de pratiques qui a pour dessein d’imiter les matériaux, les formes, les mécanismes et les systèmes éprouvés par les conditions, les exigences et les contraintes de l’évolution du vivant. Ces velléités d’innovations sont liées aux notions de transfert de processus biologique et / ou physique et / ou chimique dans les nouvelles fabrications humaines.
 
 D’après Otto Herbet Arnold Schmitt il s’agit de décrire un mode d’exploration du Vivant en tant que source de solutions efficientes et moins coûteuses à de nombreux problèmes. La descritpion est une tâche exigente qui demande de la rigueur.
 
-![](/asets/images/tomate.jpeg "xavier Coadic CC BY SA")
+![](/assets/images/tomate.jpeg "xavier Coadic CC BY SA")
 
 ## Ressources de recherche
 
@@ -61,7 +85,7 @@ Droits fonciers et politique urbaine, industrie et commerce, colonialisme et mon
 
 Travailler dans le domaine public, les ressources libres et open source, le capital naturel et culturel, la propriété et l'intervention, biononymous et bioprivacy
 
-## 1. "Rover" - Un explorateur de l'espace
+##  Rover Explorateur et Espace
 
 C'est une sorte d'expérimentation collaborative : une collaboration entre l'humain, l'animal, la technologie et l'espace. Attachez un dsipositif GPS au collier d'un chat ou chien. Introduisez l'animal sur le terrain et suivez le sans le diriger pour vous faire entrer dans le monde olfactif dans lequel nous n'avons pas les mêmes repères.
 
@@ -76,7 +100,7 @@ L'image satellite représentant la route que vous avez empruntée peut être con
 
 ![](/assets/images/rennes_centre.png "Rennes centre avec openstreet map et data viz Xavier Coadic CC BY SA")
 
-## 2. Vue standard
+## Vue standard
 
 Définissez une condition de visualisation optique standard pour une trace documentaire et analytique.
 
@@ -85,12 +109,12 @@ Utilisation d'un boîtier de caméra photo numérique ou analogique avec réglag
 Comparaison test du parc du Thabor à Rennes disponible sur wikipedia
 ![](/assets/images/thabor.png)
 
-## 3. Sensiblité et senbilisé.e.s
+## Sensiblité et senbilisées
 
 Parr les capacités sensorielles et coginitives, le groupe apprenant expérimente goût, odorat, ouïe, vue et toucher, dans un démarche empirique. Avec notes et croquis.
 ![](/assets/images/fab-nomad.png)
 
-## 4. Contexte associé
+## Contexte associé
 
 Mettez l'accent sur la caractéristique ou le détail du terrain exploré et trouvez des correspondances avec les sites environnants.
 
@@ -101,7 +125,7 @@ Y a-t-il une "histoire" à raconter ? Qu'est-ce qui pourrait bien informer une o
 Sur la biodiversité qui y a occurence ? Sur son passé ? Sur son actualité ? ( [Ressources wikipédia](https://fr.wikipedia.org/wiki/Parc_du_Thabor#Biodiversit%C3%A9))
 ![](/assets/images/noun_244901_cc.png)
 
-## 5. Cartographie audio
+## Cartographie audio
 
 + Faire des enregistrements sur le terrain sur le site. Amplifiez ce qui est inaudible à l'oreille nue. Y a-t-il de l'eau ? Du vent?
 + Utiliser des microphones étanches. Enregistrez les bruits d'animaux, de la circulation, les bruits de la ville lointaine...
@@ -110,7 +134,7 @@ Sur la biodiversité qui y a occurence ? Sur son passé ? Sur son actualité ? (
 + Peut-être les mélanger dans des entrevues menées avec des personnes sur le site ou à propos du site.
 ![](/images/noun_666825_cc.png)
 
-## 6. Répartir entre la communauté apprenante
+## Répartir entre la communauté apprenante
 
 Encourager la communauté apprenante à transposer les données des plantes sur une carte libre et open data ; réfèrencer les arbustes de fleurs, arbres, mousses et mauvaises herbes de la friche dans leurs jardins, balcons et maisons.  
 
@@ -125,7 +149,7 @@ Cela permet également de transposer des ressources dans un dommaine numérique 
 `Habitation + négociation / mise en œuvre + transplantation = conservation`
 ![](/assets/images/noun_103908_cc.png)
 
-## 7. Déconstruction des mythes
+## Déconstruction des mythes
 
 En creusant par exemple le [constructivisme social](https://fr.wikipedia.org/wiki/Constructivisme_social), ou en faisant exprimer les sens communs contenus dans le groupe apprenant pour déconstruire les biais d'approche et d'interprétation de la nature.
 
@@ -135,11 +159,11 @@ Si le biomimétism consiste à imiter, ou s'inspirer, des matières, formes et s
 
 Les représentations de la nature à l’âge de l’Anthropocène doivent être interogées par et pour le groupe, documentées pour l'au-delà du groupe, pour un commun.
 
-![](/images/Alexandra-Arene.jpg "Alexandra Arènes, Cartogenèse du territoire de Belval, 2016") 
+![](/assets/images/Alexandra-Arene.jpg "Alexandra Arènes, Cartogenèse du territoire de Belval, 2016") 
 
 Investiguer les rapport entre biomimétisme et éthique, comme exemple [ICI](https://paper.dropbox.com/doc/Le-biomimetisme-est-il-une-ethique-kPqm4Ox2OfSzqXpLwRBA0)
 
-## 8. Fil narratif des flux
+## Fil narratif des flux
 
 Concevoir une histoire des flux d'informations, de matières et d'énergie qui intérragissent sur le terrain étudié.
 
@@ -155,11 +179,11 @@ Concevoir une histoire des flux d'informations, de matières et d'énergie qui i
 
 ![](/assets/images/noun_1469609_cc.png)
 
-## 9. Complément textuel
+## Complément textuel
 
 Augmenter votre fil narratif d'un texte écrit ou vocal pour permettre un compréhension plus fine des conditions de votre langage de recherche et des condtions d'acceptabilité de ce fil naratif des flux.
 
-## 10. Outils du prototypage
+## Outils du prototypage
 
 Créer une trousse d'outils interdisciplinaires à utiliser sur le terrain investigué ou en proximité immédiate.
 
@@ -181,7 +205,7 @@ Les outils pourraient être pour un approfondissement des fonctions du vivant, p
 + Fonctionnalité de ce vivant
 + Inutilité pseudo-apparente du vivant observé
 
-## 10. Retropesctive à mi-parcours
+## Réopesctive à mi parcours
 
 Planifiez votre prochaine rétrospective : [ici](https://plans-for-retrospectives.com/fr).
 
@@ -194,7 +218,7 @@ Profitez en pour évaluer ensuite :
 
 ![](https://framapic.org/BcSvPJBJhDMZ/oCj90ZctVJCD)
 
-## 11. Phase de prototypage
+## Phase de prototypage
 
 Pour exemple : [celui réalisé l'Université des technologies de Compiègnes](https://xavcc.github.io/biomimicry/2017/05/17/biomimicry.html)
 
@@ -205,7 +229,7 @@ Pour exemple : [celui réalisé l'Université des technologies de Compiègnes](h
 + 21 mars à Rennes : [Master Class de biomimétisme](https://openagenda.com/biomehacklab/events/master-class-de-biomimetisme?lang=fr)
 + 26 mars à Rennes : [Walking Rennes](https://openagenda.com/root-nomad/events/walking-rennes)
 
-## 12. Tips 
+## Tips 
 
 Vous avez des suggestions, des modifications, ou vous voulez réutiliser ce billet ? Il est sous licence libre (voir l'icone en bas à gauche) et accessible via github.
 
