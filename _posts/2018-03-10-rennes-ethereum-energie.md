@@ -76,7 +76,7 @@ Vous pourrez accéder à votre Raspberry Pi en FTP uniquement en local.
 
 Avec un terminal (possible également SSH) :
 
-``sudo apt-get install vsftpd``
+    sudo apt-get install vsftpd
 
 Appuyez sur `[o]` si cela est demandé lors de l'installation dans le terminal.
 
@@ -84,7 +84,7 @@ Le serveur est installé,
 
 Poiur la configuration, depuis votre terminal, entrez
 
-`sudo nano /etc/vsftpd.conf`
+    sudo nano /etc/vsftpd.conf
 
 Un fichier de configuration s’ouvre.
 ![](https://i.imgur.com/SU0pnmP.png)
@@ -95,11 +95,12 @@ Parfois, il faudra enlever le `#` au début d'une des lignes pour activer l'inst
 Faire défilier les lignes 
 
 Modifier : 
-`Anonymous_enabled=YES`
+
+    Anonymous_enabled=YES
 
 en
 
-`Anonymous_enabled=NO`
+    Anonymous_enabled=NO
 ![](https://i.imgur.com/PbFC5PC.png)
 
 Toujours en faisant défiler les lignes, enlevez le `#` devant les lignes suivantes :
@@ -115,17 +116,15 @@ Puis faites `[ctrl]` + `[x]` puis `[o]` puis `[Entrée]`
 
 Le server est prêt
 
-
 ### DefaultRoot
 
 Le répertoire auquel auront accès les personnes qui se connecteront en FTP.
 
-<span class="evidence">Par défaut, quelqu'un qui se connecte en FTP au serveur peut accéder à tous les dossiers du serveur ! 
+<span class="evidence">Par défaut, quelqu'un qui se connecte en FTP au serveur peut accéder à tous les dossiers du serveur !</span> 
 
-**Bien qu'il ne puisse pas les modifier pour la plupart, ce n'est certainement pas quelque chose que vous avez envie d'autoriser. Il est donc recommandé d'activer l'option DefaultRoot**
+<span class="evidence">**Bien qu'il ne puisse pas les modifier pour la plupart, ce n'est certainement pas quelque chose que vous avez envie d'autoriser. Il est donc recommandé d'activer l'option DefaultRoot**</span>
 
-
-Pour activer DefaultRoot, supprimez le `#` en début de ligne. 
+<span class="evidence">Pour activer DefaultRoot, supprimez le `#` en début de ligne. 
 La valeur `~` de la commande signifie que l'utilisateur sera limité à son dossier personnel (`/home/me` par exemple). Il ne pourra pas aller "fouiner" dans d'autres dossiers.</span>
 
 ## Installer le client 
@@ -134,7 +133,7 @@ Télécharger _FileZilla_ [ici](https://filezilla-project.org/download.php?show_
 
 Avec Linux vous pouvez aussi taper
 
-`sudo apt-get install filezilla`
+    sudo apt-get install filezilla 
 
 ## Connexion au Raspi 3
 
@@ -158,7 +157,7 @@ Vous avez mainteant accès aux fichiers dans le raspi 3 contenant le noeud ether
 3. Les connexions sont assez faciles à suivre par IP: `grep ftp /etc/services`
 4. Utilisez netstat pour voir les connexions ouvertes. Par exemple, pour un FTP simple : `$ netstat -tan | grep \\:21`
 5. Ou, si vous voulez que l'on confirme quel programme utilise le port [TCP] 21 : `sudo netstat -tanp | grep \\:21`
-6. Si vous utilisez ftp, vous pouvez voir qui est connecté en temps réel et quel type d'opération est en train de faire (dowload, upload) avec la commande suivante: `$ pure-ftpwho  ` (_voir <https://www.pureftpd.org/project/pure-ftpd>)
+6. Si vous utilisez ftp, vous pouvez voir qui est connecté en temps réel et quel type d'opération est en train de faire (dowload, upload) avec la commande suivante: `$ pure-ftpwho` (_voir <https://www.pureftpd.org/project/pure-ftpd>)
 
 ### Test accès ftp et sécurisation du service
 
@@ -172,12 +171,12 @@ tcp        0      0 *:ftp                   *:*                     LISTEN      
 3.Vérifiez que rien n'interdit l'accès au service ftp dans les fichiers `hosts.allow` et `hosts.deny`
     
 4.Commentez le fichier /etc/ftpusers comme ci-dessous :
-    
-    \# /etc/ftpusers: list of users disallowed ftp access. See ftpusers(5).
-    root
-    #ftp
-    #anonymous
-    
+```    
+\# /etc/ftpusers: list of users disallowed ftp access. See ftpusers(5).
+root
+#ftp
+#anonymous
+```    
 5.Testez et vérifiez le bon fonctionnement de l'accès ftp anonyme en utilisant le compte "ftp" ou "anonymous" avec la commande :
     
     lftp localhost -u anonymous
