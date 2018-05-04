@@ -14,7 +14,7 @@ author: XavierCoadic
 description: Internets of Energy | Energy as a Commons
 ---
 
-Pour <DAISEE.org> : https://github.com/DAISEE lors du hackathon « [Nuit du Code Cutoyen 2018](http://movilab.org/index.php?title=Nuit_du_code_citoyen_Rennes_2018) » à Rennes au hackerspace [Breizh Entropy](http://breizh-entropy.org/) 
+Pour DAISEE.org : <https://github.com/DAISEE> lors du hackathon « [Nuit du Code Cutoyen 2018](http://movilab.org/index.php?title=Nuit_du_code_citoyen_Rennes_2018) » à Rennes au hackerspace [Breizh Entropy](http://breizh-entropy.org/) 
 
 ### Objectifs 
 1. Installer un noeud ethereum sur raspi 3 : https://github.com/DAISEE/Prototypes/wiki/2.-Ethereum
@@ -54,7 +54,7 @@ Le _FTP_ (_File Transfer Protocol_) est un protocole qui nous permet d’accéde
 
 ## Documentations supplémentaires
 
-_j'ai simplement demandeé sur le réseau social [Mastodon](https://fr.wikipedia.org/wiki/Mastodon_(r%C3%A9seau_social)), [Flynn](https://mastodon.roflcopter.fr/@flynn) a répondu gentillement_
+_j'ai simplement demandé sur le réseau social [Mastodon](https://fr.wikipedia.org/wiki/Mastodon_(r%C3%A9seau_social)), [Flynn](https://mastodon.roflcopter.fr/@flynn) a répondu gentillement_
 1. [FILE TRANSFER PROTOCOL (FTP)](https://www.ietf.org/rfc/rfc959.txt), Obsoletes RFC: 765 (IEN 149) sur IETF
 2. [Tutoriel : Créer son serveur FTP](http://sdz.tdct.org/sdz/creer-son-serveur-ftp.html)
 3. [Wikipedia pour le mode passif/actif](https://fr.wikipedia.org/wiki/File_Transfer_Protocol), voir également [FPT protégé par SSL ou TLS](https://fr.wikipedia.org/wiki/File_Transfer_Protocol_Secure)
