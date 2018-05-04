@@ -1,5 +1,5 @@
 ---
-title: "Blockchain et énergie : Test Pi 3, Ethereum & serveur ftp"
+title: "Blockchain et énergie : Test Pi 3, Ethereum et serveur ftp"
 layout: post
 date: 2018-03-10 12:48
 image: /assets/images/mercury_nasa.jpg
@@ -207,6 +207,9 @@ Si la configuration est correcte, vous devriez avoir le résultat suivant :
 9.  Interdisez l'accès ftp avec TCP-Wrapper. Testez avec l'accès anonyme et en utilisant un compte authentifié.
 
 > <span class="evidence">**NLDR** : Les tests de sécurité et d'usages auront lieu lors des prochaines soirées apéro DAISEE, Internet Of Energy, Energy as a Commons, à Rennes. Pensez à nous suivre pour être tenu⋅e⋅s informé⋅e⋅s</span>
+
+> _Un comentaire ou une question ? Ouvrez un [ISSUE](https://github.com/XavCC/xavcc.github.io/issues) titrée de l'article._
+> _Une modification, une amélioration ? Ouvrez une [Pull Request](https://github.com/XavCC/xavcc.github.io/pulls) avec votre contribution_
 
 ## Licence
 
