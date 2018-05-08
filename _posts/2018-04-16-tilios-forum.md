@@ -30,7 +30,18 @@ status :
        Découverte : 16-04-2018 (par hasard)
              - sur le programme :"Atelier pour mettre en cartographie et documentations les différentes ressources et réponses que connaissent les participants"
        Inscrit au programme : 
-             - 19-04-2018 http://forum-usages-cooperatifs.net/index.php/Accueil      
+             - 19-04-2018 http://forum-usages-cooperatifs.net/index.php/Accueil
+       Réponse : courriel reçu le 23/04/2018
+              Bonjour,
+
+            Nous finalisons la plaquette du forum avec un bat qui doit partir demain.
+
+            La nouvelle plaquette présentent les ateliers par journée et vos présentations d’atelier sont moins lisibles et compréhensibles pour le lecteur.
+
+
+1.  "Tiers lieux, le libre et l'open source et la collaboration pour répondre aux enjeux critiques" atelier et retour d'expériences, * Libertés et sécurités informatique * Prévision et prévention des accidents corporels * libertés et égalité au-delà des genres * accessibilité, perméabilité, handicap * bioéthique et sciences * Biononymous et bioprivacy
+
+2. "Mise en commun et coopération face aux enjeux critiques" atelier pour mettre en cartographie et documentations les différentes ressources et réponses que connaissent les participants 
        
 ```             
 
