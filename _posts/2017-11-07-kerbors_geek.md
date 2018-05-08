@@ -8,6 +8,7 @@ tag:
 - hsociety
 - Peer 2 Peer
 - Numérique
+- Bretagne
 star: true
 category: blog
 author: johndoe
