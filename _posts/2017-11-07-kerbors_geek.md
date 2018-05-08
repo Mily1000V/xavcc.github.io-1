@@ -156,7 +156,7 @@ h1 [] [text "Hello, Wolrd"]
 
 Avec Elm c'est une virtualisation du DOM qui est engagée. [Document Object Model](https://fr.wikipedia.org/wiki/Document_Object_Model) (DOM) est une interface de programmation normalisée par le W3C, qui permet à des scripts d'examiner et de modifier le contenu du navigateur web
 
-Exemple pour la mise en place de boutons + et - sur une page web http://elm-lang.org/examples/buttons
+Exemple pour la mise en place de boutons + et - sur une page web <http://elm-lang.org/examples/buttons>
 
 {% highlight elm %}
 -- Read more about this program in the official Elm guide:
@@ -191,7 +191,7 @@ update msg model =
 
 > **NB** : le début de la programmation fonctionnelle est le pattern matching. Le pattern matching est une technique provenant des langages fonctionnels. D'après sa définition, elle a pour but de valider la présence de patterns dans une séquence. Une séquence, dans le monde fonctionnel, est représentée par des données en entrée. Dans le monde objet, la séquence est une instance d'une classe
 
-Maintenant, se créer un répertoire `elm-kerbors` Puis lancer `elm-repl 0.18.0` (<github.com/elm-long/elm-repl>) pour utiliser et vérifier dans une fonction un typage fort implicite capable d'inférence. 
+Maintenant, se créer un répertoire `elm-kerbors` Puis lancer `elm-repl 0.18.0` (<https://github.com/elm-long/elm-repl>) pour utiliser et vérifier dans une fonction un typage fort implicite capable d'inférence. 
 
 {% highlight elm %}
 add num + 2
