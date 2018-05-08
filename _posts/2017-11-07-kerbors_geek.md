@@ -15,7 +15,7 @@ author: johndoe
 description: IndieCamp, Elm, Javascript, Geek, programmation
 ---
 
-> `IndieCamp` `Kerbors` `atelier geek` `Elm` `JavaScript`, qu'est ce qu'un [IndieCamp](http://movilab.org/index.php?title=IndieCamp)
+> `IndieCamp` , `Kerbors` , `atelier geek`, `Elm` `JavaScript`, qu'est ce qu'un [IndieCamp](http://movilab.org/index.php?title=IndieCamp)
 
 * [Atelier #0](https://hackmd.io/s/rJw31KgDb), sur les commandes d'un terminal pour un ordinateur sous Linux
 * [Atelier #1](https://hackmd.io/s/rJDXkRHDW), sur le langage markdown utile àla documentation de projet
