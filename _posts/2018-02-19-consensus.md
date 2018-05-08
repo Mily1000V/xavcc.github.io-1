@@ -13,13 +13,6 @@ author: XavierCoadic
 description: Documentation collaborative ouverte de l'atelier "Modes d'organisations et inégalités"
 ---
 
----
-layout: post
-title: "Travaillons ensemble sur le consensus et le design des instances ?"
-date: 2018-02-19
-categories: ["hsociety"]
----
-
 Vous formuler une intention claire et expressive, telle est mon intention dans cet article afin de respecter votre attention et favoriser de possibles collaborations.
 
 ![](/assets/images/bell.jpg) 
