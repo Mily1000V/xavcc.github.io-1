@@ -11,7 +11,7 @@ tag:
 - Bretagne
 star: true
 category: blog
-author: johndoe
+author : XavierCoadic
 description: IndieCamp, Elm, Javascript, Geek, programmation
 ---
 
