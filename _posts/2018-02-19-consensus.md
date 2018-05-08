@@ -1,4 +1,19 @@
 ---
+title: "Travaillons ensemble sur le consensus et le design des instances ?"
+layout: post
+date: 2018-02-19 12:48
+image: /assets/images/bell.jpg
+headerImage: false
+tag:
+- hsociety
+- Consensus
+- Gouvernance
+category: blog
+author: XavierCoadic
+description: Documentation collaborative ouverte de l'atelier "Modes d'organisations et inégalités"
+---
+
+---
 layout: post
 title: "Travaillons ensemble sur le consensus et le design des instances ?"
 date: 2018-02-19
@@ -7,7 +22,8 @@ categories: ["hsociety"]
 
 Vous formuler une intention claire et expressive, telle est mon intention dans cet article afin de respecter votre attention et favoriser de possibles collaborations.
 
-![](/images/bell.jpg "Image from page 316 of 'Bell telephone magazine' (1922)")
+![](/assets/images/bell.jpg) 
+<figcaption class="caption">Image from page 316 of 'Bell telephone magazine' (1922)</figcaption>
 
 L'expressivité me semble devoir être comprise à la fois comme la puissance d'expression, soit une capacité à exprimer une opération complexe par un formalisme aussi simple que possible, et à la fois comme la qualité de l'expression, soit le fait que le texte du formalisme suggère facilement sa signification au lecteur.
 
@@ -19,8 +35,8 @@ Depuis près de 3 ans je travail à l'élaboration de processus décisionnels ad
 
 J'ai rédigé à ce sujet deux articles contenant des liens vers, entre autres, une [bibliothèque numérique sur le consensus](https://hackmd.io/s/rkIpFJivM) et des regards et interrogations sur l'objet du consensus :
 
-1. [OCNI: Objet de Consensus Non Identifié](https://xavcc.github.io/hsociety/2017/08/26/ocni.html)
-2. [OCNI #2 Objet de Consensus Non Identifié - Consensus et Consentement](https://xavcc.github.io/hsociety/2017/10/10/ocni_2.html)
+1. [OCNI: Objet de Consensus Non Identifié](https://xavcc.github.io/ocni)
+2. [OCNI #2 Objet de Consensus Non Identifié - Consensus et Consentement](https://xavcc.github.io/ocni_2/)
 
 S'en est suivie très récemment une contribution à la consultation nationale sur une société numérique, sur "[les écueils de gouvernance à éviter](https://strategie.societenumerique.gouv.fr/topic/38/les-%C3%A9cueils-de-gouvernance-%C3%A0-%C3%A9viter/5)".
 
@@ -44,11 +60,11 @@ Via l'usage d'un [tableau kaban dédié au travail de recherche et conception su
 
 Cette fiche de tâche se trouve dans un tableau de gestion de projet basé sur la méthode [kanban](https://fr.wikipedia.org/wiki/Kanban). Ce [tableau](https://github.com/XavCC/xavcc.github.io/projects) affiche sans complexe, mais sans être figé, et avec clarté l'objectif de ce travail sur le consensus.
 
-![](/images/capture-project.png)
+![](/assets/images/capture-project.png)
 
 > Dans le but final d'un rendu documenté et travaillé sur le Consensus, en partant de Tiers-Lieux en base d'expérimentation mais sans se limiter à eux, comme objet d'étude dans l'évolution du design des instances et de la démocratie.
 
-Ce tableau est hébergé dans github afin d'arranger au mieux l'historique des contributions, la coécriture, l'accesiblité aux données, la modification et l'intégration continue, la réutilisation par respect des licences libres.  Si github vous repousse pour des raisons de difficultés ou de méconnaissance, je vous ai préparé un très court article pour essayer de remédier à cela : "[Démystifier l'écran noir, le terminal, le git... Apprendre github en douceur : 10 ressources](https://xavcc.github.io/science/2018/02/19/github.html)". Si cela ne suffit pas, je serais ravi de prendre du temps en présentiel ou par visioconférence pour échanger et pour vous aider ou d'envisager ensemble des alternatives pour votre contribution. 
+Ce tableau est hébergé dans github afin d'arranger au mieux l'historique des contributions, la coécriture, l'accesiblité aux données, la modification et l'intégration continue, la réutilisation par respect des licences libres.  Si github vous repousse pour des raisons de difficultés ou de méconnaissance, je vous ai préparé un très court article pour essayer de remédier à cela : "[Démystifier l'écran noir, le terminal, le git... Apprendre github en douceur : 10 ressources](https://xavcc.github.io/github)". Si cela ne suffit pas, je serais ravi de prendre du temps en présentiel ou par visioconférence pour échanger et pour vous aider ou d'envisager ensemble des alternatives pour votre contribution. 
 
 Si la question de "qui ?" peut contribuer, collaborer, je vous répondrai que ce sont les personnes qui comprennent cette démarche et qui peuvent la suivre ou qui désirent apprendre à la pratiquer, sans aucun autre pré-requis. 
 
@@ -75,7 +91,7 @@ Contribuer pour :
 Par l'utilisation de ce [tableau kaban évoqué ci-avant](https://github.com/XavCC/xavcc.github.io/projects) afin de coordonner nos idées, nos actions, nos productions à plusieurs.
 Lorsque vous cliquez sur [Consensus Studies](https://github.com/XavCC/xavcc.github.io/projects/2) vous arrivez ici : 
 
-![](/images/kanban.png)
+![](/assets/images/kanban.png)
 
 4 colonnes pour y placer ce que vous voudrez dans :
 
@@ -86,11 +102,11 @@ Lorsque vous cliquez sur [Consensus Studies](https://github.com/XavCC/xavcc.gith
 
 Exemple avec cet article :
 
-![](/images/kanban.png)
+![](/assets/images/kanban2.png)
 
 J'ai utilisé un fiche de tâche "Explications" placées dans la colonne idée pour pouvoir y réfléchir, définir les nécessités, présenter l'idée à d'autres personnes. Puis en démarrant cet article j'ai déplacé cette fiche dans la colonne "En cours" en lui ajoutant la Pull Request `#69` du brouillon de l'article et en cochant au fur et à mesure les nécessités accomplies.
 
-![](/images/kanban3.png)
+![](/assets/images/kanban3.png)
 
 ### Quelques règles simples
 
@@ -100,7 +116,7 @@ J'ai utilisé un fiche de tâche "Explications" placées dans la colonne idée p
 + Une fiche de tâche peut devenir une `ISSUE` pour améliorer une oeuvre déjà existante
 + Ce sont les discussions et les échanges entre les personnes qui prévalent
 
-Voilà, je pense que vous avez le minimum vital pour démarrer [dans ce tableau](https://github.com/XavCC/xavcc.github.io/projects/2). Ou alors contactez moi par mail ou ouvrez une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues) pour poser vos questions et suggestions d'amélioration concernant cet article.
+Voilà, je pense que vous avez le minimum vital pour démarrer [dans ce tableau](https://github.com/XavCC/xavcc.github.io/projects/1). Ou alors contactez moi par mail ou ouvrez une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues) pour poser vos questions et suggestions d'amélioration concernant cet article.
 
 ## Les usages de Kanban
 
