@@ -14,7 +14,9 @@ description: Votre temps est précieux et intime ! Préservez le !
 ---
 
 Voici quelques pistes pour organiser, gérer, votre temps au travail ou dans vos loisirs.
-![](/assets/images/hygiene_num.jpg) <figcaption class="caption">Photo credit: Lauren Manning licence CC BY</figcaption>
+![](/assets/images/hygiene_num.jpg) 
+
+<figcaption class="caption">Photo credit: Lauren Manning licence CC BY</figcaption>
 
 Après un premier article au sujet de la [navigation](https://xavcc.github.io/hygiene-numerique-navifgation/) sur le web, je vous propose de passer un oeil dans ces lignes pour prendre soin de votre temps et protéger votre attention.
 
