@@ -18,7 +18,7 @@ Les technologies, notamment celles du numérique, sont un processus d'apprentiss
 
 Se pencher sur une hygiène de communication semble être un prérequis aux libertés numériques avant même d'évoquer les pratiques ou la sécurité. Il s'agit de savoir être, de comportement, de considération d'autrui, afin d'éviter le bruit et des pollutions marketing. Pour apprendre et communiquer nous avons plus besoin de livres dans nos boîtes aux lettres que de prospectus. 
 
-![](/assets/imagestree-face-mystical-funny-tree-stump-creepy-weird.jpg) 
+![](/assets/images/tree-face-mystical-funny-tree-stump-creepy-weird.jpg) 
 
 <figcaption class="caption">License: CC0 1.0 Universal</figcaption>
 
