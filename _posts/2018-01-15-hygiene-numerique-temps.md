@@ -1,14 +1,22 @@
 ---
-layout: post
 title: "Hygiène numérique 2, écologie du temps et préservation de l'attention"
-date: 2018-01-15
-categories: ["hsociety"]
+layout : post
+date: 2018-01-15 12:48
+image: /assets/images/hygiene_num.jpg
+headerImage: false
+tag:
+- Hygiène numérique
+- Communs
+- Numérique
+category: blog
+author: XavierCoadic
+description: Votre temps est précieux et intime ! Préservez le ! 
 ---
 
 Voici quelques pistes pour organiser, gérer, votre temps au travail ou dans vos loisirs.
-![](https://farm9.staticflickr.com/8174/8049021365_6f3358933f_c.jpg "Photo credit: Lauren Manning |CC BY")
+![](/assets/images/hygiene_num.jpg) <figcaption class="caption">Photo credit: Lauren Manning licence CC BY</figcaption>
 
-Après un premier article au sujet de la [navigation](https://xavcc.github.io/hsociety/2018/01/08/hygiene-numerique.html) sur le web, je vous propose de passer un oeil dans ces lignes pour prendre soin de votre temps et protéger votre attention.
+Après un premier article au sujet de la [navigation](https://xavcc.github.io/hygiene-numerique-navifgation/) sur le web, je vous propose de passer un oeil dans ces lignes pour prendre soin de votre temps et protéger votre attention.
 
 Si vous ne le saviez pas encore, il existe une [économie de l'attention](https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention), c'est-à-dire, en termes réducteurs, que votre temps et votre attention sont des ressources que des entreprises s'emploient à exploiter pour faire des bénéfices. C'est d'autant plus symptomatique dans le cas des entreprises comme Facebook, Youtube, Google, Amazone, vos application mobiles...
 Par exemple, il existe une thèse universitaire "[La liberté par l'information : généalogie politique du libéralisme informationnel et des formes de l'auto-organisation sur internet](http://www.theses.fr/2012EHES0002)", par Benjamin Loveluck, mais il est fort probable que vous pensiez que le temps vous manque pour lire cette oeuvre.
@@ -66,7 +74,7 @@ Donc traçabilité, mais sans offrir mes données personnelles à une société 
 
 ## Conclusion
 
-L'environnement est à la fois le produit et la condition de cette activité de gestion du temps et de l'attention humaine à l'heure d'une société numérique. Je vous assure que ces quelques astuces changent les relations des êtres vivants avec l'environnement et celles que vous aurez avec votre entourage professionnel et personnel. Cet article ne suffit à faire science étudiant les écosystèmes à plusieurs niveaux, mais à minima il vous fournit des méthodes et outils pour protèger et prendre soin de vos ressources, des ressources qui sont ausis partgées avec d'autres. Peut être que maintenant vous aurez du temps pour lire de longues thèses ( ͡° ͜ʖ ͡°).
+L'environnement est à la fois le produit et la condition de cette activité de gestion du temps et de l'attention humaine à l'heure d'une société numérique. Je vous assure que ces quelques astuces changent les relations des êtres vivants avec l'environnement et celles que vous aurez avec votre entourage professionnel et personnel. Cet article ne suffit à faire science étudiant les écosystèmes à plusieurs niveaux, mais à minima il vous fournit des méthodes et outils pour protèger et prendre soin de vos ressources, des ressources qui sont ausis partgées avec d'autres. Peut être que maintenant vous aurez du temps pour lire de longues thèses <span class="evidence">( ͡° ͜ʖ ͡°)</span>.
 
 Vous pouvez aussi aller plus loin en équipe dans cette démarche avec, par exemple, un "[Walking Dev](http://walkingdev.fr/#walkingdev/labncollab)" sur une journée complète. 
 
