@@ -133,6 +133,10 @@ Auray, le port de St Goustan, des ami⋅e⋅s, parfois venu⋅e⋅s de très loi
 
 J'ai un tas de prototypes à terminer, comme par exemple un système imitant les posidonies et leur mouvement pour produire de l'énergie en milieu marin et (re)fournir un zone de fixation de la biodiversité, avant cette échéance. Mais c'est le chemin pour arriver jusque là qui est beau, plus que la destination finale. C'est dans cette longue route et chemin libre que naissent les belles histoires, que de l'information érpouvé par l'expérience que nait la connaissance. C'est les méandres de cette progression que la connaissance ce partage, dans les circonvolutions huamines et dans leur collision que les étincelles d'espoir se font. Quelque part dans ce big bang, il y certainement la naissance de nouveaux paradigmes.
 
+Mais dans ce cas de Fab14 il y a aussi des risques d'implosion ou d'explosion d'un ou plusieurs écosystèmes, alarme que j'avais sonné lors de la seconde rencontre des Fablab de l'Ouest. Et si un Lab ose encore écrire "Ouvert à tous" mais avec un ticket d'entrée à 400 euros, je serait le premier à sortir les clous et le marteau. 
+
+Bref, les FabLabs francophones sont face à [l'épreuve de l'articficialité](https://xavcc.github.io/tilios-sciences) dans cette année 2018. 
+
 ## Et à la fin, IndieCamp et bilan ? en Août
 
 Pour ce qui de l'[IndieCamp Kerbors](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018), je vous renouvelle l'invitation. J'irais là sur la cote de granit rose poser ma carcasse et baigner mes pieds dans les courants océaniques et de la Manche. Là où tout n'est que luxe, calme et pomme de pin. Je ne sais pas aujourd'hui ce que je tirerait des démabulations et ces grands écarts.
