@@ -7,6 +7,12 @@ headerImage: false
 tag:
 - hsociety
 - Numérique
+- Nantes
+- Paris
+- Brest
+- Bretagne
+- Nîmes 
+- Auray
 - Communs
 - Peer 2 Peer
 star: true
