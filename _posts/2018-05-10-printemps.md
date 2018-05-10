@@ -33,7 +33,7 @@ Ensuite, je n'ai pas été forcé de proposer des thématiques dans ces confére
 
 J'ai également conscience de quelques incohérences qui pourraient sembler émerger des certaines contradictions éthiques ou culturelles entre tel ou tel évènement. Je tenterai d'expliquer dans la suite de ce texte sans non plus quémander des excuses.
 
-Enfin je suis heureux de pouvoir me rendre dans ces moments, je suis impatient de transformer ces grands écarts en humble apport, j'ai hâte d'en prendre plein la tête et le cœur pour en écrire un retour d'expérience à Kerbors en août lors de l'[IndieCamp]. D'ailleurs si vous lisez ces lignes, vous êtes cordialement invité⋅é⋅s à nous rejoindre. OU alors d'en discuter ici ou ailleurs. 
+Enfin je suis heureux de pouvoir me rendre dans ces moments, je suis impatient de transformer ces grands écarts en humble apport, j'ai hâte d'en prendre plein la tête et le cœur pour en écrire un retour d'expérience à Kerbors en août lors de l'[IndieCamp](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018). D'ailleurs si vous lisez ces lignes, vous êtes cordialement invité⋅é⋅s à nous rejoindre. OU alors d'en discuter ici ou ailleurs. 
 
 > Adduction \a.dyk.sjɔ̃\ féminin (Technique) Action d’amener. L’adduction des eaux d’une source.
 
@@ -41,7 +41,7 @@ Enfin je suis heureux de pouvoir me rendre dans ces moments, je suis impatient d
 
 <div class="side-by-side">
     <div class="toleft">
-        <p>Parcourir les communautés, non pas comme une allégorie de une caverne cloître culturelle mais comme celle d'un homme enchaîné et immobilisé sur une colline tournant le dos au soleil, ne voyant que les ombres des personnes tout autour et celles projetées d'objets au loin derrière eux. Cela m'expose et me confronte aux conditions d'accession des individus que nous sommes à la connaissance de la réalité, ainsi que la non moins difficile transmission de cette connaissance.</p>
+        <p>Parcourir les communautés, non pas comme une allégorie d'une caverne cloître culturelle mais comme celle d'un homme enchaîné et immobilisé sur une colline tournant le dos au soleil, ne voyant que les ombres des personnes tout autour et celles projetées d'objets au loin derrière elles. Cela m'expose et me confronte aux conditions d'accession des individus que nous sommes à la connaissance de la réalité, ainsi que la non moins difficile transmission de cette connaissance.</p>
     </div>
 
     <div class="toright">
@@ -60,7 +60,7 @@ Je vais tenter de vous détailler cela par odre chronologique des conférences.
 
 ## Sudweb fin Mai
 
-Cette édition se tiendra les vendredi 25 et samedi 26 mai 2018 à Anduze, Gard (30) ([inofrmations](https://sudweb.fr/2018)). Je remercie déjà très chaleureusement Érick et Julia avec qui je prépare une intervention de 25 minutes que l'on espère aux surprenante et apprenante. 
+Cette édition se tiendra les vendredi 25 et samedi 26 mai 2018 à Anduze, Gard (30) ([informations](https://sudweb.fr/2018)). Je remercie déjà très chaleureusement Érick et Julia avec qui je prépare une intervention de 25 minutes que l'on espère aux surprenante et apprenante. 
 
 Apprendre à apprendre, recevoir et transmettre, en étant un petit fantôme dans diverses communautés de pratiques collaboratives libres et open source, voilà le thème qui sera abordé dans un moment par la pratique puis par des retours d'expériences. 
 
@@ -88,7 +88,7 @@ Quant aux prophètes et prophétesses que je pourraient croiser sur le web2day, 
 
 ## Pas Sage En Seine #PSES2018 fin Juin
 
-Là je pourrais une déclaration d'amour à ce festival. Mais simple et sincère.
+Là je pourrais écrire une déclaration d'amour à ce festival. Mais restons ici simple et sincère : G00gle dévore mon village des internets et mainteant voudrait dévorer mon village Rennais. 
 
 <div class="side-by-side">
     <div class="toleft">
@@ -104,7 +104,7 @@ Là je pourrais une déclaration d'amour à ce festival. Mais simple et sincère
 
 J'espère pouvoir faire exploser le compteur des pages du wiki [no-g00gle](http://no-google.frama.wiki) avant d'arriver à Choisy-le-Roi. Faire malheureusement exploser le compteur de ces pages car il y a urgence et privation de libertés fondamentales dans ces histoires. 
 
-Comme nul n'est prophète en son pays (oui parfois je trolle aussi de prophète moi-même), je suis bien obligé d'aller depuis Rennes jusqu'à Choisy pour dire tout haut ce qu'ici peu de personnes en responsabilités ne veulent entendre.
+Comme nul n'est prophète en son pays (oui parfois je m'autotrolle aussi de prophète - normal car je fais trop de conférence ;-)), je suis bien obligé d'aller depuis Rennes jusqu'à Choisy pour dire tout haut ce qu'ici peu de personnes en responsabilités ne veulent entendre.
 
 > « La route est longue mais la voie est libre »
 
