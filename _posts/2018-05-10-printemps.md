@@ -143,7 +143,7 @@ Pour ce qui de l'[IndieCamp Kerbors](http://movilab.org/index.php?title=IndieCam
 
 Certainement un petit passage sur les différences de traitement des intevenant⋅e⋅s dans ces différents rendez-vous. Par exemple, aujourd'hui seul sudweb nourrit, loge et rembourse les frais de déplacement. Il y aura peut-être le fait d'intevenir dans un grand « Business Event » avec comme sponsors un ou des choses contre lesquelles tu luttes. Certainement aussi, le plaisir de mettre, enfin !!!, les pieds à #PSES et cerise sur le lapin en étant intervenant. Pour le reste, c'est l'inconnu aujourd"hui mais c'est bien cela qui fait le charme de petit tour. 
 
-Mon seul objectif est d'avoir fini ce second livre numérique « [LabOSe : 4 mois et demi de tour dans les communs](https://legacy.gitbook.com/book/xavcc/labose/details) d'ici le début du camp le 1er août. 
+Mon seul objectif est d'avoir fini ce second livre numérique « [LabOSe : 4 mois et demi de tour dans les communs](https://legacy.gitbook.com/book/xavcc/labose/details) » d'ici le début du camp le 1er août. 
 
 Puis lorsque j'irais regravir les Mont de Braspart, je trouverai peut-être des raisons de recommencer les grands écarts et les adductions dans de nouveaux formats. J'y reprendrai la documentation libre sur les [Nomadismes](http://www.multibao.org/#nomades), trop longtemps laissée en jachère. 
 
