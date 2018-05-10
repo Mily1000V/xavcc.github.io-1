@@ -33,7 +33,7 @@ Ensuite, je n'ai pas été forcé de proposer des thématiques dans ces confére
 
 J'ai également conscience de quelques incohérences qui pourraient sembler émerger des certaines contradictions éthiques ou culturelles entre tel ou tel évènement. Je tenterai d'expliquer dans la suite de ce texte sans non plus quémander des excuses.
 
-Enfin je suis heureux de pouvoir me rendre dans ces moments, je suis impatient de transformer cs grands écarts en humble apport, j'a hâtes d'en prendre plein la tête et le cœur pour en écrire un retour d'expérience à kerbors en août lors de l'[IndieCamp]. D'ailleurs si vous lisez ces lignes, vous êtes cordialement invité⋅é⋅s à nous rejoindre.
+Enfin je suis heureux de pouvoir me rendre dans ces moments, je suis impatient de transformer ces grands écarts en humble apport, j'ai hâte d'en prendre plein la tête et le cœur pour en écrire un retour d'expérience à Kerbors en août lors de l'[IndieCamp]. D'ailleurs si vous lisez ces lignes, vous êtes cordialement invité⋅é⋅s à nous rejoindre. OU alors d'en discuter ici ou ailleurs. 
 
 > Adduction \a.dyk.sjɔ̃\ féminin (Technique) Action d’amener. L’adduction des eaux d’une source.
 
@@ -118,7 +118,30 @@ Et puis après tout les grands écarts cela sert aussi à faire des rencontres, 
 
 C'est peut-être là à Brest que les grands écarts seront les plus difficiles. Qu'importe, il y a 2 ans j'y rencontrai Pouhiou de framasoft et Les personnes des médiathèque du Morbihan, rien que pour cela l'action musculaire en vaut la chandelle.
 
-Ce que j'espère c'est d'avoir le temps de finir le gitbook sur le « [Bretagne Lab tour](https://legacy.gitbook.com/book/xavcc/vivre-ensemble-faire-ensemble) » de 2015. Avec un peu de temps et/ou des soutiens sur [liberapay](https://liberapay.com/Xav.CC/donate) ou en [Ğ1](https://g1.duniter.fr/#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/xaviercc) cela devrait se faire facilement. Quant aux documentations sur les enjeux critiques et les Tiers-Lieux, les étapes précédentes de ce tout devraient beucoup aider à compléter les ressources existantes. 
+Ce que j'espère c'est d'avoir le temps de finir le gitbook sur le « [Bretagne Lab tour](https://legacy.gitbook.com/book/xavcc/vivre-ensemble-faire-ensemble) » de 2015. Avec un peu de temps et/ou des soutiens sur [liberapay](https://liberapay.com/Xav.CC/donate) ou en [Ğ1](https://g1.duniter.fr/#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/xaviercc) cela devrait se faire facilement. Quant aux documentations sur les enjeux critiques et les Tiers-Lieux, les étapes précédentes de ce tout devraient beaucoup aider à compléter les ressources existantes. 
+
+Peut-être qu'ici aussi je pourrais apporter de l'eau aux canaux des personnes qui ouvrent des écluses dans le silos institutionnels, associatifs, d'entreprises, de collectivités publiques. Au pire, la plage est juste en dessous du site du Forum pour y tremper les deux pieds dans l'Atlantique. 
 
 ## Fab14 Mi Juillet
+
+À Auray (56), [13, 14, 15 Juillet](http://distributed.fab14.org/fab14-ecology-2) au FabLab la Farique du Loch, nous travaillerons sur [l'écologie, le prototypage rapide et les interfaces océans-villes-espaces](https://community.oscedays.org/t/ocean-space-city-interfaces/6555) après un hackathon Rennais en Juin. J'y trouverais certainement l'occasion de revenir à un protocole Casper comme celui évoqué lors SudWeb et surtout faire des petits bouts de trucs et les assmebler ensemble avec de nouvelles personnes. 
+
+Auray, le port de St Goustan, des ami⋅e⋅s, parfois venu⋅e⋅s de très loin, c'est une de mes madeleine de Proust. D'autant que le premier [IndieCamp](http://movilab.org/index.php?title=IndieCamp) fut conlu à Auray. C'est aussi avec les ami⋅e⋅s alréen⋅ne⋅s que nous avions initié les premières [rencontres des FabLabs de l'Ouest 2016 puis 2017](http://wiki.fablab.fr/index.php/Fabrique_2017).
+
+![](/assets/images/Auray_-_Panoramique_Vieille_Ville.jpg)
+<figcaption class="caption">Jean-Christophe BENOIST — Port de St Goustan</figcaption>
+
+J'ai un tas de prototypes à terminer, comme par exemple un système imitant les posidonies et leur mouvement pour produire de l'énergie en milieu marin et (re)fournir un zone de fixation de la biodiversité, avant cette échéance. Mais c'est le chemin pour arriver jusque là qui est beau, plus que la destination finale. C'est dans cette longue route et chemin libre que naissent les belles histoires, que de l'information érpouvé par l'expérience que nait la connaissance. C'est les méandres de cette progression que la connaissance ce partage, dans les circonvolutions huamines et dans leur collision que les étincelles d'espoir se font. Quelque part dans ce big bang, il y certainement la naissance de nouveaux paradigmes.
+
+## Et à la fin, IndieCamp et bilan ? en Août
+
+Pour ce qui de l'[IndieCamp Kerbors](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018), je vous renouvelle l'invitation. J'irais là sur la cote de granit rose poser ma carcasse et baigner mes pieds dans les courants océaniques et de la Manche. Là où tout n'est que luxe, calme et pomme de pin. Je ne sais pas aujourd'hui ce que je tirerait des démabulations et ces grands écarts.
+
+Certainement un petit passage sur les différences de traitement des intevenant⋅e⋅s dans ces différents rendez-vous. Par exemple, aujourd'hui seul sudweb nourrit, loge et rembourse les frais de déplacement. Il y aura peut-être le fait d'intevenir dans un grand « Business Event » avec comme sponsors un ou des choses contre lesquelles tu luttes. Certainement aussi, le plaisir de mettre, enfin !!!, les pieds à #PSES et cerise sur le lapin en étant intervenant. Pour le reste, c'est l'inconnu aujourd"hui mais c'est bien cela qui fait le charme de petit tour. 
+
+Mon seul objectif est d'avoir fini ce second livre numérique « [LabOSe : 4 mois et demi de tour dans les communs](https://legacy.gitbook.com/book/xavcc/labose/details) d'ici le début du camp le 1er août. 
+
+Puis lorsque j'irais regravir les Mont de Braspart, je trouverai peut-être des raisons de recommencer les grands écarts et les adductions dans de nouveaux formats. J'y reprendrai la documentation libre sur les [Nomadismes](http://www.multibao.org/#nomades), trop longtemps laissée en jachère. 
+
+
 
