@@ -25,7 +25,7 @@ Le printemps est là et l'été arrivera à grands pas. J'aime les transitions, 
 
 En cause, je me suis engagé à participer et intervenir dans plusieurs conférences, parfois d'univers culturel diamétralement opposés, dans les semaines à venir. Ce qui donne une liste chronologique telle que : **sudweb, web2day, Pas Sage En Seine, Fab14 et Forum des usages coopératifs, IndieCamp Kerbors**.
 
-Avant que le « uhhhhhhhh » du sentiment d'arnaque ou de la « boule à merde puante » ne vous prenne en comprenant les grands écart de cette liste ou du début de cet article, je vous voudrais vous préciser deux ou trois sentiments.
+Avant que le « uhhhhhhhh » du sentiment d'arnaque ou de la « boule à merde puante » ne vous prenne en comprenant les grands écarts de cette liste ou du début de cet article, je vous voudrais vous préciser deux ou trois sentiments.
 
 Tout d'abord, je n'écris pas ces lignes pour me vanter de cette liste. Je peux vous assurer que mon intention profonde et première est que nous nous rencontriions. Et je peux attester par [ce petit travail sur les circonstances de rencontres de un coin de wiki](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours) que j'ai n'est pas envie du vous jouer du pipeau. De plus, la liste des personnes que je souhaite renconter dans tous ces coins de France est assez longue. j'espère également pouvoir leur apporter le l'eau à leur cannaux.
 
@@ -46,7 +46,7 @@ Enfin je suis heureux de pouvoir me rendre dans ces moments, je suis impatient d
 
     <div class="toright">
         <img class="image" src="/assets/images/braspart.jpg" alt="Alt Text">
-        <figcaption class="caption">La réserve d'eau du Mont St Michel de Braspart. Xavier Coadic CC By</figcaption>
+        <figcaption class="caption">La réserve d'eau du Mont St Michel de Braspart. Xavier Coadic CC BY 4.0</figcaption>
     </div>
 </div>
 
@@ -129,7 +129,7 @@ Peut-être qu'ici aussi je pourrais apporter de l'eau aux canaux des personnes q
 Auray, le port de St Goustan, des ami⋅e⋅s, parfois venu⋅e⋅s de très loin, c'est une de mes madeleine de Proust. D'autant que le premier [IndieCamp](http://movilab.org/index.php?title=IndieCamp) fut conlu à Auray. C'est aussi avec les ami⋅e⋅s alréen⋅ne⋅s que nous avions initié les premières [rencontres des FabLabs de l'Ouest 2016 puis 2017](http://wiki.fablab.fr/index.php/Fabrique_2017).
 
 ![](/assets/images/Auray_-_Panoramique_Vieille_Ville.jpg)
-<figcaption class="caption">Jean-Christophe BENOIST — Port de St Goustan</figcaption>
+<figcaption class="caption">Jean-Christophe BENOIST — Port de St Goustan - CC BY 4.0</figcaption>
 
 J'ai un tas de prototypes à terminer, comme par exemple un système imitant les posidonies et leur mouvement pour produire de l'énergie en milieu marin et (re)fournir un zone de fixation de la biodiversité, avant cette échéance. Mais c'est le chemin pour arriver jusque là qui est beau, plus que la destination finale. C'est dans cette longue route et chemin libre que naissent les belles histoires, que de l'information érpouvé par l'expérience que nait la connaissance. C'est les méandres de cette progression que la connaissance ce partage, dans les circonvolutions huamines et dans leur collision que les étincelles d'espoir se font. Quelque part dans ce big bang, il y certainement la naissance de nouveaux paradigmes.
 
