@@ -8,7 +8,7 @@ tag:
 - hsociety
 - Numérique
 - Communs
-- Peer 2 peer
+- Peer 2 Peer
 star: true
 category: blog
 author: XavierCoadic
