@@ -6,7 +6,7 @@ image: /assets/images/hyperboria.png
 headerImage: true
 tag:
 - Sciences
-- Peer 2 peer
+- Peer 2 Peer
 - Communs
 category: blog
 author: XavierCoadic
