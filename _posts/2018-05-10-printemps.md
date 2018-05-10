@@ -27,7 +27,7 @@ En cause, je me suis engagé à participer et intervenir dans plusieurs confére
 
 Avant que le « uhhhhhhhh » du sentiment d'arnaque ou de la « boule à merde puante » ne vous prenne en comprenant les grands écart de cette liste ou du début de cet article, je vous voudrais vous préciser deux ou trois sentiments.
 
-Tout d'abord, je n'écris ces lignes pour me vanter de cette liste. Je peux vous assurer que mon intention profonde et première est que nous nous rencontriions. Et je peux attester par [ce petit travail sur les circonstances de rencontres de un coin de wiki](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours) que j'ai n'est pas envie du vous jouer du pipeau. De plus, la liste des personnes que je souhaite renconter dans tous ces coins de France est assez longue. j'espère également pouvoir leur apporter le l'eau à leur cannaux.
+Tout d'abord, je n'écris pas ces lignes pour me vanter de cette liste. Je peux vous assurer que mon intention profonde et première est que nous nous rencontriions. Et je peux attester par [ce petit travail sur les circonstances de rencontres de un coin de wiki](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours) que j'ai n'est pas envie du vous jouer du pipeau. De plus, la liste des personnes que je souhaite renconter dans tous ces coins de France est assez longue. j'espère également pouvoir leur apporter le l'eau à leur cannaux.
 
 Ensuite, je n'ai pas été forcé de proposer des thématiques dans ces conférence, et je n'ai pas non plus forcé le trait ou le contenu des propositions. J'y ai mis mon cœur et mes pieds. 
 
@@ -58,17 +58,67 @@ Je désire simplement, à travers ces lignes, donner des élèments contextuels 
 
 Je vais tenter de vous détailler cela par odre chronologique des conférences.
 
-## Sudweb
+## Sudweb fin Mai
 
 Cette édition se tiendra les vendredi 25 et samedi 26 mai 2018 à Anduze, Gard (30) ([inofrmations](https://sudweb.fr/2018)). Je remercie déjà très chaleureusement Érick et Julia avec qui je prépare une intervention de 25 minutes que l'on espère aux surprenante et apprenante. 
 
 Apprendre à apprendre, recevoir et transmettre, en étant un petit fantôme dans diverses communautés de pratiques collaboratives libres et open source, voilà le thème qui sera abordé dans un moment par la pratique puis par des retours d'expériences. 
 
-![](assets/images/casper.jpg)
+![](/assets/images/casper.jpg)
 
-Corps perdu, corps trouvé, ce seront des fragments d'une conversation que nous établirons avec les peronnes présente (un anti-conférence du coup ?). Les voisins invisibles, le fantômes cosmopolites dans un village dont les contours et les réciprocités pourraient être dessinnés par les circonstances et les rêgles d'un communauté de pratique. Puis comment dans cette configuration particulière il presque possible d'apprendre et de pratiquer (ou fabriquer ou faire pousser) presque n'importe quoi. 
+Corps perdu, corps (re)trouvé, ce seront des fragments d'une conversation que nous établirons avec les peronnes présentes (une anti-conférence du coup ?). Les voisins invisibles, le fantômes cosmopolites dans un village dont les contours et les réciprocités pourraient être dessinné⋅e⋅s par les circonstances et les rêgles d'une communauté de pratique. Puis comment dans cette configuration particulière comment et surtout pourquoi il presque possible d'apprendre et de pratiquer (ou fabriquer ou faire pousser) presque n'importe quoi. 
 
-Je me suis fixé comme objectif de finir un cycle de tâche sur [DAISEE](https://daisee.org), Internets of Energy ~ Energy as a Commons, notament des petits de truc Ethereum sur raspi3 et [LoRaWAN](https://fr.wikipedia.org/wiki/LoRaWAN), avant darriver à Anduze (et ça arrive très bientôt). Puis de publier codes et documentation au plus tard une semaine après SudWeb.
+> « _J’aime à apprendre, vois-tu. Cela étant, la campagne et les arbres ne consentent pas à rien m’apprendre, mais bien les hommes de la ville_ » Socrate cité par Platon (Phèdre)
 
-## Web
+Je me suis fixé comme objectif de finir un cycle de tâche sur [DAISEE](https://daisee.org), Internets of Energy ~ Energy as a Commons, notament des petits de truc Ethereum sur raspi3 et [LoRaWAN](https://fr.wikipedia.org/wiki/LoRaWAN), avant d'arriver à Anduze (et ça arrive très bientôt). Puis de publier codes et documentation au plus tard une semaine après SudWeb.
+
+## Web2day Mi Juin
+
+À Nantes, [11, 12, 13 Juin](https://web2day.co), j'y ferais une intervention sur le sujet « Biononymous, Bioprivacy », le vendredi à 14h40 et autant vous dire que je ferais pas dans la délicatesse. Oui g00gle est sponsors de cet évènement, oui ça m'a torturé l'esprit lorsque j'ai réfléchi à écrire une proposition de conférence. Mais je préfère être un poil à gratter dans un la feutrine du corporate que de ne faire que râler à distance. Si je dois me salir les mains en remuant de la boue alors je veux bien faire à Nantes ce qu'à Rennes, où je réside en ce moment, il ne m'est, encore aujourd'hui, pas possible de faire.
+
+Et puis, à Nantes aussi il y a pas mal de personnes que j'aimerais voir ainsi que des personnes qui viendront de loin pour cette occasion.
+
+> « _Seuls les esprits superficiels abordent une idée avec délicatesse_» Cioran
+
+Je passerrai peut être pour illuminé ou un incompétent pour certaines personnes présentes, mais ceci ne m'inquiète pas plus que de finir deux nouveaux textes sur le sujet de la confèrences avant d'arriver à Nantes. Et surtout, bien au delà de ce tracas, c'est avec Plateforme C et Ping que je souhaite discuter voir trvailler sur la [bioremdiation et l'analyse des sols DIY](http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme).
+
+Quant aux prophètes et prophétesses que je pourraient croiser sur le web2day, j'aurais plaisir à relire des lignes au bord de Loire
+
+> « _Dans tout homme sommeille un prophète, et quand il s'éveille il y a un peu plus de mal dans le monde... La folie de prêcher est si ancrée en nous qu'elle émerge de profondeurs inconnues à l'instinct de conservation. Chacun attend son moment pour proposer quelque chose: n'importe quoi. Il a une voix; cela suffit. Nous payons cher de n'être ni sourds ni muets._» Emil Cioran
+
+## Pas Sage En Seine #PSES2018 fin Juin
+
+Là je pourrais une déclaration d'amour à ce festival. Mais simple et sincère.
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="/assets/images/dude.png" alt="Alt Text">
+        <figcaption class="caption">Commoner de Bretagne</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>Il passait pour l’idiot du village, car il se mettait parfois à marmonner des mots inintelligibles, ce qui semblait une preuve supplémentaire de sa bêtise. Le roi g00gle dévorait son village et dans sa ferme wiki l’idiot jardinait ses légumes de liberté. Un jour un agriculteur et un lapin pas sage en seine passèrent devant lui alors qu’il était dans son champ avec sa charrue. Xav était immobile, les yeux fixés vers le ciel. Il pensa silencieusement qu’il pourrait leur confier les expériences vécues d’un idiot dans un village g00gle ou même le débat citoyen oblige à G+.
+</p>
+    </div>
+</div>
+
+J'espère pouvoir faire exploser le compteur des pages du wiki [no-g00gle](http://no-google.frama.wiki) avant d'arriver à Choisy-le-Roi. Faire malheureusement exploser le compteur de ces pages car il y a urgence et privation de libertés fondamentales dans ces histoires. 
+
+Comme nul n'est prophète en son pays (oui parfois je trolle aussi de prophète moi-même), je suis bien obligé d'aller depuis Rennes jusqu'à Choisy pour dire tout haut ce qu'ici peu de personnes en responsabilités ne veulent entendre.
+
+> « La route est longue mais la voie est libre »
+
+Et puis après tout les grands écarts cela sert aussi à faire des rencontres, que j'espère très nombreuses ici, que fout fouettent comme un embrun à Crozon pour vous ré-éveiller mais avec en plus la candeur d'un lapin. 
+
+## Forum des Usages Coopératifs début Juillet
+
+À Brest, [du 3 au 6 juillet](http://forum-usages-cooperatifs.net/index.php/Accueil). Bien si auparavant je vous ai paru un peu trop sage, j'avoue qu'ici j'ai décidé de mettre les pieds, oui ceux de la loi de deux pieds, dans le plat des actrices et acteurs insitutionnel⋅le⋅s. J'ai d'ailleurs consigné cela [ici](Tiers-Lieux Libres et open source et la collaboration pour répondre aux enjeux critiques) : « Tiers-Lieux Libres et open source et la collaboration pour répondre aux enjeux critiques ».
+
+> adduction \a.dyk.sjɔ̃\ féminin (Anatomie) Action des muscles adducteurs. Rapprochement d’un membre 
+
+C'est peut-être là à Brest que les grands écarts seront les plus difficiles. Qu'importe, il y a 2 ans j'y rencontrai Pouhiou de framasoft et Les personnes des médiathèque du Morbihan, rien que pour cela l'action musculaire en vaut la chandelle.
+
+Ce que j'espère c'est d'avoir le temps de finir le gitbook sur le « [Bretagne Lab tour](https://legacy.gitbook.com/book/xavcc/vivre-ensemble-faire-ensemble) » de 2015. Avec un peu de temps et/ou des soutiens sur [liberapay](https://liberapay.com/Xav.CC/donate) ou en [Ğ1](https://g1.duniter.fr/#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/xaviercc) cela devrait se faire facilement. Quant aux documentations sur les enjeux critiques et les Tiers-Lieux, les étapes précédentes de ce tout devraient beucoup aider à compléter les ressources existantes. 
+
+## Fab14 Mi Juillet
 
