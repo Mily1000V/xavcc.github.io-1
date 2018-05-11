@@ -145,6 +145,7 @@ Donc moi, je replonge ce soir pour trouver une pépite pour Roka et/ou pour d'au
 * <http://blog.gmane.org/gmane.network.gopher.general>
 * "Vers Un retour de Gopher": <http://linuxfr.org/users/deber/journaux/vers-un-retour-de-gopher>
 * Pour aller, vraimment plus loin, "Gopher - À la recherche du protocole perdu" : <http://linuxfr.org/users/deber/journaux/vers-un-retour-de-gopher>
+* Thése d'Alexandre Monin "Vers une philosophie du Web : le Web comme devenir-artefact de la philosophie (entre URIs, tags, ontologie (s) et ressources)" : <https://tel.archives-ouvertes.fr/tel-00879147>, avec une partie sur le web via les URIs s'est rendu compatible avec gopher, WAIS et consorts, lui donnant un indéniable avantage 
 
 
 
