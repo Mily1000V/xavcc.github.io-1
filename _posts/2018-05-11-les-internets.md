@@ -14,7 +14,7 @@ author: XavierCoadic
 description: Du numérique avec le pieds s'il vous plait
 ---
 
-Parlons un peu de chose numérique...
+Parlons un peu de choses numériques...
 
 ![](/assets/images/gopher.jpg)
 
