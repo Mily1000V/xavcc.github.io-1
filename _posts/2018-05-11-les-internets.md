@@ -138,6 +138,8 @@ Gopher c'est agréable, ludique, pédagogique, frugal, et certaienemtn bien plus
 
 Donc moi, je replonge ce soir pour trouver une pépite pour Roka et/ou pour d'autres choses. 
 
+> Au passage, c'est aussi un gros clin d'œil à l'émission " On Dit Les Internets @ODLI_ " des ami⋅e⋅s de StBrieuc (29) sur la [radio-activ](http://www.radio-activ.com)
+
 ## Liens supplémentaires
 
 * <http://blog.gmane.org/gmane.network.gopher.general>
