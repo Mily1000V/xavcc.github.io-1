@@ -18,7 +18,7 @@ Parlons un peu de chose numérique...
 
 ![](/assets/images/gopher.jpg)
 
-Si j'écris ce billet c'est pour deux raisons. La première sont des échanges avec mon ami [François Dupayrat](https://github.com/FrancoisDupayrat) commencés en janvier de cette année (mais que ne n'avons tooujours pas terminé), et la seconde est une demande punlique aperçue sur le réseau social libre et décentralisé [Mastodon](https://fr.wikipedia.org/wiki/Mastodon_%28r%C3%A9seau_social%29).
+Si j'écris ce billet c'est pour deux raisons. La première sont des échanges avec mon ami [François Dupayrat](https://github.com/FrancoisDupayrat) commencés en janvier de cette année (mais que ne n'avons tooujours pas terminé), et la seconde est une demande publique aperçue sur le réseau social libre et décentralisé [Mastodon](https://fr.wikipedia.org/wiki/Mastodon_%28r%C3%A9seau_social%29).
 
 > «_Dites Masto, je cherche un document datant du début du Web qui évoquerait, même sans la nommer, la neutralité du net. Quelque chose qui permettrait de montrer que la neutralité était là depuis le début. J'ai pensé au communiqué du Cern qui renonce à ses droits sur le Web mais je le trouve pas. Vous auriez quelques chose dans ce style ? Peut être la première licence d'utilisation ?_» **Roka**
 
@@ -40,7 +40,7 @@ Il permet de télécharger des fichiers librement et, secondairement, de se conn
 
 <figcaption class="caption">Quelque par dans Gopher en Mai 2018</figcaption>
 
-<div class="spoiler"><p>aujourd'hui j'ai encore lu un publipostage d'un "grand Môsieur qui sais tout du marketing" écrire Phygital pour une disruption à Marseille. Pfffiou ! « Phygital » #novlang • Étymologie : Apparenté au grec ancien φῦ, phú (« pouah »). • phy : Interjection d’admiration = ah ! oh ! --- Je... Heu non .|</p></div>
+<div class="spoiler"><p>Aujourd'hui j'ai encore lu un publipostage d'un "grand Môsieur qui sais tout du marketing" écrire Phygital pour une disruption à Marseille. Pfffiou ! « Phygital » #novlang • Étymologie : Apparenté au grec ancien φῦ, phú (« pouah »). • phy : Interjection d’admiration = ah ! oh ! --- Je... Heu non .|</p></div>
 
 
 ## De quoi c'est ce truc ?
