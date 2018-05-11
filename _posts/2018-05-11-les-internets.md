@@ -67,9 +67,9 @@ utile, même des années après que le Web soit devenu un mot familier. Pourquoi
 * Il est facile d'écrire du contenu pour et facilite l'organisation.
 * Il n'a pas besoin de beaucoup de puissance du système pour fonctionner
   * soit à partir du serveur, soit à partir du serveur, soit de de votre ordinateur. 
-  * <span class="evidence">Il peut fonctionner sur des systèmes avec peu de puissance CPU ou de mémoire.</span>
-  * Il supporte beaucoup de choses que le Web fait, même s'il a l'air moins « attrayant ».
-  * Vous pouvez toujours voir des images, rechercher et télécharger des programmes, et .....
+* <span class="evidence">Il peut fonctionner sur des systèmes avec peu de puissance CPU ou de mémoire.</span>
+* Il supporte beaucoup de choses que le WWWeb fait, même s'il a l'air moins « attrayant ».
+* Vous pouvez toujours voir des images, rechercher et télécharger des programmes, et .....
 
 .... puisque Gopher a moins de données à transférer, c'est souvent plus rapide.
 
