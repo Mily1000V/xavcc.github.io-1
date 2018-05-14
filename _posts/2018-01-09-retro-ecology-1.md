@@ -1,8 +1,16 @@
 ---
-layout: post
 title: "Rétro Paléo Écologie n°1 : Osmose inversée pour le dessalement"
-date: 2018-01-09
-categories: ["science"]
+layout: post
+date: 2018-01-09 22:48
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Houat_earth.jpg/800px-Houat_earth.jpg
+headerImage: false
+tag:
+- Bretagne
+- hsociety
+- Sciences
+category: blog
+author: jamesfoster
+description: Histoire de Bretagne énergétique en milieu insulaire contraint
 ---
 
 Oh ! Je retombe sur ce que j'avais envoyé au [Paléo Énergetic Lab](https://paleo-energetique.org/) il y a 3 ans...
@@ -23,12 +31,14 @@ Ce second étage est constitué d'une pompe débitant 1 600 l/h et de 24 modules
 
 Depuis octobre 1971, cette installation fonctionna parfaitement."
 
-- Sciences et Avenir n°353 Juillet 1976 - Dans biologie Terminale D ; Collection J.Escalier édition Fernand Nathan.
-![](https://framapic.org/F7ECAbJbMi5v/GMyw5gEtU240 "photo du manuel Scolaire par Xavier Coadic CC BY SA")
+_Sciences et Avenir n°353 Juillet 1976 - Dans biologie Terminale D ; Collection J.Escalier édition Fernand Nathan._
+![](/assets/images/osmose.jpg)
+
+<figcaption class="caption"> photo du manuel Scolaire par Xavier Coadic CC BY SA</caption>
 
 D'après wikipédia, Vers la fin des années 1960, le ministère de l'Agriculture décide de construire une usine expérimentale de dessalement d'eau de mer[[1](http://enenvor.fr/eeo_actu/apresW/a_houat_l_eau_potable_vaut_de_l_or.html)] La première en France à utiliser la technique de l'[osmose inverse](https://fr.m.wikipedia.org/wiki/Osmose_inverse). Elle est détruite en 1998 (Pourquoi ?)
 
-Pour aller plus loin sur le sujet : "[A Houat, l’eau potable vaut de l’or](http://enenvor.fr/eeo_actu/apresW/a_houat_l_eau_potable_vaut_de_l_or.html), par Yves-Marie EVANNO. Merci @belett pour la contribution [ici via github](https://github.com/XavCC/xavcc.github.io/issues/63)
+Pour aller plus loin sur le sujet : "[A Houat, l’eau potable vaut de l’or](http://enenvor.fr/eeo_actu/apresW/a_houat_l_eau_potable_vaut_de_l_or.html), par Yves-Marie EVANNO. Merci @belett pour la contribution [ici via github](https://github.com/XavCC/dump/issues/63)
 
 ## Et Aussi 
 
@@ -42,4 +52,6 @@ ouvertes.
 
 ## Contribuer ?
 
-Vous avez des informations documentées, des images, des vidéos, des textes sur ces sujets ? Ouvrez une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues), nommez là `Rétro Paléo Écologie #1` (#Chiffre adéquat) et décrivez avec précision et ressources ajoutées votre envie de contribution ou un erreur repérée dans cette page. 
+Vous avez des informations documentées, des images, des vidéos, des textes sur ces sujets ? Ouvrez une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues), nommez là `Rétro Paléo Écologie #1` (#Chiffreadéquat) et décrivez avec précision et ressources ajoutées votre envie de contribution ou un erreur repérée dans cette page. 
+
+
