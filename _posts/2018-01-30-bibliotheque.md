@@ -116,7 +116,7 @@ Lyon pour co-design de blockchain, Espace 4C à Rennes pour exploiter des donné
 + Des cartograhphies...
 + [Des hackathons sur l'économie circulaire open source](https://lebiome.github.io/#LeBiome/Hackathons) et la biofabrication
 
-![](/assets/iamges/osce-days-16-4c.jpg)
+![](/assets/images/osce-days-16-4c.jpg)
 <figcaption class="caption">Journée du hackaton Open Source Cicrular Economy Days Rennes 2016 - Conception d'un module de culture Bactérie et levure en Bib' Xavier Ciadic CC BY SA</figcaption>
 
 La plupart du temps, nous n'avions pas prévenu de nos activités avant de débarquer (sauf pour les conférences ou interventions programmées), nous n'avions pas réservé d'espaces dédiés ou demandé d'équipement. Nous sommes venu.e.s, avec nos habitus, avec nos savoirs, avec nos matériels, avec nos envies d'apprendre et de partager. Parce qu'il n'y a pas d'interdiction de collaborer et d'apprendre, ni de panneau "Inrerdit au Raspberry". 
