@@ -97,7 +97,7 @@ Il y a aussi eu des conférences à Quiberon pour la [quinzaine du numérique](h
 
 Dans Réseau des bibliothèques du Morbihan pour une conférence sur les processus d'innovation et pratiques collaboratives, médiathèque de Rostrenen dans laquelle j'ai modifié de la sève de pissenlit avec du soufre, bibliothèque de Châteaubourg dans laquelle j'ai testé des prélevements d'eau venus de la Vilaine, bibliothèque de L'INSA Rennes pour faire du `PenTest`, Pontivy pour un OpenROV (robot sous-marin open source).
 ![](/assets/images/botrov.jpg)
-<figcaption class="caption">Journée démontage et remontage de l'OpenRov à la médiathèque de Pontivy</figcaption>
+<figcaption class="caption">Journée démontage et remontage de l'OpenRov à la médiathèque de Pontivy - Xavier Caodic CC BY SA</figcaption>
 
 Lyon pour co-design de blockchain, Espace 4C à Rennes pour exploiter des données de la NASA (Srtm2Osm), [médiathèque d'Auray](http://mediatheque.auray.fr/search.php?action=Accueil) pour prélever mon sang pour en extraire des enzymes...
 
@@ -117,7 +117,7 @@ Lyon pour co-design de blockchain, Espace 4C à Rennes pour exploiter des donné
 + [Des hackathons sur l'économie circulaire open source](https://lebiome.github.io/#LeBiome/Hackathons) et la biofabrication
 
 ![](/assets/iamges/osce-days-16-4c.jpg)
-<figcaption class="caption">Journée du hackaton Open Source Cicrular Economy Days Rennes 2016 - Conception d'un module de culture Bactérie et levure en Bib'</figcaption>
+<figcaption class="caption">Journée du hackaton Open Source Cicrular Economy Days Rennes 2016 - Conception d'un module de culture Bactérie et levure en Bib' Xavier Ciadic CC BY SA</figcaption>
 
 La plupart du temps, nous n'avions pas prévenu de nos activités avant de débarquer (sauf pour les conférences ou interventions programmées), nous n'avions pas réservé d'espaces dédiés ou demandé d'équipement. Nous sommes venu.e.s, avec nos habitus, avec nos savoirs, avec nos matériels, avec nos envies d'apprendre et de partager. Parce qu'il n'y a pas d'interdiction de collaborer et d'apprendre, ni de panneau "Inrerdit au Raspberry". 
 
