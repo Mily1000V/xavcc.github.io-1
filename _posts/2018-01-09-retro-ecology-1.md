@@ -32,9 +32,12 @@ Ce second étage est constitué d'une pompe débitant 1 600 l/h et de 24 modules
 Depuis octobre 1971, cette installation fonctionna parfaitement."
 
 _Sciences et Avenir n°353 Juillet 1976 - Dans biologie Terminale D ; Collection J.Escalier édition Fernand Nathan._
-![](/assets/images/osmose.jpg)
 
-<figcaption class="caption"> photo du manuel Scolaire par Xavier Coadic CC BY SA</figcaption>
+![](/assets/images/osmose.jpg)
+ 
+<figcaption class="caption"> photo du manuel scolaire par Xavier Coadic CC BY SA</figcaption>
+
+<div class="breaker"></div>
 
 D'après wikipédia, Vers la fin des années 1960, le ministère de l'Agriculture décide de construire une usine expérimentale de dessalement d'eau de mer[[1](http://enenvor.fr/eeo_actu/apresW/a_houat_l_eau_potable_vaut_de_l_or.html)] La première en France à utiliser la technique de l'[osmose inverse](https://fr.m.wikipedia.org/wiki/Osmose_inverse). Elle est détruite en 1998 (Pourquoi ?)
 
