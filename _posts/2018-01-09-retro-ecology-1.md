@@ -2,7 +2,7 @@
 title: "Rétro Paléo Écologie n°1 : Osmose inversée pour le dessalement"
 layout: post
 date: 2018-01-09 22:48
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Houat_earth.jpg/800px-Houat_earth.jpg
+image: /assets/images/Houat_earth.jpg
 headerImage: false
 tag:
 - Bretagne
