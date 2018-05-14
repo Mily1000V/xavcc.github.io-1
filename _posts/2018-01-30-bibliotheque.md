@@ -12,7 +12,7 @@ tag:
 - Bretagne
 category: blog
 author: XavierCoadic
-description: Hacking, biodesign, biomimétisme en bibliothèque et médiathèque
+description: Rennes, Paris, Lyon, kreiz Breizh & Rostrenen, Châteaubourg et plus loin..
 ---
 
 Après plusieurs années à faire des petits bouts de trucs dans les bibliothèques et médiathèques en France métropolitaine, voici quelques retours d'expériences et ressentis qui j'espère pourront servir à de multiples personnes.
