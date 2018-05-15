@@ -21,7 +21,7 @@ Il vous faut un environnment de travail, autrement écrit un serveur local insta
 
 >  Il existe différents [logiciels de serveurs web](https://en.wikipedia.org/wiki/Comparison_of_web_server_software) qui sont disponibles ([Apache](https://httpd.apache.org/), [Tomcat](http://tomcat.apache.org/), [nginx](http://nginx.org/)). Apache est libre et gratuit ([Floss](https://fr.wikipedia.org/wiki/Free/Libre_Open_Source_Software)), disponible sur plusieurs plateformes et est simple à installer.
 
-Cet environnement de travail c'est `localhost` (l’hôte local en français), le nom habituel qui désigne une interface logique de votre ordinateur (à titre d'exemple).
+Cet environnement de travail c'est <code class="highlighter-rouge">localhost</code> (l’hôte local en français), le nom habituel qui désigne une interface logique de votre ordinateur (à titre d'exemple).
 
 ## Installation
 
