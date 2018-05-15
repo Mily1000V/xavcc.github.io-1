@@ -76,7 +76,7 @@ Ajoutons des restrictions d'accès aux fichiers. Pour cela, ajoutez les lignes s
                 Require all granted
         </Directory>
 
-Puis sauvegarder : `[cltr]`+`[x]` puis <code class="evidence">[o]</code> puis `[enter]`
+Puis sauvegarder : `[cltr]`+`[x]` puis `[o]` puis `[enter]`
 
 ## On redémarre ce serveur
 
@@ -127,7 +127,7 @@ Sauvegardez. Tout cela peut aussi être fait en une seule commande avec les comm
 N'oubliez pas le ".conf" (sans cela ne marchera pas).
 
 Puis
-`sudo service apache2 restart`
+```sudo service apache2 restart```
 
 ## Soyez plus curieuses et curieux et précis.e.s
 
