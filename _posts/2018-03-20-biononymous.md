@@ -14,7 +14,7 @@ hidden: true # don't count this post in blog pagination
 description: "asylum, lieu inviolable, refuge et du grec asulon qui ne peut être pillé."
 category: project
 author: XavierCoadic
-externalLink: true
+externalLink: false
 ---
 
 Notre intimité a t-elle disparue dans un univers panoptique ? Ce qui fait de nous des êtres vivants, des contituants d'une biosphère nous est-il volé aujourd'hui ? le vivant est-il devenu un nouvel objet de spoliation des libertés et droits fondamentaux ? Voici quelques sujets que nous aborderons lors des [Rencontres du Parcours Numériques à Nantes le 29 mars 2018](http://www.parcoursnumeriques.net/rencontres-parcours-numeriques-2018-pre-programme).
