@@ -15,7 +15,7 @@ hidden: true # don't count this post in blog pagination
 description: "On ne résoud pas un problème avec les modes de pensées qui l'ont engendré"
 category: project
 author: XavierCoadic
-externalLink: false
+externalLink: true
 ---
 
 > « _On ne résoud pas un problème avec les modes de pensées qui l'ont engendré_ » **Albert Einstein**
