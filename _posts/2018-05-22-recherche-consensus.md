@@ -1,5 +1,5 @@
 ---
-title: "Recherche(s)-actions sur le { design } de consensus et le design des instances "
+title: " Recherche(s)-actions sur le { design } de consensus et le design des instances "
 layout: post
 date: 2018-05-22 22:10
 tag:
@@ -31,7 +31,7 @@ externalLink: false
 
 ## Interventions
 
-### Forum de usgaes coopératifs Brest 2018](https://xavcc.github.io/tilios-forum)
+### Forum de usgaes coopératifs Brest 2018
 
 + [Tiers-Lieux Libres et open source et la collaboration pour répondre aux enjeux critiques](https://xavcc.github.io/tilios-forum)
 
