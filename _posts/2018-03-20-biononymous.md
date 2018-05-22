@@ -1,5 +1,5 @@
 ---
-title: "Petite histoire d'introduction à Biononymous & Bioprivacy"
+title: "Petite histoire d'introduction à Biononymous et Bioprivacy"
 layout: post
 date: 2018-03-20 22:10
 tag:
