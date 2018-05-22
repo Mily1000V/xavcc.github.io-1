@@ -112,7 +112,7 @@ Les projets sur lesquels je m'investis sont valables sur un organigramme de flux
 
 Les recherches que je mène actuellement :
 
-1. Design des instances et consensus, **recherche action**
+1. [Design des instances et consensus](https://xavcc.github.io/recherche-consensus), **recherche action**
 2. Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques, **recherche documentation**
    + Libertés et sécurités informatique
    + Prévision et prévention des accidents corporels
@@ -120,7 +120,9 @@ Les recherches que je mène actuellement :
    + Accessibilité, perméabilité, handicaps
    + Bioéthique et sciences ouvertes
    + Biononymous et bioprivacy
-3. Océans, Espace, Villes, les interfaces de résilience, **recherche expérimentation**
+   + [Questions sur la gestion des risques dans les tiers lieux](http://movilab.org/index.php?title=Questions_sur_la_gestion_des_risques_dans_les_tiers_lieux)
+3. [Biononymous et Bioprivacy](https://xavcc.github.io/biononymous)
+4. [Océans, Espace, Villes, les interfaces de résilience](https://community.oscedays.org/t/ocean-space-city-interfaces/6555), **recherche expérimentation**
    + Les micro-organismes et la biomremédiation
    + Les données spatiale pour la prévention et prévision des risques
    + Les Internets de l'énergie, l'énergie comme un commun
