@@ -1,5 +1,5 @@
 ---
-title: "Recherche action sur le { design } de consensus et le design des instances "
+title: "Recherches-actions sur le { design } de consensus et le design des instances "
 layout: post
 date: 2018-05-22 22:10
 tag:
