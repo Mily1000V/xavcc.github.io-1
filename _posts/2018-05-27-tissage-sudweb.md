@@ -23,27 +23,27 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 
 ### Table des contenus
 1. [Fabriquer et définir un ironème](#fabriquer-et-définir-un-ironème)
-2. [Libertés et démocratie ou illusions ?](#libertés-et-démocratie-ou-illusions-?)
+2. [Libertés et démocratie ou illusions](#libertés-et-démocratie-ou-illusions)
 3. [Nomadisme et mutations du travail](#nomadisme-et-mutations-du-travail)
-4. [Structures et règles de Quèbec à  Lausanne en passant par Lille](#structures-et-règles-de-Quèbec-à-Lausanne-en-passant-par Lille)
-5. [Monnaies libres ou monnaies dette ? Et la Théorie Relative de la Monnaie](#monnaies-libres-ou-monnaie-dette-?-et-la-théorie-relative-de-la-monnaie)
-6. [LoRa, Mesh, Hyperboria, LPWA networks : Protocole moi des internets !](#lora,-Mesh,-Hyperboria,-LPWA-networks-:-protocole-moi-des-internets-!)
+4. [Structures et règles de Quèbec à  Lausanne en passant par Lille](#structures-et-règles-de-quèbec-à-lausanne-en-passant-par-lille)
+5. [Monnaies libres ou monnaies dette et la Théorie Relative de la Monnaie](#monnaies-libres-ou-monnaie-dette-et-la-théorie-relative-de-la-monnaie)
+6. [LoRa, Mesh, Hyperboria, LPWA networks](#lora,-Mesh,-Hyperboria,-LPWA-networks) : protocole moi des internets !
 7. [Des internets de l'énergie et des communs](#des-internets-de-l'énergie-et-des-communs)
 8. [Progrannation et inférence](#progrannation-et-inférence)
 9. [Culture, musique et influences sur le numériques](#culture,-musique-et-influences-sur-le-numérique)
-10. [Biohacking, biodesign et biomimétisme : le vivant libre et open source](#biohacking,-biodesign,-biomimétisme-:-le-vivant-libre-et-open-source)
-11. [Du tricot à la programmation jusqu'au langage bactérien : une histoire de pattern ?](#du-tricot-à-la-programmation-jusuq'au-langage-des-bactéries-:-une-hsitoire-de-parttern-?)
+10. [Biohacking, biodesign et biomimétisme](#biohacking,-biodesign-et-biomimétisme): le vivant libre et open-source
+11. [Du tricot à la programmation jusqu'au langage bactérien](#du-tricot-à-la-programmation-jusuq'au-langage-des-bactéries):une histoire de patterns ?
 
 
 ## Fabriquer et définir un ironème
 
-## Libertés et démocratie ou illusions ?
+## Libertés et démocratie ou illusions 
 
 ## Nomadisme et mutations du travail
 
 ## Structures et règles de Quèbec à Lausanne en passant par Lille
 
-## Monnaies libres ou monnaie dette ? Et la Théorie Relative de la Monnaie
+## Monnaies libres ou monnaie dette et la Théorie Relative de la Monnaie
 
 ## LoRa, Mesh, Hyperboria, LPWA networks : Protocole moi des internets !
 
