@@ -2,7 +2,7 @@
 title: "Sujets et compléments. Bref, j'ai participé à SudWeb"
 layout: post
 date: 2018-05-27 12:48
-image: 
+image: /assets/images/tornac-castel.jpg
 headerImage: false
 tag:
 - hsociety
@@ -21,6 +21,12 @@ Dans ces espace-temps profondéments humains, il s'échnages des choses incroaab
 
 C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e⋅s à SudWeb, la possibilité de s'approprier des concepts et faire circuler des informations. C'est aussi par ces lignes rédigées ici la continuité des tissage de liens entre les personnes recontrées en ce mois de mai, ainsi que la volonté de donner à d'autres personnes l'envie de collisionner des humains ou des tricoter des boucles entre humain.
 
+![](/assets/images/tornac-castel.jpg)
+
+<figcaption class="captation">I captured the château de Tornac ! Image by : Anduze traveller | License CC BY-ND</figcaption>
+
+<div class="breaker"></div>
+
 ### Table des contenus
 1. [Fabriquer et définir un ironème](#fabriquer-et-définir-un-ironème)
 2. [Libertés et démocratie ou illusions](#libertés-et-démocratie-ou-illusions)
@@ -33,7 +39,6 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 9. [Culture, musique et influences sur le numériques](#culture-musique-et-influences-sur-le-numérique)
 10. [Biohacking, biodesign, biomimétisme et le vivant libre et open source](#biohacking-biodesign-biomimétisme-et-le-vivant-libre-et-open-source)
 11. [Du tricot à la programmation et langage bactérien, histoire de patterns](#du-tricot-à-la-programmation-et-langage-bactérien-histoire-de-patterns)
-
 
 ## Fabriquer et définir un ironème
 
@@ -66,13 +71,38 @@ Un [wiki dédié](https://ironemes.frama.wiki/ironemes) vous sera peut-être uti
 
 > « _La langue est le ciment des actes ; non seulement elle les rend explicites, mais elle en conserve l'empreinte... Le contenu des faits culturels et le contenu de la langue ressortissent à des dommaines d'exploitation scientifique différents, mais comme les deux faces d'un même objet ; i l est impossible de pénétrer l'une sans aboutir l'autre_ » **André Leroi-Gourhian**
 
+L’expressivité me semble devoir être comprise à la fois comme la puissance d’expression, soit une capacité à exprimer une opération complexe par un formalisme aussi simple que possible, et à la fois comme la qualité de l’expression, soit le fait que le texte du formalisme suggère facilement sa signification aux personnes qui reçoivent la compostion formée par le ensemble de cacaractéres des mots. 
+
 Fabriquer et définir par les mots des concepts, être en capacité des les manipuler, et les définir, avant de le programmer tout en gardant une touche de poésie et de subversion discrète, ce sudweb commençait bien. 
 
 ## Libertés et démocratie ou illusions 
 
+Il fallait bien évidemment se poser les questions des libertés individuelles et collectives ; les réflexions sur le mirroirs de paricipation des groupes aux processus globlaux de décisions, donc in fine à la démocratie non comme un étatt permanent mais comme un horizon qu'il faut toujours chercher à ralier.
+
+Le récent « Démocratie(s) » de DataGueule fur donc commenté, mis en perspective, et également conseillé à des personnes qui ne l'avaient pas encore visionné.
+
+<iframe width="560" height="315" src="https://peertube.datagueule.tv/videos/embed/0b04f13d-1e18-4f1d-814e-4979aa7c9c44" frameborder="0" allowfullscreen></iframe>
+
+Le texte de 2011  de Magali Bessone « [La norme  de transparence, contrôle du pouvoir ou contrôle du réel ?
+Du droit de regard des citoyens à l’effacement du sujet](http://www.raison-publique.fr/article446.html) » , fut également évoqué.
+
+vous trouverez également la vidéo « Noam Chomsky La Fabrication du Consentement » sur les internets.
+
 ## Nomadisme et mutations du travail
 
+« _Nous pollinisons ensemble pour assurer le bien-être de nos semblables_ » c'est ainsi que nous avions il ya quelques années résumé le dépot [de fiches concernant les nomadismes](http://www.multibao.org/#nomades) sur le [palteforme multibao](http://www.multibao.org). Le carnet de bord des organisations novatrices sur lequel nous avons publié sous licence libre, entre autres ressources, des fiches outils sur les pratiques nomades, sur la contribution à ces ressources, sur les doutes, les astuces, les rencontre et les chemins par les futurs nomades, néo-nomades, nomades ou curieux contributeurs. Oui mais sur une technologie dans le domaine public puisque sous licence creative commons zéro : [Daktary](https://github.com/daktary-team). Il y avait quelque personne à sudweb membre de cette équipe Daktary, d'autres qui en avaient entendu parlé et toutes celles qui attendaient un signe pour approfondir le sujet. 
+
+Bien, les nomadismes c'est pas trop mal comme questionnements et comme documentations, mais tout le monde ne peut vivre avec juste un sac à dos, et les nomadismes ne résumes pas uniquement à cette images d'Épinal post-moderne.
+
+Il y a donc donc [walkingDev](http://walkingdev.fr) pur comprendre l'intérêt d'être mobile et de ce servir de ces pieds dans presque tous les métiers, même en-dehors du web.
+
+Nous avions de cartes auparavant telles que [devfreindlyplaces](https://github.com/devfriendlyplaces) mai si l va falloir remettre la main à l'ouvrage pour les relancer.
+
+Donc nomadismes, technologies, démocraties, libertés, nous mèneraient à des mutations du travail ? Oups, j'ai contribué à une expostion et un livre numérique open source sur le sujet (remisà Alain Damasio en plus ;-) ) : [fork The World](https://world-trust-foundation.gitbooks.io/fork-the-world/content). Comme cela vous aussi vous pourrez le lire et refaire ces expériementations et les adapater. 
+
 ## Structures et règles de Quèbec à Lausanne en passant par Lille
+
+C'était une édition folle et intense. 
 
 ## Monnaies libres ou monnaie dette et la Théorie Relative de la Monnaie
 
