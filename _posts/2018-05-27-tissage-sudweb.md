@@ -27,7 +27,7 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 3. [Nomadisme et mutations du travail](#nomadisme-et-mutations-du-travail)
 4. [Structures et règles de Quèbec à  Lausanne en passant par Lille](#structures-et-règles-de-quèbec-à-lausanne-en-passant-par-lille)
 5. [Monnaies libres ou monnaies dette et la Théorie Relative de la Monnaie](#monnaies-libres-ou-monnaie-dette-et-la-théorie-relative-de-la-monnaie)
-6. [Protocole moi des internets](#protocole-moi-des internets)
+6. [Protocole moi des internets, LoRa, mesh, LPWAN, Hyperboria](#protocole-moi-des-internets-lora-mesh-lpwan-Hyperboria)
 7. [Des internets des énergies et des communs](#des-internets-des-énergies-et-des-communs)
 8. [Programmation et inférence](#programmation-et-inférence)
 9. [Culture, musique et influences sur le numériques](#culture-musique-et-influences-sur-le-numérique)
@@ -45,7 +45,7 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 
 ## Monnaies libres ou monnaie dette et la Théorie Relative de la Monnaie
 
-## Protocole moi des internets 
+## Potocole moi des internets, LoRa, mesh, LPWAN, Hyperboria
 
 ## Des internets des énergies et des communs
 
