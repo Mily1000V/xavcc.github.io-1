@@ -134,12 +134,41 @@ La comparaison avec un [réseau mesh](http://www.zdnet.fr/actualites/pourquoi-le
 
 ## Des internets des énergies et des communs
 
-Nous avons donc parlé pas mal de trucs pas très ordianires actuellement. Des internets de l'énergie et l'énergie comme un commun à Rennes, à Lyon ou ecnore à Prats de Mollo dans les pyrénées catalans.
+Nous avons donc parlé pas mal de trucs pas très ordianires actuellement. Des internets de l'énergie et l'énergie comme un commun à Rennes, à Lyon ou ecnore à Prats de Mollo dans les pyrénées catalans de 1 100 habitant⋅e⋅s e et l'intérêt de la [caisse des dépots pour notre intiative énergie renouvelable](https://www.caissedesdepots.fr/un-village-de-1100-habitants-passe-lautonomie-energetique)
 
 ## Programmation et inférence
 
+Ce n'était pas la première fois que se présentait une occassion d' [Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu](https://xavcc.github.io/geek-bretagne). Et je dois avouer que la personne qui a parfaitement illustré le protocole Casper (ceci sera explicité en texte et vidéo lors de publications de conférences SudWeb), c'est bien Pntbr, alias Stéphane Langlois.
+
+Effectivement nous avons parler du langage de [programmation elm](https://fr.wikipedia.org/wiki/Elm_%28langage%29) et de  l'inférence.
+
+> **<span class="evidence">L’inférence de types</span>** est un mécanisme qui permet à un compilateur ou un interpréteur de rechercher automatiquement les types associés à des expressions, sans qu’ils soient indiqués.
+
+Cela aurait très pu ressmebler à l'[atelier elm et javascritp documenté](https://hackmd.io/s/SyHcRZPPb#) que nous avions fait avec Pntbr lors du précédent IndieCamp Kerbors
+
 ## Culture, musique et influences sur le numérique
+
+C'est bien beau de parcourir les univers culturels et les techonologies, les théoreis et les pratiques, mais sans musique nou sne sommes que peu de raisonnance. 
+
+Cela tombait bien, après Ironèmes et saveurs, c'est avec [Nathouille](https://mastodon.tetaneutral.net/@Natouille) que nous nou ssommes lancés dans le partage de nos regards sur la musique de la fin des années 70' venant de Manchester et les influences sur certains courant technologiques aujourd'hui. Sex pistols, New Order... La hacienda et le label Factory record, c'ets le film [24 hour party people](https://fr.wikipedia.org/wiki/24_Hour_Party_People) qu'il faut regarder pour s'initier à ce regard sur les influences du passé qui s'expriment aujourd'hui. 
+
+Pour être y trouverez vous des pistes menant à l'organisation [IndieWeb](https://indieweb.org) ? Ou [hackerbeach](https://hackerbeach.org).
+
+Mais si vous mixez tout ça avec [Extreme programming](http://www.extremeprogramming.org), vous trouverez les motivations oour venir à l'[IndieCamp](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018) ;-) cet été.
 
 ## Biohacking, biodesign, biomimétisme et le vivant libre et open source
 
+Oui même à Anduze, dans un SudWeb, vous pouvez trouver des personnes qui sont passées par des formations ou recherche en biologie ou qui s'intérresse très fortement à ces pratiques. Il y en a même qui le font dans des garages.
+
+Nous avons eu de belles discussion sur « [Biononymous et Bioprivacy](https://framastory.org/story/xavcc/biononymous-et-bioprivacy-1/preview) » ou comment les technologies modernes impactes notes intimités biologique. 
+
+Mais saviez-vous qu'il y a un lien entre culture punk, origine du web, biopirate ?
+<iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/6ea5bd50-79a7-49db-abd3-292e85f7fe0f" frameborder="0" allowfullscreen></iframe>
+
+C'est un peu par là que je suis tombé de l'autre coté du mirroir. 
+
+Pour ce qui est du biohacking, biodesign, biomimétisme, bioremédiation, le hacklab Rennais [le biome](https://lebiome.github.io) a concocté un débit de [bibliothèque en ligne)](https://lebiome.github.io/#LeBiome/library/blob/master/Bibliotheque_We_Are-Biomers.md déjà bien fournie. 
+
 ## Du tricot à la programmation et langage bactérien, histoire de patterns
+
+## Bonus
