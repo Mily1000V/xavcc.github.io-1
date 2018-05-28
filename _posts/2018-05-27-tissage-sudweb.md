@@ -2,7 +2,7 @@
 title: "Sujets et compléments. Bref, j'ai participé à SudWeb"
 layout: post
 date: 2018-05-27 12:48
-image: 
+image: /assets/images/tornac-castel.jpg
 headerImage: false
 tag:
 - hsociety
@@ -20,6 +20,12 @@ Elles et ils étaient une centaine de personne venues de St Étienne en vélo, Q
 Dans ces espace-temps profondéments humains, il s'échnages des choses incroaables, bien au-delà de l'inforation et des savoirs. Là, dans moment de chaluer, se confrontent avis, pratiques, retours d'expériences. Je vais cependant essayer de mettre ici les ressources nécessaires à la compréhsension des sujets et des compélements sur certains thèmes auxquels j'ai pu échanger.
 
 C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e⋅s à SudWeb, la possibilité de s'approprier des concepts et faire circuler des informations. C'est aussi par ces lignes rédigées ici la continuité des tissage de liens entre les personnes recontrées en ce mois de mai, ainsi que la volonté de donner à d'autres personnes l'envie de collisionner des humains ou des tricoter des boucles entre humain.
+
+![](/assets/images/tornac-castel.jpg)
+
+<figcaption class="captation">I captured the château de Tornac ! Image by : Anduze traveller | License CC BY-ND</figcaption>
+
+<div class="breaker"></div>
 
 ### Table des contenus
 1. [Fabriquer et définir un ironème](#fabriquer-et-définir-un-ironème)
@@ -69,6 +75,8 @@ Un [wiki dédié](https://ironemes.frama.wiki/ironemes) vous sera peut-être uti
 Fabriquer et définir par les mots des concepts, être en capacité des les manipuler, et les définir, avant de le programmer tout en gardant une touche de poésie et de subversion discrète, ce sudweb commençait bien. 
 
 ## Libertés et démocratie ou illusions 
+
+Il fallait bien évidemment se sposer les questions de slibertés individuelles  et les réflexions
 
 ## Nomadisme et mutations du travail
 
