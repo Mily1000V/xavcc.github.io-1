@@ -40,7 +40,6 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 10. [Biohacking, biodesign, biomimétisme et le vivant libre et open source](#biohacking-biodesign-biomimétisme-et-le-vivant-libre-et-open-source)
 11. [Du tricot à la programmation et langage bactérien, histoire de patterns](#du-tricot-à-la-programmation-et-langage-bactérien-histoire-de-patterns)
 
-
 ## Fabriquer et définir un ironème
 
 Les mots parfois servent à exprimer des idées et expliciter le plus expréssivement possible des concepts. donner vies à de idées, avoir des langages expressif pour exprimer des concepts, sont des choses possiblement utiles en programmation. Ainsi, jongler avec les mots dans des ironèmes pourrait nous permettre de nous accoutumer à l'équilibrisme entre les concepts et les boucles ?
@@ -76,7 +75,14 @@ Fabriquer et définir par les mots des concepts, être en capacité des les mani
 
 ## Libertés et démocratie ou illusions 
 
-Il fallait bien évidemment se sposer les questions de slibertés individuelles  et les réflexions
+Il fallait bien évidemment se poser les questions des libertés individuelles et collectives ; les réflexions sur le mirroirs de paricipation des groupes aux processus globlaux de décisions, donc in fine à la démocratie non comme un étatt permanent mais comme un horizon qu'il faut toujours chercher à ralier.
+
+Le récent « Démocratie(s) » de DataGueule fur donc commenté, mis en perspective, et également conseillé à des personnes qui ne l'avaient pas encore visionné.
+
+<iframe width="560" height="315" src="https://peertube.datagueule.tv/videos/embed/0b04f13d-1e18-4f1d-814e-4979aa7c9c44" frameborder="0" allowfullscreen></iframe>
+
+Le texte de 2011  de Magali Bessonerme de transparence, contrôle du pouvoir ou contrôle du réel ?
+Du droit de regard des citoyens à l’effacement du sujet » 
 
 ## Nomadisme et mutations du travail
 
