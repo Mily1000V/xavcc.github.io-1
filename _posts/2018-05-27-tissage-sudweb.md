@@ -37,6 +37,37 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 
 ## Fabriquer et définir un ironème
 
+Les mots parfois servent à exprimer des idées et expliciter le plus expréssivement possible des concepts. donner vies à de idées, avoir des langages expressif pour exprimer des concepts, sont des choses possiblement utiles en programmation. Ainsi, jongler avec les mots dans des ironèmes pourrait nous permettre de nous accoutumer à l'équilibrisme entre les concepts et les boucles ?
+
+Peut-être...
+
+Mais à minima, des ironèmes cela met de la bonne humeur dans les espaces entre les personnes. La preuve, c'est lors du premier repas du jeudi soir qu'entre deux tables, en prononçant un ironème puis en tentant de le définir à quelques personnes, le lien entre table adossées se fit et que les intéractions furent lancées.
+
+> <span class="evidende">Ironème</span>
+```
+C'est un jeu de mots, mais reposant sur :
+
+    certaines figures préférentiellement,
+    une vocation poétique & imaginaire,
+    une fréquence, une itération,
+    une prétention de rupture discursive (c'est un anti discours),
+    un horizon de composition d'un autre monde, le monde d'à côté,
+    une certaine retenue pour éviter les gros effets,
+    une recherche d'économie linguistique (on réduit l'ironème à sa plus brève expression).
+
+Ébauche, épure, esquisse poétique de subversion langagière. 
+```
+
+> « _Dans les ironèmes il y a plutôt l’idée que vous allez travailler à régler de petits nœuds de complexité._ » **Étienne candel** [la subversion discrète](http://www.scalde.co/2016/05/27/etienne-candel-entretien-fleuve-subversion-discrete)
+
+Un [wiki dédié](https://ironemes.frama.wiki/ironemes) vous sera peut-être utile pour appréhender ce concept.
+
+![](assets/images/ironemen_etienne-cdl.png)
+
+> « _La langue est le ciment des actes ; non seulement elle les rend explicites, mais elle en conserve l'empreinte... Le contenu des faits culturels et le contenu de la langue ressortissent à des dommaines d'exploitation scientifique différents, mais comme les deux faces d'un même objet ; i l est impossible de pénétrer l'une sans aboutir l'autre_ » **André Leroi-Gourhian**
+
+Fabriquer et définir par les mots des concepts, être en capacité des les manipuler, et les définir, avant de le programmer tout en gardant une touche de poésie et de subversion discrète, ce sudweb commençait bien. 
+
 ## Libertés et démocratie ou illusions 
 
 ## Nomadisme et mutations du travail
@@ -45,7 +76,7 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 
 ## Monnaies libres ou monnaie dette et la Théorie Relative de la Monnaie
 
-## Potocole moi des internets, LoRa, mesh, LPWAN, Hyperboria
+## Protocole moi des internets, LoRa, mesh, LPWAN, Hyperboria
 
 ## Des internets des énergies et des communs
 
