@@ -1,9 +1,19 @@
 ---
-layout: post
 title: "Blockchain et Ethereum dans ton ordinateur. Pour Commencer...il faut un premier pas pour tous"
-date: 2017-10-31
-categories: ["science"]
+layout: post
+date: 2017-10-31 12:48
+image: /assets/images/ironème.jpg
+headerImage: false
+tag:
+- hsociety
+- Numérique
+- Sciences
+- Peer to peer
+category: blog
+author: XavierCoadic
+description: des buts en ironèmes
 ---
+
 
 Il s'agit de fournir un tutoriel simple et rapide pour installer et utiliser une blockchain Ethereum pour un utilisateur d'ordinateur Ubuntu. Le tout en 6 petites étapes et, peut-être, en apprenant un truc ou deux.
 
@@ -11,7 +21,7 @@ Les coordonnées de votre serviteur pour un don quand vous aurez appris
 + adress geth : `38594fa632c0538f13caaaf83385b3adc5eb0379`
 + Public node URL Parity: `enode://355c26ef18e0302e776edc9c5e6371acdd8c00953fdf1898bc48537e3e4ab9b875ba7da1738f39dbd213837b21efcebbc57e3e3280f69ae8032f0ce94d052725@192.168.1.17:30303`
 
-![](https://framapic.org/eBPq3LGTTbyo/whKVa8ZlidEr)
+![](/assets/images/ironème.jpg)
 
 ## Le client 
 Dans un réseau informatique, un client est le logiciel qui envoie des demandes à un serveur. Il peut s'agir d'un logiciel manipulé par une personne, ou d'un bot. Est appelé client aussi bien l'ordinateur depuis lequel les demandes sont envoyées que le logiciel qui contient les instructions relatives à la formulation des demandes et la personne qui opère les demandes.
