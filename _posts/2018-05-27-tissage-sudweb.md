@@ -102,13 +102,39 @@ Donc nomadismes, technologies, démocraties, libertés, nous mèneraient à des 
 
 ## Structures et règles de Quèbec à Lausanne en passant par Lille
 
-C'était une édition folle et intense. 
+C'était une édition folle et intense. Nous avons très agréablement échanger sur des petits retours d'expéreinces d'organisation qui bousculent les standards habituels de réglements et textes administratifs.
+
+Les exmples pris étaient :
++ DTC innovation dont [les statuts](https://dtc-innovation.org/dna/statuts.html) sont un exmple que je propose très souvent. Ça tombait bien, il y avait 3 membres de DTC innovation à SudWeb 2018.
++ [La Serre coworking](http://www.la-serre.io/) à Lausanne, qui me semble être un des expaces communautaires les plus en pointes en Europe, tout du moins francophone mais certaienment plus loin. Merci à l'ami [@Shalf](https://twitter.com/shalf) pour ce travail.
++ [La coroutine](http://lacoroutine.org/) de l'ami Simon à Lille, avec [leur wiki](http://wiki.lacoroutine.org/) et tout le travail sur les Communs
++ Le [portail de Tiers-Lieux Libres et Open Source](http://movilab.org/index.php?title=Accueil), les modes de vies durables et les mutations du travail.
+
+j'ai également évoqué le plus spot de coworking Nantais : La serre tropicale du jardin de plantes. Allez-y et donnez moi des nouvelles ;-)
 
 ## Monnaies libres ou monnaie dette et la Théorie Relative de la Monnaie
 
+Avant de ce jeter dans l'analyse et la compréhension des monnaies libres VS les monnaies dettes, il faut s'intéresser à la TRM ( théorie relative de la monnaie de Stéphane Laborde.
+
+<iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/c9993cf1-d04d-4a77-955e-ec821aa5dbeb" frameborder="0" allowfullscreen></iframe>
+
+Il y la version longue et technique pour les personnes les plus motivées...
+
+<iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/8d7b138d-acec-4be8-a122-c1ba93b0f916" frameborder="0" allowfullscreen></iframe>
+
+Puis ensuite nous avons pu passer au `*buzzwrod*` blockchain pour un fonctionnement monnaitaire bien différent auc un dividende universel, une toile de confiance, le logiciel [Duniter](https://duniter.org/) et la monnaie june. (Je suis partial car membre et coproducteur et utilisateur), qui ont intéressés plusieurs personnes à Anduze.  Ce sytème techologique repose sur la TRM.
+
 ## Protocole moi des internets, LoRa, mesh, LPWAN, Hyperboria
 
+Blockchain ou « [Space Odity in Rennes : données de qualité de l'air, Les internets de l'énergie, Open Data Manchester et un fleuron LPWAN, se rencontrent](https://xavcc.github.io/daisee) », Il y avait aussi des airs musicaux dans nos échanges.
+
+Des Lyonnais origianire de Bretagne reoncontrés sous le soleil gardois, d'autres personnes curieuses, et hop l etour était fait pour imaginer comme contribuer ensemble aux internets de l'énergie sur <https://daisee.org>. Mais comme l’agnosticisme technologie était partagé entre nous, nous avons également évoqué les possibilité sur [Hyperboria](https://xavcc.github.io/hyperboria), de tests server FTP sur raspi3 en plus de l'installation Ethereum dessus, et enfin les test LoRa «  protocole de télécommunication permettant la communication à bas débit, par radio, d'objets à faible consommation électrique communiquant selon la technologie LoRa et connectés à l'Internet via des passerelles, participant ainsi à l'Internet des objets. ». Comme comencé [ici](https://hackmd.io/s/rJZygmsAz#).
+
+La comparaison avec un [réseau mesh](http://www.zdnet.fr/actualites/pourquoi-le-reseau-mesh-arrive-dans-vos-bureaux-39850200.htm) nous en avons aussi bien discuté et même des invitations à faire tout cela lors de l'[IndieCamp Kerbors](http://movilab.org/index.php?title=IndieCamp) en août furent lancées. Vous viendrez ?
+
 ## Des internets des énergies et des communs
+
+Nous avons donc parlé pas mal de trucs pas très ordianires actuellement. Des internets de l'énergie et l'énergie comme un commun à Rennes, à Lyon ou ecnore à Prats de Mollo dans les pyrénées catalans.
 
 ## Programmation et inférence
 
