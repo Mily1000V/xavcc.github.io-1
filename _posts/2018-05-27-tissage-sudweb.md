@@ -27,12 +27,12 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 3. [Nomadisme et mutations du travail](#nomadisme-et-mutations-du-travail)
 4. [Structures et règles de Quèbec à  Lausanne en passant par Lille](#structures-et-règles-de-quèbec-à-lausanne-en-passant-par-lille)
 5. [Monnaies libres ou monnaies dette et la Théorie Relative de la Monnaie](#monnaies-libres-ou-monnaie-dette-et-la-théorie-relative-de-la-monnaie)
-6. [LoRa, Mesh, Hyperboria, LPWA networks. Protcole moi des internets](#lora-mesh-hyperboria-lpwa-networks-protocole-moi-des internets)
+6. [LoRa, Mesh, Hyperboria, LPWA networks. Protocole moi des internets](#lora-mesh-hyperboria-lpwa-networks-protocole-moi-des internets)
 7. [Des internets des énergies et des communs](#des-internets-des-énergies-et-des-communs)
 8. [Programmation et inférence](#programmation-et-inférence)
 9. [Culture, musique et influences sur le numériques](#culture-musique-et-influences-sur-le-numérique)
-10. [Biohacking, biodesign, biomimétisme et le vivant libre et open source](#biohacking,-biodesign,-biomimétisme-et-le-vivant-libre-et-open-source)
-11. [Du tricot à la programmation jusqu'au langage bactérien, histoire de design patterns](#du-tricot-à-la-programmation-jusuq'au-langage-bactérien,-histoire-de-patterns)
+10. [Biohacking, biodesign, biomimétisme : le vivant libre et open source](#biohacking-biodesign-biomimétisme-le-vivant-libre-et-open-source)
+11. [Du tricot à la programmation jusqu'au langage bactérien, histoire de design patterns](#du-tricot-à-la-programmation-jusuq'au-langage-bactérien-histoire-de-patterns)
 
 
 ## Fabriquer et définir un ironème
