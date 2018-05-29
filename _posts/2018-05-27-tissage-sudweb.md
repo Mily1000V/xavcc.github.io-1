@@ -89,6 +89,9 @@ Du droit de regard des citoyens à l’effacement du sujet](http://www.raison-pu
 
 vous trouverez également la vidéo « Noam Chomsky La Fabrication du Consentement » sur les internets.
 
+Pour pousser l'expérience jusqu'au jeu qui permet d'apprendre, je recommande très fortement « The Wisdom and/or Madness of Crodws » : <http://ncase.me/crowds>
+![](/assets/images/crowds.jpg)
+
 ## Nomadisme et mutations du travail
 
 « _Nous pollinisons ensemble pour assurer le bien-être de nos semblables_ » c'est ainsi que nous avions il ya quelques années résumé le dépot [de fiches concernant les nomadismes](http://www.multibao.org/#nomades) sur le [palteforme multibao](http://www.multibao.org). Le carnet de bord des organisations novatrices sur lequel nous avons publié sous licence libre, entre autres ressources, des fiches outils sur les pratiques nomades, sur la contribution à ces ressources, sur les doutes, les astuces, les rencontre et les chemins par les futurs nomades, néo-nomades, nomades ou curieux contributeurs. Oui mais sur une technologie dans le domaine public puisque sous licence creative commons zéro : [Daktary](https://github.com/daktary-team). Il y avait quelque personne à sudweb membre de cette équipe Daktary, d'autres qui en avaient entendu parlé et toutes celles qui attendaient un signe pour approfondir le sujet. 
