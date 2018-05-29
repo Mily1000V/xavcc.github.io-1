@@ -51,7 +51,7 @@ Peut-être...
 
 Mais à minima, des ironèmes cela met de la bonne humeur dans les espaces entre les personnes. La preuve, c'est lors du premier repas du jeudi soir qu'entre deux tables, en prononçant un ironème puis en tentant de le définir à quelques personnes, le lien entre tables adossées se fit et que les intéractions furent lancées.
 
-<span class="evidende">Ironème</span>
+++**<span class="evidence">Ironème</span>**++
 
 C'est un jeu de mots, mais reposant sur :
 + certaines figures préférentiellement,
@@ -78,7 +78,7 @@ Fabriquer et définir par les mots des concepts, être en capacité des les mani
 
 ## Libertés et démocratie ou illusions 
 
-Il fallait bien évidemment se poser les questions des libertés individuelles et collectives ; les réflexions sur le mirroirs de paricipation des groupes aux processus globlaux de décisions, donc in fine à la démocratie non comme un étatt permanent mais comme un horizon qu'il faut toujours chercher à ralier.
+Il fallait bien évidemment se poser les questions des libertés individuelles et collectives ; les réflexions sur le mirroirs de paricipation des groupes aux processus globlaux de décisions, donc, in fine, interroger la démocratie non comme un état permanent mais comme un horizon qu'il faut toujours chercher à ralier.
 
 Le récent « Démocratie(s) » de DataGueule fur donc commenté, mis en perspective, et également conseillé à des personnes qui ne l'avaient pas encore visionné.
 
@@ -93,26 +93,26 @@ vous trouverez également la vidéo « Noam Chomsky La Fabrication du Consenteme
 
 « _Nous pollinisons ensemble pour assurer le bien-être de nos semblables_ » c'est ainsi que nous avions il ya quelques années résumé le dépot [de fiches concernant les nomadismes](http://www.multibao.org/#nomades) sur le [palteforme multibao](http://www.multibao.org). Le carnet de bord des organisations novatrices sur lequel nous avons publié sous licence libre, entre autres ressources, des fiches outils sur les pratiques nomades, sur la contribution à ces ressources, sur les doutes, les astuces, les rencontre et les chemins par les futurs nomades, néo-nomades, nomades ou curieux contributeurs. Oui mais sur une technologie dans le domaine public puisque sous licence creative commons zéro : [Daktary](https://github.com/daktary-team). Il y avait quelque personne à sudweb membre de cette équipe Daktary, d'autres qui en avaient entendu parlé et toutes celles qui attendaient un signe pour approfondir le sujet. 
 
-Bien, les nomadismes c'est pas trop mal comme questionnements et comme documentations, mais tout le monde ne peut vivre avec juste un sac à dos, et les nomadismes ne résumes pas uniquement à cette images d'Épinal post-moderne.
+Bien, les nomadismes c'est pas trop mal comme questionnements et comme documentations, mais tout le monde ne peut pas vivre avec juste un sac à dos, et les nomadismes ne se résument pas uniquement à cette image d'Épinal post-moderne.
 
-Il y a donc donc [walkingDev](http://walkingdev.fr) pur comprendre l'intérêt d'être mobile et de ce servir de ces pieds dans presque tous les métiers, même en-dehors du web.
+Il y a donc [walkingDev](http://walkingdev.fr) pour comprendre l'intérêt d'être mobile et de se servir de ces pieds dans presque tous les métiers, même hors du web.
 
-Nous avions de cartes auparavant telles que [devfreindlyplaces](https://github.com/devfriendlyplaces) mai si l va falloir remettre la main à l'ouvrage pour les relancer.
+Nous avions de cartes auparavant telles que [devfreindlyplaces](https://github.com/devfriendlyplaces) mais il va falloir remettre la main à l'ouvrage pour les relancer.
 
-Donc nomadismes, technologies, démocraties, libertés, nous mèneraient à des mutations du travail ? Oups, j'ai contribué à une expostion et un livre numérique open source sur le sujet (remisà Alain Damasio en plus ;-) ) : [fork The World](https://world-trust-foundation.gitbooks.io/fork-the-world/content). Comme cela vous aussi vous pourrez le lire et refaire ces expériementations et les adapater. 
+Donc nomadismes, technologies, démocraties, libertés, nous mèneraient à des mutations du travail ? Oups, j'ai contribué à une expostion et un livre numérique open source sur le sujet (remis à Alain Damasio en plus ;-) ) : [fork The World](https://world-trust-foundation.gitbooks.io/fork-the-world/content). Comme cela vous aussi vous pourrez le lire et refaire ces expériementations et les adapater. 
 
 ## Structures et règles de Quèbec à Lausanne en passant par Lille
 
-C'était une édition folle et intense. Nous avons très agréablement échanger sur des petits retours d'expéreinces d'organisation qui bousculent les standards habituels de réglements et textes administratifs.
+C'était une édition folle et intense. Nous avons très agréablement échangé sur des petits retours d'expériences d'organisation qui bousculent les standards habituels de réglements et textes administratifs.
 
 Les exmples pris étaient :
 + DTC innovation dont [les statuts](https://dtc-innovation.org/dna/statuts.html) sont un exmple que je propose très souvent. Ça tombait bien, il y avait 3 membres de DTC innovation à SudWeb 2018.
 + [La Serre coworking](http://www.la-serre.io/) à Lausanne, qui me semble être un des expaces communautaires les plus en pointes en Europe, tout du moins francophone mais certaienment plus loin. Merci à l'ami [@Shalf](https://twitter.com/shalf) pour ce travail.
 + [La coroutine](http://lacoroutine.org/) de l'ami Simon à Lille, avec [leur wiki](http://wiki.lacoroutine.org/) et tout le travail sur les Communs. Également un bon exemple de statuts et d'itérations régulières sur ces statuts.
-+ [Ut7](http://ut7.fr/#apropos), la coopérative autogérée et ses formats et déconstructions des formatages n epouvait pas être absente de ces échanges. 
++ [Ut7](http://ut7.fr/#apropos), la coopérative autogérée et ses formats et déconstructions des formatages ne pouvait pas être absente de ces échanges. 
 + Le [portail de Tiers-Lieux Libres et Open Source](http://movilab.org/index.php?title=Accueil), les modes de vies durables et les mutations du travail.
 
-j'ai également évoqué le plus spot de coworking Nantais : La serre tropicale du jardin de plantes. Allez-y et donnez moi des nouvelles ;-)
+j'ai également évoqué le plus chouette spot de coworking Nantais (gratuit) : La serre tropicale dans le jardin des plantes, face à la gare. Allez-y et donnez moi des nouvelles ;-)
 
 ## Monnaies libres ou monnaie dette et la Théorie Relative de la Monnaie
 
@@ -120,49 +120,49 @@ Avant de ce jeter dans l'analyse et la compréhension des monnaies libres VS les
 
 <iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/c9993cf1-d04d-4a77-955e-ec821aa5dbeb" frameborder="0" allowfullscreen></iframe>
 
-Il y la version longue et technique pour les personnes les plus motivées...
+Il y a la version longue et technique pour les personnes les plus motivées...
 
 <iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/8d7b138d-acec-4be8-a122-c1ba93b0f916" frameborder="0" allowfullscreen></iframe>
 
-Puis ensuite nous avons pu passer au `*buzzwrod*` blockchain pour un fonctionnement monnaitaire bien différent auc un dividende universel, une toile de confiance, le logiciel [Duniter](https://duniter.org/) et la monnaie june. (Je suis partial car membre et coproducteur et utilisateur), qui ont intéressés plusieurs personnes à Anduze.  Ce sytème techologique repose sur la TRM.
+Puis ensuite nous avons pu passer au `*buzzwrod*` blockchain pour un fonctionnement monnaitaire bien différent avec un dividende universel, une toile de confiance, le logiciel [Duniter](https://duniter.org/) et la monnaie june. (Je suis partial car membre et coproducteur et utilisateur), qui ont intéressés plusieurs personnes à Anduze.  Ce sytème techologique repose sur la TRM.
 
 ## Protocole moi des internets, LoRa, mesh, LPWAN, Hyperboria
 
 Blockchain ou « [Space Odity in Rennes : données de qualité de l'air, Les internets de l'énergie, Open Data Manchester et un fleuron LPWAN, se rencontrent](https://xavcc.github.io/daisee) », Il y avait aussi des airs musicaux dans nos échanges.
 
-Des Lyonnais origianire de Bretagne reoncontrés sous le soleil gardois, d'autres personnes curieuses, et hop l etour était fait pour imaginer comme contribuer ensemble aux internets de l'énergie sur <https://daisee.org>. Mais comme l’agnosticisme technologie était partagé entre nous, nous avons également évoqué les possibilité sur [Hyperboria](https://xavcc.github.io/hyperboria), de tests server FTP sur raspi3 en plus de l'installation Ethereum dessus, et enfin les test LoRa «  protocole de télécommunication permettant la communication à bas débit, par radio, d'objets à faible consommation électrique communiquant selon la technologie LoRa et connectés à l'Internet via des passerelles, participant ainsi à l'Internet des objets. ». Comme comencé [ici](https://hackmd.io/s/rJZygmsAz#).
+Des Lyonnais originaires de Bretagne rencontrés sous le soleil gardois, d'autres personnes curieuses, et hop le tour de passe-passe était fait pour imaginer comme contribuer ensemble aux internets de l'énergie sur <https://daisee.org>. Mais comme l’agnosticisme technologique était partagé entre nous, nous avons également évoqué les possibilité sur [Hyperboria](https://xavcc.github.io/hyperboria), de tests server FTP sur raspi3 en plus de l'installation Ethereum dessus, et enfin les test LoRa «  protocole de télécommunication permettant la communication à bas débit, par radio, d'objets à faible consommation électrique communiquant selon la technologie LoRa et connectés à l'Internet via des passerelles, participant ainsi à l'Internet des objets. ». Comme comencé [ici](https://hackmd.io/s/rJZygmsAz#).
 
 La comparaison avec un [réseau mesh](http://www.zdnet.fr/actualites/pourquoi-le-reseau-mesh-arrive-dans-vos-bureaux-39850200.htm) nous en avons aussi bien discuté et même des invitations à faire tout cela lors de l'[IndieCamp Kerbors](http://movilab.org/index.php?title=IndieCamp) en août furent lancées. Vous viendrez ?
 
 ## Des internets des énergies et des communs
 
-Nous avons donc parlé pas mal de trucs pas très ordianires actuellement. Des internets de l'énergie et l'énergie comme un commun à Rennes, à Lyon ou ecnore à Prats de Mollo dans les pyrénées catalans de 1 100 habitant⋅e⋅s e et l'intérêt de la [caisse des dépots pour notre intiative énergie renouvelable](https://www.caissedesdepots.fr/un-village-de-1100-habitants-passe-lautonomie-energetique)
+Nous avons donc parlé pas mal de trucs pas très ordianires. Des internets de l'énergie et l'énergie comme un commun à Rennes, à Lyon ou ecnore à Prats de Mollo dans les pyrénées catalans de 1 100 habitant⋅e⋅s e et l'intérêt de la [caisse des dépots pour notre intiative énergie renouvelable](https://www.caissedesdepots.fr/un-village-de-1100-habitants-passe-lautonomie-energetique)
 
 ## Programmation et inférence
 
-Ce n'était pas la première fois que se présentait une occassion d' [Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu](https://xavcc.github.io/geek-bretagne). Et je dois avouer que la personne qui a parfaitement illustré le protocole Casper (ceci sera explicité en texte et vidéo lors de publications de conférences SudWeb), c'est bien Pntbr, alias Stéphane Langlois.
+Ce n'était pas la première fois que se présentait une occassion d' [Apprendre l'informatique en pratiquant en pair à pair dans un coin perdu](https://xavcc.github.io/geek-bretagne). Et je dois avouer que la personne qui a parfaitement illustré le protocole Casper (ceci sera explicité en texte et vidéo lors des publications de conférences SudWeb), c'est bien Pntbr, alias Stéphane Langlois.
 
-Effectivement nous avons parler du langage de [programmation elm](https://fr.wikipedia.org/wiki/Elm_%28langage%29) et de  l'inférence.
+Effectivement nous avons parlé du langage de [programmation elm](https://fr.wikipedia.org/wiki/Elm_%28langage%29) et de  l'inférence.
 
 > **<span class="evidence">L’inférence de types</span>** est un mécanisme qui permet à un compilateur ou un interpréteur de rechercher automatiquement les types associés à des expressions, sans qu’ils soient indiqués.
 
-Cela aurait très pu ressmebler à l'[atelier elm et javascritp documenté](https://hackmd.io/s/SyHcRZPPb#) que nous avions fait avec Pntbr lors du précédent IndieCamp Kerbors
+Cela aurait très bien pu ressmebler à l'[atelier elm et javascritp documenté](https://hackmd.io/s/SyHcRZPPb#) que nous avions fait avec Pntbr lors du précédent IndieCamp Kerbors.
 
 ## Culture, musique et influences sur le numérique
 
-C'est bien beau de parcourir les univers culturels et les techonologies, les théoreis et les pratiques, mais sans musique nou sne sommes que peu de raisonnance. 
+C'est bien beau de parcourir les univers culturels et les techonologies, les théories et les pratiques, mais sans musique nous ne sommes que peu de raisonnance. 
 
-Cela tombait bien, après Ironèmes et saveurs, c'est avec [Nathouille](https://mastodon.tetaneutral.net/@Natouille) que nous nou ssommes lancés dans le partage de nos regards sur la musique de la fin des années 70' venant de Manchester et les influences sur certains courant technologiques aujourd'hui. Sex pistols, New Order... La hacienda et le label Factory record, c'ets le film [24 hour party people](https://fr.wikipedia.org/wiki/24_Hour_Party_People) qu'il faut regarder pour s'initier à ce regard sur les influences du passé qui s'expriment aujourd'hui. 
+Cela tombait bien, après Ironèmes et saveurs, c'est avec [Nathouille](https://mastodon.tetaneutral.net/@Natouille) que nous nous sommes lancés dans le partage de nos regards sur la musique de la fin des années 70' venant de Manchester et les influences sur certains courants technologiques aujourd'hui. Sex pistols, New Order... La hacienda et le label Factory record, c'est le film [24 hour party people](https://fr.wikipedia.org/wiki/24_Hour_Party_People) qu'il faut regarder pour s'initier à ce retour sur les influences du passé qui s'expriment aujourd'hui. 
 
-Pour être y trouverez vous des pistes menant à l'organisation [IndieWeb](https://indieweb.org) ? Ou [hackerbeach](https://hackerbeach.org) ?
+Pour être y trouverez-vous des pistes menant à l'organisation [IndieWeb](https://indieweb.org) ? Ou [hackerbeach](https://hackerbeach.org) ?
 
-Mais si vous mixez tout ça avec [Extreme programming](http://www.extremeprogramming.org), vous trouverez les motivations oour venir à l'[IndieCamp](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018) ;-) cet été.
+Mais si vous mixez tout ça avec [Extreme programming](http://www.extremeprogramming.org), vous trouverez les motivations pour venir à l'[IndieCamp](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018) ;-) cet été.
 
 ## Biohacking, biodesign, biomimétisme et le vivant libre et open source
 
-Oui même à Anduze, dans un SudWeb, vous pouvez trouver des personnes qui sont passées par des formations ou recherche en biologie ou qui s'intérresse très fortement à ces pratiques. Il y en a même qui le font dans des garages.
+Oui même à Anduze, dans un SudWeb, vous pouvez trouver des personnes passées par des formations ou recherche en biologie ou qui s'intérressent très fortement à ces pratiques. Il y en a même qui les font dans des garages.
 
-Nous avons eu de belles discussion sur « [Biononymous et Bioprivacy](https://framastory.org/story/xavcc/biononymous-et-bioprivacy-1/preview) » ou comment les technologies modernes impactes notes intimités biologique. 
+Nous avons eu de belles discussion sur « [Biononymous et Bioprivacy](https://framastory.org/story/xavcc/biononymous-et-bioprivacy-1/preview) » ou comment les technologies modernes impactes nos intimités biologiques. 
 
 Mais saviez-vous qu'il y a un lien entre culture punk, origine du web, biopirate ?
 <iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/6ea5bd50-79a7-49db-abd3-292e85f7fe0f" frameborder="0" allowfullscreen></iframe>
@@ -170,6 +170,15 @@ Mais saviez-vous qu'il y a un lien entre culture punk, origine du web, biopirate
 C'est un peu par là que je suis tombé de l'autre coté du mirroir. 
 
 Pour ce qui est du biohacking, biodesign, biomimétisme, bioremédiation, le hacklab Rennais [le biome](https://lebiome.github.io) a concocté un débit de [bibliothèque en ligne](https://lebiome.github.io/#LeBiome/library/blob/master/Bibliotheque_We_Are-Biomers.md) déjà bien fournie. 
+
+> Biohacking peut se référer à :
+> + Nutrigénomique, utiliser la nutrition pour prendre le contrôle de processus biologique.
+> + Biologie du bricolage ou Do iT Yourself, mouvement social biotechnologique dans lequel les individus et les petites organisations étudient la biologie en utilisant les mêmes méthodes que les institutions de recherche traditionnelles.
+> + La biologie participative désigne une approche de la biologie non liée aux laboratoires académiques ou industriels.
+
+> Le terme biohacker est parfois utilisé pour désigner un individu expérimentant principalement les propriétés biologiques et d'autres aspects des sciences du vivant, en dehors du cadre académique, gouvernemental ou des laboratoires.
+
+Voici égelement une [liste très fournie mais incomplète](https://wiki.hackerspaces.org/List_of_ALL_Hacker_Spaces) des hackerspace dans le monde. Et comme un tiers-lieu(X) c'est toujours ce quel 'on en fait et pas ce que l'on en dit, si voulez apprednre ou proquer la pbiologie de « garage », demandez ou faites le avec ces communautés. 
 
 ## Du tricot à la programmation et langage bactérien, histoire de patterns
 
@@ -207,13 +216,13 @@ https://www.ravelry.com/patterns/library/irish-hiking-scarf
 Bref, cela m'a beaucoup fait réfléchir. J'ai mis du temps, mais surtout pris du temps pour en discuter avec lors de ce week-end avec les personnes présentes. Le passage concernant les deux guerres mondiales lors desquelles des informations tricotées en binaire (coordonnées, heures de passages de trains, ...) étaient échangées avec « des écharpes moches mais utiles » ; c'était peut-être là une clé que je n'avais pas encore bien comprise. (voir [source](https://www.atlasobscura.com/articles/knitting-spies-wwi-wwii
 ))
 
-Paf, l'innterdiction d’import/export de patrons de tricot durant ces guerres m'a fait rire très jaune en regardant notre petit monde numérique actuel... Bref, on dit CHIFFRER et pas crypter ;-) (voir <https://chiffrer.info>).
+Paf, l'interdiction d’import/export de patrons de tricot durant ces guerres m'a fait rire très jaune en regardant notre petit monde numérique actuel... Bref, on dit CHIFFRER et pas crypter ;-) (voir <https://chiffrer.info>).
 
 Donc, binaire, chiffrer, patterns... Mais bien évidemment ! Bordayl ! C'est bien de cette base d'analyse du tricot que j epourrais résoudre mes problèmes d'expression d'un langage aux bactéries des sols et tenter un web des sols...
 
 > Ouais ça envoie du lourd d'Anduze sous roche à SudWeb 2018
 
-Je vous assure que j'ai pu en discuter très sérieuement avec des personnes présentes, notamment le design pattern, les patterns et les choix de langage de programmation, notamment python et le design pattern « Factory Method » pour fabriquer des objets ou de lui « memento » pour permettre à un un objet de restaurer son état précédent.
+Je vous assure que j'ai pu en discuter très sérieuement avec des personnes présentes, notamment le design pattern, les patterns et les choix de langage de programmation ; ici python et le design pattern « Factory Method » pour fabriquer des objets ou celui « memento » pour permettre à un un objet de restaurer son état précédent.
 
 Du coup j'ai presque 400 lignes de python à revoir pour enfin faire parler ce truc :
 
