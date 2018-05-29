@@ -49,8 +49,7 @@ Peut-être...
 
 Mais à minima, des ironèmes cela met de la bonne humeur dans les espaces entre les personnes. La preuve, c'est lors du premier repas du jeudi soir qu'entre deux tables, en prononçant un ironème puis en tentant de le définir à quelques personnes, le lien entre table adossées se fit et que les intéractions furent lancées.
 
-> <span class="evidende">Ironème</span>
-```
+<span class="evidende">Ironème</span>
 C'est un jeu de mots, mais reposant sur :
 
     certaines figures préférentiellement,
@@ -62,7 +61,6 @@ C'est un jeu de mots, mais reposant sur :
     une recherche d'économie linguistique (on réduit l'ironème à sa plus brève expression).
 
 Ébauche, épure, esquisse poétique de subversion langagière. 
-```
 
 > « _Dans les ironèmes il y a plutôt l’idée que vous allez travailler à régler de petits nœuds de complexité._ » **Étienne candel** [la subversion discrète](http://www.scalde.co/2016/05/27/etienne-candel-entretien-fleuve-subversion-discrete)
 
