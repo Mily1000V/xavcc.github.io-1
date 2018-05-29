@@ -21,6 +21,8 @@ Dans ces espace-temps profondémens humains, il s'échnage des choses incroyable
 
 C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e⋅s à SudWeb, la possibilité de s'approprier des concepts et faire circuler des informations. C'est aussi par ces lignes rédigées ici la continuité des tissage de liens entre les personnes recontrées en ce mois de mai, ainsi que la volonté de donner à d'autres personnes l'envie de collisionner des humains ou des tricoter des boucles entre humains.
 
+Petits pafums de sujets et compléments de sudweb 2018 à suivre...
+
 ![](/assets/images/tornac-castel.jpg)
 
 <figcaption class="captation">I captured the château de Tornac ! Image by : Anduze traveller | License CC BY-ND</figcaption>
@@ -47,18 +49,18 @@ Les mots parfois servent à exprimer des idées et expliciter le plus expréssiv
 
 Peut-être...
 
-Mais à minima, des ironèmes cela met de la bonne humeur dans les espaces entre les personnes. La preuve, c'est lors du premier repas du jeudi soir qu'entre deux tables, en prononçant un ironème puis en tentant de le définir à quelques personnes, le lien entre table adossées se fit et que les intéractions furent lancées.
+Mais à minima, des ironèmes cela met de la bonne humeur dans les espaces entre les personnes. La preuve, c'est lors du premier repas du jeudi soir qu'entre deux tables, en prononçant un ironème puis en tentant de le définir à quelques personnes, le lien entre tables adossées se fit et que les intéractions furent lancées.
 
 <span class="evidende">Ironème</span>
-C'est un jeu de mots, mais reposant sur :
 
-    certaines figures préférentiellement,
-    une vocation poétique & imaginaire,
-    une fréquence, une itération,
-    une prétention de rupture discursive (c'est un anti discours),
-    un horizon de composition d'un autre monde, le monde d'à côté,
-    une certaine retenue pour éviter les gros effets,
-    une recherche d'économie linguistique (on réduit l'ironème à sa plus brève expression).
+C'est un jeu de mots, mais reposant sur :
++ certaines figures préférentiellement,
++ une vocation poétique & imaginaire,
++ une fréquence, une itération,
++ une prétention de rupture discursive (c'est un anti discours),
++ un horizon de composition d'un autre monde, le monde d'à côté,
++ une certaine retenue pour éviter les gros effets,
++ une recherche d'économie linguistique (on réduit l'ironème à sa plus brève expression).
 
 Ébauche, épure, esquisse poétique de subversion langagière. 
 
@@ -152,7 +154,7 @@ C'est bien beau de parcourir les univers culturels et les techonologies, les th�
 
 Cela tombait bien, après Ironèmes et saveurs, c'est avec [Nathouille](https://mastodon.tetaneutral.net/@Natouille) que nous nou ssommes lancés dans le partage de nos regards sur la musique de la fin des années 70' venant de Manchester et les influences sur certains courant technologiques aujourd'hui. Sex pistols, New Order... La hacienda et le label Factory record, c'ets le film [24 hour party people](https://fr.wikipedia.org/wiki/24_Hour_Party_People) qu'il faut regarder pour s'initier à ce regard sur les influences du passé qui s'expriment aujourd'hui. 
 
-Pour être y trouverez vous des pistes menant à l'organisation [IndieWeb](https://indieweb.org) ? Ou [hackerbeach](https://hackerbeach.org).
+Pour être y trouverez vous des pistes menant à l'organisation [IndieWeb](https://indieweb.org) ? Ou [hackerbeach](https://hackerbeach.org) ?
 
 Mais si vous mixez tout ça avec [Extreme programming](http://www.extremeprogramming.org), vous trouverez les motivations oour venir à l'[IndieCamp](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018) ;-) cet été.
 
@@ -167,7 +169,7 @@ Mais saviez-vous qu'il y a un lien entre culture punk, origine du web, biopirate
 
 C'est un peu par là que je suis tombé de l'autre coté du mirroir. 
 
-Pour ce qui est du biohacking, biodesign, biomimétisme, bioremédiation, le hacklab Rennais [le biome](https://lebiome.github.io) a concocté un débit de [bibliothèque en ligne)](https://lebiome.github.io/#LeBiome/library/blob/master/Bibliotheque_We_Are-Biomers.md) déjà bien fournie. 
+Pour ce qui est du biohacking, biodesign, biomimétisme, bioremédiation, le hacklab Rennais [le biome](https://lebiome.github.io) a concocté un débit de [bibliothèque en ligne](https://lebiome.github.io/#LeBiome/library/blob/master/Bibliotheque_We_Are-Biomers.md) déjà bien fournie. 
 
 ## Du tricot à la programmation et langage bactérien, histoire de patterns
 
