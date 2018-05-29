@@ -13,7 +13,7 @@ author: XavierCoadic
 description: Du numérique avec le pieds s'il vous plait sur les bords du Gardon d'Anduze
 ---
 
-Elles et ils étaient une centaine de personne venues de St Étienne en vélo, de Québec en avion, de Bretagne en train, de Marseille en voiture, de Luxembourg de fil en aiguille... pour se retouver à Anduze, dans le gard cévénol pour la 8ème édition de [SudWeb](https://sudweb.fr/2018).
+Elles et ils étaient une centaine de personnes venues de St Étienne en vélo, de Québec en avion, de Bretagne en train, de Marseille en voiture, de Luxembourg de fil en aiguille... pour se retouver à Anduze, dans le Gard cévénol pour la 8ème édition de [SudWeb](https://sudweb.fr/2018).
 
 2 jours et des pourssières d'étoiles, ensemble qui furent intenses et revigorants. Mais comme toute chose bien pensée et conçue à son origine, sudweb permmet de grandes libertés pour chaque personne présente et offre des temps _off_ ou _non-programmés_ forts appréciables et appréciés, et donc des moments d'une importance considérable.
 
