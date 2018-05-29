@@ -1,5 +1,5 @@
 ---
-title: "Contirbution à la mission société numérique inclusive : Les écueils de gouvernance à éviter"
+title: "Contribution à la mission société numérique inclusive : Les écueils de gouvernance à éviter"
 layout: post
 date: 2018-02-16 12:48
 image: /assets/images/mission-num-2018.png
