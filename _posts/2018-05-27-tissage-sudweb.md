@@ -89,7 +89,7 @@ Du droit de regard des citoyens à l’effacement du sujet](http://www.raison-pu
 
 vous trouverez également la vidéo « Noam Chomsky La Fabrication du Consentement » sur les internets.
 
-Pour pousser l'expérience jusqu'au jeu qui permet d'apprendre, je recommande très fortement « The Wisdom and/or Madness of Crodws » : <http://ncase.me/crowds>
+Pour pousser l'expérience jusqu'au jeu qui permet d'apprendre, je recommande très fortement « The Wisdom and/or Madness of Crowds » : <http://ncase.me/crowds>
 ![](/assets/images/crowds.jpg)
 
 ## Nomadisme et mutations du travail
