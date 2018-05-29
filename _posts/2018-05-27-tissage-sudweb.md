@@ -13,13 +13,13 @@ author: XavierCoadic
 description: Du numérique avec le pieds s'il vous plait sur les bords du Gardon d'Anduze
 ---
 
-Elles et ils étaient une centaine de personne venues de St Étienne en vélo, Québec en avion, Bretagne en train, Marseille en voiture, Luxembourg de fil en aiguille... pour se retouver à Anduze, dans le gard cévénol pour la 8ème édition de [SudWeb](https://sudweb.fr/2018).
+Elles et ils étaient une centaine de personne venues de St Étienne en vélo, de Québec en avion, de Bretagne en train, de Marseille en voiture, de Luxembourg de fil en aiguille... pour se retouver à Anduze, dans le gard cévénol pour la 8ème édition de [SudWeb](https://sudweb.fr/2018).
 
-2 jours et des pourssières d'étoiles, ensemble qui furent intenses et revigorants. Mais comme toute chose bien pensée et conçue à son origine, sudweb permmet de grandes libertés à chaque personnes présentes et offre des temps _off_ ou _non-programmés_ forts appréciables et appréciés, et donc des moments d'une importance considérable.
+2 jours et des pourssières d'étoiles, ensemble qui furent intenses et revigorants. Mais comme toute chose bien pensée et conçue à son origine, sudweb permmet de grandes libertés pour chaque personne présente et offre des temps _off_ ou _non-programmés_ forts appréciables et appréciés, et donc des moments d'une importance considérable.
 
-Dans ces espace-temps profondéments humains, il s'échnages des choses incroaables, bien au-delà de l'inforation et des savoirs. Là, dans moment de chaluer, se confrontent avis, pratiques, retours d'expériences. Je vais cependant essayer de mettre ici les ressources nécessaires à la compréhsension des sujets et des compélements sur certains thèmes auxquels j'ai pu échanger.
+Dans ces espace-temps profondémens humains, il s'échnage des choses incroyables, bien au-delà de l'information et des savoirs. Là, dans ces moments de chaleur, se confrontent avis, pratiques, retours d'expériences. Je vais dans ces lignes essayer de mettre les ressources nécessaires à la compréhsension des sujets et des compélements sur certains thèmes auxquels j'ai pu échanger. En utilisant des ressources libres et open source autant que faire se peut. 
 
-C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e⋅s à SudWeb, la possibilité de s'approprier des concepts et faire circuler des informations. C'est aussi par ces lignes rédigées ici la continuité des tissage de liens entre les personnes recontrées en ce mois de mai, ainsi que la volonté de donner à d'autres personnes l'envie de collisionner des humains ou des tricoter des boucles entre humain.
+C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e⋅s à SudWeb, la possibilité de s'approprier des concepts et faire circuler des informations. C'est aussi par ces lignes rédigées ici la continuité des tissage de liens entre les personnes recontrées en ce mois de mai, ainsi que la volonté de donner à d'autres personnes l'envie de collisionner des humains ou des tricoter des boucles entre humains.
 
 ![](/assets/images/tornac-castel.jpg)
 
@@ -39,6 +39,7 @@ C'est une volonté de donner au plus grand nombre, au-delà des participant⋅e�
 9. [Culture, musique et influences sur le numériques](#culture-musique-et-influences-sur-le-numérique)
 10. [Biohacking, biodesign, biomimétisme et le vivant libre et open source](#biohacking-biodesign-biomimétisme-et-le-vivant-libre-et-open-source)
 11. [Du tricot à la programmation et langage bactérien, histoire de patterns](#du-tricot-à-la-programmation-et-langage-bactérien-histoire-de-patterns)
+12. [Bonus](#bonus)
 
 ## Fabriquer et définir un ironème
 
@@ -107,14 +108,15 @@ C'était une édition folle et intense. Nous avons très agréablement échanger
 Les exmples pris étaient :
 + DTC innovation dont [les statuts](https://dtc-innovation.org/dna/statuts.html) sont un exmple que je propose très souvent. Ça tombait bien, il y avait 3 membres de DTC innovation à SudWeb 2018.
 + [La Serre coworking](http://www.la-serre.io/) à Lausanne, qui me semble être un des expaces communautaires les plus en pointes en Europe, tout du moins francophone mais certaienment plus loin. Merci à l'ami [@Shalf](https://twitter.com/shalf) pour ce travail.
-+ [La coroutine](http://lacoroutine.org/) de l'ami Simon à Lille, avec [leur wiki](http://wiki.lacoroutine.org/) et tout le travail sur les Communs
++ [La coroutine](http://lacoroutine.org/) de l'ami Simon à Lille, avec [leur wiki](http://wiki.lacoroutine.org/) et tout le travail sur les Communs. Également un bon exemple de statuts et d'itérations régulières sur ces statuts.
++ [Ut7](http://ut7.fr/#apropos), la coopérative autogérée et ses formats et déconstructions des formatages n epouvait pas être absente de ces échanges. 
 + Le [portail de Tiers-Lieux Libres et Open Source](http://movilab.org/index.php?title=Accueil), les modes de vies durables et les mutations du travail.
 
 j'ai également évoqué le plus spot de coworking Nantais : La serre tropicale du jardin de plantes. Allez-y et donnez moi des nouvelles ;-)
 
 ## Monnaies libres ou monnaie dette et la Théorie Relative de la Monnaie
 
-Avant de ce jeter dans l'analyse et la compréhension des monnaies libres VS les monnaies dettes, il faut s'intéresser à la TRM ( théorie relative de la monnaie de Stéphane Laborde.
+Avant de ce jeter dans l'analyse et la compréhension des monnaies libres VS les monnaies dettes, il faut s'intéresser à la TRM ( théorie relative de la monnaie de Stéphane Laborde).
 
 <iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/c9993cf1-d04d-4a77-955e-ec821aa5dbeb" frameborder="0" allowfullscreen></iframe>
 
@@ -167,8 +169,86 @@ Mais saviez-vous qu'il y a un lien entre culture punk, origine du web, biopirate
 
 C'est un peu par là que je suis tombé de l'autre coté du mirroir. 
 
-Pour ce qui est du biohacking, biodesign, biomimétisme, bioremédiation, le hacklab Rennais [le biome](https://lebiome.github.io) a concocté un débit de [bibliothèque en ligne)](https://lebiome.github.io/#LeBiome/library/blob/master/Bibliotheque_We_Are-Biomers.md déjà bien fournie. 
+Pour ce qui est du biohacking, biodesign, biomimétisme, bioremédiation, le hacklab Rennais [le biome](https://lebiome.github.io) a concocté un débit de [bibliothèque en ligne)](https://lebiome.github.io/#LeBiome/library/blob/master/Bibliotheque_We_Are-Biomers.md) déjà bien fournie. 
 
 ## Du tricot à la programmation et langage bactérien, histoire de patterns
 
+Laurence Vagner, que je remercie encore une fois ici, m'a bien surpris et a débloqué lors de son intervention sur la scène de sudweb un problème vieux de 18 mois dans mes travaux. 
+
+Laurence et le tricot c'est magic rainbow ? Peut-être, pour vous en faire un avis :
++ [Transcription de son internetion](https://weblog.redisdead.net/main/post/Tricot-et-programmation) et dans le tricot il y a :
+   + Variables
+   + Langage strandard
+   + boucles 
+   + Patterns
+   
+Voici également les [slides qui illustrent](https://docs.google.com/presentation/d/1siYVSCJd9MzmUg3yTUxre7KEarQHjQ46rhsN5AA9if4/edit#slide=id.g3aea8c2fd4_0_0) son propos (attention g00gle doc !)
+
+> Coder en tricot ?
+
+```
+CO 42st
+Row 1. (WS) K2, P2, K2, P6, K2, P2, K2, P6, K2, P2, K2, P6, K2, P2, K2
+Row 2. (RS) K4, P2, K6, P2, K2, P2, K6, P2, K2, P2, K6, P2, K4
+Row 3. (WS) repeat row 1
+Row 4. (RS) repeat row 2
+Row 5. (WS) repeat row 1.
+Row 6. (RS) repeat row 2.
+Row 7. (WS) repeat row 1.
+Row 8. (RS) K4, P2, C6F, P2, K2, P2, C6F, P2, K2, P2, C6F, P2, K4
+Repeat these rows to desired length, ending on row 7. 
+
+BO
+
+https://www.ravelry.com/patterns/library/irish-hiking-scarf
+
+```
+
+Bref, cela m'a beaucoup fait réfléchir. J'ai mis du temps, mais surtout pris du temps pour en discuter avec lors de ce week-end avec les personnes présentes. Le passage concernant les deux guerres mondiales lors desquelles des informations tricotées en binaire (coordonnées, heures de passages de trains, ...) étaient échangées avec « des écharpes moches mais utiles » ; c'était peut-être là une clé que je n'avais pas encore bien comprise. (voir [source](https://www.atlasobscura.com/articles/knitting-spies-wwi-wwii
+))
+
+Paf, l'innterdiction d’import/export de patrons de tricot durant ces guerres m'a fait rire très jaune en regardant notre petit monde numérique actuel... Bref, on dit CHIFFRER et pas crypter ;-) (voir <https://chiffrer.info>).
+
+Donc, binaire, chiffrer, patterns... Mais bien évidemment ! Bordayl ! C'est bien de cette base d'analyse du tricot que j epourrais résoudre mes problèmes d'expression d'un langage aux bactéries des sols et tenter un web des sols...
+
+> Ouais ça envoie du lourd d'Anduze sous roche à SudWeb 2018
+
+Je vous assure que j'ai pu en discuter très sérieuement avec des personnes présentes, notamment le design pattern, les patterns et les choix de langage de programmation, notamment python et le design pattern « Factory Method » pour fabriquer des objets ou de lui « memento » pour permettre à un un objet de restaurer son état précédent.
+
+Du coup j'ai presque 400 lignes de python à revoir pour enfin faire parler ce truc :
+
+![](/assets/images/mily2.gif)
+
+Peut-être que le prochain sudweb, juste avant de passer du New Order à la sono, il y aura une performance musicale avec [des colonnes de Wynogradsky](https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project) et des bactéries qui font bouger les corps et les appréhensions de concept.
+
 ## Bonus
+
+#### Créer un boucle Do...while en python
+
+Alors qu'elle n'existe pas en python
+
+```python
+1 = 0
+
+while "i < 10":
+    print(i)
+    i += 1
+    if i >= 10:
+         break
+```
+Pour la ligne 3, c'est une astuce de programmation permmettant d'intégrer un commentaire de manière à rendre celui-cui plus lisible et dans le même temps utiliser ce commentaire comme valuer (expressivité).
+
+Pour constater la valuer de cette chaine de caracrtère dans du bolléen
+
+```python
+>>> bool('i < 10')
+true
+```
+
+#### Mais avant et après sudweb ?
+
+Avant j'avais écris « [Conférences, grands écarts, un petit tour des adductions](https://xavcc.github.io/printemps) » d'Anduze à Auray en passant par web2day, Pas Sage en Seine, Forum des usages coopératifs à Brest et le sommet mondial des fablabs.
+
+Après, il me reste à rédiger et mettre en forme la recette du format orginal que nous avons testé à sudweb 2018 avec Newick et Julia, puis le publier avec le texte du propos tenu sur « Apprendre à apprendre, transmettre en permé-habilité - Protocole Capser ».
+
+> <span class="evidence">IMMENSE MERCI AUX PERSONNES PRÉSENTES & LA THYM</span>
