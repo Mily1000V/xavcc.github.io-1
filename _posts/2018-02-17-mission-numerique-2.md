@@ -13,6 +13,8 @@ author: XavierCoadic
 description: 1er trimestre 2018
 ---
 
+> Ceci est transcription provient de ma contribution à la consultation ouverte de la mission consultation nuérique sur l'inclusion au premier semestre 2018, publiée [ici](https://strategie.societenumerique.gouv.fr/topic/79/fracture-communaut%C3%A9s-acc%C3%A9ssibilit%C3%A9-lieux-territoire-paysage-pour-les-publics)
+
 Je commence cette contribution par afficher clairement qu'elle fait suite, et donc sens de mon point de vue,  à [celle rédigée sur la gouvernance](https://strategie.societenumerique.gouv.fr/topic/38/les-%C3%A9cueils-de-gouvernance-%C3%A0-%C3%A9viter/5). Je vais tenter ici de développer avec un focus et des ressources pour tenter de contribuer à "Atteindre et orienter les publics cibles".
 
 ![](/assets/images/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg)
