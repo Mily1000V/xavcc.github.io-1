@@ -1,7 +1,25 @@
-
+---
+title: "Contribution à la mission société numérique sur l'inclusivité : Fracture, communautés, accéssibilité, lieux, territoire, paysage, pour les publics"
+layout: post
+date: 2018-02-17 12:48
+image: /assets/images/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg
+headerImage: false
+tag:
+- hsociety
+- Numérique
+- Nantes
+category: blog
+author: XavierCoadic
+description: 1er trimestre 2018
+---
 
 Je commence cette contribution par afficher clairement qu'elle fait suite, et donc sens de mon point de vue,  à [celle rédigée sur la gouvernance](https://strategie.societenumerique.gouv.fr/topic/38/les-%C3%A9cueils-de-gouvernance-%C3%A0-%C3%A9viter/5). Je vais tenter ici de développer avec un focus et des ressources pour tenter de contribuer à "Atteindre et orienter les publics cibles".
 
+![](/assets/images/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg)
+
+<figcaption clas="caption">Le Serment du Jeu de Paume peut aller se rhabiller : on parlera bientôt du Serment d’Avignon ! (Image source Wikimedia Commons. Domaine public)</figcaption>
+
+<div class="breaker"></div>
 
 # Fracture
 
@@ -31,18 +49,18 @@ Jean a presque tout les jours un ordinateur portable dans lequel il passe beauco
 Il m'observe utiliser un ordinateur autrement que lui ne le fait. Il prend confiance dans notre rapport alors que nous ne nous connaissons pas car nous avons des circonstances de rencontres qui nous rapprochent au-delà de nos différences sociales. Il se sent assez libre pour exprimer ses "faiblesses" (sic) et me demande de l'aide pour ne plus avoir de pubs qui envahissent son écran à chaque clic (sic).
 Je lui demande ce qui veut vraiment faire quand il ouvre son ordinateur et non pas juste pourquoi il ne veut plus de pubs. Il me répond qu'il cherche à apprendre des choses et partager d'autres choses
 jean est dyslexique et crains le regard et le jugement. 
-pour conclure court, cette situation de confiance a permis en quelques rapides nouvelles rencontres de lui permettre d'apprendre à apprendre. Il maîtrise quelques semaines plus tard le markdown ou wikicode, l'utilisation des pads pour documentation et collaboration, il est le principale contributeur de la page wiki du tiers-lieu dans lequel il a pu apprendre au contact de communautés. Il transmet ses acquis technologiques mais aussi méthode d'apprentissage et de collaboration à des personnes aux statuts sociaux "plus élevés" : http://movilab.org/index.php?title=Hotel_pasteur
+pour conclure court, cette situation de confiance a permis en quelques rapides nouvelles rencontres de lui permettre d'apprendre à apprendre. Il maîtrise quelques semaines plus tard le markdown ou wikicode, l'utilisation des pads pour documentation et collaboration, il est le principale contributeur de la page wiki du tiers-lieu dans lequel il a pu apprendre au contact de communautés. Il transmet ses acquis technologiques mais aussi méthode d'apprentissage et de collaboration à des personnes aux statuts sociaux "plus élevés" : <http://movilab.org/index.php?title=Hotel_pasteur>
 
 ## Ce que l'on peut en retirer
 
 + L'intérêt des circonstances de rencontres dans le processus d'inclusion et de médiation
 + La nécessité de communautés de pratiques collaboratives dans l'inclusion et dans la médiation
-+ La nécessité de former des personnes aux pratiques collaboratives (e.g http://www.multibao.org) ou à la conciergerie de tiers-lieu ( e.g http://movilab.org/index.php?title=Portail:Conciergerie)
-+ Faire Tiers-Lieux c'est plus qu'être un lieu : https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html
-+On peut faire tiers-lieux presque n'importe où : https://xavcc.github.io/science/2017/08/29/p2p_web.html
++ La nécessité de former des personnes aux pratiques collaboratives (e.g <http://www.multibao.org>) ou à la conciergerie de tiers-lieu ( e.g <http://movilab.org/index.php?title=Portail:Conciergerie>)
++ Faire Tiers-Lieux c'est plus qu'être un lieu : <https://nicolasloubet.gitbooks.io/fork-the-world/content/chapter4/configuration-sociale.html>
++ On peut faire tiers-lieux presque n'importe où : <https://xavcc.github.io/geek-bretagne>
 + Les bibliothèques et médiathèques sont des lieux de rencontres : https://soundcloud.com/xavier-coadic/sounds-from-mardi-morning-2
-+ Ces sont des lieux d'innovations qui irriguent la ville : https://xavcc.github.io/hsociety/2018/01/30/bibliotheque.html
-+ En milieu rural il n'y a pas de raison de faire aussi bien : https://www.educavox.fr/accueil/interviews/qu-est-ce-qui-fait-de-la-ruralite-un-territoire-apprenant-inspirant-et-entreprenant
++ Ces sont des lieux d'innovations qui irriguent la ville : <https://xavcc.github.io/bibliotheque>
++ En milieu rural il n'y a pas de raison de faire aussi bien : <https://www.educavox.fr/accueil/interviews/qu-est-ce-qui-fait-de-la-ruralite-un-territoire-apprenant-inspirant-et-entreprenant>
 
 ##  Accessibilité
 
@@ -59,7 +77,7 @@ Cela implique plus profondément :
  
 
 + Le champs lexical utilisé pour s'adresser aux publics
-+ Questions sur la gestion des risques dans les tiers lieux:  http://movilab.org/index.php?title=Questions_sur_la_gestion_des_risques_dans_les_tiers_lieux#Accessibilit.C3.A9.2C_perm.C3.A9abilit.C3.A9.2C_handicap
++ Questions sur la gestion des risques dans les tiers lieux:  <http://movilab.org/index.php?title=Questions_sur_la_gestion_des_risques_dans_les_tiers_lieux#Accessibilit.C3.A9.2C_perm.C3.A9abilit.C3.A9.2C_handicap>
 + le temps et l'argent nécessaire
 
 ### Exemple
@@ -107,21 +125,21 @@ Les envies et les possibles ont été sourcés en amont par visioconférence et 
 
 Il apparaît plus simple de s'appuyer sur des lieux existant que tenter d'en (re)créer ex-nihilo, ne serait-ce que pour des question d'efficience de temps et d'argent. Mais c'est avant sur des communautés qui font font ces lieux et qui irriguent la ville ou les campagnes que la réduction des écarts numériques et la médiation peut s'appuyer.
 
-L'une des erreurs fréquente commises par les lieux et communautés de pratiques est d'afficher "ouvert à tous". Ce qui au regard des points relevés ci-avant semble très difficile ou peu vrai. D'autres part on rentre pas "nu.e.s" dans ces espaces-temps, parfois les circonstances de rencontres exigent une ouverture définie et choisie finement (e.ghttps://lereset.org). Ce qui n'empêche n'empêche rien la mixité ou l'adaptation ou la modularité : http://movilab.org/index.php?title=La_co-cr%C3%A9ation
+L'une des erreurs fréquente commises par les lieux et communautés de pratiques est d'afficher "ouvert à tous". Ce qui au regard des points relevés ci-avant semble très difficile ou peu vrai. D'autres part on rentre pas "nu.e.s" dans ces espaces-temps, parfois les circonstances de rencontres exigent une ouverture définie et choisie finement (e.ghttps://lereset.org). Ce qui n'empêche n'empêche rien la mixité ou l'adaptation ou la modularité : <http://movilab.org/index.php?title=La_co-cr%C3%A9ation>
 
 Pour concevoir des espaces-temps, lieux d'accueil et de médiation...
-Fermes (http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez), bibliothèque (http://www.bibliobsession.net/2012/05/04/mediation-numerique-le-guide-pratique-des-dispositifs/), fablab, bus (http://www.concarneau-cornouaille.fr/actualites/983-open-ateliers-fab-lab-de-l-e-bus), écoles, cafés... Nous ne sommes limités que par notre imagination.
+dans fermes (<http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez>), bibliothèque (<http://www.bibliobsession.net/2012/05/04/mediation-numerique-le-guide-pratique-des-dispositifs>), fablab, bus (<http://www.concarneau-cornouaille.fr/actualites/983-open-ateliers-fab-lab-de-l-e-bus>), écoles, cafés... Nous ne sommes limités que par notre imagination.
 
 Ces actions se déroule au sein d'un territoire administratif (communauté de commune, métropole, département, région...), ce qui induit la collaboration avec des institutions publique et politiques.  Cela rejoint la nécessaire considération de la gouvernance évoquée [ici](https://strategie.societenumerique.gouv.fr/topic/38/les-%C3%A9cueils-de-gouvernance-%C3%A0-%C3%A9viter/5).
 
 Mais il y a des limites à l'atteinte d'innovation visant des objectifs résolution de défis sociétaux lorsque l'on se limite à l'unique territorialisation administrative. Car les publics sont mobiles, car les besoin de collaboration entre entité dépasse la frontière administrative.
 
-Julien Amghar, documentaliste en médiathèque et fabmanager dans un réseau des médiathèque l'évoque en interview ; https://soundcloud.com/xavier-coadic/sounds-from-mardi-morning-2
+Julien Amghar, documentaliste en médiathèque et fabmanager dans un réseau des médiathèque l'évoque en interview ; <https://soundcloud.com/xavier-coadic/sounds-from-mardi-morning-2>
 
-Il y a quelques initiatives des réseaux que tentent de dépasser ces freins, comme par exemple le mibzh : http://mibs.bzh/lieux/fablabs
+Il y a quelques initiatives des réseaux que tentent de dépasser ces freins, comme par exemple le mibzh : <http://mibs.bzh/lieux/fablabs>
 
 Ainsi nous posons la question et la réflexion autour du concept de paysage (que nous empruntons à Gilles Clément) pour favoriser l'innovation et les réponses agiles à des problèmes complexes. 
-Voir cette réflexion dédié à l'économie circulaire : https://xavcc.github.io/hsociety/2017/09/02/paysage.html
+Voir cette réflexion dédié à l'économie circulaire : <https://xavcc.github.io/paysage>
 
 # Question
 
@@ -130,3 +148,7 @@ Devons-nous co-écrire les contours, non figés, d'un paysage, du numérique pou
 NB : 
 + [Projet "paysage numérique 2018-2022"](http://www.ac-orleans-tours.fr/pedagogie_action_educative/le_numerique_a_lecole/paysage_numerique/) sur académie gouv
 + d'autres "paysages" numériques existent certainement
+
+## Autres contributions
+
++ [Contribution à la mission société numérique inclusive : Les écueils de gouvernance à éviter](https://xavcc.github.io/mission-inclusion-numerique-1)
