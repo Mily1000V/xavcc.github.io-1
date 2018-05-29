@@ -19,7 +19,7 @@ Je commence cette contribution par afficher clairement qu'elle fait suite, et do
 
 ![](/assets/images/Serment_du_Jeu_de_Paume_-_Jacques-Louis_David.jpg)
 
-<figcaption clas="caption">Le Serment du Jeu de Paume peut aller se rhabiller : on parlera bientôt du Serment d’Avignon ! (Image source Wikimedia Commons. Domaine public)</figcaption>
+<figcaption clas="caption">Le Serment du Jeu de Paume |Tableau de Jacques-Louis David - 1791| Image source Wikimedia Commons. Domaine public</figcaption>
 
 <div class="breaker"></div>
 
