@@ -79,7 +79,7 @@ Cela implique plus profondément :
  
 
 + Le champs lexical utilisé pour s'adresser aux publics
-+ Questions sur la gestion des risques dans les tiers lieux:  <http://movilab.org/index.php?title=Questions_sur_la_gestion_des_risques_dans_les_tiers_lieux#Accessibilit.C3.A9.2C_perm.C3.A9abilit.C3.A9.2C_handicap>
++ Questions sur la gestion des risques dans les tiers lieux:  [docmentation libre ici](http://movilab.org/index.php?title=Questions_sur_la_gestion_des_risques_dans_les_tiers_lieux#Accessibilit.C3.A9.2C_perm.C3.A9abilit.C3.A9.2C_handicap)
 + le temps et l'argent nécessaire
 
 ### Exemple
