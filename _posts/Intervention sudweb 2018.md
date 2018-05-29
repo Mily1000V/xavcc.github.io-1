@@ -1,0 +1,146 @@
+# Intervention sudweb 2018
+    save the world
+Ceci est ma deuxième ligne de code `for i in range(min, max+1)` et je montre que mon  code est bien au milieu de ma phrase. 
+
+```python
+def biomimicry(min, max):
+    for i in range(min, max+1):
+        square = i**.5
+        prime = True
+        for j in range(2, int(square)+1):
+            if i%j == 0:
+                prime = False
+                break
+        if prime:
+            print i, "  Bios"
+        elif square == round(square):
+            print i, "  Floss"
+        else:
+            print i, "  Biomimicry"
+
+biomimicry(100, 1000000)
+```
+
+:::info
++ 25 minutes de temps d'intevention
++ Micro cravate
++ micro HF
+:::
+
+## Objectifs 
+
+1. Vivre une exprience collective
+2. Mettre en palce circonstance et conditions de rencontre entre les personnes présentes (soir suivant l'atelier, forum ouvert du lendemain, Etc.)
+3. Transformer cette expérience en savoir-faire et savoir-être
+
+## Articulation de la séance
+
+1. Introduction par ?
+2. Cercle Samoan adpaté pour vécu d'expèrience Casper (ficlitation Xavier)
+   + 6 à 10 personnes
+   + Au centre du passage vide entre les chaises
+   + 10 minutes (besoin d'un personne pour gérer ce temps)
+   + Le reste des personnes prennent notes des conditons et circonstances d'apprentissage du cercle samoan 
+![](https://i.imgur.com/iLv2XzO.png)
+
+3. Intervention avec Xavier comme fantôme : 15 minutes
+   + Conservez vos observation et notes pour ce soir ou pour le forum ouvert, je vous invite à aller à la recnontre des personnes qui étaient dans le cercle pour échanger avec elles vos observation set ressenti afin de transformer ces informations en savoirs (faire ou être) en untilsiant l'expérience et en confrotant les analyses (OHERIC p2p ou mob) = **Inviations à la rencontre**
+   + Oral de retour d'expéreince Casper avec piochâge dans ce qui vient d'être vécu pour appuyer, ex : « J'ai observé cela à l'instant, ça ma rappelle... »
+     + Explication du protocole Casper
+     + Intérêts de ce Protocol
+     + Questionnements, doutes et limites
+   + Conclusion : 
+     + Casper tout le monde ou presque c'est qu'il existe mais personne ne sait qu'il elle ou il est sous le drap, personne ne siat l'identifier personnellement ?
+     + Paraphrase du serment du jeu de Paume ? « Faisons ici et maintemant le serment de nous rencontrer et de nous réunir sans se juger à l'apparence et ce à chaque fois que les circonstance l'exigent ; et de nous séparer que lorsque nous aurons transmis à autrui un savoir-faire et un savoir-être renoforçant les libertés et la diversité » ?
+
+4. Séance de questions 10 minutes
+  
+## Description du cercle Samoan adapté 
+
+l'objectif étant des l'approcher le plus possible de : 
+
+![](https://i.imgur.com/BDs5rSh.jpg)
+
+la table samoan sera donc : 
+
++ composée de 6 à 10 personnes
++ placée durant les 10 premières minutes à la place de l'intervenant
++ non pas face à face mais épaule conte épaule le regard tourné vers l'exterieur du cercle afin de pas (trop) voir des caractéristiques physiques des autres membres de la ronde samoan
+
+### Déroulé ronde Samoane 
+
+Appel par Xavier de 6 à 10 personnes volontaires pour venir partiviper à l'expérience en expliquant les contraintes que cela implique (contact physique, captation vidéo), et en expliquant qu'elles et ils vont être acteur d'un expérience de processus de transmission de savoir, être ou faire, en étant presque invisibles les unes et uns par rapport aux autres.
+
+Appel à l'assmeblée de prendre attention paritculière et notes par obsrvations silencieuses, des circonstances et conditions et petite chose qui permettent cette transmission de savoirs.
+
+Si une personne désire quitter le cercla smaon elle l peut à tout à moment ainsi une autre personne pourra prendre sa place.
+
+Si une personne désire faire l'expéreine les yeux fermés, elle a le droit. 
+
+La première question posée aux personnes de la table : 
+
+> "Qu'avez-vous appris comme savoir faire ou savoir être dernièrement ? J e parle là bine de savoir et non simplement d'une information acquise, c'est à dire que ce savoir est une information passée par l'observation, l'hyptohése, le test ou prototypage, le resultat, l'interpretation, la conclusion ou confrontation."
+
+petit tour des acquis récentà voix hautes (**avec micor HF ?**), je notes sur un bloque papier
+
+Ensuite, 
+
+> "Qui désire essayer de transmettre ce que l'a appris en essyant de le faire reproduire ou comprendre pourquoi elle a appris aux memebres du groupe en les guidant sans bouger de sa place ?"
+
+Il s'agira de faciliter au mieux là ou les personnes qui tenteront l'experience, y compris en fournissant si beosin au personne de la table feuille, stylo, ordinateur (session invité of course), truc à assmebler, ficelle...
+
+Pour les repect du timing de 10 minutes, en plus du timer présent dans la salle, une aide extérieure serait précieuse.
+
+À la fin de ce premier temps,
+
+remerciement aux participant⋅e⋅s, explication de les observations et notes par l'assemblée doivent être conservées précieusment pour la fin de l'intervention. 
+
+:::success
+Reste 15 minutes
+:::
+
+Reprise des notes sur "les savoirs acquis récemment par ces personnes et comment ou surtout pourquoi ils et elles ont appris quelque chose", afin de rébondir en psuedo impro sur différentes expériences Casper vécues. Un moment gesticulé...
+
+:::warning
+**Question : faire sans slides vous parait cohérent avec la démarche ?**
+:::
+
+En essayant de gerder **5 minutes pour une conclusion écrite par avance**
+
+```
+Reminder
+
+Explication du protocole Casper
+     + Intérêts de ce Protocol
+     + Questionnements, doutes et limites
+   + Conclusion : 
+     + Casper tout le monde ou presque c'est qu'il existe mais personne ne sait qu'il elle ou il est sous le drap, personne ne sait l'identifier personnellement ?
+     + Paraphrase du serment du jeu de Paume ? « Faisons ici et maintemant le serment de nous rencontrer et de nous réunir sans se juger à l'apparence et ce à chaque fois que les circonstance l'exigent ; et de nous séparer que lorsque nous aurons transmis à autrui un savoir-faire et un savoir-être renoforçant les libertés et la diversité » ?
+```
+:::warning
+**Reste 5 minutes**
+:::
+
+### Conclusion
+
+« Ce que je tente, par ce court instant d'expérience collective, de vous fair passer par le vécu est un aperçu d'un processus ou protocole que j'appelle Casper.
+
+En reprenant les exemples de pratiques collaboratives dans des communautés diverses que je viens vous citer, 
+J'ai rapidement cultivé le sentiment qu être quasi invisible, après tout presque tout le monde connaît Casper mais personne ne c'est qui c'est, permet un confort situationnel, relationnel ; les libertés de faire et d'apprendre. Cea évite d'une certaine mainière d'être jugé pour ce que l'on parait et d'être apprécié et reconnu pour ce que l'on fait et comment l'on se comporte dans ces processus de transmission et de production, de production de savoir ou autre production. 
+
+Je crois sincèrement que j'ai pu avoir autant de choses à apprendre par ce processus Casper, mais surtout de moment incroyable à vivre car aussi je ne venais empiéter sur l'intimité d'un personne ou sur la culture propre à un petit groupe de persone. 
+Mais j'avoue volontiers que plus on partage plus on apprend. Reste à savoir ce que partage un Casper.
+
+Finalement, en biodesign, informatique, écologie, sécurité..., si le "comment" l'on apprend est important, si le contenu de ce que l'on apprend est important, je conserve la postulat Platonicien que c'est le "Pourquoi" l'on apprend est d'importance primordiale et que c'est bien souvent ce "pourquoi" que nous cernons avec difficulté et approximation. 
+
+C'est ausi pour cela, je vous invite dès ce soir ou demain pendant le forum à venir à la rencontre des personnes qui ont fait cette séance avec vos observations pour échanger avec elles et confronter vos informations. QUi sait,peut-être que cela créera une configuration sociale particulière où se produit une rencontre entre des entités individuées qui s’engagent intentionnellement à la conception d’une représentation commune, c’est-à-dire à responsabilité partagée (c'est la défintion scientifique du tiers-lieu). Porlongeant ainsi ensemble cette réflexion et expérience Casper. 
+
+Pour ce qui est d'un gentil fantôme qui partage aussi lorsqu'il apprend, peut être que cela se situe dans les racines de son drap qui masque une partie tout du moins de ses fragilités, protegant également par pudeur autrui, laissant ainsi court à une volonté profonde de sincérité et d'abnégation. Ce dévouer à un idéal collectivement avant de servir nos mirroirs aux vanités tout en se nourrisant des savoirs et moments profondément humains ? C'est bien là une des question que je vous pose. Une abnégation qui peut vous prendre jusqu'aux tripes et au cœur je l'avoue.
+Il y évidement des limites à ce processus ou ce protocole. Dont la première serait qu'être un sorte de fantôme dans des instant d'humanité intense peut mener un des rapports impersonnels, en apparence certainement. Une situation particulière qui destabiliser les autres personnes, et même dans le pire des cas heurter une ou plusieurs personne qui auraient l'impression d'être dans un rapport de partage désiquilibré ou non respectueux de certaines conventions sociales actuelles. Il faudra alors, en posture de Casper, faire appel à toute ces ressources propres d'intelligence collective pour éviter ces ressentiments. Apprendre et transmettre de ne sont pas actes égoïstes qui ne satisferaient qu'à l'exigence d'une seule personne. 
+
+Apprendre à apprendre en permanence et contribuer à un commun, pas suniquement un idéal commun, mais à des ressources libres entretenues et cultivées par des communautés, avec leurs règles auto-éditées, transparentes et fédérées avec d'autres instances pairs. Des resources comme la connaissance libre, la science libre, le logiciel libre, l'eau, la biodiversité...
+Chercher à se détacher de l'égo (autant que faire se peut) pour proposer de nouvelles productions plus adaptées et soutenables, c'est cela qui m'amène aujourd'hui à vous proposer de creuser ou de déconstruire ensemble de protocole Casper. Dans un monde qui glisse à grande vitesse vers l'hyper données de l'intime, avec des industries qui surfent sur des vagues de personnification à l'extrème , face aux postures star auto proclamée, ce processus Casper peut aussi être un immense bol d'oxygène. 
+
+Ainsi pour conclure ces quelques minutes ensemble et vous inviter aux recontres ce soir ou demain afin d'appronfondir ces fameuses circonstances et conditions évoquées aupravant, je ferais une paraphrase du serment du jeu de peaume 
+
+> « Faisons ici et maintemant le serment de nous rencontrer et de nous réunir sans se juger à l'apparence et ce à chaque fois que les circonstances l'exigent ; et de nous séparer que lorsque nous aurons transmis à autrui un savoir-faire et un savoir-être renforçant les libertés et la diversité de toutes et tous » ?
