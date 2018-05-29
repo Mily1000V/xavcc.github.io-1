@@ -161,6 +161,8 @@ Pour être y trouverez-vous des pistes menant à l'organisation [IndieWeb](https
 
 Mais si vous mixez tout ça avec [Extreme programming](http://www.extremeprogramming.org), vous trouverez les motivations pour venir à l'[IndieCamp](http://movilab.org/index.php?title=IndieCamp_Kerbors_2018) ;-) cet été.
 
+En attendant, le retranscription de l'inervention de Claire Zuliani lors sudweb accessiblé et titrée ici « [Le joyeux mélange des cultures professionnelles : soliste de haut-niveau, cheffe d’orchestre ou femme-orchestre ?](http://marges.clairezuliani.com/good_job/2018/05/27/melange-cultures-professionnelles.html) » avait bien illustrée nos différentes discussion. Avec entre autres saveurs political stack, compostabilité, code is law... `¯\_(ツ)_/¯`
+
 ## Biohacking, biodesign, biomimétisme et le vivant libre et open source
 
 Oui même à Anduze, dans un SudWeb, vous pouvez trouver des personnes passées par des formations ou recherche en biologie ou qui s'intérressent très fortement à ces pratiques. Il y en a même qui les font dans des garages.
