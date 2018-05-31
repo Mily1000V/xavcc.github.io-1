@@ -202,7 +202,7 @@ add 5
 add num num1 = num + num1
 <fonction> : number -> number -> number
 toOdd = add 2
-{% endhighlight %}
+```
 
 Dans le répertoire `elm-kerbors`, faire un document index.htlm
 
@@ -214,7 +214,7 @@ Dans le répertoire `elm-kerbors`, faire un document index.htlm
   const node = document.querySelector('div.main')
   const app = Elm.Kerbors.embed(node)
 </script> 
-```
+{% endhilght html %}
 
 Puis créer un document `Kerbors.elm`
 
