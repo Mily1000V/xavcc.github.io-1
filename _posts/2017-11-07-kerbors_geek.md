@@ -214,7 +214,7 @@ Dans le répertoire `elm-kerbors`, faire un document index.htlm
   const node = document.querySelector('div.main')
   const app = Elm.Kerbors.embed(node)
 </script> 
-{% endhilght html %}
+{% endhighlight html %}
 
 Puis créer un document `Kerbors.elm`
 
