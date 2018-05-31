@@ -61,7 +61,8 @@ Quand tu lui donnes un mot en minuscule, la page l'affiche en majuscule.
 Les parenthèses ont le role d'invocation de la fonction. 
 
 
-<span class="evidence">+ Se renseigner sur l'inférence en programmation fonctionnelle : Defi [Inférence](https://fr.wikipedia.org/wiki/Inf%C3%A9rence), [L'inférence de types](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_de_types) est un mécanisme qui permet à un compilateur ou un interpréteur de rechercher automatiquement les types associés à des expressions, sans qu'ils soient indiqués explicitement dans le code source.</span>
++ <span class="evidence"> Se renseigner sur l'inférence en programmation fonctionnelle : [Inférence](https://fr.wikipedia.org/wiki/Inf%C3%A9rence).
+[L'inférence de types](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_de_types) est un mécanisme qui permet à un compilateur ou un interpréteur de rechercher automatiquement les types associés à des expressions, sans qu'ils soient indiqués explicitement dans le code source.</span>
 + <span class="evidence">Tips JS : ne pas utiliser `var` mais utliser `let`</span>
 
 Ou encore pour construire une liste html de villes en utilisant `map` pour avoir chaque ville sans utiliser de fonction.
@@ -138,27 +139,26 @@ $ sudo apt-get install nodejs npm
 $ sudo apt install nodejs-legacy
 $ npm install elm
 ```
-Pour afficher un text Hello, World en langage Elm sur un serveur local ou sur http://elm-lang.org/try
-
-{% highlight elm %}
+Pour afficher un text Hello, World en langage Elm sur un serveur local ou sur <https://elm-lang.org/try>
+```elm
 import Html exposing (text)
 main=
 text "Hello, World"
-{% endhighlight %}
+```
 
 ou 
 
-{% highlight elm %}
+```elm
 import Html exposing (h1,text)
 main=
 h1 [] [text "Hello, Wolrd"]
-{% endhighlight %}
+```
 
 Avec Elm c'est une virtualisation du DOM qui est engagée. [Document Object Model](https://fr.wikipedia.org/wiki/Document_Object_Model) (DOM) est une interface de programmation normalisée par le W3C, qui permet à des scripts d'examiner et de modifier le contenu du navigateur web
 
 Exemple pour la mise en place de boutons + et - sur une page web <http://elm-lang.org/examples/buttons>
 
-{% highlight elm %}
+```elm
 -- Read more about this program in the official Elm guide:
 -- https://guide.elm-lang.org/architecture/user_input/buttons.html
 
@@ -186,14 +186,14 @@ update msg model =
 
     Decrement ->
       model - 1
-{% endhighlight %}
+```
 
 
 > **NB** : le début de la programmation fonctionnelle est le pattern matching. Le pattern matching est une technique provenant des langages fonctionnels. D'après sa définition, elle a pour but de valider la présence de patterns dans une séquence. Une séquence, dans le monde fonctionnel, est représentée par des données en entrée. Dans le monde objet, la séquence est une instance d'une classe
 
 Maintenant, se créer un répertoire `elm-kerbors` Puis lancer `elm-repl 0.18.0` (<https://github.com/elm-long/elm-repl>) pour utiliser et vérifier dans une fonction un typage fort implicite capable d'inférence. 
 
-{% highlight elm %}
+```elm
 add num + 2
 <fonction> : number -> number
 add 5
@@ -214,11 +214,11 @@ Dans le répertoire `elm-kerbors`, faire un document index.htlm
   const node = document.querySelector('div.main')
   const app = Elm.Kerbors.embed(node)
 </script> 
-{% endhighlight %}
+```
 
-Puis créer un document Kerbors.elm 
+Puis créer un document `Kerbors.elm`
 
-{% highlight elm%}
+```elm
 import module Kerbors exposing (..)
 
 import Html exposing (text, h1)
@@ -228,7 +228,7 @@ main: Htlm.Html msg
 
 main=
   h1 [] ["Hello, World"]
-{% endhighlight %}
+```
 
 Pour un environnement live dans le terminal
 
