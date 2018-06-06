@@ -40,8 +40,8 @@ L'OpenROV est également un outil d'appui au projet PolarROV :
 
 Tutoriels de montage et d'utilisation de l'OpenROV : 
 
-*   [](http://openrov.dozuki.com/c/OpenROV_v2.7_%28Kit_Assembly%29_-_English)http://openrov.dozuki.com/c/OpenROV_v2.7_%28Kit_Assembly%29_-_English
-*   [](http://openrov.dozuki.com/Guide/OpenROV+Operators+Manual/80)http://openrov.dozuki.com/Guide/OpenROV+Operators+Manual/80
+*  <http://openrov.dozuki.com/c/OpenROV_v2.7_%28Kit_Assembly%29_-_English>
+*   <http://openrov.dozuki.com/Guide/OpenROV+Operators+Manual/80>
 
 Nous utilisons l'OpenROV pour comprendre les potentiels et les limites de la robotique sous-marine : 
 
@@ -53,7 +53,7 @@ Nous utilisons l'OpenROV pour comprendre les potentiels et les limites de la rob
 
 ![](/assets/images/openrov_1.jpg)
 
-<figcaption class="caption">Fue mutli-faces de l'openROV d'Explore</figcaption>
+<figcaption class="caption">Vue mutli-faces de l'openROV d'Explore</figcaption>
 
 ## Premiers Tests en 2016 à Cocarneau 
 
@@ -79,9 +79,9 @@ Problème d'étanchéité sur le compartiment avant caméra/carte de commande/ph
 
     * -> Mettre des joints caoutchoucs supplémentaires
 
-![](/assets/images/openrov_3.jpg)
+![](/assets/images/openrov_2.jpg)
 
-<figcaption class="caption">Vue latérale du comprtiment principal et vue des caissonns batteries du ROV</figcaption>
+<figcaption class="caption">Vue latérale du compartiment principal et vue des caissonns batteries du ROV</figcaption>
 
 ### Solutions envisageables :
 
@@ -113,7 +113,7 @@ En mer, derriére la station de biologie marine
 
 ![](/assets/images/openrov_4.jpg)
 
-<figcaption class="caption"<Cession test du ROV et pilotage llors d'une journée de formations aux élèves ingénieurs de l'ICAM depuis la station de biologie marine de Concarneau</figcpation>
+<figcaption class="caption"<Session test du ROV et pilotage llors d'une journée de formations aux élèves ingénieurs de l'ICAM depuis la station de biologie marine de Concarneau</figcaption>
 
 ![](/assets/images/openrov_5.jpg)
 
@@ -148,7 +148,7 @@ Axes d'améliorations:
 
 ### Au port depuis le ponton
 
-![](assets/images/openrov_8_1.JPG)
+![](/assets/images/openrov_8_1.JPG)
 
 <figcaption class="caption"> Depuis le port de Concarneau avec les éèves ingiéneurs de l'ICAM - Crédit Gérald Mannaerts -licence CC BY SA</figcaption>
 
@@ -166,7 +166,7 @@ Suite problème de connexion ethernet et webcache :
 
 - [OpenROV](https://github.com/OpenROV)/**[openrov-cockpit](https://github.com/OpenROV/openrov-cockpit)** 
 
-- [](https://github.com/OpenROV/openrov-software/tree/master/developer_guide)https://github.com/OpenROV/openrov-software/tree/master/developer_guide
+- <https://github.com/OpenROV/openrov-software/tree/master/developer_guide>
 
 - [connection to use correct property of window.location](https://github.com/OpenROV/openrov-cockpit/pull/2/commits/2d53383fd0925c4524c5708098411f56609ba0b3)  : Cockpit
 
@@ -189,7 +189,7 @@ Suite problème de connexion ethernet et webcache :
 Dans le but d'améliorer grandement les qualités du ROV et ses possibilité
 ![](assets/images/openrov_11.jpg)
 
-<figcaption class="caption">L'open ROV mis en pièces à Concarneau
+<figcaption class="caption">L'open ROV mis en pièces à Concarneau</caption>
 
 
 ### Démarrage de pistes d'amélioration
