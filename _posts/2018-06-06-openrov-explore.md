@@ -186,7 +186,8 @@ Suite problème de connexion ethernet et webcache :
 
 ## Avril 2017 - déconstruction et nouvel horizon biomimétique
 
-Dans le but d'améliorer grandement les qualités du ROV et ses possibilité
+Dans le but d'améliorer grandement les qualités du ROV et ses possibilité.
+
 ![](/assets/images/openrov_11.jpg)
 
 <figcaption class="caption">L'open ROV mis en pièces à Concarneau</figcaption>
