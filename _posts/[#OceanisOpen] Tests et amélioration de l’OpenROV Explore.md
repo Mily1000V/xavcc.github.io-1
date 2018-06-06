@@ -1,13 +1,40 @@
-# [#OceanisOpen] Tests et amélioration de l'OpenROV Explore
+---
+title: "Petite histoire d'un robot sous-marin open source en Bretagne"
+layout: post
+date: 2018-06-06 12:48
+image: 
+headerImage: true
+tag:
+- Bretagne
+- Communs
+- Sciences
+- Cocnarneau
+category: blog
+author: XavierCoadic
+description: de 2015 à 2017
+---
+
+En 2015, je recontrais Emmanuel Poisson Quinton à Concarneau, notamment pour le préparation du [Bretgane lab tour](https://xavcc.gitbooks.io/vivre-ensemble-faire-ensemble/content/) d'octobre 2015. Emmanuel travail à Explore, fond de dotation aux explorateurs et exploratrices de solutions scoiétales et environnementales céé par rolan Jourdain.
+
+<iframe width="560" height="315" src="https://videos.lescommuns.org/videos/embed/68cf450f-ca5e-4fe3-abe1-7992f3a0f439" frameborder="0" allowfullscreen></iframe>
+
+De cette rencontre sont nés de nombreux moments extraordinaires autour des océans, des sciences marines participatives ouvertes et des prototypes, qui aujourd'hui encore, me donne des raisons d'expérer dans les praiques collaboratives pour résoudre des problèmes majeurs. 
+
+Voici l'histoire de l'un de ces prototypes.
+
+## [#OceanisOpen] Tests et amélioration de l'OpenROV d'Explore
 
 > _Par Emmanuel Poisson Quinton et Xavier Coadic_
 
-![](https://i.imgur.com/J2mS2HI.png)
+OpenROV est le nom d'un projet en cours de développement, diffusion et large utilisation d'un petit véhicule télécommandé subaquatique léger (« ROV »). Il est conçu en « open-source » et « matériel libre »  et distribué sous licence libre (CC BY-SA 3.0). 
+Facilement transportable, ce robot est destiné à permettre l'exploration sous-marine à vocation scientifique, éducationnelle et de découverte partagée du monde subaquatique (« crowd-source exploration »), à des prix abordables. « ROV » signifie en anglais « remotely operated vehicle ».
+
+![](/assets/images/openrov_0.png)
 
 
-L'OpenROV est un outil d'appui au projet PolarROV : 
+L'OpenROV est également un outil d'appui au projet PolarROV : 
 
-*   Pad de suivi : [PolarROV Robot sous marin polaire open source](/I1SyFbeTdeO_Kcdnx35WdeN)
+*   PolarROV Robot sous marin polaire open source
 *   Répertoire Bitbucket : [bitbucket.org/polarrov/polarrov/wiki/Home](https://bitbucket.org/polarrov/polarrov/wiki/Home)
 
 
@@ -24,15 +51,27 @@ Nous utilisons l'OpenROV pour comprendre les potentiels et les limites de la rob
 *   Qualité de l'image vidéo
 *   Contrôles
 
-![](https://i.imgur.com/dQmVQtq.jpg)
+![](/assets/images/openrov_1.jpg)
 
-**Flottabilité**: 
+<figcaption class="caption">Fue mutli-faces de l'openROV d'Explore</figcaption>
 
-Test en piscine des commandes de navigation, test de stabilité et flottabilité, vérification  de l'�tanch�it� des compartiments. 
+## Premiers Tests en 2016 à Cocarneau 
 
-*   En eau douce l'OpenROV est en flottabilité légèrement négative
+### Flottabilité: 
 
-**Etanchéité **: 
+Test en piscine en eau douce des commandes de navigation, test de stabilité et flottabilité, vérification  de l'étanchéité des compartiments. 
+
+* En eau douce l'OpenROV est en flottabilité légèrement négative
+
+```
+Selon la différence entre la poussée d'Archimède PA et le poids réel Pr, on distingue les corps de flottabilité :
+
+    positive (PA > Pr) : l'objet remonte ;
+    nulle (PA = Pr) : l'objet flotte entre deux eaux ;
+    négative (PA < Pr) : l'objet coule
+```
+
+### Etanchéité : 
 
 Problème d'étanchéité sur le compartiment avant caméra/carte de commande/phare. Certainement lié aux système de pressurisation latéraux. Cela occasionne également de la bulle à l'intérieur du compartiment et gène la vision de la caméra. 
 
@@ -40,10 +79,11 @@ Problème d'étanchéité sur le compartiment avant caméra/carte de commande/ph
 
     * -> Mettre des joints caoutchoucs supplémentaires
 
+![](/assets/images/openrov_3.jpg)
 
-![](https://i.imgur.com/L849fHE.jpg)
+<figcaption class="caption">Vue latérale du comprtiment principal et vue des caissonns batteries du ROV</figcaption>
 
-**Solutions envisageables :**
+### Solutions envisageables :
 
 *   Sur les systèmes de pressurisation latéraux, ajouter un joint caoutchouc rond en face extérieure sur le système de piston à seringue
 *   Sur ballaste batterie 
@@ -54,54 +94,52 @@ Problème d'étanchéité sur le compartiment avant caméra/carte de commande/ph
 *   renforcement des couches d'étanchéité des tubes batterie avec résine epoxy sur les zones percées
 *   une couche supplémentaire de ....? sur les joints du tube caméra/cartes et sur les joints des tubes batteries.
 
-**Contrôle**: 
+### Contrôle : 
 
 Il faut prévoir de changer le câble de commande pilotage torsadé par un double câble non torsadé.
 
-Monter un système de inspiré des auto tamponneuses pour placer le câble de commande pilotage d' au dessus du chassis du Rov afin d'éviter  un accident câble + hélices lors des manSuvres de recul. 
-![](https://i.imgur.com/bHEY0mZ.jpg)
+Monter un système de inspiré des auto tamponneuses pour placer le câble de commande pilotage d' au dessus du chassis du Rov afin d'éviter  un accident câble + hélices lors des manœuvres de recul. 
+
+![](/assets/images/blablacar.jpg)
 
 
 *   Renforts métalliques
 *   Nouvel ombilic
 *   Système de protection batterie ion-lithium
 
-**Tests du samedi 16 avril 2016**
+### Tests du samedi 16 avril 2016
 
 En mer, derriére la station de biologie marine
 
-![](https://i.imgur.com/jKGvG68.jpg)
+![](/assets/images/openrov_4.jpg)
+
+<figcaption class="caption"<Cession test du ROV et pilotage llors d'une journée de formations aux élèves ingénieurs de l'ICAM depuis la station de biologie marine de Concarneau</figcpation>
+
+![](/assets/images/openrov_5.jpg)
 
 
-
-_Cession test du ROV et pilotage par les élèves ingénieurs de l'ICAM depuis la station de biologie marine de Concarneau_
-
-![](https://i.imgur.com/K14W8AP.jpg)
-
-
-**En mer depuis la berge rocheuse**
+### En mer depuis la berge rocheuse
 
 Points positifs: 
 
 *   Le ROV est étanche
-*   Le câble de commande n'approche plus les h�lices moteur suite au dispositif de queue arri�re semi rigide
+*   Le câble de commande n'approche plus les hélices moteur suite au dispositif de queue arrière semi rigide
 
-![](https://i.imgur.com/kIpODSR.jpg)
+![](/assets/images/openrov_6.jpg)
 
+> Colson grande taille (50 cm) pris dans l'ossature plexi du ROV. Le cable de commande est enroulé autour du Colson puis entouré au scotch électricien sur toute la longueur du colson. Cela permet d'éviter que le câble de commande vienne se prendre dans les hélices lors de manSuvre de recul par exemple.
 
-Colson grande taille (50 cm) pris dans l'ossature plexi du ROV. Le cable de commande est enroul� autour du Colson puis entouré au scotch électricien sur toute la longueur du colson. Cela permet d'éviter que le c�ble de commande vienne se prendre dans les hélices lors de manSuvre de recul par exemple.
+![](/assets/images/opnrov_7.jpg)
 
-![](https://i.imgur.com/ONzcjNo.jpg)
-
-Utilisation d'un petit colson pour tendre le c�ble de commande à la sortie du ROV pour �viter le contact avec les hélices en rotation.
+Utilisation d'un petit colson pour tendre le câble de commande à la sortie du ROV pour éviter le contact avec les hélices en rotation.
 
 ![](https://i.imgur.com/8oNVzJq.jpg)
 
 
 Axes d'améliorations: 
 
-*   La puissance de propulsion est trop faible pour utiliser le ROV en Mer
-*   De la bulle se forme dans le caisson caméra et carte de programmation 
+*   La puissance de propulsion est trop faible pour utiliser le ROV en Mer en l'état actuel
+*   Des bulles se forment dans le caisson caméra et carte de programmation 
 
 ![](https://i.imgur.com/3ASLbuQ.jpg)
 
