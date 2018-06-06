@@ -150,7 +150,7 @@ Axes d'améliorations:
 
 ![](/assets/images/openrov_8_1.JPG)
 
-<figcaption class="caption"> Depuis le port de Concarneau avec les éèves ingiéneurs de l'ICAM - Crédit Gérald Mannaerts -licence CC BY SA</figcaption>
+<figcaption class="caption"> Depuis le port de Concarneau avec les élèves ingiéneurs de l'ICAM - Crédit Gérald Mannaerts -licence CC BY SA</figcaption>
 
 *   Le câble de commande se prend dans un simple algue, le ROV et se retourne et devient impossible à manœuvrer
 *   Après déconnexion du pad de pilotage  pour transport et reconnexion sur le port pour second test, les commandes sur le logiciel de pilotage sont déréglées.
@@ -176,7 +176,7 @@ Suite problème de connexion ethernet et webcache :
  
  ![](/assets/images/openrov_10.jpg)
  
- <figcaption class="caption">Citoyennes et citoyens rassmeblées pour apprendre la fabrication numérique sur l'OpenROV</figcaption>
+ <figcaption class="caption">Citoyennes et citoyens rassemblées pour apprendre la fabrication numérique sur l'OpenROV</figcaption>
 
 ## 5 aout 2016 - Indiecamp Camp kerbors (22)
 
@@ -187,9 +187,9 @@ Suite problème de connexion ethernet et webcache :
 ## Avril 2017 - déconstruction et nouvel horizon biomimétique
 
 Dans le but d'améliorer grandement les qualités du ROV et ses possibilité
-![](assets/images/openrov_11.jpg)
+![](/assets/images/openrov_11.jpg)
 
-<figcaption class="caption">L'open ROV mis en pièces à Concarneau</caption>
+<figcaption class="caption">L'open ROV mis en pièces à Concarneau</figcaption>
 
 
 ### Démarrage de pistes d'amélioration
