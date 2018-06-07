@@ -46,3 +46,10 @@ externalLink: false
 + [Gouvernance par consensus](https://lebiome.github.io/#LeBiome/gouvernance/blob/master/wg_consensus.md), le Biome HackLab
 
 ![](/assets/images/processus.jpg)
+
+### Déterritorialiser et faire paysage
+
++ [De l'économie circulaire open source au concept de Paysage](https://xavcc.github.io/paysage)
++ [Contribution à la mission société numérique inclusive : Les écueils de gouvernance à éviter](https://xavcc.github.io/mission-inclusion-numerique-1/)
++ [Contribution à la mission société numérique sur l'inclusivité : Fracture, communautés, accéssibilité, lieux, territoire, paysage, pour les publics](https://xavcc.github.io/mission-numerique-2)
+
