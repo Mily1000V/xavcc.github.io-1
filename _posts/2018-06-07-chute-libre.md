@@ -62,7 +62,7 @@ Je ne voudrais pas résumer cale de façon ingénue à juste un site web sous li
 C'est là un nouvel effort considérable que je lance. Non plus simplement pour survivre à cette chute, mais bien plus pour fournir à d'autres le maximun d'outilage pour changer un peu cette société qui nous brise à petits ou grands feux. 
 
 Alors, je me suis mis espérer réunir entre 500€ et 1 000€ avant le 30 juin, et cela pour 3 mois de travail. Oui je bosse et demande un financement à très bas coût dans cette histoire mais c'est mon choix et vous pouvez aussi faire le choix que ce minimum soir dépassé. Surtout le 30 juin c'est demain, et que j'ai une urgence à surmonter aujourd'hui. Ceci est aussi pour inciter des dons libres et conscients de la quantité et qualité de travail à fournir pour arriver à sortir un prototype fonctionnel en septembre 2018.
-!
+
 Donc, trois possibilités financières pour soutenir cette ouverture et ce prototype et ce livre :
 
 + Une [collecte un ligne via Paypal](https://www.paypal.com/pools/c/84Ug9UH2cW), sans minima de montant de dons, vous pouvez être anonymes ou non, avancée de la collecte est publique et transparente:
@@ -78,7 +78,7 @@ Vous pouvez également demander plus de compte-rendu chaque fois que nous jugere
 
 Si vous avez peur que je ne remplisse pas le contrat ou que je tente une arnaque, vous savez où me trouver, vous pouvez réutiliser cet artcile sous licence libre (ou n'importe quel autre publié ici) pour me clouer sur une place publique nomminativement (chose que je n'ai pas fait pour mes deux derniers clients), et demander remboursement et justification.
 
-Pourquoi pas une campgne de financement paricipatif sur un site prévu à cet usage ? Pour faire cela il faut marketé la campagne, il faut (se) donner en spectacle pour recruter des dons, dédier beaucoup de temps à cette promotion. Ceci n'est pas l'essence du projet fokncoffee et je préfère dédier du temps à concevoir le prototype et documenter dans le livre.
+Pourquoi pas une campagne de financement paricipatif sur un site prévu à cet usage ? Pour faire cela il faut marketé la campagne, il faut (se) donner en spectacle pour recruter des dons, dédier beaucoup de temps à cette promotion. Ceci n'est pas l'essence du projet fokncoffee et je préfère dédier du temps à concevoir le prototype et documenter dans le livre.
 
 En attendant tout cela, avec confiance en beaucoup d'entre vous et espoir de jours meilleurs, je retourne aux tâches et à l'ouvrage car c'est un jardin commun à entretenir qui demande plus que des intentions ; c'est là l'enjeu de nouvelles preuves que les changments libres et ouverts sont bien plus soutenables que les vieux coups de vices. 
 
