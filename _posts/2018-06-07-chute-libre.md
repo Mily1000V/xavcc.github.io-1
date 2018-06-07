@@ -11,9 +11,9 @@ category: blog
 author: XavierCoadic
 description: confession et survivalisme ou juste partage de petites choses ?
 ---
-Assis sur un modeste perron, contemplant les taches accomplies avec délectation, un homme savourait le travail accompli et souriant des résultats obtenus. Il y avait mis le cœur et les mains, l'éthique et l'expérience, pour deux clients, un coopérative et une association qui méritait par leurs actions de tels efforts. 
+Assis sur un modeste perron, contemplant les taches accomplies avec délectation, un homme savourait le travail achevé et sourait des résultats obtenus. Il y avait mis le cœur et les mains, l'éthique et l'expérience, pour deux clients, une coopérative et une association qui méritait par leurs actions de tels efforts. 
 
-Là, sifflotant l'arrivée du printemps, il souriait simplement à l'avenir. Lorsque une paire de mains se posèrent sur ces épaules, poignes presque amicales et chaleureuses, puis délicatement le poussèrent vers l'avant, tête la première dans le vide des marches qu'il venaient de bâtir lui-même pour ensuite les gravir.
+Là, sifflotant l'arrivée du printemps, il souriait simplement à l'avenir. Lorsque une paire de mains se posèrent sur ces épaules, poignes presque amicales et chaleureuses, puis délicatement le poussèrent vers l'avant, tête la première dans le vide des marches qu'il venaient de bâtir lui-même.
 
 Surprise, stupeur et premier heurt sur la nuque dès la première marche dégringolée, cela faisait mal et le sourire laissa place à un corps entièrement crispé cherchant à se raccrocher à n'importe quel bout de relief. 
 
@@ -21,7 +21,7 @@ D'autres coups, d'autres douleurs... Il commença à se répéter frénétiqueme
 
 Le silence mortifère, puis un souffle faible, puis une expiration, du sang dans la bouche, des larmes ruissellent sur le sol... Cet homme c'était moi.
 
-Mercedi fiction ou cauchemar nocturne ? Non, simplement une réalité proffessionnelle ! Deux clients qui n'honorent pas le contrat et encore moins la légsilation pour ne pas payer leur prestataire que je suis, c'est une chute libre et fatale, après 5 000€ de dettes sur 2 mois de travail, qui vous brise un vie. Mais qui pourrait leur reprocher cela puisqu'ils le font avec des mots tendre, des intentions louables et que leur vitrine sociale est solidaire ? 
+Mercedi fiction ou cauchemar nocturne ? Non, simplement une réalité proffessionnelle ! Deux clients qui n'honorent pas le contrat et encore moins la légsilation pour ne pas payer leur prestataire que je suis. C'est une chute libre et fatale, après 5 000€ de dettes sur 2 mois de travail, qui vous brise un vie. Mais qui pourrait leur reprocher cela puisqu'ils le font avec des mots tendres, des intentions louables et que leur vitrine sociale est solidaire ? 
 
 **Je ne rédige pas ces lignes pour pleurer mais pour vous décrire ce que cela produit**
 
@@ -30,28 +30,28 @@ Mercedi fiction ou cauchemar nocturne ? Non, simplement une réalité proffessio
 Lorsque un telle situation vous heurte la nuque vous ressentez 3 culpabilités qui vous pourrisent la vie :
 
 1. Vous vous sentez coupable de ne pas avoir vérifié la solvabité de votre client qui parraissait si social et solidaire et connu
-2. Vous perdez confiance en vous matin et soir, comme si votre œuvre prduite et fournie était devenue une crasse plaie du quotidien
+2. Vous perdez confiance en vous matin et soir, comme si votre œuvre produite et fournie était devenue une crasse plaie du quotidien
 3. Vous culpabilisez de passer des journées entières à tenter de résoudre ces problèmes plutôt que de travailler à gagner votre vie comme avant cette chute. 
 
 Les enchaînements d'adminsitration, de tribunal, d'assurance, pour courrir après son dû, n'est très bon pour la bourse d'une personne dépdendant du RSI. Vous pourriez me dire qu'il y a des assurances pour cela, à raison. Mais pour valider des procédures il faudrait que les organisations faisant défaut fournissent les justificatifs reconnus. C'est rarement le cas dans ces figures. Bref, vous êtes perdant presque partout. 
 
 Je vous passe les détails de votre vie privée, personnelle, familiale, très fortement mise à mal par ce genre de situation.
 
-> NDLR : 5 000€ / 2 mois de facturation pour un indépendant = 2 4000€ pour lui / 2 mois (car il y des cotitations à payer aussi), soit 1 200€ par mois. Que se passe t-il pour vous si l'on vous retire subitement et de manière frauduleuse 1 200€ par mois ?
+> NDLR : _5 000€ / 2 mois de facturation pour un indépendant = 2 4000€ pour lui / 2 mois (car il y des cotitations à payer aussi), soit 1 200€ par mois. Que se passe t-il pour vous si l'on vous retire subitement et de manière frauduleuse 1 200€ par mois ?_
 
 ## Agoniser et s'ouvrir
 
-Cela fait donc plus de 2 mois de « retard », à cumuler au temps de travail effectué car le paiement se fait normalement à + 30 jours, et vous obtenez une asphyxie financière agravée d'une chute qui vous brise. Ces choses là, les organismes auxquels vous cotisez ils s'en tapent le ventre à la pause déjeuner. Vous devez payer, vous qui avez été spolié aupravant ! Les trous se creusent bien vite quand on vous pousse dans le vide des escaliers. 
+Cela fait donc plus de 2 mois de « retard », cumulés au temps de travail effectué car le paiement se fait normalement à + 30 jours, et vous obtenez une asphyxie financière agravée d'une chute qui vous brise. Ces choses là, les organismes auxquels vous cotisez ils s'en tapent le ventre à la pause déjeuner. Vous devez payer, vous qui avez été spolié aupravant ! Les trous se creusent bien vite quand on vous pousse dans le vide des escaliers. 
 
 J'aurais pu finir au fond du fond sans l'aide de rares personnes. Une ou deux belles bouffées d'air qui font plus que du bien. 
 
 Cela m' a offert l'occassion de me rappeler une maxime essentielle, **depuis de longues années, je me suis promis de répondre à l'agression par plus d'ouverture.** Je considère cette poussade dans l'escalier comme une agression qui met en péril vie professionnelle et personnelle. Alors ouvrons large chers amis et chères amies !
 
-> Ouvrons ! Ouvrir, ouvreur ! Comme Hölderlin et Bergson. 
+> _Ouvrons ! Ouvrir, ouvreur ! Comme Hölderlin et Bergson._ 
 
 ## Quitte à travailler pour ne pas mourrir autant le faire pour un Commun
 
-Cela faisait 30 jours que j'espèrait, non plus que ces deux clients fassent un acte bienvenu,juste remonter les marches. Mais quitte à suer sang et eau pour survivre, je ne voudrais pas y perdre ni mon éthique, ni ma maxime.
+Cela faisait 60 jours que j'espèrait, non plus que ces deux clients fassent un acte bienvenu, juste pour remonter les marches. Mais quitte à suer sang et eau pour survivre, je ne voudrais pas y perdre ni mon éthique, ni ma maxime.
 
 Ainsi, j'ai décidé de lancer ce 1er juin 2018 une phase de prototypage sur un projet libre et open source qui pourrait intéresser quelques communautés je l'espère.
 
