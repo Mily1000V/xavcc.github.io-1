@@ -23,7 +23,7 @@ Le silence mortifère, puis un souffle faible, puis une expiration, du sang dans
 
 Mercedi fiction ou cauchemar nocturne ? Non, simplement une réalité proffessionnelle ! Deux clients qui n'honorent pas le contrat et encore moins la légsilation pour ne pas payer leur prestataire que je suis, c'est une chute libre et fatale, après 5 000€ de dettes sur 2 mois de travail, qui vous brise un vie. Mais qui pourrait leur reprocher cela puisqu'ils le font avec des mots tendre, des intentions louables et que leur vitrine sociale est solidaire ? 
 
-**Je ne rédige pas ce ligne pour pleurer mais pour vous décrire ce que cela produit**
+**Je ne rédige pas ces lignes pour pleurer mais pour vous décrire ce que cela produit**
 
 ## Sentiments et culpabilités
 
@@ -55,25 +55,31 @@ Cela faisait 30 jours que j'espèrait, non plus que ces deux clients fassent un 
 
 Ainsi, j'ai décidé de lancer ce 1er juin 2018 une phase de prototypage sur un projet libre et open source qui pourrait intéresser quelques communautés je l'espère.
 
-Je ne voudrais pas résumer cale de façon ingénue à juste un site web sous licence libre + des cartes + une base de données + un livre numérique pédagogique dans le domaine public. Alors je vous laisse vous faire un aperçu par vous même en parcourant les projet [Forkncoffee](https://github.com/XavCC/forkncoffee), un truc pour faire coworking libre et tiers-lieux libres (c'est à dire un tas de trucs que VOUS voudrez) presque partout, presque tout le temps, avec,pour et par le plus grand nombre. Un projet basé sur :
+Je ne voudrais pas résumer cale de façon ingénue à juste un site web sous licence libre + des cartes + une base de données + un livre numérique pédagogique « apprendre la programmation en elm » en français et dans le domaine public. Alors je vous laisse vous faire un aperçu par vous même en parcourant les projet [Forkncoffee](https://github.com/XavCC/forkncoffee), un truc pour faire coworking libre et tiers-lieux libres (c'est à dire un tas de trucs que VOUS voudrez) presque partout, presque tout le temps, avec,pour et par le plus grand nombre. Un projet basé sur :
 
 > « _Faisons ici et maintenant le serment de nous rencontrer et de nous réunir sans se juger à l’apparence et ce à chaque fois que les circonstances l’exigent ; et de nous séparer que lorsque nous aurons transmis à autrui un savoir-faire et un savoir-être renforçant les libertés et la diversité de toutes et tous »_ **Paraphrase du serment du Jeu de Peaume**
 
 C'est là un nouvel effort considérable que je lance. Non plus simplement pour survivre à cette chute, mais bien plus pour fournir à d'autres le maximun d'outilage pour changer un peu cette société qui nous brise à petits ou grands feux. 
 
-Alors, je me suis mis espérer réunir entre 500€ et 1 000€ avant le 30 juin, et cela pour 3 mois de travail. Oui je bosse et demande un fiancement à très bas coût dans cette histoire mais c'est mon choix et vous pouvez aussi faire le choix que ce minimum soir dépassé. Surtout le 30 juin c'est demain, et que j'ai une urgence à surmonter aujourd'hui. Ceci est aussi pour inciter des dons libres et conscients de la quantité et qualité de travail à fournir pour arriver à sortir un prototype fonctionnel en septembre 2018.
-
+Alors, je me suis mis espérer réunir entre 500€ et 1 000€ avant le 30 juin, et cela pour 3 mois de travail. Oui je bosse et demande un financement à très bas coût dans cette histoire mais c'est mon choix et vous pouvez aussi faire le choix que ce minimum soir dépassé. Surtout le 30 juin c'est demain, et que j'ai une urgence à surmonter aujourd'hui. Ceci est aussi pour inciter des dons libres et conscients de la quantité et qualité de travail à fournir pour arriver à sortir un prototype fonctionnel en septembre 2018.
+!
 Donc, trois possibilités financières pour soutenir cette ouverture et ce prototype et ce livre :
 
 + Une [collecte un ligne via Paypal](https://www.paypal.com/pools/c/84Ug9UH2cW), sans minima de montant de dons, vous pouvez être anonymes ou non, avancée de la collecte est publique et transparente:
 ![](assets/images/Screenshot-2018-6-4 Forkncoffee.png)
 
-+ donc en [Ğ1 - Duniter](https://g1.duniter.fr/#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/Xavier%20Coadic), monnaie libre chiffrée, collecte publique et non anonyme
++ dons en [Ğ1 - Duniter](https://g1.duniter.fr/#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/Xavier%20Coadic), monnaie libre chiffrée, collecte publique et non anonyme
 
-+ [petits dons hébdomandaires sur Liberapay](https://liberapay.com/Xav.CC), montant versé automatiqument chaque semaine, collect publique et transparente, dons anonyme ou non, pas de montant minimun, vouspouvez arréter quand vous le désirez ou quand votre solde est à zéro. 
++ [petits dons hébdomandaires sur Liberapay](https://liberapay.com/Xav.CC), montant versé automatiqument chaque semaine, collect publique et transparente, dons anonyme ou non, pas de montant minimun, vous pouvez arréter quand vous le désirez ou quand votre solde sur liberapay est à zéro. 
 
 Si vous désirez contribuer autrement, ou que nous nous parlions de vive voix, ou une rencontre, je me tiens à votre disposition.
 
-Si vous avez peur que je ne remplisse pas le contrat ou que je tente une arnaque, vous savez où me trouver, vous pouvez réutiliser cet artcile sous licence libre (ou n'imrote quel autre publié ici) pour me clouer en potence sur la place publique nomminativement (chose que je n'ai pas fait pour mes deux derniers clients), et demander remboursement. 
+Vous pouvez également demander plus de compte-rendu chaque fois que nous jugerez cela nécessaire, voir même d'autres contre-parties à vos dons que ce prototypes et livre numérique.
 
-En attendant tout cela, avec confiance en beaucoup de d'entre vous et espoir de jours meilleurs, je retourne aux tâches et à l'ouvrage car c'est un jardin commun à entretenir qui demande plus que des intentions ; c'est là l'enjeu de nouvelles preuves que les changments libres et ouverts sont bien plus soutenables que les vieux coups de vices. 
+Si vous avez peur que je ne remplisse pas le contrat ou que je tente une arnaque, vous savez où me trouver, vous pouvez réutiliser cet artcile sous licence libre (ou n'importe quel autre publié ici) pour me clouer sur une place publique nomminativement (chose que je n'ai pas fait pour mes deux derniers clients), et demander remboursement et justification.
+
+Pourquoi pas une campgne de financement paricipatif sur un site prévu à cet usage ? Pour faire cela il faut marketé la campagne, il faut (se) donner en spectacle pour recruter des dons, dédier beaucoup de temps à cette promotion. Ceci n'est pas l'essence du projet fokncoffee et je préfère dédier du temps à concevoir le prototype et documenter dans le livre.
+
+En attendant tout cela, avec confiance en beaucoup d'entre vous et espoir de jours meilleurs, je retourne aux tâches et à l'ouvrage car c'est un jardin commun à entretenir qui demande plus que des intentions ; c'est là l'enjeu de nouvelles preuves que les changments libres et ouverts sont bien plus soutenables que les vieux coups de vices. 
+
+![](/assets/images/free_coffee.jpg)
