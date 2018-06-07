@@ -1,7 +1,7 @@
 ---
 title: "C'est l'hitoire d'un mec qui fait une chute de 5 000 marches..."
 layout: post
-date: 2018-06-06 12:48
+date: 2018-06-07 12:48
 image: /assets/images/falls.jpeg
 headerImage: true
 tag:
@@ -9,7 +9,7 @@ tag:
 - hsociety
 category: blog
 author: XavierCoadic
-description: 
+description: confession et survivalisme ou juste partage de petites choses ?
 ---
 Assis sur un modeste perron, contemplant les taches accomplies avec délectation, un homme savourait le travail accompli et souriant des résultats obtenus. Il y avait mis le cœur et les mains, l'éthique et l'expérience, pour deux clients, un coopérative et une association qui méritait par leurs actions de tels efforts. 
 
