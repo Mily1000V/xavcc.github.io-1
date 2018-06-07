@@ -66,7 +66,7 @@ Alors, je me suis mis espérer réunir entre 500€ et 1 000€ avant le 30 juin
 Donc, trois possibilités financières pour soutenir cette ouverture et ce prototype et ce livre :
 
 + Une [collecte un ligne via Paypal](https://www.paypal.com/pools/c/84Ug9UH2cW), sans minima de montant de dons, vous pouvez être anonymes ou non, avancée de la collecte est publique et transparente:
-![](assets/images/Screenshot-2018-6-4 Forkncoffee.png)
+![](assets/images/collecte-fnc.png)
 
 + dons en [Ğ1 - Duniter](https://g1.duniter.fr/#/app/wot/92UU85KeAXuVjvnfyXWxPkcTSeE68Ftt4D53tJVVNrgN/Xavier%20Coadic), monnaie libre chiffrée, collecte publique et non anonyme
 
