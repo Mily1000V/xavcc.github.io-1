@@ -50,6 +50,7 @@ Après des espoirs déçus de maîtrise des langues par les ordinateurs, les inf
 Nous les humains, n'apprenons jamais un langage sans apprendre, en même temps, les condtion d'acceptabilité de ce langage ([7](https://fr.wikipedia.org/wiki/Questions_de_sociologie)), ce que la machine peine encore à résoudre aujourd'hui. Votre GPS parlant de voiture ne sait pas différencier si vous ameriez entendre "tourner à droite" ou "virer à droite" ou "obliquer à droite". Il ne fera que prononcer ce pourquoi il est programmé. 
 
 Désormais l'humain exploite l'humain pour améliorer des logiciels d'apprentissage qui cherche à reproduire le stéréotype pour en garder le contrôle de ce stéréotype.
+
 <iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/k3NJC21ki6k6tPqporC" allowfullscreen allow="autoplay"></iframe>
 
 Dans les années 1980, les humains ont encore essayé de décider ensemble ce qui est bon et ce qui mauvais, notamment pour prévenir les dérive de la libération de Prométhée. La notion de logiciel libre est décrite pour la première fois dans la première moitié des années 1980 par Richard Stallman qui l'a ensuite – formalisée et popularisée avec le projet GNU (GNU signifiant "Gnu is Not Unix" et la Free Software Foundation (FSF).([8](https://fr.wikipedia.org/wiki/Logiciel_libre))
