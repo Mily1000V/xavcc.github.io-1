@@ -142,6 +142,7 @@ Rencontrons-nous pour en parler plus pronfonfément et pour établir des straté
 3. il existe "Formulaire Demande d'effacement du fichier national automatisé des empreintes génétiques (Fnaeg) - Procureur de la République" : <https://www.service-public.fr/particuliers/vosdroits/R33424>
 4. Le conseil constitutionnel a/avait des réserve sur le fichier national génétique et les critiques sont déjà existantes : <https://fr.wikipedia.org/wiki/Fichier_national_automatis%C3%A9_des_empreintes_g%C3%A9n%C3%A9tiques#R%C3%A9serves_du_conseil_constitutionnel>
 5. Selon une chargée de recherche de l'Inserm , les segments ADN du FNAEG pourraient fournir des indications sur le statut médical et sanitaire des personnes : <https://fr.wikipedia.org/wiki/Fichier_national_automatis%C3%A9_des_empreintes_g%C3%A9n%C3%A9tiques#R%C3%A9serves_du_conseil_constitutionnel>
+6.  [Mon génome à poir sur internet](http://www.bortzmeyer.org/23andme.html) par Stéphane Bortzmeyer
 
 ## textes supplémentaires
 1. [Petite histoire d'introduction à biononymous et bioprivacy](https://xavcc.github.io/biononymous/)
