@@ -20,9 +20,11 @@ externalLink: false
 
 > « _On ne résoud pas un problème avec les modes de pensées qui l'ont engendré_ » **Albert Einstein**
 
+Voici un accès central à mes travaux. 
+
 ## Articles publiés
 
-* [https://xavcc.github.io/ocni/](https://xavcc.github.io/ocni)
+* [OCNI : Objet de consensus non identifé](https://xavcc.github.io/ocni)
 * [OCNI #2 Objet de Consensus Non Identifié - Consensus et Consentement](https://xavcc.github.io/ocni_2)
 * [Tiers-Lieux et artificialité : La faute à pas de sciences ?](https://xavcc.github.io/tilios-sciences)
 * [Travaillons ensemble sur le consensus et le design des instances ?](https://xavcc.github.io/consensus)
@@ -55,7 +57,6 @@ externalLink: false
 
 ## Notes de recherches
 
-+ [Territoire Numérique Libre est-ce possible ?](https://framastory.org/story/xavcc/territoire-numerique-libre-est-ce-possible/preview)
-Regard sur des propostions émanant de l'écosystème de L’ADULLACT et autour cette structure. 
++ [Territoire Numérique Libre est-ce possible ?](https://framastory.org/story/xavcc/territoire-numerique-libre-est-ce-possible/preview), Regard sur des propostions émanant de l'écosystème de L’ADULLACT et autour cette structure. 
 
 
