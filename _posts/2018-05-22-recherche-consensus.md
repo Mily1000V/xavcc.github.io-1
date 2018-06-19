@@ -53,3 +53,9 @@ externalLink: false
 + [Contribution à la mission société numérique inclusive : Les écueils de gouvernance à éviter](https://xavcc.github.io/mission-inclusion-numerique-1/)
 + [Contribution à la mission société numérique sur l'inclusivité : Fracture, communautés, accéssibilité, lieux, territoire, paysage, pour les publics](https://xavcc.github.io/mission-numerique-2)
 
+## Notes de recherches
+
++ [Territoire Numérique Libre est-ce possible ?](https://framastory.org/story/xavcc/territoire-numerique-libre-est-ce-possible/preview)
+Regard sur des propostions émanant de l'écosystème de L’ADULLACT et autour cette structure. 
+
+
