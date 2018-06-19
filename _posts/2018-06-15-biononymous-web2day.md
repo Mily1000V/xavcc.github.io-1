@@ -13,11 +13,11 @@ author: XavierCoadic
 description: Rettranscritpion du texte de la conférence donnée à Nantes pour le web2day 2018
 ---
 
-Retranscription du texte manuscrit qui a servi de base pour la conférence au web2day 2018. Les échanges ayant eu lieu en direct et pendant 40 minutes, ils seront evidemment légèrement différents sur la vidéo. 
+Retranscription du texte manuscrit qui a servi de base pour la conférence au web2day 2018. Les échanges ayant eu lieu en direct et pendant 40 minutes, ils seront évidemment légèrement différents sur la vidéo. 
 
 La conférence précédant celle sur biononymous et bioprivacy était tenue par Esther d'[Exodus Privacy][https://exodus-privacy.eu.org/) sur la collecte de données par les applicaions mobiles sur les sytèmes Androïd (voir un [aperçu du contexte](https://esther.codes/la-collecte-de-donnees-sur-mobile-en-4-questions/)). Ce qui m'a permis de ne pas à avoir à introduire les problématiqes liées à ces rsiques de collectes de données par appareils mobiles. 
 
-![](/assets/images/bioprivacy_web2day2018_1.jpeg)
+![](/assets/images/web2day_diybio.jpg)
 
 <figcaption class="caption">Crédit photo : Victor Lerat</figcaption>
 
