@@ -113,7 +113,7 @@ Les projets sur lesquels je m'investis sont valables sur un organigramme de flux
 Les recherches que je mène actuellement :
 
 1. [Design des instances et consensus](https://xavcc.github.io/recherche-consensus), **recherche action**
-2. Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques, **recherche documentation**
+2. [Tiers-Lieux Libres et Open Source pour répondre aux enjeux critiques](https://xavcc.github.io), **recherches action et documentation**
    + Libertés et sécurités informatique
    + Prévision et prévention des accidents corporels
    + Libertés et égalité au delà des genres et des classes
