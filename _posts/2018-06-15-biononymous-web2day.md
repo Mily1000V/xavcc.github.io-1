@@ -48,6 +48,61 @@ Mais d'où vient cette analyse d'un ou de plusieurs risques sur les libertés du
 
 > « _**La surveillance biologique** est le moyen par lequel la science biologique est utilisée pour **suivre, surveiller, analyser et transformer les corps en données**. C’est l’extraction de l’ADN et des microbes de la peau, des ongles, des cheveux et des fluides corporels. C’est l’analyse des parties identifiantes du corps et de l’individu comme le visage, la voix, les empreintes digitales et les iris. C’est le suivi de la vie elle-même par la chaleur du corps, le pouls, la transpiration, les flores bactériennes et le mouvement involontaire spécifique. **C’est la vulnérabilité à laquelle nous sommes tous et toutes confronté⋅e⋅s chaque jour par la situation même d’être humain, en ayant simplement un corps.**_
 
+Vous me pensez paranoïaque ?
+
 ![](/assets/images/bioprivacy_web2day2018_4.jpeg)
 
-Vous me pesnez paranoïaque ?
+Bien voilà !
+
+![](/assets/images/bioprivacy_web2day2018_5.jpeg)
+
+Autant je pensais naîvement vous proposer un blague « marketo-hacking » avec ma seringue au début de cette intervention, autant ce n'est pas une blague que dans un grand forum sur les mobolitées et  « smart cities » que des entreprises et pôles de compétivités et des institutions publiques incitent à aller très loin dans la surveillance biométrique. 
+
+Pourquoi ne pas mettre aussi l'empreinte chimique de l'encre du tatouage dans une blockchain qui n'oublien rien au passage ?
+
+Une fois que vous confiez une partie de votre intimité biométrique ou biologique ou de votre intimité morphologique, que se passe t-il ?
+
+![](/assets/images/bioprivacy_web2day2018_6.jpeg)
+
+Donc il y a des tiers de confiance, des entreprises ou des collectivités dont le métier est le recueil et l'acheminement, et le stockage, de votre vie biologique et des données morphologiques qui les accompagnent. Mais es organisations n'ont pas une culture de la sécuratisation et de l'anonymisation ?
+
+![](/assets/images/bioprivacy_web2day2018_7.jpeg)
+
+Petite nouvelle <tentative> blague.
+
+Connaissez-vous les ponts communs entre :
++ les réseaux de distributions alimentaires
++ les routes aéreinnes américaines ou européennes
++ les conexiones neuronales d'un organisme simple
+
+Chacun peut être interprété et représenté comme un réseau où les connexions entre les éléments cpaturent des clès et déchiffent ces clès pour gérer les relations et les intéractions. Comme toute activités et uages de clés, cela laisse une empreinte.
+
+![](/assets/images/bioprivacy_web2day2018_8.jpeg)
+
+> « _FUD : Fear, uncertainty and doubt (FUD, littéralement « peur, incertitude et doute)_ »
+
+Je ne  voudrais créer les conditions d'un climat de craintes sans justification, mais ne serait-il pas temps de mettre en place des stratégies pour éviter le fichage à l'extrème de notre morphologie propore et de notre corps biologique ? Et d'éviter les dérives qui vosn avec cette surveillance ?
+
+Car il y a un problème avec les données du vivant que les données d'usages et meta-données de connexion n'ont pas. Le vivant n'a pas de `Ctrl`+`atl`+`z` !
+
+Vous ne pouvez pas remettre à zéro l'existance de votre morphologie et de votre biologie. 
+
+Données personnelles et biologiques et morphologiques, pisteur d'authentification, et données d'usages des technologies avec dedans des services médicaux, paramédicaux, santé, nutrition, pharma etc. Qu'est ce qui pourrait mal tourner ?
+
+![](/assets/iamges/bioprivacy_web2day2018_9.jpeg)
+
+Depuis 1990 il y a bien des intruments légaux pour encadrer les pratiques autour du vivant, comme l'Organisation Mondiale de la Propriété Intellectuelle.
+Depuis 1950, l'Office Européen des Brevets (OEB) travail sur ce sujets de privatisation du vivant et des risques liés, en relation avec les Nations Unies. Mais l'OEB ne reconnait toutjourspas le droit des peuples (DNUDPA des Nations Unies) ce qui ouvre par exemple des possibilités à des entreprises de s'approprier le patrimoine chimique et biologique de la Quinine de Cayennet et de réalsier une véritable biopiraterie. 
+
+Cela pourrait être aujoud'huin une configuration similaire avec la conception d'un téhrapie génique qui serait conçue, en partie tout du moins, à partir de données que vous auriez fournies, avec un consentement plus ou moins fabriqué. Nous parlons là de données personnelles et biologiques couplées  à des données d'usage, ou méta données, avec au milieu de cette configuration des services médicaux, para-médicaux, de santé, de nutrition et de pharmacologie. 
+
+![](/assets/images/bioprivacy_web2day2018_10.jpeg)
+
+Rappelez-vous que même un peacemaker est avant tout un émetteur-récepteur. 
+
+Soyez-curieuz de la mulplication de sites et d'applications aux tests de parentalité ou de généalogie.
+
+Et que se passe t-il s'il on découvre que je suis porteur d'un maladie infectieuse qui pourrait menacer le « sol américain » ? 
+
+
+
