@@ -10,7 +10,7 @@ tag:
 - Nantes
 category: blog
 author: XavierCoadic
-description: Rettranscritpion du texte de la conférence donnée à Nantes pour le web2day 2018
+description: Retranscritpion du texte de la conférence donnée à Nantes pour le web2day 2018
 ---
 
 Retranscription du texte manuscrit qui a servi de base pour la conférence au web2day 2018. Les échanges ayant eu lieu en direct et pendant 40 minutes, ils seront évidemment légèrement différents sur la vidéo. 
