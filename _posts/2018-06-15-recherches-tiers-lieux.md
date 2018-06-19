@@ -17,7 +17,7 @@ author: XavierCoadic
 externalLink: false
 ---
 
-Travaux axés sur 7 points :
+Voici un accès central à mes travaux axés sur 7 points :
 
 + Libertés et sécurités informatique
 + Prévision et prévention des accidents corporels
