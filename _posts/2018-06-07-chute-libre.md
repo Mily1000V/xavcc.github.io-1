@@ -11,7 +11,7 @@ category: blog
 author: XavierCoadic
 description: confession et survivalisme ou juste partage de petites choses ?
 ---
-Assis sur un modeste perron, contemplant les taches accomplies avec délectation, un homme savourait le travail achevé et sourait des résultats obtenus. Il y avait mis le cœur et les mains, l'éthique et l'expérience, pour deux clients, une coopérative et une association qui méritait par leurs actions de tels efforts. 
+Assis sur un modeste perron, contemplant les taches accomplies avec délectation, un homme savourait le travail achevé et souriait des résultats obtenus. Il y avait mis le cœur et les mains, l'éthique et l'expérience, pour deux clients, une coopérative et une association qui méritait par leurs actions de tels efforts. 
 
 Là, sifflotant l'arrivée du printemps, il souriait simplement à l'avenir. Lorsque une paire de mains se posèrent sur ces épaules, poignes presque amicales et chaleureuses, puis délicatement le poussèrent vers l'avant, tête la première dans le vide des marches qu'il venaient de bâtir lui-même.
 
