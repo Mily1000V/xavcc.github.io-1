@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - hsociety
 - Open Source
-- Biomimimétisme
+- Biomimétisme
 category: blog
 author: XavierCoadic
 description: Proposition de démarche prépartoire d'un cours de biomimétisme à destination d'un large public apprenant
