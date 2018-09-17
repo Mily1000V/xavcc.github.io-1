@@ -30,6 +30,8 @@ Voici un accès central à mes travaux axés sur 7 points :
 ## Prototypages
 
 + [Forkncoffe](https://github.com/XavCC/forkncoffee), Structure libre (free framework) pour faire tiers-lieux presque partout et paysages en communs par strates (layers) décentralisées presque tout le temps par, avec et pour le plus grand nombre. Projet en langage Elm sous licence AGPL v3.0 de plateforme collective pour s'installer et travailler autrement `#DIY` `#DIWO` `#DITO` en libre coworking.
+
++ [MediaLab Numérique en Commun](http://movilab.org/index.php?title=Medialab_NEC_2018), Nantes 2018
    
 ## Publications
 
