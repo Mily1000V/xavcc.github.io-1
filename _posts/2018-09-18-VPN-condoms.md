@@ -13,7 +13,7 @@ author: XavierCoadic
 description: un tunnel sécurisé à l’intérieur d’un réseau en latex ?
 ---
 
-Une infection, ou plutôt des maladies et infections viralement transmissibles se progeraient t-elles au sein de nos libertés et de nos humaités ? Censure, espionnage, surveillance de masse et contrôle individuel ? Ce sont certaines de questions que des mmebres du The Critical Engineering Working Group, Julian Oliver, Danja Vasiliev, semblent vouloir traiter par les prismes artistiques, technologiques et du design. 
+Une infection, ou plutôt des maladies et infections viralement transmissibles se propageraient au sein de nos libertés et de nos humanités ? Censure, espionnage, surveillance de masse et contrôle individuel ? Ce sont certaines de questions que des membres du The Critical Engineering Working Group, Julian Oliver, Danja Vasiliev, semblent vouloir traiter par les prismes artistiques, technologiques et du design. 
 
 Ce sont aussi ces deux personnes qui avaient rédigé avec Gordan Savičić [The Critical Engineering Manifesto](https://criticalengineering.org/) en 2011.
 
