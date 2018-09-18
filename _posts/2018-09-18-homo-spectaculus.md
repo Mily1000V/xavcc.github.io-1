@@ -1,7 +1,7 @@
 ---
 title: "Homo Spectaculus : échographie et regard sur la marchandisation du poop numérique"
 layout: post
-date: 2018-09 18 22:44
+date: 2018-09-18 16:44
 image: /assets/images/1962-L-04111.jpg
 headerImage: true
 tag:
@@ -11,7 +11,7 @@ tag:
 star: false
 category: blog
 author: XavierCoadic
-description: 
+description: Qu'allons nous faire au communs nunériques francophones ?
 ---
 
 Du petit matin au café à l'oreille dans les radios, dans les discours politiques, dans le pitch des star-ups, jusqu'au rassemblement conséquent et corporatiste d'individus, j'entends et lis à profusion et orgie qu'il faut « remmetre l'humain au centre » et que beaucoup développent des systèmes, méthodes, technologies « centrées sur l'humain ». ne vous aventurez pas trop à poser la question qu'est-ce que l'humain, vous pourriez vous attirer de déni, voir le dédain, de l'oratuer ou de l'oratrice qui crie promesse. 
