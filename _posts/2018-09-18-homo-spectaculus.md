@@ -95,6 +95,8 @@ Du regard critique sur l'écho des mots usés, des dessins que l'on pourrait tir
 
 On peut alors envisager de s'accorder avec la trajectoire de Lawrence Lessig qui est passé de l'étude de la propriété intellectuelle, à l'écriture sur la culture du remix pour aujourd'hui un chercheur et défenseur de la démocratie.
 
+Cette orientation aux risques de poopnumérique tend vers une marchandisation centralisée de chaque composant, depuis les discours, jusqu'à la médiation en passant par les œuvres, les supports, les réseaux. Ce ne sera pas sans conséquences pour l'ensembles des populations.
+
 Si nous n'arrivons pas à (re)faire collectif, (re)instituer un grammaire, (ré)établir des codes, (re)détourner, (re)ouvrir ce qui est fermé, pour réifier la culture libre et décentralisée d'Internet et du numérique, alors nous faudra faire le deuil de ce qui encore aujourd'hui peut être l'hyptothèse d'un commun.
 
 > « _Some obses over making "good" poops fuck that shit_ » Apocryphal statement, Internet.
