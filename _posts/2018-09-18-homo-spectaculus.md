@@ -2,11 +2,12 @@
 title: "Homo Spectaculus : échographie et regard sur la marchandisation du poop numérique"
 layout: post
 date: 2018-09 18 22:44
-image: /assets/images/
+image: /assets/images/1962-L-04111.jpg
 headerImage: true
 tag:
 - hsociety
 - Nantes
+- Tiers-Lieux
 star: false
 category: blog
 author: XavierCoadic
@@ -15,7 +16,7 @@ description:
 
 Du petit matin au café à l'oreille dans les radios, dans les discours politiques, dans le pitch des star-ups, jusqu'au rassemblement conséquent et corporatiste d'individus, j'entends et lis à profusion et orgie qu'il faut « remmetre l'humain au centre » et que beaucoup développent des systèmes, méthodes, technologies « centrées sur l'humain ». ne vous aventurez pas trop à poser la question qu'est-ce que l'humain, vous pourriez vous attirer de déni, voir le dédain, de l'oratuer ou de l'oratrice qui crie promesse. 
 
-Mais alors, puisque de réponse nous sommes privés et de discours nous sommes innondés, quel panorama pourrait être masuqé par ce phénomène acoustique de réflexion d'un son répété ? Quel structures sont fisurées par ce phénomène accoustique et jeu de langage ?
+Mais alors, puisque de réponse nous sommes privés et de discours nous sommes innondés, quel panorama pourrait être masqé par ce phénomène acoustique de réflexion d'un son répété ? Quel structures sont fisurées par ce phénomène accoustique et jeu de langage ?
 
 ## Homo spactaculus
 
@@ -55,7 +56,7 @@ Mais alors dans un société basé sur le spectacle, pourquoi un petit groupe de
 
 Elles et ils sont venues écouter des sachant⋅e⋅s, elles et ils venu⋅e⋅s vendre et/ou vanter leurs scénari, elles et ils sont venu⋅e⋅s troquer des promesses. Une place de marché sur laquelle se (re)joue une divine comédie entre « spécialistes », oubliant parfois d'interroger leur rapport à la culture numérique comme culture technique, oubliant parfois que ce qui se joue est politique puisqu'il s'agit de transformer la cité. 
 
-En 2018, la société du spectacle passe par l'hyper-individuation, le poids économiques des « followers », la force économique et financière de celle ou de celui qui tient le micro. Capitalisme de surveillance, économie de l'émotion et hyper-individuation forment alors un Ouroboros accuentant les écarts entre la personne qui instutée et les personnes fracturées. 
+En 2018, la société du spectacle passe par l'hyper-individuation, le poids économiques des « followers », la force économique et financière de celle ou de celui qui tient le micro. Capitalisme de surveillance, économie de l'émotion et hyper-individuation forment alors un Ouroboros accentuant les écarts entre la personne qui instutée et les personnes fracturées. Ceci a une valeur marchande.
 
 ## Langage, grammaire et endettement
 
@@ -101,4 +102,4 @@ Si nous n'arrivons pas à (re)faire collectif, (re)instituer un grammaire, (ré)
 
 > « _Some obses over making "good" poops fuck that shit_ » Apocryphal statement, Internet.
 
-Mais là encore plane le spectre d'un Work In Promise. Cependant, nous n'avons jamais usé de la culture du libre, des ses œuvres, des logiciels, des licences, dans le but d'enfermer création ou remix de création car il serait tout aussi dangereux d'instituer le dogme d'une culture ou d'imposer les canons de la réutilisation. Il est tout simplement aujourd'hui important et urgant de ne pas sombrer dans la marchandisation vorace des commmuns, des cultures, de la médiation numérique, des tiers-lieux. Ce qui ne signifie en aucun cas laisser les acteurs et les actrices de ces hacktivités dans aucune de précarité, ni de reconnaissance, ni technique, ni économique.
+Mais là encore plane le spectre d'un Work In Promise. Cependant, nous n'avons jamais usé de la culture du libre, des ses œuvres, des logiciels, des licences, dans le but d'enfermer création ou remix de création car il serait tout aussi dangereux d'instituer le dogme d'une culture ou d'imposer les canons de la réutilisation. Il est tout simplement aujourd'hui important et urgant de ne pas sombrer dans la marchandisation vorace des commmuns, des cultures, de la médiation numérique, des tiers-lieux. Ce qui ne signifie en aucun cas laisser les acteurs et les actrices de ces hacktivités dans aucune de précarité, ni de reconnaissance, ni technique, ni économique. Et si nous commencions par définir ce qu'est l'humain avant de l'invoquer ésotériquement ?
