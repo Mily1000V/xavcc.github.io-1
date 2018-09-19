@@ -11,7 +11,7 @@ tag:
 star: false
 category: blog
 author: XavierCoadic
-description: Qu'allons nous faire au communs numériques francophones ?
+description: Qu'allons nous faire aux communs numériques francophones ?
 ---
 
 Du petit matin au café à l'oreille dans les radios, dans les discours politiques, dans le pitch des start-ups, jusqu'aux rassemblements conséquents et corporatistes d'individus, j'entends et lis à profusion et orgie qu'il faut « remetre l'humain au centre » et que beaucoup développent des systèmes, méthodes, technologies « centrées sur l'humain ». Ne vous aventurez pas trop à poser la question « Qu'est-ce que l'humain ? », vous pourriez vous attirer du déni, voire le dédain, de l'orateur ou de l'oratrice qui crie promesse. 
@@ -107,3 +107,9 @@ Si nous n'arrivons pas à (re)faire collectif, (re)instituer une grammaire, (ré
 Mais là encore plane le spectre d'un Work In Promise. Cependant, nous n'avons jamais usé de la culture du libre, des ses œuvres, des logiciels, des licences, dans le but d'enfermer création ou remix de création car il serait tout aussi dangereux d'instituer le dogme d'une culture ou d'imposer les canons de la réutilisation que de laisser prospérer la marchandisation dévorante. Il est tout simplement aujourd'hui important et urgent de ne pas sombrer dans la marchandisation vorace des commmuns, des cultures, de la médiation numérique, des tiers-lieux. Ce qui ne signifie en aucun cas laisser les personnes composants « les publics en fragilités », ni les acteurs et les actrices de ces hacktivités dans une précarité de reconnaissance, ou technique, ou économique. C'est déjà là un premier pas de traitement et de considération adéquat.
 
 Et si nous commencions par définir ce qu'est l'humain avant de l'invoquer ésotériquement ? Si nous sommes bien Homo Sapiens, nous devrions peut être avec un peu de sérieux trouver matière à regarder nos processus d'hominisation et d'essayer d'en tirer ce qui fait de nous des humains, Homo Hominis, puis traiter la promesse d'humanité, avant de nous confondre en Homo numéricus ou Homo spectaculus. Comme si devenir humain était une quête de liberté et d'émmancipation, ce qui n'est peut être pas si unique : des idéaux qui ne sont peut être toujours pas atteints aujourd'hui.
+
+## Contributions et remerciements
+
+Ces personnes sont co-autrices de ce texte et sont ainsi inclues dans les conditions de la licence attribuée.
+
++ [Maïa Dereva](http://semeoz.info), P2P foudation et Communs francophone, pour ses contribtions au MediaLab, à ce texte et aux réflexions toujours en cours.
