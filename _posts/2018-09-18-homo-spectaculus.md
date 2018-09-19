@@ -112,4 +112,4 @@ Et si nous commencions par définir ce qu'est l'humain avant de l'invoquer ésot
 
 Ces personnes sont co-autrices de ce texte et sont ainsi inclues dans les conditions de la licence attribuée.
 
-+ [Maïa Dereva](http://semeoz.info), P2P foudation et Communs francophone, pour ses contribtions au MediaLab, à ce texte et aux réflexions toujours en cours.
++ [Maïa Dereva](http://contributions.maiadereva.net/), P2P foudation et Communs francophone, pour ses contribtions au MediaLab, à ce texte et aux réflexions toujours en cours.
