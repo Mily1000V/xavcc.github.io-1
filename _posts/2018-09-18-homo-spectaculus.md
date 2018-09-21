@@ -18,6 +18,8 @@ Du petit matin au café à l'oreille dans les radios, dans les discours politiqu
 
 Mais alors, puisque de réponse nous sommes privé⋅e⋅s et de discours inondé⋅e⋅s, quel panorama pourrait être masqué par ce phénomène acoustique de réflexion d'un son répété ? Quelles structures sont fissurées par ce phénomène accoustique et jeu de langage ?
 
+`Édité le 21 septembre 2018`
+
 ## Homo spectaculus
 
 J'ai récemment pris l'occasion de participer activement à ce qui fut un jour nommé « les assises de médiation numérique », aujourd'hui réintitulées « Numérique en Commun ». Nous y prenions part comme co-concepteurs, co-conceptrices et co-artisans d'un  MediaLab, dont la [page de docuemntation sur un wiki est WIP](http://movilab.org/index.php?title=Medialab_NEC_2018) (Work In Progess ou Work in Promise selon votre approche critique).
@@ -95,6 +97,8 @@ Celles et ceux qui se draperaient d'apparence punk-décripteur-**capitaliste** a
 > « _C'est pas un hub qui fédère les acteurs de l'inclusion numérique qui va aider les exclus du numérique à devenir autonomes_» [Thomas Fourneux](http://biblionumericus.fr)
 
 Du regard critique sur l'écho des mots usés, des dessins que l'on pourrait tirer, avec ou sans satire, des grands raouts dans lesquels un néo-vocable est asséné pour convaincre par la répétition avec les rebonds de cette répétition sur les murs de tour d'ivoire, on peut se laisser convaincre d'une silouhette de contestation dans ce mouvement, mais cela n'en possède que l'ombre et n'en a ni le goût, ni l'odeur, ni l'âme. Le youtube poop des années 2010 critiquait la société du spectacle, le prêt à consommer, le prêt à l'emploi. le Poopulisme numérique naissant remix la culture du Remix elle-même, et retourne ces contestations pour entretenir dans une novlangue le spectacle en tant que rapport social, pour réaffirmer les représentations immuables, autrement écrit cela ne sert qu'à nourrir une économie de conservation des pouvoirs. Ce qui est nouveau aujourd'hui tient dans l'extrème horreur que cette société du spectacle et d'économie des émotions est instituée pour renforcer les mécanismes de surveillance de masse et de contrôle individuel. L'écho des mots des promesses n'étant qu'un stratagème des orateurs. Un écho dans lequel des communs traités comme des biens privés sont fissurés pour être revendus morceaux par morceaux.
+
+> « [...] _on attend toujours un signe tangible de l’actuel gouvernement dont les premières réalisations législatives en matière de numérique ont paru plus enclines à renforcer la sécurité et la propriété qu’à aller dans le sens des Communs._ » Collectif SavoirCom1 "[Numérique en Commun(s) : Pour une ouverture des Communs sans récupération](http://www.savoirscom1.info/2018/09/numerique-en-communs-pour-une-ouverture-des-communs-sans-recuperation/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Savoirscom1+%28SavoirsCom1%29)", 19 spetembre 2018
 
 On peut alors envisager de s'accorder avec la trajectoire de [Lawrence Lessig](https://fr.wikipedia.org/wiki/Lawrence_Lessig), qui est passé de l'étude de la propriété intellectuelle, à l'écriture sur la culture du remix pour aujourd'hui être un chercheur et défenseur de la démocratie, comme un symbole d'avertissement à notre propre glissement vers de graves problèmes.
 
