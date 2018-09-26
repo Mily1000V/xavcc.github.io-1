@@ -38,7 +38,7 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
    + [Rencontre régionale](#rencontre-regionale)
  + [Format de sprint de création ou amélioration](format-de-sprint-de-creation-ou-amelioration)
    + [MediaLab](#medialab)
-   + [Hackhatons](#hackhatons)
+   + [Hackathons](#hackathons)
    + [Remix](#remix)
  + [Bouger des lignes](#bouger-des-lignes)
    + [4 pratiques pour faciliter la collaboration dans un environnement institutionnel](#4-pratiques-pour-faciliter-la-collaboration-dans-un-environnement-institutionnel)
@@ -50,7 +50,7 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
 
 Pour concevoir une configuration de communautés aux visions partagées tout en conservant la diversité avec des responsabilités partagées.
 
-### 3DD un espace-temps d'agora à Génève
+### 3DD un espace-temps Agora à Génève
 
 Ouvert en septembre 2017 - au rez-de-chaussée de l’immeuble du 3 rue David Dufour 1205 Genève dans un ancien espace d’accueil (l’entrée du service de la police des étrangers) qui a longtemps été laissé à l’abandon, le 3dd espace de concertation a l'ambition de générer des situations inédites de rencontres créatives entre des publics très hétérogènes et parfois antagonistes afin de faire émerger un nouveau collectif capable d’apporter des réponses nouvelles, responsables et communes aux multiples défis qui attendent les citoyens et les organisations de Genève et sa région
 
@@ -96,7 +96,7 @@ La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) 
 
 ## Design Pattern de communautés
 
-Pourquoi et comment concevoir les conditions de vie et d'épanouissement de commuanuté(s) contributive(s).
+Pourquoi et comment concevoir les conditions de vie et d'épanouissement de communauté(s) contributive(s).
 
 ### Tiers-Lieux Hackerspace Design Patterns
 
