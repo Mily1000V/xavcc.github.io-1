@@ -24,7 +24,11 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
 
 > Les communs comme espace politique informent la notion d’intelligence comme un « savoir cohabiter »
 
-### Table des contenus
+L'ordre de présentation dans la table des contenus ci-dessous est orienté depuis des exemples d'actions larges et au temps lon permattant une permanence maintenue de la contribution, puis des exemples de conception en commuanuté de pratiques pour faciliter des actions ; ensuite vous avez une proposition de format cours d'actions collectives, qui peuvent aussi s'intégrer de façon répétées dans la configuration sociale premièrement proposée ou en complément d'autres configurations. Le quatrième point abordé concerne lui des exemple de réalisations facilitant la transformation d'organisation qui pouvaient auparavant se sentir éloignées ou non légétime dans les approches proposées dans les 3 premiers points des contenus.
+
+C'est différentes ressources n'on aucunement la prétention d'être exhaustives, elles sont une humble partie par le fait et le travail de personnes consciencieuses dans un tout plus grand. 
+
+### Table des contenus (au 26 septembre 2018)
 
 + [Configuration sociale pour la contribution et la concertation](#configuration-sociale-pour-la-contribution-et-la-concertation)
    + [3DD un espace-temps Agora à Génève](#3dd-un-espace-temps-Agora-a-geneve)
@@ -33,7 +37,7 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
    + [Faire Tiers-Lieux en Bretagne](#faire-tiers-lieux-en-bretagne)
    + [Design moi 1 Tiers Lieux](#design-moi-1-tiers-lieux)!
    + [Cercle excentrique](#cercle-excentrique)
-   + [Communs territoriaux](#commuuns-territoriaux)
+   + [Communs territoriaux](#communs-territoriaux)
 + [Design Pattern de communautés](#design-pattern-de-communautes)
    + [Tiers-Lieux Hackerspace Design Patterns](#tiers-lieux-hackerspace-design-patterns)
    + [Exemple de Code de Conduite](#exemple-de-code-de-conduite)
@@ -50,6 +54,7 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
 
 ## Configuration sociale pour la contribution et la concertation
 
+Pourquoi et comment mettre en œuvre des dispositifs favorables aux actions plus transversales entre différents corps et différentes organisations de la société, ceci par des expériences documentées sous licence libre.
 Pour concevoir une configuration de communautés aux visions partagées tout en conservant la diversité avec des responsabilités partagées.
 
 ### 3DD un espace-temps Agora à Génève
@@ -104,6 +109,8 @@ La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) 
 
 ## Design Pattern de communautés
 
+Voici quelques exemples d'expériences menées dans un design par et pour les personnes qui font communauté(s).
+
 Pourquoi et comment concevoir les conditions de vie et d'épanouissement de communauté(s) contributive(s).
 
 ### Tiers-Lieux Hackerspace Design Patterns
@@ -122,6 +129,8 @@ Démarche de préfiguration de l'événement portée par plusieurs individus, d�
 ## Format de sprint de création ou amélioration
 
 La conception et la mise en œuvre de temps courts visant au prototypage ou à la transformation, ainsi que l'agrégation et l'engament de personnes et communautés de pratiques, ne sont pas choses aisées. Ces problèmes constituent une opportunités de collaborer avec des individus expérimentés pour apprendre en faisant. 
+
+Ces temps courts sont parfois recherchés par des collectivité ou organisations ou des personnes peu accoutumées à ces formats, voici quelques ressources par le vécu qui pourraient aider à s'approprier des moyens de répondre à des besoins exprimés.
 
 ### MediaLab
 
@@ -153,7 +162,7 @@ Comment et pourquoi organiser sans risques financiers un évènement décloisonn
 
 ### Remix
 
-Pour (re)faire autrement
+Pour (re)faire autrement ce que vous avez déjà produit. 
 
 + [Biblio Remix](https://biblioremix.wordpress.com/le-projet/) 
 est un dispositif librement copiable, remixable et adaptable. Si vous avez envie d’en organiser un dans votre bibliothèque ou d'autres expaces, n’hésitez plus : voici la documentation détaillée de l’organisation de l’évènement.
@@ -163,7 +172,7 @@ est un dispositif librement copiable, remixable et adaptable. Si vous avez envie
 + [mécano du remix](http://www.multibao.org/#hackmuseomix/organisation_communaute_museomix/blob/master/mecano-museomix.md) par Muséomix
 Voici une proposition d organisation type avec les différentes pièces du mécano pour construire un remix.
 
-**Contact** : Benoit Vallaury, Samuel Bosson
+**Contact** : Benoit Vallaury, Samuel Bausson
 
 ## Bouger des lignes
 
