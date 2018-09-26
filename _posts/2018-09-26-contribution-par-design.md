@@ -8,6 +8,7 @@ tag:
 - Communs
 - Rennes
 - hsociety
+- Gouvernance
 category: blog
 author: XavierCoadic
 description: Servez-vous ! 
@@ -30,7 +31,7 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
    + [Construire des communs et Gouvernance](#construire-des-communs-et-gouvernance)
    + [Forum Ouvert](#forum-ouvert)
    + [Faire Tiers-Lieux en Bretagne](#faire-tiers-lieux-en-bretagne)
-   + [Design moi 1 Tiers Lieux !](#design-moi-1-tiers-lieux-!)
+   + [Design moi 1 Tiers Lieux !](#design-moi-1-tiers-lieux)
    + [Cercle excentrique](#cercle-excentrique)
 + [Design Pattern de communautés](#design-pattern-de-communautes)
    + [Tiers-Lieux Hackerspace Design Patterns](#tiers-lieux-hackerspace-design-patterns)
