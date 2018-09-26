@@ -33,6 +33,7 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
    + [Faire Tiers-Lieux en Bretagne](#faire-tiers-lieux-en-bretagne)
    + [Design moi 1 Tiers Lieux](#design-moi-1-tiers-lieux)!
    + [Cercle excentrique](#cercle-excentrique)
+   + [Communs territoriaux](#commuuns-territoriaux)
 + [Design Pattern de communautés](#design-pattern-de-communautes)
    + [Tiers-Lieux Hackerspace Design Patterns](#tiers-lieux-hackerspace-design-patterns)
    + [Exemple de Code de Conduite](#exemple-de-code-de-conduite)
@@ -94,6 +95,12 @@ La constitution d'un patrimoine informationnel et matériel commun servant de ma
 + [Animer un atelier Cercle excentrique](http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/cercle_excentrique.md)
 
 La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer.
+
+### Communs territoriaux
+
++ [Concevoir, réaliser, animer et documenter un temps de médiation et de contribution](https://framastory.org/story/xavcc/les-communs-territoriaux-1/preview) au sujet des communs territoriaux, notamment sur le focus de tiers-lieux à tiers-scientifiques
+
+**Contact**: Charlotte Rizzo, Rieul Techer, Xavier Caodic
 
 ## Design Pattern de communautés
 
