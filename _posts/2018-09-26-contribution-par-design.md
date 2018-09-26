@@ -16,9 +16,9 @@ description: Servez-vous !
 
 Liste publiée suite à un entretien avec Damien Bongart, Vice Président Conseil Départemental 35, chargé du numérique et très haut-débit. Conseiller municipal Rennes,  Dominique Kergosien, déléguée aux projets de transformation numérique au département d'Ille-et-Vilaine, et... Cette liste étant destinée à évoluer et être éditée dans le temps, il est conseillé de s'abonner par [flux RSS](https://framanews.org/) pour un suivi optimisé.
 
-Cette entrevue était motivée par des échanges autour de la consultation nationale portant sur le numérique inclusif à laquelle j'ai contribué ( [[1]](https://xavcc.github.io/mission-inclusion-numerique-1), [[2]](https://xavcc.github.io/mission-numerique-2) ), nous ammenant à évoquer plusieurs enjeux de société ainsi que différentes configurations et expériences en cours ou passées qui pourraient être utile à une forme de « design des politiques publiques » avec une volonté d'inclusion (ce qui est conditionné par le sentiment d'appartenance à une communauté) et des possibles engangements dans des Communs. J'ai voulu dans ce billet blog amorcer un partage plus large et plus diffusable possible. 
+Cette entrevue était motivée par des échanges autour de la consultation nationale portant sur le numérique inclusif à laquelle j'ai contribué ( [[1]](https://xavcc.github.io/mission-inclusion-numerique-1), [[2]](https://xavcc.github.io/mission-numerique-2) ), nous ammenant à évoquer plusieurs enjeux de société ainsi que différentes configurations et expériences en cours ou passées qui pourraient être utiles à une forme de « design des politiques publiques » avec une volonté d'inclusion (ce qui est conditionné par le sentiment d'appartenance à une communauté) et des possibles engangements dans des Communs. J'ai voulu dans ce billet blog amorcer un partage plus large et plus diffusable possible de ressources qui, de mon expérience, peuevent amener des élèments d'actions vers une conception de la contribution publique et citoyenne.
 
-Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvées, ni d'éditer un annuaire, mais de fournir les moyens par des expériences documenter de refaire par vous-même et/ou de rentrer en relation pour apprendre en faisant au contact de personnes ayant conçu et/ou réalisé ses expériences. Si des concepts ou des dénomination vous semblent éloignées de ce que esperez mettre en œuvre dans vos organisations soyez assurez que chaque commuanutés de pratqiues possède un langage spécifique mais que les modes, les configurations, les processus, peuvent être réutilisés, transposés ou adaptés, surtout lorsque ceux-ci sont documentés sous licence libre. 
+Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvées, ni d'éditer un annuaire, mais de fournir les moyens par des expériences documentées de refaire par vous-même et/ou de rentrer en relation pour apprendre en faisant au contact de personnes ayant conçu et/ou réalisé ses expériences. Si des concepts ou des dénomination vous semblent éloignées de ce que esperez mettre en œuvre dans vos organisations soyez assurez que chaque commuanutés de pratqiues possède un langage spécifique mais que les modes, les configurations, les processus, peuvent être réutilisés, transposés ou adaptés, surtout lorsque ceux-ci sont documentés sous licence libre. 
 
 Je me tiens à la disposition des personnes parcourant ces lignes pour de plus amples explications ainsi que pour des mises en liens ou des de tests in situ. 
 
@@ -31,7 +31,7 @@ Je me tiens à la disposition des personnes parcourant ces lignes pour de plus a
    + [Construire des communs et Gouvernance](#construire-des-communs-et-gouvernance)
    + [Forum Ouvert](#forum-ouvert)
    + [Faire Tiers-Lieux en Bretagne](#faire-tiers-lieux-en-bretagne)
-   + [Design moi 1 Tiers Lieux !](#design-moi-1-tiers-lieux)
+   + [Design moi 1 Tiers Lieux](#design-moi-1-tiers-lieux)!
    + [Cercle excentrique](#cercle-excentrique)
 + [Design Pattern de communautés](#design-pattern-de-communautes)
    + [Tiers-Lieux Hackerspace Design Patterns](#tiers-lieux-hackerspace-design-patterns)
@@ -81,7 +81,7 @@ Le Forum ouvert est conçu comme un processus permettant à des groupes de se r�
 
 **Contact** : Emmanuel Poisson Quinton, [Jaxom](http://movilab.org/index.php?title=Utilisateur:Jaxom), La fabrique du Loch à Auray, Xavier Coadic.
 
-### Design moi 1 Tiers Lieux !
+### Design moi 1 Tiers Lieux 
 
 + [Portail D1mTL](http://movilab.org/index.php?title=Portail:Dm1TL)
 
