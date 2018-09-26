@@ -15,25 +15,31 @@ description:
 
 Liste publiée suite à un entretien avec Damien Bongart, Vice Président Conseil Départemental 35, chargé du numérique et très haut-débit. Conseiller municipal Rennes,  Dominique Kergosien, déléguée aux projets de transformation numérique au département d'Ille-et-Vilaine, et... Cette liste étant destinée à évoluer et être éditée dans le temps, il est conseillé de s'abonner par [flux RSS](https://framanews.org/) pour un suivi optimisé.
 
-Cette entrevue était motivée par des échanges autour de la consultation nationale portant sur le numérique inclusif à laquelle j'ai contribué ( [[1]](https://xavcc.github.io/mission-inclusion-numerique-1), [[2]](https://xavcc.github.io/mission-numerique-2) ), nous ammenant à évoquer plusieurs enjeux de société ainsi que différentes configurations et expériences en cours ou passées qui pourraient être utile à une forme de « design des politiques publiques » avec une volonté d'inclusion (ce qui est conditionné par le sentiment d'appartenance à une communauté) et des possibles engangements dans des Communs. Je me teins à votre dispostion de de plus amples explications ainsi que pour des mises en liens ou des de tests in situ. 
+Cette entrevue était motivée par des échanges autour de la consultation nationale portant sur le numérique inclusif à laquelle j'ai contribué ( [[1]](https://xavcc.github.io/mission-inclusion-numerique-1), [[2]](https://xavcc.github.io/mission-numerique-2) ), nous ammenant à évoquer plusieurs enjeux de société ainsi que différentes configurations et expériences en cours ou passées qui pourraient être utile à une forme de « design des politiques publiques » avec une volonté d'inclusion (ce qui est conditionné par le sentiment d'appartenance à une communauté) et des possibles engangements dans des Communs. J'ai voulu dans ce billet blog amorcer un partage plus large et plus diffusable possible. 
+
+Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvées, ni d'éditer un annuaire, mais de fournir les moyens par des expériences documenter de refaire par vous-même et/ou de rentrer en relation pour apprendre en faisant au contact de personnes aynt conçu et/ou réalisé ses epxériences. 
+
+Je me tiens à la disposition des personnes parcourant ces lignes pour de plus amples explications ainsi que pour des mises en liens ou des de tests in situ. 
 
 > Les communs comme espace politique informent la notion d’intelligence comme un « savoir cohabiter »
 
 ### Table des contenus
 
 + [Configuration sociale pour la contribution et la concertation](#configuration-sociale-pour-la-contribution-et-la-concertation)
-   + [3DD un espace-temps Agora à Génève](#3dd-un-espace-temps-Agora-à-génève)
+   + [3DD un espace-temps Agora à Génève](#3dd-un-espace-temps-Agora-a-geneve)
    + [Forum Ouvert](#forum-ouvert)
    + [Faire Tiers-Lieux en Bretagne](#faire-tiers-lieux-en-bretagne)
+   + [Design moi 1 Tiers Lieux !](#design-moi-1-tiers-lieux-!)
    + [Cercle excentrique](#cercle-excentrique)
-+ [Design Pattern de communautés](#design-pattern-de-communautés)
++ [Design Pattern de communautés](#design-pattern-de-communautes)
    + [Tiers-Lieux : Hackerspace Design Patterns](#tiers-lieux-:-hackerspace-design-patterns)
    + [Exemple de Code de Conduite](#exemple-de-code-de-conduite)
    + [Rencontre régionale](#rencontre-régionale)
- + [Format de sprint de création ou amélioration](format-de-sprint-de-creation-ou-amélioration)
+ + [Format de sprint de création ou amélioration](format-de-sprint-de-creation-ou-amelioration)
    + [MediaLab](#medialab)
-   + [Hackatons](#hackatons)
- + [Bouger des lignes](#bouger-les-lignes)
+   + [Hackhatons](#hackatons)
+   + [Remix](#remix)
+ + [Bouger des lignes](#bouger-des-lignes)
    + [4 pratiques pour faciliter la collaboration dans un environnement institutionnel](4-pratiques-pour-faciliter-la-collaboration-dans-un-environnement-institutionnel)
    
 
@@ -58,13 +64,21 @@ Le Forum ouvert est conçu comme un processus permettant à des groupes de se r�
 
 + [Avec multibao, la boite à outil des organisation collaborative](http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/forum_ouvert.md)
 
-**Contact** : Thomas Wollf, Stéphane Langlois, Romain Lallande, Lilian Ricaud, Xavier Coadic
+**Contact** : [Thomas Wollf](http://lesvigies.fr/), Stéphane Langlois, [Romain Lalande](https://osons.cc/?PagePrincipale), [Lilian Ricaud](http://www.lilianricaud.com/), Xavier Coadic
 
 ### Faire Tiers-Lieux en Bretagne
 
 + [Le portail des exemples documentés et retour d'expérience](http://movilab.org/index.php?title=MoviLab_Bretagne)
 
 **Contact** : Emmanuel Poisson Quinton, [Jaxom](http://movilab.org/index.php?title=Utilisateur:Jaxom), La fabrique du Loch à Auray, Xavier Coadic.
+
+### Design moi 1 Tiers Lieux !
+
++ [Portail D1mTL](http://movilab.org/index.php?title=Portail:Dm1TL)
+
+La constitution d'un patrimoine informationnel et matériel commun servant de matière 1ère pour la production (locale) de nouveaux événements, expositions, services ou produits
+
+**Contact** : [Sylvia Fredriksson](http://www.sylviafredriksson.net), Yoann Duriaux
 
 ### Cercle excentrique
 
@@ -107,7 +121,7 @@ C’est un espace collectif et physique qui met en synergie plusieurs techniques
 
 **Contact** : Aurélien Marty, Déborah Thébault, Rieul Techer, Charlotte Rizzo, Nicolas Loubet, Xavier Coadic
 
-### Hackatons
+### Hackathons
 
 + [Nuits du code citoyens](http://movilab.org/index.php?title=Nuit_du_code_citoyen_Rennes_2018) et [Open Source Ciruclar Economy Days](https://lebiome.github.io/#LeBiome/Hackathons/tree/master/oscedays).
 
@@ -120,6 +134,15 @@ Le format "hackathon" implique de consacrer une partie de l'évènement à coder
 Comment et pourquoi organiser sans risques financiers un évènement décloisonnant les pratiques et les cultures, c'est l'objectif de cette ébauche de documentation. Afin que toutes personnes ayant besoin d'une recette de base puisse faire sienne cette expérience ainsi que les savoir-faire déployés et acquis. 
 
 **Contact** : [Jaxom](http://movilab.org/index.php?title=Utilisateur:Jaxom), Xavier Coadic
+
+### Remix
+
+Pour (re)faire autrement
+
++ [Biblio Remix](https://biblioremix.wordpress.com/le-projet/) 
+est un dispositif librement copiable, remixable et adaptable. Si vous avez envie d’en organiser un dans votre bibliothèque ou d'autres expaces, n’hésitez plus : voici la documentation détaillée de l’organisation de l’évènement.
+
+**Contact** : [Nicolas Vigneron](https://twitter.com/belett)
 
 ## Bouger des lignes
 
