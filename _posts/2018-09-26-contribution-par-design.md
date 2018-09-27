@@ -22,7 +22,7 @@ Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvé
 
 Je me tiens à la disposition des personnes parcourant ces lignes pour de plus amples explications ainsi que pour des mises en liens ou des de tests in situ. 
 
-> Les communs comme espace politique informent la notion d’intelligence comme un « savoir cohabiter »
+> «_Les communs comme espace politique informent la notion d’intelligence comme un « savoir cohabiter »_ »
 
 La table des contenus est présentée selon l’ordre suivant : 
 - Des exemples d'actions larges,d'envergures citoyennes et de longue durée, assurant une contribution permanente et pérenne ; 
