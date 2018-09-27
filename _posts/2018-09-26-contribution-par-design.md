@@ -2,7 +2,7 @@
 title: "Liste de configurations expérimentées et documentées sous licence libre pour une conception de la contribution publique et citoyenne"
 layout: post
 date: 2018-09-26 15:00
-image:
+image: /assets/images/participation.jpg
 headerImage: false
 tag:
 - Communs
@@ -14,24 +14,31 @@ author: XavierCoadic
 description: Servez-vous ! 
 ---
 
-Liste publiée suite à un entretien avec Damien Bongart, Vice Président Conseil Départemental 35, chargé du numérique et très haut-débit. Conseiller municipal Rennes,  Dominique Kergosien, déléguée aux projets de transformation numérique au département d'Ille-et-Vilaine, et... Cette liste étant destinée à évoluer et être éditée dans le temps, il est conseillé de s'abonner par [flux RSS](https://framanews.org/) pour un suivi optimisé.
+Liste publiée de ressources opérationnelles ( ou recette si vous préférez), contenant des retours d'expériences, suite à un entretien avec Damien Bongart, Vice Président Conseil Départemental 35, chargé du numérique et très haut-débit. Conseiller municipal Rennes,  Dominique Kergosien, déléguée aux projets de transformation numérique au département d'Ille-et-Vilaine, et Delphine Tanguy. Cette liste étant destinée à évoluer et être éditée dans le temps, il est conseillé de s'abonner par [flux RSS](https://framanews.org/) pour un suivi optimisé.
 
 Cette entrevue était motivée par des échanges autour de la consultation nationale portant sur le numérique inclusif à laquelle j'ai contribué ( [[1]](https://xavcc.github.io/mission-inclusion-numerique-1), [[2]](https://xavcc.github.io/mission-numerique-2) ), nous ammenant à évoquer plusieurs enjeux de société ainsi que différentes configurations et expériences en cours ou passées qui pourraient être utiles à une forme de « design des politiques publiques » avec une volonté d'inclusion (ce qui est conditionné par le sentiment d'appartenance à une communauté) et des possibles engangements dans des Communs. J'ai voulu dans ce billet blog amorcer un partage plus large et plus diffusable possible de ressources qui, de mon expérience, peuevent amener des élèments d'actions vers une conception de la contribution publique et citoyenne.
 
-Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvées, ni d'éditer un annuaire, mais de fournir les moyens par des expériences documentées de refaire par vous-même et/ou de rentrer en relation pour apprendre en faisant au contact de personnes ayant conçu et/ou réalisé ses expériences. Si des concepts ou des dénomination vous semblent éloignées de ce que esperez mettre en œuvre dans vos organisations soyez assurez que chaque commuanutés de pratqiues possède un langage spécifique mais que les modes, les configurations, les processus, peuvent être réutilisés, transposés ou adaptés, surtout lorsque ceux-ci sont documentés sous licence libre. 
+Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvées, ni d'éditer un annuaire, mais de fournir les moyens par des expériences documentées de refaire par vous-même et/ou de rentrer en relation pour apprendre en faisant au contact de personnes ayant conçu et/ou réalisé ses expériences. Si des concepts ou des dénomination vous semblent éloignées de ce que esperez mettre en œuvre dans vos organisations soyez assurez que chaque commuanutés de pratqiues possède un langage spécifique mais que les modes d'actions, les configurations, les processus, peuvent être réutilisés, transposés ou adaptés, surtout lorsque ceux-ci sont documentés sous licence libre. 
 
 Je me tiens à la disposition des personnes parcourant ces lignes pour de plus amples explications ainsi que pour des mises en liens ou des de tests in situ. 
 
 > Les communs comme espace politique informent la notion d’intelligence comme un « savoir cohabiter »
 
-L'ordre de présentation dans la table des contenus ci-dessous est orienté depuis des exemples d'actions larges et au temps lon permattant une permanence maintenue de la contribution, puis des exemples de conception en commuanuté de pratiques pour faciliter des actions ; ensuite vous avez une proposition de format cours d'actions collectives, qui peuvent aussi s'intégrer de façon répétées dans la configuration sociale premièrement proposée ou en complément d'autres configurations. Le quatrième point abordé concerne lui des exemple de réalisations facilitant la transformation d'organisation qui pouvaient auparavant se sentir éloignées ou non légétime dans les approches proposées dans les 3 premiers points des contenus.
+La table des contenus est présentée selon l’ordre suivant : 
+- Des exemples d'actions larges,d'envergures citoyennes et de longue durée, assurant une contribution permanente et pérenne ; 
+- Des exemples de mise en place de communautés de pratiques, permettant de faciliter des actions ; 
+- Des exemples d'actions collectives au format court, pouvant aussi s'intégrer de façon répétée dans la configuration sociale proposée en premier point, ou en complément d'autres configurations ; 
+- Des exemples de réalisations, ayant facilité la transformation d'organisations qui se sentaient non légitimes ou éloignées des approches proposées dans les 3 points précédents.
 
-C'est différentes ressources n'on aucunement la prétention d'être exhaustives, elles sont une humble partie par le fait et le travail de personnes consciencieuses dans un tout plus grand. 
+C'est différentes ressources n'ont aucunement la prétention d'être exhaustives, elles constituent une humble partie parmi un tout plus grand ; elles sont le fait et le travail de personnes consciencieuses. 
+
+> « _Or dans les collectifs de travail (que ce soit en entreprise ou en administration), on peut souvent constater que c’est la capacité à s’auto-organiser qui fait justement défaut, à cause du “carcan managérial” auquel les individus sont soumis. Ainsi se trouve vérifiée ce qui constitue une des grandes leçons que nous enseignent les Communs : ce qui compte d’abord n’est pas la ressource, mais bien la communauté et sa capacité à se gouverner elle-même._ » [Lionel Morel](https://scinfolex.com/2018/09/25/ce-que-lon-apprend-sur-les-communs-dans-les-frigos-collectifs) 25 septembre 2018
 
 ### Table des contenus (au 26 septembre 2018)
 
 + [Configuration sociale pour la contribution et la concertation](#configuration-sociale-pour-la-contribution-et-la-concertation)
    + [3DD un espace-temps Agora à Génève](#3dd-un-espace-temps-Agora-a-geneve)
+   + [Planification de transition de terrritoire par les communs](#planification-de-transition-de-territoire-par-les-communs)
    + [Construire des communs et Gouvernance](#construire-des-communs-et-gouvernance)
    + [Forum Ouvert](#forum-ouvert)
    + [Faire Tiers-Lieux en Bretagne](#faire-tiers-lieux-en-bretagne)
@@ -54,7 +61,7 @@ C'est différentes ressources n'on aucunement la prétention d'être exhaustives
 
 ## Configuration sociale pour la contribution et la concertation
 
-Pourquoi et comment mettre en œuvre des dispositifs favorables aux actions plus transversales entre différents corps et différentes organisations de la société, ceci par des expériences documentées sous licence libre.
+Pourquoi et comment mettre en œuvre des dispositifs favorables aux actions plus transversales entre différents corps de métiers et différentes organisations de la société, ceci par des expériences documentées sous licence libre.
 Pour concevoir une configuration de communautés aux visions partagées tout en conservant la diversité avec des responsabilités partagées.
 
 ### 3DD un espace-temps Agora à Génève
@@ -66,6 +73,30 @@ Ouvert en septembre 2017 - au rez-de-chaussée de l’immeuble du 3 rue David Du
 > « _Quelle Genève voulons-nous demain ? Quelle qualité de vie dans nos futurs quartiers ? Quelles places pour nous, citoyen.ne.s? Autant de question que ce laboratoire des possibles propose d'explorer. Le 3DD espace de concertation est un lieu dédié à la ville de demain et aux démarches participatives. Il est conçu comme le point de rencontre de différents publics et de différents regards, propice à l’émergence de nouvelles idées. En mettant à disposition cet espace, le Département du territoire rend possible la contribution de toutes celles et ceux qui souhaitent participer au développement qualitatif de notre territoire._»
 
 **Contact** : [Antoine Burret](http://movilab.org/index.php?title=Utilisateur:Antoine)
+
+### Planification de transition de terrritoire par les communs
+
+Une consultation pour transformer le terrain d'action ou le territoire d'une entité qui peut se dérouler sous la forme de :
+
++ Une cartographie conséqunete de projets communs par secteur d'activité (alimentation, logement, transport, etc.), à travers un wiki, exemple disponible sur <http://wiki.commons.gent>
++ Un nombre conséquent d'entretiens et conversations en tête-à-tête avec d'éminents roturiers et chefs de projet
++ Un questionnaire écrit auquel plus de 70 participants ont répondu
++ Une série d'ateliers au cours desquels les participants ont été invités par thème : "Nuémrique en commun" , " L'alimentation comme bien commun ", " L'énergie comme bien commun ", " Les transports comme bien commun ", etc.
++ Un atelier Commons Finance Canvas, basé sur la méthodologie développée par Stephen Hinton, qui s'est penché sur les opportunités économiques, les difficultés et les modèles utilisés par les projets Commons.
+
+Un rapport sous licence libre qui peut comprendr quatre parties.
+
+La **première partie** présente le contexte de l'émergence des biens communs urbains, qui a décuplé en le teritoire au cours des dix dernières années. Il se concentre sur le défi qu'il représente pour la ville et les pouvoirs publics, pour les acteurs du marché et pour les organisations traditionnelles de la société civile, et sur la manière dont la nouvelle logique contributive des biens communs remet en cause (mais aussi enrichit) la logique de représentation des politiques démocratiques européennes, dans ce cas particulier, au niveau d'une ville. Il examine également les opportunités inhérentes aux nouveaux modèles, telles qu'une participation plus active des habitants à la co-construction de leurs villes, à la résolution des défis écologiques et climatiques, et à la création de nouvelles formes de travail significatif au niveau local.
+
+La **deuxième partie** donne un aperçu de l'évolution des biens communs urbains dans le monde, mais surtout dans les villes européennes, et examine de plus près les expériences de Bologne (avec le Règlement de Bologne pour le soin et la régénération des biens communs urbains, maintenant adopté par de nombreuses autres villes italiennes), de Barcelone (les politiques pro-communes de la nouvelle coalition politique En Comu), Frome, Royaume-Uni (pour sa coalition civile qui remplace les partis politiques dans la gestion des villes) et Lille, pour son expérience avec une Assemblée des biens communs comme voix et expression des bien commun locaux.
+
+La **troisième partie** est l'analyse des biens communs urbains du territoire même, en soulignant certaines de ses forces et faiblesses.
+
+Enfin, dans **la quatrième partie**, sur la base de l'analyse produite des trois premières parties, présentation de recommandations au territoire, en termes d'adaptation institutionnelle du terrtoire  aux nouvelles demandes centrées sur les communs qui émergent à travers les activités communes. Il s'agit d'un ensemble de propositions pragmatiques intégrées pour la création de processus publics communs de co-création à l'échelle du territoire d'action. D'une certaine manière, elle représente le passage d'une vision urbaine commune à une vision plus ambitieuse de la " ville en tant que bien commun ".
+
+[Exemple de Gand en Belgique](https://commonstransition.org/commons-transition-plan-city-ghent)
+
+**Contact** : Maïa Dereva, Michel Bauwens
 
 ### Construire des communs et Gouvernance
 
@@ -83,11 +114,15 @@ Le Forum ouvert est conçu comme un processus permettant à des groupes de se r�
 
 ### Faire Tiers-Lieux en Bretagne
 
+Recettes, retour d'expriences, documentations, de processus de repolitisation par le service.
+
 + [Le portail des exemples documentés et retour d'expérience](http://movilab.org/index.php?title=MoviLab_Bretagne)
 
 **Contact** : Emmanuel Poisson Quinton, [Jaxom](http://movilab.org/index.php?title=Utilisateur:Jaxom), La fabrique du Loch à Auray, Xavier Coadic.
 
 ### Design moi 1 Tiers Lieux 
+
+Comment, avec l'aide du design, engager des communautés dans une configuration permettant la recherche action transversale.
 
 + [Portail D1mTL](http://movilab.org/index.php?title=Portail:Dm1TL)
 
@@ -97,13 +132,13 @@ La constitution d'un patrimoine informationnel et matériel commun servant de ma
 
 ### Cercle excentrique
 
-+ [Animer un atelier Cercle excentrique](http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/cercle_excentrique.md)
-
 La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer.
+
++ [Animer un atelier Cercle excentrique](http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/cercle_excentrique.md)
 
 ### Communs territoriaux
 
-+ [Concevoir, réaliser, animer et documenter un temps de médiation et de contribution](https://framastory.org/story/xavcc/les-communs-territoriaux-1/preview) au sujet des communs territoriaux, notamment sur le focus de tiers-lieux à tiers-scientifiques
++ [Concevoir, réaliser, animer et documenter un temps de médiation et de contribution](https://framastory.org/story/xavcc/les-communs-territoriaux-1/preview) au sujet des communs territoriaux, ici notamment sur le focus de tiers-lieux à tiers-scientifiques.
 
 **Contact**: Charlotte Rizzo, Rieul Techer, Xavier Caodic
 
@@ -118,6 +153,8 @@ Pourquoi et comment concevoir les conditions de vie et d'épanouissement de comm
 + Si Vous étiez simplement curieux, ou si vous étiez intéressé à parler de ce qui a bien fonctionné (et de ce qui n’a pas si bien fonctionné) dans votre espace, alors continuons à discuter et à distiller de nouveaux motifs pour ajouter au [Hackerspace Design Patterns](https://xavcc.github.io/tilios-design/)
 
 ### Exemple de Code de Conduite 
+
+Pourquoi et comment établir des rêgles de vivre et de faire ensemble.
 
 + [Traduction du texte “HOWTO design a code of conduct for your community”](https://xavcc.github.io/tilios/)
 
