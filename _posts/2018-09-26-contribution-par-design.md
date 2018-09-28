@@ -38,7 +38,7 @@ C'est différentes ressources n'ont aucunement la prétention d'être exhaustive
 
 + [Configuration sociale pour la contribution et la concertation](#configuration-sociale-pour-la-contribution-et-la-concertation)
    + [3DD un espace-temps Agora à Génève](#3dd-un-espace-temps-Agora-a-geneve)
-   + [Planification de transition de terrritoire par les communs](#planification-de-transition-de-territoire-par-les-communs)
+   + [Planification de transition de territoire par les communs](#planification-de-transition-de-territoire-par-les-communs)
    + [Construire des communs et Gouvernance](#construire-des-communs-et-gouvernance)
    + [Forum Ouvert](#forum-ouvert)
    + [Faire Tiers-Lieux en Bretagne](#faire-tiers-lieux-en-bretagne)
