@@ -14,18 +14,18 @@ author: XavierCoadic
 description: Servez-vous ! 
 ---
 
-Liste publiée de ressources opérationnelles ( ou recette si vous préférez), contenant des retours d'expériences, suite à un entretien avec Damien Bongart, Vice Président Conseil Départemental 35, chargé du numérique et très haut-débit. Conseiller municipal Rennes,  Dominique Kergosien, déléguée aux projets de transformation numérique au département d'Ille-et-Vilaine, et Delphine Tanguy. Cette liste étant destinée à évoluer et être éditée dans le temps, il est conseillé de s'abonner par [flux RSS](https://framanews.org/) pour un suivi optimisé.
+Liste publiée de ressources opérationnelles (ou recette si vous préférez), contenant des retours d'expériences, suite à un entretien avec Damien Bongart, Vice Président Conseil Départemental 35, chargé du numérique et très haut-débit, Conseiller municipal Rennes,  Dominique Kergosien, déléguée aux projets de transformation numérique au département d'Ille-et-Vilaine, et Delphine Tanguy, chargée de mission tourisme et numérique. Cette liste étant destinée à évoluer et être éditée dans le temps, il est conseillé de s'abonner par [flux RSS](https://framanews.org/) pour un suivi optimisé.
 
-Cette entrevue était motivée par des échanges autour de la consultation nationale portant sur le numérique inclusif à laquelle j'ai contribué ( [[1]](https://xavcc.github.io/mission-inclusion-numerique-1), [[2]](https://xavcc.github.io/mission-numerique-2) ), nous ammenant à évoquer plusieurs enjeux de société ainsi que différentes configurations et expériences en cours ou passées qui pourraient être utiles à une forme de « design des politiques publiques » avec une volonté d'inclusion (ce qui est conditionné par le sentiment d'appartenance à une communauté) et des possibles engangements dans des Communs. J'ai voulu dans ce billet blog amorcer un partage plus large et plus diffusable possible de ressources qui, de mon expérience, peuevent amener des élèments d'actions vers une conception de la contribution publique et citoyenne.
+Cette entrevue était motivée par des échanges autour de la consultation nationale portant sur le numérique inclusif à laquelle j'ai contribué ( [[1]](https://xavcc.github.io/mission-inclusion-numerique-1), [[2]](https://xavcc.github.io/mission-numerique-2) ), nous ammenant à évoquer plusieurs enjeux de société ainsi que différentes configurations et expériences en cours ou passées qui pourraient être utiles à une forme de « design des politiques publiques » avec une volonté d'inclusion (ce qui est conditionné par le sentiment d'appartenance à une communauté) et des possibles engagements dans des Communs. J'ai voulu dans ce billet blog amorcer un partage plus large et plus diffusable possible de ressources qui, de mon expérience, peuvent amener des élèments d'actions vers une conception de la contribution publique et citoyenne.
 
-Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvées, ni d'éditer un annuaire, mais de fournir les moyens par des expériences documentées de refaire par vous-même et/ou de rentrer en relation pour apprendre en faisant au contact de personnes ayant conçu et/ou réalisé ses expériences. Si des concepts ou des dénomination vous semblent éloignées de ce que esperez mettre en œuvre dans vos organisations soyez assurez que chaque commuanutés de pratqiues possède un langage spécifique mais que les modes d'actions, les configurations, les processus, peuvent être réutilisés, transposés ou adaptés, surtout lorsque ceux-ci sont documentés sous licence libre. 
+Il ne s'agit pas d'écrire une énième liste de fiches de lecture non éprouvées, ni d'éditer un annuaire, mais de fournir les moyens par des expériences documentées de refaire par vous-même et/ou de rentrer en relation pour apprendre en faisant au contact de personnes ayant conçu et/ou réalisé ses expériences. Si des concepts ou des dénominations vous semblent éloignés de ce que espérez mettre en œuvre dans vos organisations soyez assuré que chaque communauté de pratiques possède un langage spécifique mais que les modes d'actions, les configurations, les processus, peuvent être réutilisés, transposés ou adaptés, surtout lorsque ceux-ci sont documentés sous licence libre. 
 
 Je me tiens à la disposition des personnes parcourant ces lignes pour de plus amples explications ainsi que pour des mises en liens ou des de tests in situ. 
 
 > «_Les communs comme espace politique informent la notion d’intelligence comme un « savoir cohabiter »_ »
 
 La table des contenus est présentée selon l’ordre suivant : 
-- Des exemples d'actions larges,d'envergures citoyennes et de longue durée, assurant une contribution permanente et pérenne ; 
+- Des exemples d'actions larges, d'envergures citoyennes et de longue durée, assurant une contribution permanente et pérenne ; 
 - Des exemples de mise en place de communautés de pratiques, permettant de faciliter des actions ; 
 - Des exemples d'actions collectives au format court, pouvant aussi s'intégrer de façon répétée dans la configuration sociale proposée en premier point, ou en complément d'autres configurations ; 
 - Des exemples de réalisations, ayant facilité la transformation d'organisations qui se sentaient non légitimes ou éloignées des approches proposées dans les 3 points précédents.
@@ -84,15 +84,15 @@ Une consultation pour transformer le terrain d'action ou le territoire d'une ent
 + Une série d'ateliers au cours desquels les participants ont été invités par thème : "Nuémrique en commun" , " L'alimentation comme bien commun ", " L'énergie comme bien commun ", " Les transports comme bien commun ", etc.
 + Un atelier Commons Finance Canvas, basé sur la méthodologie développée par Stephen Hinton, qui s'est penché sur les opportunités économiques, les difficultés et les modèles utilisés par les projets Commons.
 
-Un rapport sous licence libre qui peut comprendr quatre parties.
+Un rapport sous licence libre qui peut comprendre quatre parties.
 
-La **première partie** présente le contexte de l'émergence des biens communs urbains, qui a décuplé en le teritoire au cours des dix dernières années. Il se concentre sur le défi qu'il représente pour la ville et les pouvoirs publics, pour les acteurs du marché et pour les organisations traditionnelles de la société civile, et sur la manière dont la nouvelle logique contributive des biens communs remet en cause (mais aussi enrichit) la logique de représentation des politiques démocratiques européennes, dans ce cas particulier, au niveau d'une ville. Il examine également les opportunités inhérentes aux nouveaux modèles, telles qu'une participation plus active des habitants à la co-construction de leurs villes, à la résolution des défis écologiques et climatiques, et à la création de nouvelles formes de travail significatif au niveau local.
+La **première partie** présente le contexte de l'émergence des biens communs urbains, qui a décuplé sur le territoire au cours des dix dernières années. Il se concentre sur le défi qu'il représente pour la ville et les pouvoirs publics, pour les acteurs du marché et pour les organisations traditionnelles de la société civile, et sur la manière dont la nouvelle logique contributive des biens communs remet en cause (mais aussi enrichit) la logique de représentation des politiques démocratiques européennes, dans ce cas particulier, au niveau d'une ville. Il examine également les opportunités inhérentes aux nouveaux modèles, telles qu'une participation plus active des habitants à la co-construction de leurs villes, à la résolution des défis écologiques et climatiques, et à la création de nouvelles formes de travail significatives au niveau local.
 
 La **deuxième partie** donne un aperçu de l'évolution des biens communs urbains dans le monde, mais surtout dans les villes européennes, et examine de plus près les expériences de Bologne (avec le Règlement de Bologne pour le soin et la régénération des biens communs urbains, maintenant adopté par de nombreuses autres villes italiennes), de Barcelone (les politiques pro-communes de la nouvelle coalition politique En Comu), Frome, Royaume-Uni (pour sa coalition civile qui remplace les partis politiques dans la gestion des villes) et Lille, pour son expérience avec une Assemblée des biens communs comme voix et expression des bien commun locaux.
 
 La **troisième partie** est l'analyse des biens communs urbains du territoire même, en soulignant certaines de ses forces et faiblesses.
 
-Enfin, dans **la quatrième partie**, sur la base de l'analyse produite des trois premières parties, présentation de recommandations au territoire, en termes d'adaptation institutionnelle du terrtoire  aux nouvelles demandes centrées sur les communs qui émergent à travers les activités communes. Il s'agit d'un ensemble de propositions pragmatiques intégrées pour la création de processus publics communs de co-création à l'échelle du territoire d'action. D'une certaine manière, elle représente le passage d'une vision urbaine commune à une vision plus ambitieuse de la " ville en tant que bien commun ".
+Enfin, dans **la quatrième partie**, sur la base de l'analyse produite des trois premières parties, présentation de recommandations au territoire, en termes d'adaptation institutionnelle du territoire  aux nouvelles demandes centrées sur les communs qui émergent à travers les activités communes. Il s'agit d'un ensemble de propositions pragmatiques intégrées pour la création de processus publics communs de co-création à l'échelle du territoire d'action. D'une certaine manière, elle représente le passage d'une vision urbaine commune à une vision plus ambitieuse de la " ville en tant que bien commun ".
 
 [Exemple de Gand en Belgique](https://commonstransition.org/commons-transition-plan-city-ghent)
 
@@ -132,7 +132,7 @@ La constitution d'un patrimoine informationnel et matériel commun servant de ma
 
 ### Cercle excentrique
 
-La démarche du cercle exentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer.
+La démarche du cercle excentrique, aussi appelé "Fish Bowl" (bocal à poisson) est une manière d'impliquer un plus grand groupe dans la discussion d'un plus petit groupe (5 – 8 personnes); son principe de base est qu'un participant doit écouter et attendre avant de s'exprimer.
 
 + [Animer un atelier Cercle excentrique](http://www.multibao.org/#cpcoop/animer_ateliers/blob/master/echanger/cercle_excentrique.md)
 
@@ -165,13 +165,13 @@ Démarche de préfiguration de l'événement portée par plusieurs individus, d�
 
 ## Format de sprint de création ou amélioration
 
-La conception et la mise en œuvre de temps courts visant au prototypage ou à la transformation, ainsi que l'agrégation et l'engament de personnes et communautés de pratiques, ne sont pas choses aisées. Ces problèmes constituent une opportunités de collaborer avec des individus expérimentés pour apprendre en faisant. 
+La conception et la mise en œuvre de temps courts visant au prototypage ou à la transformation, ainsi que l'agrégation et l'engagement de personnes et communautés de pratiques, ne sont pas choses aisées. Ces problèmes constituent une opportunité de collaborer avec des individus expérimentés pour apprendre en faisant. 
 
 Ces temps courts sont parfois recherchés par des collectivité ou organisations ou des personnes peu accoutumées à ces formats, voici quelques ressources par le vécu qui pourraient aider à s'approprier des moyens de répondre à des besoins exprimés.
 
 ### MediaLab
 
-C’est un espace collectif et physique qui met en synergie plusieurs techniques du numérique (Atelier réseaux sociaux, espace web ressources, SMS/Tweet-WALL, Open plateau radio et vidéo, Reportage en tourné-monté, design/animation, Conférence de rédaction citoyenne. Il peut être permanent ou éphémère. Il est animé par une équipe pluridisciplinaire.
+C’est un espace collectif et physique qui met en synergie plusieurs techniques du numérique (Atelier réseaux sociaux, espace web ressources, SMS/Tweet-WALL, Open plateau radio et vidéo, Reportage en tourné-monté, design/animation, Conférence de rédaction citoyenne). Il peut être permanent ou éphémère. Il est animé par une équipe pluridisciplinaire.
 
 + [Un MediaLab peut être](http://movilab.org/index.php?title=Medialab_NEC_2018) :
 
